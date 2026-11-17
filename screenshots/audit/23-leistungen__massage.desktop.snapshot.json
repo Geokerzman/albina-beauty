@@ -1,0 +1,220 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/leistungen/massage/",
+  "refs": {
+    "e2837": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e2838": {
+      "name": "Zustimmung verwalten",
+      "role": "button"
+    },
+    "e2839": {
+      "name": "BodyFX – Revolutionäre Körperkonturierung bei Albina Beauty Concept in Köln Weiden",
+      "role": "heading"
+    },
+    "e2840": {
+      "name": "Unsere Massagen im Überblick:",
+      "role": "heading"
+    },
+    "e2841": {
+      "name": "Warum Massagen bei Albina Beauty Concept?",
+      "role": "heading"
+    },
+    "e2842": {
+      "name": "PREISLISTE",
+      "role": "heading"
+    },
+    "e2843": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e2844": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e2845": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e2846": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e2847": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e2848": {
+      "name": "",
+      "role": "link"
+    },
+    "e2849": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e2850": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e2851": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e2852": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e2853": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e2854": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e2855": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e2856": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e2857": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e2858": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e2859": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e2860": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e2861": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e2862": {
+      "name": "Menü",
+      "role": "navigation"
+    },
+    "e2863": {
+      "name": "Entspannungsmassage 30min – 45€  60min – 65€",
+      "role": "heading"
+    },
+    "e2864": {
+      "name": "Körper-Korrektur-Massage 70€ ",
+      "role": "heading"
+    },
+    "e2865": {
+      "name": "Lymphdrainage 65€ ",
+      "role": "heading"
+    },
+    "e2866": {
+      "name": "Rücken-, Schulter- und Nacken-Massage 65€",
+      "role": "heading"
+    },
+    "e2867": {
+      "name": "Anti-Cellulite-Massage 70€ ",
+      "role": "heading"
+    },
+    "e2868": {
+      "name": "Gesichtsmassage 30min – 45€ ",
+      "role": "heading"
+    },
+    "e2869": {
+      "name": "",
+      "role": "link"
+    },
+    "e2870": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e2871": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e2872": {
+      "name": "02234 / 430 39 97",
+      "role": "link"
+    },
+    "e2873": {
+      "name": "0172 / 377 11 77",
+      "role": "link"
+    },
+    "e2874": {
+      "name": "info@albina-beauty-concept.de",
+      "role": "link"
+    },
+    "e2875": {
+      "name": "Frechener Weg 28 • 50859 Köln",
+      "role": "link"
+    },
+    "e2876": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e2877": {
+      "name": "",
+      "role": "link"
+    },
+    "e2878": {
+      "name": "",
+      "role": "link"
+    },
+    "e2879": {
+      "name": "",
+      "role": "link"
+    },
+    "e2880": {
+      "name": "Leistungen",
+      "role": "link"
+    },
+    "e2881": {
+      "name": "Preisliste",
+      "role": "link"
+    },
+    "e2882": {
+      "name": "Galerie",
+      "role": "link"
+    },
+    "e2883": {
+      "name": "Über Uns",
+      "role": "link"
+    },
+    "e2884": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e2885": {
+      "name": "Karriere",
+      "role": "link"
+    },
+    "e2886": {
+      "name": "Shop",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e2837, url=https://www.albina-beauty-concept.de/leistungen/massage/#content]\n- banner\n  - generic\n    - generic\n      - list\n        - listitem [level=1]\n          - link \"02234 / 430 39 97\" [ref=e2872, url=tel:022344303997]\n            - StaticText \"02234 / 430 39 97\"\n        - listitem [level=1]\n          - link \"0172 / 377 11 77\" [ref=e2873, url=tel:+491723771177]\n            - StaticText \"0172 / 377 11 77\"\n        - listitem [level=1]\n          - link \"info@albina-beauty-concept.de\" [ref=e2874, url=mailto:info@albina-beauty-concept.de]\n            - StaticText \"info@albina-beauty-concept.de\"\n        - listitem [level=1]\n          - link \"Frechener Weg 28 • 50859 Köln\" [ref=e2875, url=https://goo.gl/maps/ApuZwNBpUu2y252m7]\n            - StaticText \"Frechener Weg 28 • 50859 Köln\"\n      - search\n        - form\n          - button \"Suche\" [ref=e2871]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e2876]\n      - list\n        - listitem [level=1]\n          - link [ref=e2877, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e2878, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e2879, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e2869, url=https://www.albina-beauty-concept.de/]\n      - navigation \"Menü\" [ref=e2862]\n        - list\n          - listitem [level=1]\n            - link \"Leistungen\" [expanded=false, ref=e2880, url=https://www.albina-beauty-concept.de/leistungen/]\n              - StaticText \"Leistungen\"\n          - listitem [level=1]\n            - link \"Preisliste\" [ref=e2881, url=https://www.albina-beauty-concept.de/preisliste/]\n          - listitem [level=1]\n            - link \"Galerie\" [ref=e2882, url=https://www.albina-beauty-concept.de/galerie/]\n          - listitem [level=1]\n            - link \"Über Uns\" [ref=e2883, url=https://www.albina-beauty-concept.de/ueber-uns/]\n          - listitem [level=1]\n            - link \"Kontakt\" [ref=e2884, url=https://www.albina-beauty-concept.de/kontakt/]\n          - listitem [level=1]\n            - link \"Karriere\" [ref=e2885, url=https://www.albina-beauty-concept.de/elementor-1142/]\n          - listitem [level=1]\n            - link \"Shop\" [ref=e2886, url=http://shop.albina-beauty-concept.de/]\n      - link \"Termine\" [ref=e2870, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"BodyFX – Revolutionäre Körperkonturierung bei Albina Beauty Concept in Köln Weiden\" [level=2, ref=e2839]\n  - generic\n    - paragraph\n      - StaticText \"Tauchen Sie ein in eine Welt der Entspannung und gönnen Sie sich eine Auszeit vom Alltag. Bei Albina Beauty Concept erwartet Sie ein umfangreiches Angebot an professionellen Massagen, die nicht nur Ihre Muskulatur lockern, sondern auch Körper, Geist und Seele in Einklang bringen. Unsere Massagen werden individuell auf Ihre Bedürfnisse abgestimmt und bieten mehr als nur Erholung – sie fördern die Gesundheit Ihrer Haut und Ihres gesamten Körpers.\"\n  - generic\n    - heading \"Unsere Massagen im Überblick:\" [level=5, ref=e2840]\n    - paragraph\n      - strong\n        - StaticText \"Entspannungsmassage\"\n      - LineBreak \"\\n\"\n      - StaticText \"Lassen Sie Stress und Hektik hinter sich! Unsere Entspannungsmassage hilft Ihnen, Körper und Geist zu regenerieren. Durch sanfte, fließende Bewegungen werden Verspannungen gelöst und die Durchblutung gefördert. Perfekt, um neue Energie zu tanken und die innere Balance wiederherzustellen.\"\n    - paragraph\n      - strong\n        - StaticText \"Körper-Korrektur-Massage\"\n      - LineBreak \"\\n\"\n      - StaticText \"Diese Massage kombiniert gezielte Grifftechniken und intensive Behandlungen, um die Körperkontur zu straffen und die Hautelastizität zu fördern. Ideal für alle, die ihre Silhouette definieren und gleichzeitig entspannen möchten.\"\n    - paragraph\n      - strong\n        - StaticText \"Lymphdrainage\"\n      - LineBreak \"\\n\"\n      - StaticText \"Die Lymphdrainage ist eine sanfte und zugleich hochwirksame Methode, um den Lymphfluss anzuregen. Sie unterstützt den Körper bei der Entgiftung, reduziert Schwellungen und verbessert die Durchblutung. Besonders geeignet bei Wasseransammlungen oder zur Unterstützung nach ästhetischen Behandlungen.\"\n    - paragraph\n      - strong\n        - StaticText \"Rücken-, Schulter- und Nacken-Massage\"\n      - LineBreak \"\\n\"\n      - StaticText \"Verspannungen in Rücken, Schulter oder Nacken? Diese gezielte Massage hilft, Muskelverhärtungen zu lösen und Schmerzen zu lindern. Durch kraftvolle Bewegungen und präzisen Druck wird die Muskulatur gelockert – für mehr Beweglichkeit und Wohlbefinden.\"\n    - paragraph\n      - strong\n        - StaticText \"Anti-Cellulite-Massage\"\n      - LineBreak \"\\n\"\n      - StaticText \"Unsere Anti-Cellulite-Massage ist die perfekte Ergänzung für eine straffere und glattere Haut. Durch intensive, tiefenwirksame Bewegungen wird die Durchblutung angeregt und der Abbau von Fettdepots gefördert. Das Hautbild wird sichtbar verbessert, und die Konturen wirken definierter.\"\n    - paragraph\n      - strong\n        - StaticText \"Gesichtsmassage\"\n      - LineBreak \"\\n\"\n      - StaticText \"Für eine frische, jugendliche Ausstrahlung! Unsere Gesichtsmassage regt die Mikrozirkulation an, fördert die Produktion von Kollagen und hilft, feine Linien und Schwellungen zu reduzieren. Sie hinterlässt einen strahlenden Teint und ein entspanntes Gefühl.\"\n    - heading \"Warum Massagen bei Albina Beauty Concept?\" [level=5, ref=e2841]\n    - paragraph\n      - StaticText \"In unserem Beauty-Studio in Köln Weiden legen wir besonderen Wert auf Ihre Entspannung und Ihr Wohlbefinden. Unsere erfahrenen Therapeut:innen arbeiten mit modernsten Techniken und hochwertigen Produkten, um Ihnen ein unvergleichliches Massageerlebnis zu bieten.\"\n    - paragraph\n      - StaticText \"Genießen Sie die wohltuende Wirkung unserer Massagen und schenken Sie sich selbst die Aufmerksamkeit, die Sie verdienen. Buchen Sie jetzt Ihre persönliche Auszeit und erleben Sie, wie wir Ihre Verspannungen lösen und Ihnen ein völlig neues Körpergefühl schenken!\"\n  - generic\n    - heading \"PREISLISTE\" [level=4, ref=e2842]\n    - generic\n      - heading \"Entspannungsmassage 30min – 45€  60min – 65€\" [level=5, ref=e2863]\n        - strong\n          - StaticText \"Entspannungsmassage\"\n          - LineBreak \"\\n\"\n        - StaticText \"30min – 45€ \"\n        - LineBreak \"\\n\"\n        - StaticText \"60min – 65€\"\n      - heading \"Körper-Korrektur-Massage 70€ \" [level=5, ref=e2864]\n        - strong\n          - StaticText \"Körper-Korrektur-Massage\"\n          - LineBreak \"\\n\"\n        - StaticText \"70€\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n      - heading \"Lymphdrainage 65€ \" [level=5, ref=e2865]\n        - strong\n          - StaticText \"Lymphdrainage\"\n          - LineBreak \"\\n\"\n        - StaticText \"65€\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n    - generic\n      - heading \"Rücken-, Schulter- und Nacken-Massage 65€\" [level=5, ref=e2866]\n        - strong\n          - StaticText \"Rücken-, Schulter- und Nacken-Massage\"\n          - LineBreak \"\\n\"\n        - StaticText \"65€\"\n      - heading \"Anti-Cellulite-Massage 70€ \" [level=5, ref=e2867]\n        - strong\n          - StaticText \"Anti-Cellulite-Massage\"\n          - LineBreak \"\\n\"\n        - StaticText \"70€\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n      - heading \"Gesichtsmassage 30min – 45€ \" [level=5, ref=e2868]\n        - strong\n          - StaticText \"Gesichtsmassage\"\n          - LineBreak \"\\n\"\n          - StaticText \"30min – 4\"\n        - StaticText \"5€\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n    - paragraph\n      - StaticText \"Möchten Sie mehr Informationen oder einen Probetermin vereinbaren? Rufen Sie uns gerne an! Wenn Sie sich bereits entschieden haben, klicken Sie auf den Button und buchen Sie Ihren Wunschtermin.\"\n    - link \"Termine\" [ref=e2847, url=https://app.terminslot.de/employees?salonGuid=cc853bef-3396-41a3-8fcd-5058cf8e352f]\n      - StaticText \"Termine\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e2848, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e2843]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e2849, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e2850, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e2851, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e2852, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e2853, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e2854, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e2844]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e2855, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e2856, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e2857, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e2845]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e2858, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e2859, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e2860, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e2861, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e2846]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- button \"Zustimmung verwalten\" [ref=e2838]\n- StaticText \"desktop\""
+}

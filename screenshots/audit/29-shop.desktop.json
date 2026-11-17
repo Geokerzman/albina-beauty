@@ -1,0 +1,89 @@
+{
+  "buttons": [],
+  "dimensions": {
+    "height": 1000,
+    "scrollHeight": 1000,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  "forms": [],
+  "headings": [
+    {
+      "level": "H3",
+      "text": "What happened?",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "What can I do?",
+      "visible": true
+    }
+  ],
+  "iframes": [],
+  "images": [],
+  "lang": "en",
+  "links": [
+    {
+      "target": "",
+      "text": "Return to the previous page.",
+      "url": "javascript:history.back()",
+      "visible": true
+    }
+  ],
+  "performance": [
+    {
+      "domContentLoaded": 200.09999990463257,
+      "load": 200.5,
+      "responseStatus": 404,
+      "transferSize": 2082,
+      "ttfb": 194.09999990463257
+    }
+  ],
+  "resources": [],
+  "structuredData": [],
+  "styles": [
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(108, 108, 108)",
+      "font": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "lineHeight": "28px",
+      "size": "20px",
+      "tag": "P",
+      "text": "Something went wrong.",
+      "weight": "300"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(49, 55, 61)",
+      "font": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "lineHeight": "30px",
+      "size": "17px",
+      "tag": "H3",
+      "text": "What happened?",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(49, 55, 61)",
+      "font": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "lineHeight": "30px",
+      "size": "17px",
+      "tag": "H3",
+      "text": "What can I do?",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(71, 156, 207)",
+      "font": "\"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "lineHeight": "22px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Return to the previous page.",
+      "weight": "300"
+    }
+  ],
+  "text": "Something went wrong.\n\nWhat happened?\nThis store is unavailable\nWhat can I do?\nReturn to the previous page.\nRequest ID: 09552091-eaf8-466f-a281-3cca58884b32-1794951245",
+  "title": "This store is unavailable",
+  "url": "https://shop.albina-beauty-concept.de/"
+}

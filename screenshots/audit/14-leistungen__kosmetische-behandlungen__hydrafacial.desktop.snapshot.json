@@ -1,0 +1,228 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+  "refs": {
+    "e2342": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e2343": {
+      "name": "Zustimmung verwalten",
+      "role": "button"
+    },
+    "e2344": {
+      "name": "HydraFacial™",
+      "role": "heading"
+    },
+    "e2345": {
+      "name": "Abtragung, Ausreinigung, Peeling und Hydration in einem Treatment.",
+      "role": "heading"
+    },
+    "e2346": {
+      "name": "Schritt 1",
+      "role": "heading"
+    },
+    "e2347": {
+      "name": "Schritt 2",
+      "role": "heading"
+    },
+    "e2348": {
+      "name": "Schritt 3",
+      "role": "heading"
+    },
+    "e2349": {
+      "name": "Schritt 4",
+      "role": "heading"
+    },
+    "e2350": {
+      "name": "Jung, strahlend und gesund",
+      "role": "heading"
+    },
+    "e2351": {
+      "name": "Preisliste",
+      "role": "heading"
+    },
+    "e2352": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e2353": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e2354": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e2355": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e2356": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e2357": {
+      "name": "",
+      "role": "link"
+    },
+    "e2358": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e2359": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e2360": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e2361": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e2362": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e2363": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e2364": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e2365": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e2366": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e2367": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e2368": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e2369": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e2370": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e2371": {
+      "name": "Menü",
+      "role": "navigation"
+    },
+    "e2372": {
+      "name": "Hydrafacial Basic 169€",
+      "role": "heading"
+    },
+    "e2373": {
+      "name": "Hydrafacial Fire & Ice 199€",
+      "role": "heading"
+    },
+    "e2374": {
+      "name": "Hydrafacial + Forma 259€",
+      "role": "heading"
+    },
+    "e2375": {
+      "name": "Hydrafacial + Medizinische Microneedling 289€",
+      "role": "heading"
+    },
+    "e2376": {
+      "name": "",
+      "role": "link"
+    },
+    "e2377": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e2378": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e2379": {
+      "name": "02234 / 430 39 97",
+      "role": "link"
+    },
+    "e2380": {
+      "name": "0172 / 377 11 77",
+      "role": "link"
+    },
+    "e2381": {
+      "name": "info@albina-beauty-concept.de",
+      "role": "link"
+    },
+    "e2382": {
+      "name": "Frechener Weg 28 • 50859 Köln",
+      "role": "link"
+    },
+    "e2383": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e2384": {
+      "name": "",
+      "role": "link"
+    },
+    "e2385": {
+      "name": "",
+      "role": "link"
+    },
+    "e2386": {
+      "name": "",
+      "role": "link"
+    },
+    "e2387": {
+      "name": "Leistungen",
+      "role": "link"
+    },
+    "e2388": {
+      "name": "Preisliste",
+      "role": "link"
+    },
+    "e2389": {
+      "name": "Galerie",
+      "role": "link"
+    },
+    "e2390": {
+      "name": "Über Uns",
+      "role": "link"
+    },
+    "e2391": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e2392": {
+      "name": "Karriere",
+      "role": "link"
+    },
+    "e2393": {
+      "name": "Shop",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e2342, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/#content]\n- banner\n  - generic\n    - generic\n      - list\n        - listitem [level=1]\n          - link \"02234 / 430 39 97\" [ref=e2379, url=tel:022344303997]\n            - StaticText \"02234 / 430 39 97\"\n        - listitem [level=1]\n          - link \"0172 / 377 11 77\" [ref=e2380, url=tel:+491723771177]\n            - StaticText \"0172 / 377 11 77\"\n        - listitem [level=1]\n          - link \"info@albina-beauty-concept.de\" [ref=e2381, url=mailto:info@albina-beauty-concept.de]\n            - StaticText \"info@albina-beauty-concept.de\"\n        - listitem [level=1]\n          - link \"Frechener Weg 28 • 50859 Köln\" [ref=e2382, url=https://goo.gl/maps/ApuZwNBpUu2y252m7]\n            - StaticText \"Frechener Weg 28 • 50859 Köln\"\n      - search\n        - form\n          - button \"Suche\" [ref=e2378]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e2383]\n      - list\n        - listitem [level=1]\n          - link [ref=e2384, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e2385, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e2386, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e2376, url=https://www.albina-beauty-concept.de/]\n      - navigation \"Menü\" [ref=e2371]\n        - list\n          - listitem [level=1]\n            - link \"Leistungen\" [expanded=false, ref=e2387, url=https://www.albina-beauty-concept.de/leistungen/]\n              - StaticText \"Leistungen\"\n          - listitem [level=1]\n            - link \"Preisliste\" [ref=e2388, url=https://www.albina-beauty-concept.de/preisliste/]\n          - listitem [level=1]\n            - link \"Galerie\" [ref=e2389, url=https://www.albina-beauty-concept.de/galerie/]\n          - listitem [level=1]\n            - link \"Über Uns\" [ref=e2390, url=https://www.albina-beauty-concept.de/ueber-uns/]\n          - listitem [level=1]\n            - link \"Kontakt\" [ref=e2391, url=https://www.albina-beauty-concept.de/kontakt/]\n          - listitem [level=1]\n            - link \"Karriere\" [ref=e2392, url=https://www.albina-beauty-concept.de/elementor-1142/]\n          - listitem [level=1]\n            - link \"Shop\" [ref=e2393, url=http://shop.albina-beauty-concept.de/]\n      - link \"Termine\" [ref=e2377, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - generic\n    - heading \"HydraFacial™\" [level=1, ref=e2344]\n    - heading \"Abtragung, Ausreinigung, Peeling und Hydration in einem Treatment.\" [level=2, ref=e2345]\n  - paragraph\n    - StaticText \"HydraFacial™ ist eine Behandlung in mehreren, auf einander aufbauenden Schritten. Hautabtragung, Tiefenausreinigung und Dermalinfusion von Antioxidantien, Vitaminen und Hyaluron mit Kaltlicht und Lymphdrainage führen zu einem sichtbar jungen und gesunden Teint.\"\n    - LineBreak \"\\n\"\n    - StaticText \"Besonders beliebt ist das Treatment für seinen sofortigen „Glow“-Effekt, weshalb HydraFacial™ in Hollywood bereits zum Standardprogramm der Stars gehört. Das Treatment dauert je nach Ausführung nur 30-60 Minuten und ist daher bei Männern ebenso beliebt wie bei Frauen. Ob als Anwendung für ein unebenes oder unreines Hautbild oder als Anti-Aging-Treatment: Die Zielgruppe für HydraFacial™ ist groß!\"\n  - generic\n    - figure\n    - heading \"Schritt 1\" [level=3, ref=e2346]\n    - paragraph\n      - strong\n        - StaticText \"Hautabtragung\"\n      - LineBreak \"\\n\"\n      - StaticText \"Es werden abgestorbene Hautzellen entfernt und gesunde, frische Haut kommt zum Vorschein.\"\n    - figure\n    - heading \"Schritt 2\" [level=3, ref=e2347]\n    - paragraph\n      - strong\n        - StaticText \"GlySal™-Säurepeeling\"\n      - LineBreak \"\\n\"\n      - strong\n      - StaticText \"Dieses sanfte Peeling hilft Ablagerungen in den Poren aufzuweichen und bereitet die Tiefenausreinigung vor.\"\n    - figure\n    - heading \"Schritt 3\" [level=3, ref=e2348]\n    - paragraph\n      - strong\n        - StaticText \"Tiefenausreinigung\"\n      - LineBreak \"\\n\"\n      - StaticText \"Unreinheiten und gelöste Talgablagerungen werden durch ein Vakuum aus der Porenstruktur herausgezogen.\"\n    - figure\n    - heading \"Schritt 4\" [level=3, ref=e2349]\n    - paragraph\n      - strong\n        - StaticText \"Hydration\"\n      - LineBreak \"\\n\"\n      - StaticText \"Antioxidantien, Vitamine, Mineralien und Hyaluronsäure werden durch den Vortex-Fused-Tip in die Haut eingeschleust.\"\n  - generic\n    - generic\n      - heading \"Jung, strahlend und gesund\" [level=3, ref=e2350]\n      - paragraph\n        - StaticText \"So wirkt Ihre Haut nach der Behandlung mit der multifunktionalen Vortex-Technologie. Diese Methode kombiniert die Hautabtragung, Tiefenausreinigung und Dermalinfusion von Antioxidantien, Vitaminen und Hyaluron mit Kaltlicht und Lymphdrainage auf einer Plattform.\"\n      - paragraph\n        - StaticText \"So wirkt Ihre Haut nach der Behandlung mit der multifunktionalen Vortex- Technologie: Diese innovative Methode kombiniert die Hautabtragung, Tiefenausreinigung und Dermalinfusion von Antioxidantien, Vitaminen und Hyaluron mit modernster Technologie. Durch die gezielte Anwendung werden abgestorbene Hautzellen entfernt, die Poren tief gereinigt und hochwirksame Nährstoffe direkt in die Haut eingeschleust, was zu einer sofortigen Hautverjüngung führt.\"\n      - paragraph\n        - StaticText \"Die Kaltlicht-Therapie stimuliert die Kollagenproduktion und sorgt für ein strafferes Hautbild, während die Lymphdrainage Schwellungen reduziert und die Haut entlastet. HydraFacial™ ist die ideale Lösung für einen ebenmäßigen Teint, verfeinerte Poren und eine spürbar strahlendere, glattere Haut. Egal ob als Anti-Aging-Behandlung, bei unreiner Haut oder einfach zur intensiven Pflege – erleben Sie in unserem Kosmetikstudio in Köln Weiden eine der innovativsten Hautbehandlungen, die auch bei Stars wie Kim Kardashian zum Beauty-Standard gehört!\"\n  - generic\n    - heading \"Preisliste\" [level=2, ref=e2351]\n    - generic\n      - heading \"Hydrafacial Basic 169€\" [level=5, ref=e2372]\n        - strong\n          - StaticText \"Hydrafacial Basic\"\n          - LineBreak \"\\n\"\n        - StaticText \"169€\"\n      - heading \"Hydrafacial Fire & Ice 199€\" [level=5, ref=e2373]\n        - strong\n          - StaticText \"Hydrafacial Fire & Ice\"\n          - LineBreak \"\\n\"\n        - StaticText \"199€\"\n      - heading \"Hydrafacial + Forma 259€\" [level=5, ref=e2374]\n        - strong\n          - StaticText \"Hydrafacial + Forma\"\n          - LineBreak \"\\n\"\n        - StaticText \"259€\"\n    - heading \"Hydrafacial + Medizinische Microneedling 289€\" [level=5, ref=e2375]\n      - strong\n        - StaticText \"Hydrafacial + Medizinische Microneedling\"\n        - LineBreak \"\\n\"\n      - StaticText \"289€\"\n    - paragraph\n      - StaticText \"Möchten Sie mehr Informationen oder einen Probetermin vereinbaren? Rufen Sie uns gerne an! Wenn Sie sich bereits entschieden haben, klicken Sie auf den Button und buchen Sie Ihren Wunschtermin.\"\n    - link \"Termine\" [ref=e2356, url=https://app.terminslot.de/employees?salonGuid=cc853bef-3396-41a3-8fcd-5058cf8e352f]\n      - StaticText \"Termine\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e2357, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e2352]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e2358, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e2359, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e2360, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e2361, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e2362, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e2363, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e2353]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e2364, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e2365, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e2366, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e2354]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e2367, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e2368, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e2369, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e2370, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e2355]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- button \"Zustimmung verwalten\" [ref=e2343]\n- StaticText \"desktop\""
+}

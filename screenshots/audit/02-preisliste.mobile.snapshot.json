@@ -1,0 +1,504 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/preisliste/",
+  "refs": {
+    "e3178": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e3179": {
+      "name": "Laser-Haarentfernung",
+      "role": "heading"
+    },
+    "e3180": {
+      "name": "FORMA by InMode",
+      "role": "heading"
+    },
+    "e3181": {
+      "name": "Body Fx",
+      "role": "heading"
+    },
+    "e3182": {
+      "name": "HydraFacial",
+      "role": "heading"
+    },
+    "e3183": {
+      "name": "Medizinische Microneedling",
+      "role": "heading"
+    },
+    "e3184": {
+      "name": "NOON",
+      "role": "heading"
+    },
+    "e3185": {
+      "name": "Exosome",
+      "role": "heading"
+    },
+    "e3186": {
+      "name": "Maniküre",
+      "role": "heading"
+    },
+    "e3187": {
+      "name": "Pediküre",
+      "role": "heading"
+    },
+    "e3188": {
+      "name": "IS Clinical Kosmetikbehandlungen",
+      "role": "heading"
+    },
+    "e3189": {
+      "name": "Augenbrauen",
+      "role": "heading"
+    },
+    "e3190": {
+      "name": "Wimpern",
+      "role": "heading"
+    },
+    "e3191": {
+      "name": "Wimpernverlängerung",
+      "role": "heading"
+    },
+    "e3192": {
+      "name": "Wellness",
+      "role": "heading"
+    },
+    "e3193": {
+      "name": "Private Physiotherapie",
+      "role": "heading"
+    },
+    "e3194": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e3195": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e3196": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e3197": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e3198": {
+      "name": "",
+      "role": "link"
+    },
+    "e3199": {
+      "name": "Paket 1 €180 60 Min (Achseln, Intimbereich komplett)",
+      "role": "link"
+    },
+    "e3200": {
+      "name": "Paket 2 €300 60 Min (Achseln, Intimbereich komplett, Unterschenkel)",
+      "role": "link"
+    },
+    "e3201": {
+      "name": "Paket 3 €400 75 Min (Achseln, Intimbereich+Beine komplett)",
+      "role": "link"
+    },
+    "e3202": {
+      "name": "Paket 4 €350 60 Min (Achseln, Intimbereich komplett, Unterschenkel, Oberlippe)",
+      "role": "link"
+    },
+    "e3203": {
+      "name": "Paket 5 €420 60 Min (Nacken, Brust, oberer Rücken, Hals)",
+      "role": "link"
+    },
+    "e3204": {
+      "name": "Paket 6 €250 60 Min (Achseln, Unterschenkel, Oberlippe)",
+      "role": "link"
+    },
+    "e3205": {
+      "name": "1 Region €75 60 Min (Kinn / Wangen / Stirn / Hals / Kieferlinie / Nasolabialbereich / Augenpartie (unter den Augen)",
+      "role": "link"
+    },
+    "e3206": {
+      "name": "1 Region (Paket) €375 Sparabo 5 + 1 Gratis (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "role": "link"
+    },
+    "e3207": {
+      "name": "Full Face - Behandlung €200 90 Min (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)",
+      "role": "link"
+    },
+    "e3208": {
+      "name": "Full Face - Behandlung (Paket) €1000 Sparabo 5 + 1 Gratis (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)",
+      "role": "link"
+    },
+    "e3209": {
+      "name": "Gesicht + Hals & Dekolleté €300 120 min (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)",
+      "role": "link"
+    },
+    "e3210": {
+      "name": "Gesicht + Hals & Dekolleté (Paket) €300 Sparabo 5 + 1 Gratis (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)",
+      "role": "link"
+    },
+    "e3211": {
+      "name": "1 Zone €250 60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "role": "link"
+    },
+    "e3212": {
+      "name": "Paket 3 Behandlungen €700 60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "role": "link"
+    },
+    "e3213": {
+      "name": "Paket 6 Behandlungen €1350 60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "role": "link"
+    },
+    "e3214": {
+      "name": "HydraFacial™ Classic €189 Die medizinisch zugelassene HydraFacial-Behandlung vereint Tiefenreinigung, sanftes Säurepeeling, Porenausreinigung und intensive Hydration in einer Anwendung. Zum Abschluss verwöhnen wir Ihre Haut mit einer beruhigenden Feuchtigkeitsmaske für einen sofortigen Glow-Effekt und ein sichtbar frischeres (60 Min)",
+      "role": "link"
+    },
+    "e3215": {
+      "name": "HydraFacial™ Sylver €219 HydraFacial Classic in Kombination mit dem exklusiven Champagner Facial von iS Clinical. Die Behandlung vereint intensive Tiefenreinigung, Hydration und einen luxuriösen Pflegekomplex für einen besonders strahlenden, frischen Teint. Ideal für alle, die ihrer Haut einen sofort sichtbaren Glow und zusätzliche Pflege schenken möchten. Inklusive entspannender Abschlusspflege. (80 Min.)",
+      "role": "link"
+    },
+    "e3216": {
+      "name": "HydraFacial™ Fire & Ice €219 Die perfekte Kombination aus HydraFacial und dem legendären Fire & Ice Facial von iS Clinical. Während HydraFacial die Haut tiefenreinigt und intensiv mit Feuchtigkeit versorgt, fördert Fire & Ice die Hauterneuerung und verleiht einen sofort sichtbaren Glow-Effekt. Für ein verfeinertes Hautbild, mehr Strahlkraft und einen luxuriösen Frischekick. (80 Min.)",
+      "role": "link"
+    },
+    "e3217": {
+      "name": "HydraFacial + Microneedling €389",
+      "role": "link"
+    },
+    "e3218": {
+      "name": "HydraFacial + Nanoneedling €239 *Nanoneedling - kann als Zusatzoption zu jeder Leistung hinzugefügt werden",
+      "role": "link"
+    },
+    "e3219": {
+      "name": "Medizinische Microneedling €265 Gesicht (60min)",
+      "role": "link"
+    },
+    "e3220": {
+      "name": "Medizinische Microneedling €265 Hals und Dekollete (60min)",
+      "role": "link"
+    },
+    "e3221": {
+      "name": "Medizinische Microneedling €349 Gesicht + Hals + Dekolleté (90min)",
+      "role": "link"
+    },
+    "e3222": {
+      "name": "NOON Peeling + Microneedling €319 (75min)",
+      "role": "link"
+    },
+    "e3223": {
+      "name": "Medizinische Microneedling (3er Paket) €715",
+      "role": "link"
+    },
+    "e3224": {
+      "name": "Medizinische Microneedling (6er Paket) €1390",
+      "role": "link"
+    },
+    "e3225": {
+      "name": "NOON Express Glow €99 Für einen schnellen Glow-Effekt und sofort sichtbar frischere Haut. Ideal für einen strahlenden Teint vor besonderen Anlässen oder als kurze Pflege zwischendurch (45min)",
+      "role": "link"
+    },
+    "e3226": {
+      "name": "NOON Acne Treatment €169 Eine klärende Gesichtsbehandlung zur Beruhigung entzündlicher Haut, Regulierung der Talgproduktion und Unterstützung der Hautregeneration (60min)",
+      "role": "link"
+    },
+    "e3227": {
+      "name": "NOON Rosacea Treatment €159 Eine besonders sanfte Behandlung zur Stärkung der Hautbarriere, Reduktion von Rötungen und Beruhigung empfindlicher Rosazea-Haut (60min)",
+      "role": "link"
+    },
+    "e3228": {
+      "name": "NOON Even Tone (Pigmentierung) €169 Eine ausgleichende Gesichtsbehandlung zur Aufhellung von Pigmentflecken und Förderung eines ebenmäßigen, strahlenden Hautbildes (60min)",
+      "role": "link"
+    },
+    "e3229": {
+      "name": "NOON Sun Repair (Anti-Age) €189 Eine regenerierende Anti-Aging-Behandlung zur Reparatur lichtgeschädigter Haut, Stimulation der Kollagenproduktion und Verbesserung der Hautstruktur für ein glatteres, strafferes Hautbild. (60min)",
+      "role": "link"
+    },
+    "e3230": {
+      "name": "NOON Peeling + Microneedling €319 Eine intensive Kombination aus chemischen Peeling und Microneedling zur tiefen Hauterneuerung, Verbesserung der Hautstruktur, Reduktion von Falten, Pigmentierungen und Unreinheiten (75min)",
+      "role": "link"
+    },
+    "e3231": {
+      "name": "Medizinische Microneedling EXOSOME €399 60 min",
+      "role": "link"
+    },
+    "e3232": {
+      "name": "Medizinische Microneedling Kopfhaut EXOSOME €399 60 min",
+      "role": "link"
+    },
+    "e3233": {
+      "name": "Medizinische Microneedling Hals + Dekolleté EXOSOME  €399 60 min",
+      "role": "link"
+    },
+    "e3234": {
+      "name": "HYDRAFACIAL + MICRONEEDLING + EXOSOMES €499 90 min",
+      "role": "link"
+    },
+    "e3235": {
+      "name": "NOON + MICRONEEDLING + EXOSOMES €499 90 min",
+      "role": "link"
+    },
+    "e3236": {
+      "name": "Basic Maniküre €39 60 Min",
+      "role": "link"
+    },
+    "e3237": {
+      "name": "Maniküre Lackieren €49 75 Min",
+      "role": "link"
+    },
+    "e3238": {
+      "name": "Männer Maniküre €45 60 Min",
+      "role": "link"
+    },
+    "e3239": {
+      "name": "Gellack mit Maniküre €59 90 Min inkl. Entfernung unseres Materials",
+      "role": "link"
+    },
+    "e3240": {
+      "name": "French mit Maniküre €64 120 Min",
+      "role": "link"
+    },
+    "e3241": {
+      "name": "Gel Neumodellage €65 - €70 120 - 150 Min",
+      "role": "link"
+    },
+    "e3242": {
+      "name": "Gel Korrektur / Verstärkung €64 120 Min",
+      "role": "link"
+    },
+    "e3243": {
+      "name": "Entfernung von Fremdmaterial €10 - 20",
+      "role": "link"
+    },
+    "e3244": {
+      "name": "Basic Pediküre €44 60 Min",
+      "role": "link"
+    },
+    "e3245": {
+      "name": "Männer Pediküre €45 60 Min",
+      "role": "link"
+    },
+    "e3246": {
+      "name": "Pediküre Lackieren €49 75 Min",
+      "role": "link"
+    },
+    "e3247": {
+      "name": "Gellack mit Pediküre €59 90 Min inkl. Entfernung unseres Materials",
+      "role": "link"
+    },
+    "e3248": {
+      "name": "French mit Pediküre €64 120 Min",
+      "role": "link"
+    },
+    "e3249": {
+      "name": "Entfernung von Fremdmaterial €10 - 20",
+      "role": "link"
+    },
+    "e3250": {
+      "name": "Gesichtsreinigung (trockene Haut bis reife Haut) €119 Reinigung, Peeling, Enzympeeling, Ausreinigung(Ultraschall), Maske, Massage, Pflege",
+      "role": "link"
+    },
+    "e3251": {
+      "name": "iS Clinical - FOAMING ENZYME TREATMENT €129 Das Bekannte und auch sogenannte „Champagner Facial“ ist eine hochwirksame Anti-Aging und auch gleichzeitig beruhigende Behandlung. Die Behandlung erzeugt ein sensationelles, intensives und champagnerähnliches Kribbeln auf der Haut. Bei der Behandlung wird ein Aktivschaum eingesetzt der die Haut mit bioaktiven Inhaltsstoffen exfoliert. (45 Min)",
+      "role": "link"
+    },
+    "e3252": {
+      "name": "iS Clinical - FIRE & ICE FACIAL €129 Die bekannte Gesichtsbehandlung aus den USA. Diese Behandlung erneuert die Hautoberfläche, reduziert feine Linien und Falten und verfeinert die Poren. Bei der Behandlung werden zwei hochwirksame Masken verwendet. Die Fire-Maske erwärmt die Haut und fördert die Durchblutung, die Ice-Maske kühlt, beruhigt und hydratisiert intensiv. Das Ergebnis ist eine sichtbar glattere, straffe und festere Haut mit „Glow“-Effekt.",
+      "role": "link"
+    },
+    "e3253": {
+      "name": "Korrektur (Zupfen/Waxen) €20 30min",
+      "role": "link"
+    },
+    "e3254": {
+      "name": "Korrektur + Färben €35 60min",
+      "role": "link"
+    },
+    "e3255": {
+      "name": "Augenbrauen Lifting (Lifting+Färbung+Waxing) €60 60min",
+      "role": "link"
+    },
+    "e3256": {
+      "name": "Augenbrauen Lifting (ohne Farbe) €45 60min",
+      "role": "link"
+    },
+    "e3257": {
+      "name": "Färben 25€ 30min",
+      "role": "link"
+    },
+    "e3258": {
+      "name": "Färben €20 20 Min",
+      "role": "link"
+    },
+    "e3259": {
+      "name": "Wimpern Lifting ohne Farbe €45 60 Min",
+      "role": "link"
+    },
+    "e3260": {
+      "name": "Wimpern Lifting €60 75 Min",
+      "role": "link"
+    },
+    "e3261": {
+      "name": "Classic 1:1 €89 Auffüllen ( bis zu 3 Wochen ) €50",
+      "role": "link"
+    },
+    "e3262": {
+      "name": "Volumen 2D-3D €119 Auffüllen ( bis zu 3 Wochen ) €60",
+      "role": "link"
+    },
+    "e3263": {
+      "name": "Mega Volumen 4D-5D €139 Auffüllen ( bis zu 3 Wochen ) €70",
+      "role": "link"
+    },
+    "e3264": {
+      "name": "Entspannungsmassage €50 30 Min",
+      "role": "link"
+    },
+    "e3265": {
+      "name": "Entspannungsmassage €89 50 Min",
+      "role": "link"
+    },
+    "e3266": {
+      "name": "Rücken, Schulter-Naken-Massage €89 50 Min",
+      "role": "link"
+    },
+    "e3267": {
+      "name": "Lymphodrainage €94 55 Min",
+      "role": "link"
+    },
+    "e3268": {
+      "name": "Entspannungsmassage €119 80 Min",
+      "role": "link"
+    },
+    "e3269": {
+      "name": "KG (30 Min) €36,5",
+      "role": "link"
+    },
+    "e3270": {
+      "name": "MT (30 Min) €40",
+      "role": "link"
+    },
+    "e3271": {
+      "name": "CMD (30 Min) €40",
+      "role": "link"
+    },
+    "e3272": {
+      "name": "MLD (30 Min) €40",
+      "role": "link"
+    },
+    "e3273": {
+      "name": "MLD (45 Min) €55",
+      "role": "link"
+    },
+    "e3274": {
+      "name": "MLD (60 Min) €65",
+      "role": "link"
+    },
+    "e3275": {
+      "name": "Triggerpunktbehandlung (ca. 45 Min) €60",
+      "role": "link"
+    },
+    "e3276": {
+      "name": "Kinesio Tapeanlegen €15",
+      "role": "link"
+    },
+    "e3277": {
+      "name": "Hausbesuch €20",
+      "role": "link"
+    },
+    "e3278": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e3279": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3280": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e3281": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e3282": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e3283": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e3284": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e3285": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3286": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e3287": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e3288": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e3289": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e3290": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e3291": {
+      "name": "Menü Umschalter",
+      "role": "button"
+    },
+    "e3292": {
+      "name": "",
+      "role": "link"
+    },
+    "e3293": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e3294": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e3295": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e3296": {
+      "name": "",
+      "role": "link"
+    },
+    "e3297": {
+      "name": "",
+      "role": "link"
+    },
+    "e3298": {
+      "name": "",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e3178, url=https://www.albina-beauty-concept.de/preisliste/#content]\n- banner\n  - generic\n    - generic\n      - search\n        - form\n          - button \"Suche\" [ref=e3294]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e3295]\n      - list\n        - listitem [level=1]\n          - link [ref=e3296, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e3297, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e3298, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e3292, url=https://www.albina-beauty-concept.de/]\n      - button \"Menü Umschalter\" [expanded=false, ref=e3291]\n      - link \"Termine\" [ref=e3293, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"Laser-Haarentfernung\" [level=2, ref=e3179]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"Paket 1 €180 60 Min (Achseln, Intimbereich komplett)\" [ref=e3199, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Paket 1\"\n          - StaticText \"€180\"\n          - paragraph\n            - StaticText \"60 Min (Achseln, Intimbereich komplett)\"\n      - listitem [level=1]\n        - link \"Paket 2 €300 60 Min (Achseln, Intimbereich komplett, Unterschenkel)\" [ref=e3200, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Paket 2\"\n          - StaticText \"€300\"\n          - paragraph\n            - StaticText \"60 Min (Achseln, Intimbereich komplett, Unterschenkel)\"\n      - listitem [level=1]\n        - link \"Paket 3 €400 75 Min (Achseln, Intimbereich+Beine komplett)\" [ref=e3201, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Paket 3\"\n          - StaticText \"€400\"\n          - paragraph\n            - StaticText \"75 Min (Achseln, Intimbereich+Beine komplett)\"\n      - listitem [level=1]\n        - link \"Paket 4 €350 60 Min (Achseln, Intimbereich komplett, Unterschenkel, Oberlippe)\" [ref=e3202, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Paket 4\"\n          - StaticText \"€350\"\n          - paragraph\n            - StaticText \"60 Min (Achseln, Intimbereich komplett, Unterschenkel, Oberlippe)\"\n      - listitem [level=1]\n        - link \"Paket 5 €420 60 Min (Nacken, Brust, oberer Rücken, Hals)\" [ref=e3203, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Paket 5\"\n          - StaticText \"€420\"\n          - paragraph\n            - StaticText \"60 Min (Nacken, Brust, oberer Rücken, Hals)\"\n      - listitem [level=1]\n        - link \"Paket 6 €250 60 Min (Achseln, Unterschenkel, Oberlippe)\" [ref=e3204, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Paket 6\"\n          - StaticText \"€250\"\n          - paragraph\n            - StaticText \"60 Min (Achseln, Unterschenkel, Oberlippe)\"\n  - heading \"FORMA by InMode\" [level=2, ref=e3180]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"1 Region €75 60 Min (Kinn / Wangen / Stirn / Hals / Kieferlinie / Nasolabialbereich / Augenpartie (unter den Augen)\" [ref=e3205, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"1 Region\"\n          - StaticText \"€75\"\n          - paragraph\n            - StaticText \"60 Min (Kinn / Wangen / Stirn / Hals / Kieferlinie / Nasolabialbereich / Augenpartie (unter den Augen)\"\n      - listitem [level=1]\n        - link \"1 Region (Paket) €375 Sparabo 5 + 1 Gratis (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\" [ref=e3206, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"1 Region (Paket)\"\n          - StaticText \"€375\"\n          - paragraph\n            - StaticText \"Sparabo 5 + 1 Gratis (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\"\n      - listitem [level=1]\n        - link \"Full Face - Behandlung €200 90 Min (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)\" [ref=e3207, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Full Face - Behandlung\"\n          - StaticText \"€200\"\n          - paragraph\n            - StaticText \"90 Min (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)\"\n      - listitem [level=1]\n        - link \"Full Face - Behandlung (Paket) €1000 Sparabo 5 + 1 Gratis (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)\" [ref=e3208, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Full Face - Behandlung (Paket)\"\n          - StaticText \"€1000\"\n          - paragraph\n            - StaticText \"Sparabo 5 + 1 Gratis (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)\"\n      - listitem [level=1]\n        - link \"Gesicht + Hals & Dekolleté €300 120 min (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)\" [ref=e3209, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Gesicht + Hals & Dekolleté\"\n          - StaticText \"€300\"\n          - paragraph\n            - StaticText \"120 min (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)\"\n      - listitem [level=1]\n        - link \"Gesicht + Hals & Dekolleté (Paket) €300 Sparabo 5 + 1 Gratis (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)\" [ref=e3210, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Gesicht + Hals & Dekolleté (Paket)\"\n          - StaticText \"€300\"\n          - paragraph\n            - StaticText \"Sparabo 5 + 1 Gratis (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)\"\n  - heading \"Body Fx\" [level=2, ref=e3181]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"1 Zone €250 60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\" [ref=e3211, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"1 Zone\"\n          - StaticText \"€250\"\n          - paragraph\n            - StaticText \"60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\"\n      - listitem [level=1]\n        - link \"Paket 3 Behandlungen €700 60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\" [ref=e3212, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Paket 3 Behandlungen\"\n          - StaticText \"€700\"\n          - paragraph\n            - StaticText \"60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\"\n      - listitem [level=1]\n        - link \"Paket 6 Behandlungen €1350 60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\" [ref=e3213, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Paket 6 Behandlungen\"\n          - StaticText \"€1350\"\n          - paragraph\n            - StaticText \"60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\"\n  - heading \"HydraFacial\" [level=2, ref=e3182]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"HydraFacial™ Classic €189 Die medizinisch zugelassene HydraFacial-Behandlung vereint Tiefenreinigung, sanftes Säurepeeling, Porenausreinigung und intensive Hydration in einer Anwendung. Zum Abschluss verwöhnen wir Ihre Haut mit einer beruhigenden Feuchtigkeitsmaske für einen sofortigen Glow-Effekt und ein sichtbar frischeres (60 Min)\" [ref=e3214, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"HydraFacial™ Classic\"\n          - StaticText \"€189\"\n          - paragraph\n            - StaticText \"Die medizinisch zugelassene HydraFacial-Behandlung vereint Tiefenreinigung, sanftes Säurepeeling, Porenausreinigung und intensive Hydration in einer Anwendung. Zum Abschluss verwöhnen wir Ihre Haut mit einer beruhigenden Feuchtigkeitsmaske für einen sofortigen Glow-Effekt und ein sichtbar frischeres (60 Min)\"\n      - listitem [level=1]\n        - link \"HydraFacial™ Sylver €219 HydraFacial Classic in Kombination mit dem exklusiven Champagner Facial von iS Clinical. Die Behandlung vereint intensive Tiefenreinigung, Hydration und einen luxuriösen Pflegekomplex für einen besonders strahlenden, frischen Teint. Ideal für alle, die ihrer Haut einen sofort sichtbaren Glow und zusätzliche Pflege schenken möchten. Inklusive entspannender Abschlusspflege. (80 Min.)\" [ref=e3215, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"HydraFacial™ Sylver\"\n          - StaticText \"€219\"\n          - paragraph\n            - StaticText \"HydraFacial Classic in Kombination mit dem exklusiven Champagner Facial von iS Clinical. Die Behandlung vereint intensive Tiefenreinigung, Hydration und einen luxuriösen Pflegekomplex für einen besonders strahlenden, frischen Teint. Ideal für alle, die ihrer Haut einen sofort sichtbaren Glow und zusätzliche Pflege schenken möchten. Inklusive entspannender Abschlusspflege. (80 Min.)\"\n      - listitem [level=1]\n        - link \"HydraFacial™ Fire & Ice €219 Die perfekte Kombination aus HydraFacial und dem legendären Fire & Ice Facial von iS Clinical. Während HydraFacial die Haut tiefenreinigt und intensiv mit Feuchtigkeit versorgt, fördert Fire & Ice die Hauterneuerung und verleiht einen sofort sichtbaren Glow-Effekt. Für ein verfeinertes Hautbild, mehr Strahlkraft und einen luxuriösen Frischekick. (80 Min.)\" [ref=e3216, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"HydraFacial™ Fire & Ice\"\n          - StaticText \"€219\"\n          - paragraph\n            - StaticText \"Die perfekte Kombination aus HydraFacial und dem legendären Fire & Ice Facial von iS Clinical. Während HydraFacial die Haut tiefenreinigt und intensiv mit Feuchtigkeit versorgt, fördert Fire & Ice die Hauterneuerung und verleiht einen sofort sichtbaren Glow-Effekt. Für ein verfeinertes Hautbild, mehr Strahlkraft und einen luxuriösen Frischekick. (80 Min.)\"\n      - listitem [level=1]\n        - link \"HydraFacial + Microneedling €389\" [ref=e3217, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"HydraFacial + Microneedling\"\n          - StaticText \"€389\"\n      - listitem [level=1]\n        - link \"HydraFacial + Nanoneedling €239 *Nanoneedling - kann als Zusatzoption zu jeder Leistung hinzugefügt werden\" [ref=e3218, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"HydraFacial + Nanoneedling\"\n          - StaticText \"€239\"\n          - paragraph\n            - StaticText \"*Nanoneedling - kann als Zusatzoption zu jeder Leistung hinzugefügt werden\"\n  - heading \"Medizinische Microneedling\" [level=2, ref=e3183]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"Medizinische Microneedling €265 Gesicht (60min)\" [ref=e3219, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Medizinische Microneedling\"\n          - StaticText \"€265\"\n          - paragraph\n            - StaticText \"Gesicht (60min)\"\n      - listitem [level=1]\n        - link \"Medizinische Microneedling €265 Hals und Dekollete (60min)\" [ref=e3220, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Medizinische Microneedling\"\n          - StaticText \"€265\"\n          - paragraph\n            - StaticText \"Hals und Dekollete (60min)\"\n      - listitem [level=1]\n        - link \"Medizinische Microneedling €349 Gesicht + Hals + Dekolleté (90min)\" [ref=e3221, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Medizinische Microneedling\"\n          - StaticText \"€349\"\n          - paragraph\n            - StaticText \"Gesicht + Hals + Dekolleté (90min)\"\n      - listitem [level=1]\n        - link \"NOON Peeling + Microneedling €319 (75min)\" [ref=e3222, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"NOON Peeling + Microneedling\"\n          - StaticText \"€319\"\n          - paragraph\n            - StaticText \"(75min)\"\n      - listitem [level=1]\n        - link \"Medizinische Microneedling (3er Paket) €715\" [ref=e3223, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Medizinische Microneedling (3er Paket)\"\n          - StaticText \"€715\"\n      - listitem [level=1]\n        - link \"Medizinische Microneedling (6er Paket) €1390\" [ref=e3224, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Medizinische Microneedling (6er Paket)\"\n          - StaticText \"€1390\"\n  - heading \"NOON\" [level=2, ref=e3184]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"NOON Express Glow €99 Für einen schnellen Glow-Effekt und sofort sichtbar frischere Haut. Ideal für einen strahlenden Teint vor besonderen Anlässen oder als kurze Pflege zwischendurch (45min)\" [ref=e3225, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"NOON Express Glow\"\n          - StaticText \"€99\"\n          - paragraph\n            - StaticText \"Für einen schnellen Glow-Effekt und sofort sichtbar frischere Haut. Ideal für einen strahlenden Teint vor besonderen Anlässen oder als kurze Pflege zwischendurch (45min)\"\n      - listitem [level=1]\n        - link \"NOON Acne Treatment €169 Eine klärende Gesichtsbehandlung zur Beruhigung entzündlicher Haut, Regulierung der Talgproduktion und Unterstützung der Hautregeneration (60min)\" [ref=e3226, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"NOON Acne Treatment\"\n          - StaticText \"€169\"\n          - paragraph\n            - StaticText \"Eine klärende Gesichtsbehandlung zur Beruhigung entzündlicher Haut, Regulierung der Talgproduktion und Unterstützung der Hautregeneration (60min)\"\n      - listitem [level=1]\n        - link \"NOON Rosacea Treatment €159 Eine besonders sanfte Behandlung zur Stärkung der Hautbarriere, Reduktion von Rötungen und Beruhigung empfindlicher Rosazea-Haut (60min)\" [ref=e3227, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"NOON Rosacea Treatment\"\n          - StaticText \"€159\"\n          - paragraph\n            - StaticText \"Eine besonders sanfte Behandlung zur Stärkung der Hautbarriere, Reduktion von Rötungen und Beruhigung empfindlicher Rosazea-Haut (60min)\"\n      - listitem [level=1]\n        - link \"NOON Even Tone (Pigmentierung) €169 Eine ausgleichende Gesichtsbehandlung zur Aufhellung von Pigmentflecken und Förderung eines ebenmäßigen, strahlenden Hautbildes (60min)\" [ref=e3228, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"NOON Even Tone (Pigmentierung)\"\n          - StaticText \"€169\"\n          - paragraph\n            - StaticText \"Eine ausgleichende Gesichtsbehandlung zur Aufhellung von Pigmentflecken und Förderung eines ebenmäßigen, strahlenden Hautbildes (60min)\"\n      - listitem [level=1]\n        - link \"NOON Sun Repair (Anti-Age) €189 Eine regenerierende Anti-Aging-Behandlung zur Reparatur lichtgeschädigter Haut, Stimulation der Kollagenproduktion und Verbesserung der Hautstruktur für ein glatteres, strafferes Hautbild. (60min)\" [ref=e3229, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"NOON Sun Repair (Anti-Age)\"\n          - StaticText \"€189\"\n          - paragraph\n            - StaticText \"Eine regenerierende Anti-Aging-Behandlung zur Reparatur lichtgeschädigter Haut, Stimulation der Kollagenproduktion und Verbesserung der Hautstruktur für ein glatteres, strafferes Hautbild. (60min)\"\n      - listitem [level=1]\n        - link \"NOON Peeling + Microneedling €319 Eine intensive Kombination aus chemischen Peeling und Microneedling zur tiefen Hauterneuerung, Verbesserung der Hautstruktur, Reduktion von Falten, Pigmentierungen und Unreinheiten (75min)\" [ref=e3230, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"NOON Peeling + Microneedling\"\n          - StaticText \"€319\"\n          - paragraph\n            - StaticText \"Eine intensive Kombination aus chemischen Peeling und Microneedling zur tiefen Hauterneuerung, Verbesserung der Hautstruktur, Reduktion von Falten, Pigmentierungen und Unreinheiten (75min)\"\n  - heading \"Exosome\" [level=2, ref=e3185]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"Medizinische Microneedling EXOSOME €399 60 min\" [ref=e3231, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Medizinische Microneedling EXOSOME\"\n          - StaticText \"€399\"\n          - paragraph\n            - StaticText \"60 min\"\n      - listitem [level=1]\n        - link \"Medizinische Microneedling Kopfhaut EXOSOME €399 60 min\" [ref=e3232, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Medizinische Microneedling Kopfhaut EXOSOME\"\n          - StaticText \"€399\"\n          - paragraph\n            - StaticText \"60 min\"\n      - listitem [level=1]\n        - link \"Medizinische Microneedling Hals + Dekolleté EXOSOME  €399 60 min\" [ref=e3233, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Medizinische Microneedling Hals + Dekolleté EXOSOME \"\n          - StaticText \"€399\"\n          - paragraph\n            - StaticText \"60 min\"\n      - listitem [level=1]\n        - link \"HYDRAFACIAL + MICRONEEDLING + EXOSOMES €499 90 min\" [ref=e3234, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"HYDRAFACIAL + MICRONEEDLING + EXOSOMES\"\n          - StaticText \"€499\"\n          - paragraph\n            - StaticText \"90 min\"\n      - listitem [level=1]\n        - link \"NOON + MICRONEEDLING + EXOSOMES €499 90 min\" [ref=e3235, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"NOON + MICRONEEDLING + EXOSOMES\"\n          - StaticText \"€499\"\n          - paragraph\n            - StaticText \"90 min\"\n  - heading \"Maniküre\" [level=2, ref=e3186]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"Basic Maniküre €39 60 Min\" [ref=e3236, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Basic Maniküre\"\n          - StaticText \"€39\"\n          - paragraph\n            - StaticText \"60 Min\"\n      - listitem [level=1]\n        - link \"Maniküre Lackieren €49 75 Min\" [ref=e3237, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Maniküre Lackieren\"\n          - StaticText \"€49\"\n          - paragraph\n            - StaticText \"75 Min\"\n      - listitem [level=1]\n        - link \"Männer Maniküre €45 60 Min\" [ref=e3238, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Männer Maniküre\"\n          - StaticText \"€45\"\n          - paragraph\n            - StaticText \"60 Min\"\n      - listitem [level=1]\n        - link \"Gellack mit Maniküre €59 90 Min inkl. Entfernung unseres Materials\" [ref=e3239, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Gellack mit Maniküre\"\n          - StaticText \"€59\"\n          - paragraph\n            - StaticText \"90 Min inkl. Entfernung unseres Materials\"\n      - listitem [level=1]\n        - link \"French mit Maniküre €64 120 Min\" [ref=e3240, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"French mit Maniküre\"\n          - StaticText \"€64\"\n          - paragraph\n            - StaticText \"120 Min\"\n      - listitem [level=1]\n        - link \"Gel Neumodellage €65 - €70 120 - 150 Min\" [ref=e3241, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Gel Neumodellage\"\n          - StaticText \"€65 - €70\"\n          - paragraph\n            - StaticText \"120 - 150 Min\"\n      - listitem [level=1]\n        - link \"Gel Korrektur / Verstärkung €64 120 Min\" [ref=e3242, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Gel Korrektur / Verstärkung\"\n          - StaticText \"€64\"\n          - paragraph\n            - StaticText \"120 Min\"\n      - listitem [level=1]\n        - link \"Entfernung von Fremdmaterial €10 - 20\" [ref=e3243, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Entfernung von Fremdmaterial\"\n          - StaticText \"€10 - 20\"\n  - heading \"Pediküre\" [level=2, ref=e3187]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"Basic Pediküre €44 60 Min\" [ref=e3244, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Basic Pediküre\"\n          - StaticText \"€44\"\n          - paragraph\n            - StaticText \"60 Min\"\n      - listitem [level=1]\n        - link \"Männer Pediküre €45 60 Min\" [ref=e3245, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Männer Pediküre\"\n          - StaticText \"€45\"\n          - paragraph\n            - StaticText \"60 Min\"\n      - listitem [level=1]\n        - link \"Pediküre Lackieren €49 75 Min\" [ref=e3246, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Pediküre Lackieren\"\n          - StaticText \"€49\"\n          - paragraph\n            - StaticText \"75 Min\"\n      - listitem [level=1]\n        - link \"Gellack mit Pediküre €59 90 Min inkl. Entfernung unseres Materials\" [ref=e3247, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Gellack mit Pediküre\"\n          - StaticText \"€59\"\n          - paragraph\n            - StaticText \"90 Min inkl. Entfernung unseres Materials\"\n      - listitem [level=1]\n        - link \"French mit Pediküre €64 120 Min\" [ref=e3248, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"French mit Pediküre\"\n          - StaticText \"€64\"\n          - paragraph\n            - StaticText \"120 Min\"\n      - listitem [level=1]\n        - link \"Entfernung von Fremdmaterial €10 - 20\" [ref=e3249, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Entfernung von Fremdmaterial\"\n          - StaticText \"€10 - 20\"\n  - heading \"IS Clinical Kosmetikbehandlungen\" [level=2, ref=e3188]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"Gesichtsreinigung (trockene Haut bis reife Haut) €119 Reinigung, Peeling, Enzympeeling, Ausreinigung(Ultraschall), Maske, Massage, Pflege\" [ref=e3250, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Gesichtsreinigung (trockene Haut bis reife Haut)\"\n          - StaticText \"€119\"\n          - paragraph\n            - StaticText \"Reinigung, Peeling, Enzympeeling, Ausreinigung(Ultraschall), Maske, Massage, Pflege\"\n      - listitem [level=1]\n        - link \"iS Clinical - FOAMING ENZYME TREATMENT €129 Das Bekannte und auch sogenannte „Champagner Facial“ ist eine hochwirksame Anti-Aging und auch gleichzeitig beruhigende Behandlung. Die Behandlung erzeugt ein sensationelles, intensives und champagnerähnliches Kribbeln auf der Haut. Bei der Behandlung wird ein Aktivschaum eingesetzt der die Haut mit bioaktiven Inhaltsstoffen exfoliert. (45 Min)\" [ref=e3251, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"iS Clinical - FOAMING ENZYME TREATMENT\"\n          - StaticText \"€129\"\n          - paragraph\n            - StaticText \"Das Bekannte und auch sogenannte „Champagner Facial“ ist eine hochwirksame Anti-Aging und auch gleichzeitig beruhigende Behandlung. Die Behandlung erzeugt ein sensationelles, intensives und champagnerähnliches Kribbeln auf der Haut. Bei der Behandlung wird ein Aktivschaum eingesetzt der die Haut mit bioaktiven Inhaltsstoffen exfoliert. (45 Min)\"\n      - listitem [level=1]\n        - link \"iS Clinical - FIRE & ICE FACIAL €129 Die bekannte Gesichtsbehandlung aus den USA. Diese Behandlung erneuert die Hautoberfläche, reduziert feine Linien und Falten und verfeinert die Poren. Bei der Behandlung werden zwei hochwirksame Masken verwendet. Die Fire-Maske erwärmt die Haut und fördert die Durchblutung, die Ice-Maske kühlt, beruhigt und hydratisiert intensiv. Das Ergebnis ist eine sichtbar glattere, straffe und festere Haut mit „Glow“-Effekt.\" [ref=e3252, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"iS Clinical - FIRE & ICE FACIAL\"\n          - StaticText \"€129\"\n          - paragraph\n            - StaticText \"Die bekannte Gesichtsbehandlung aus den USA. Diese Behandlung erneuert die Hautoberfläche, reduziert feine Linien und Falten und verfeinert die Poren. Bei der Behandlung werden zwei hochwirksame Masken verwendet. Die Fire-Maske erwärmt die Haut und fördert die Durchblutung, die Ice-Maske kühlt, beruhigt und hydratisiert intensiv. Das Ergebnis ist eine sichtbar glattere, straffe und festere Haut mit „Glow“-Effekt.\"\n  - heading \"Augenbrauen\" [level=2, ref=e3189]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"Korrektur (Zupfen/Waxen) €20 30min\" [ref=e3253, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Korrektur (Zupfen/Waxen)\"\n          - StaticText \"€20\"\n          - paragraph\n            - StaticText \"30min\"\n      - listitem [level=1]\n        - link \"Korrektur + Färben €35 60min\" [ref=e3254, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Korrektur + Färben\"\n          - StaticText \"€35\"\n          - paragraph\n            - StaticText \"60min\"\n      - listitem [level=1]\n        - link \"Augenbrauen Lifting (Lifting+Färbung+Waxing) €60 60min\" [ref=e3255, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Augenbrauen Lifting (Lifting+Färbung+Waxing)\"\n          - StaticText \"€60\"\n          - paragraph\n            - StaticText \"60min\"\n      - listitem [level=1]\n        - link \"Augenbrauen Lifting (ohne Farbe) €45 60min\" [ref=e3256, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Augenbrauen Lifting (ohne Farbe)\"\n          - StaticText \"€45\"\n          - paragraph\n            - StaticText \"60min\"\n      - listitem [level=1]\n        - link \"Färben 25€ 30min\" [ref=e3257, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Färben\"\n          - StaticText \"25€\"\n          - paragraph\n            - StaticText \"30min\"\n  - heading \"Wimpern\" [level=2, ref=e3190]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"Färben €20 20 Min\" [ref=e3258, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Färben\"\n          - StaticText \"€20\"\n          - paragraph\n            - StaticText \"20 Min\"\n      - listitem [level=1]\n        - link \"Wimpern Lifting ohne Farbe €45 60 Min\" [ref=e3259, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Wimpern Lifting ohne Farbe\"\n          - StaticText \"€45\"\n          - paragraph\n            - StaticText \"60 Min\"\n      - listitem [level=1]\n        - link \"Wimpern Lifting €60 75 Min\" [ref=e3260, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Wimpern Lifting\"\n          - StaticText \"€60\"\n          - paragraph\n            - StaticText \"75 Min\"\n  - heading \"Wimpernverlängerung\" [level=2, ref=e3191]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"Classic 1:1 €89 Auffüllen ( bis zu 3 Wochen ) €50\" [ref=e3261, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Classic 1:1\"\n          - StaticText \"€89\"\n          - paragraph\n            - StaticText \"Auffüllen ( bis zu 3 Wochen ) €50\"\n      - listitem [level=1]\n        - link \"Volumen 2D-3D €119 Auffüllen ( bis zu 3 Wochen ) €60\" [ref=e3262, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Volumen 2D-3D\"\n          - StaticText \"€119\"\n          - paragraph\n            - StaticText \"Auffüllen ( bis zu 3 Wochen ) €60\"\n      - listitem [level=1]\n        - link \"Mega Volumen 4D-5D €139 Auffüllen ( bis zu 3 Wochen ) €70\" [ref=e3263, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Mega Volumen 4D-5D\"\n          - StaticText \"€139\"\n          - paragraph\n            - StaticText \"Auffüllen ( bis zu 3 Wochen ) €70\"\n  - heading \"Wellness\" [level=2, ref=e3192]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"Entspannungsmassage €50 30 Min\" [ref=e3264, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Entspannungsmassage\"\n          - StaticText \"€50\"\n          - paragraph\n            - StaticText \"30 Min\"\n      - listitem [level=1]\n        - link \"Entspannungsmassage €89 50 Min\" [ref=e3265, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Entspannungsmassage\"\n          - StaticText \"€89\"\n          - paragraph\n            - StaticText \"50 Min\"\n      - listitem [level=1]\n        - link \"Rücken, Schulter-Naken-Massage €89 50 Min\" [ref=e3266, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Rücken, Schulter-Naken-Massage\"\n          - StaticText \"€89\"\n          - paragraph\n            - StaticText \"50 Min\"\n      - listitem [level=1]\n        - link \"Lymphodrainage €94 55 Min\" [ref=e3267, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Lymphodrainage\"\n          - StaticText \"€94\"\n          - paragraph\n            - StaticText \"55 Min\"\n      - listitem [level=1]\n        - link \"Entspannungsmassage €119 80 Min\" [ref=e3268, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Entspannungsmassage\"\n          - StaticText \"€119\"\n          - paragraph\n            - StaticText \"80 Min\"\n  - heading \"Private Physiotherapie\" [level=2, ref=e3193]\n  - generic\n    - list\n      - listitem [level=1]\n        - link \"KG (30 Min) €36,5\" [ref=e3269, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"KG (30 Min)\"\n          - StaticText \"€36,5\"\n      - listitem [level=1]\n        - link \"MT (30 Min) €40\" [ref=e3270, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"MT (30 Min)\"\n          - StaticText \"€40\"\n      - listitem [level=1]\n        - link \"CMD (30 Min) €40\" [ref=e3271, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"CMD (30 Min)\"\n          - StaticText \"€40\"\n      - listitem [level=1]\n        - link \"MLD (30 Min) €40\" [ref=e3272, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"MLD (30 Min)\"\n          - StaticText \"€40\"\n      - listitem [level=1]\n        - link \"MLD (45 Min) €55\" [ref=e3273, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"MLD (45 Min)\"\n          - StaticText \"€55\"\n      - listitem [level=1]\n        - link \"MLD (60 Min) €65\" [ref=e3274, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"MLD (60 Min)\"\n          - StaticText \"€65\"\n      - listitem [level=1]\n        - link \"Triggerpunktbehandlung (ca. 45 Min) €60\" [ref=e3275, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Triggerpunktbehandlung (ca. 45 Min)\"\n          - StaticText \"€60\"\n      - listitem [level=1]\n        - link \"Kinesio Tapeanlegen €15\" [ref=e3276, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Kinesio Tapeanlegen\"\n          - StaticText \"€15\"\n      - listitem [level=1]\n        - link \"Hausbesuch €20\" [ref=e3277, url=https://www.albina-beauty-concept.de/preisliste/#]\n          - StaticText \"Hausbesuch\"\n          - StaticText \"€20\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e3198, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e3194]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e3278, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3279, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e3280, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e3281, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e3282, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e3283, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e3195]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e3284, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3285, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e3286, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e3196]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e3287, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e3288, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e3289, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e3290, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e3197]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- StaticText \"mobile\""
+}

@@ -1,0 +1,710 @@
+[
+  {
+    "id": "laser-haarentfernung",
+    "title": "Laser-Haarentfernung",
+    "items": [
+      {
+        "name": "Paket 1",
+        "price": "€180",
+        "description": "60 Min (Achseln, Intimbereich komplett)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Paket 2",
+        "price": "€300",
+        "description": "60 Min (Achseln, Intimbereich komplett, Unterschenkel)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Paket 3",
+        "price": "€400",
+        "description": "75 Min (Achseln, Intimbereich+Beine komplett)",
+        "duration": "75 Min."
+      },
+      {
+        "name": "Paket 4",
+        "price": "€350",
+        "description": "60 Min (Achseln, Intimbereich komplett, Unterschenkel, Oberlippe)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Paket 5",
+        "price": "€420",
+        "description": "60 Min (Nacken, Brust, oberer Rücken, Hals)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Paket 6",
+        "price": "€250",
+        "description": "60 Min (Achseln, Unterschenkel, Oberlippe)",
+        "duration": "60 Min."
+      }
+    ]
+  },
+  {
+    "id": "laser-einzelzonen",
+    "title": "Laser-Haarentfernung · Einzelzonen",
+    "items": [
+      {
+        "name": "Oberschenkel",
+        "price": "150€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Unterschenkel",
+        "price": "150€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Beine komplett",
+        "price": "270€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Achselhöhle",
+        "price": "80€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Arme komplett",
+        "price": "220€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Unter-/Oberarme",
+        "price": "150€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Oberlippe",
+        "price": "65€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Hals",
+        "price": "85€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Gesicht komplett",
+        "price": "129€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Gesicht und Hals",
+        "price": "180€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Brust",
+        "price": "180€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Bauch",
+        "price": "180€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Nacken",
+        "price": "70€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Oberer Rücken",
+        "price": "150€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Rücken komplett",
+        "price": "220€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Bikini Zone",
+        "price": "120€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Intimbereich Komplett",
+        "price": "150€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      },
+      {
+        "name": "Pofalte",
+        "price": "65€",
+        "description": "Die passende Behandlung stimmen wir im Beratungsgespräch mit Ihnen ab.",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "forma-by-inmode",
+    "title": "FORMA by InMode",
+    "items": [
+      {
+        "name": "1 Region",
+        "price": "€75",
+        "description": "60 Min (Kinn / Wangen / Stirn / Hals / Kieferlinie / Nasolabialbereich / Augenpartie (unter den Augen)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "1 Region (Paket)",
+        "price": "€375",
+        "description": "Sparabo 5 + 1 Gratis (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+        "duration": ""
+      },
+      {
+        "name": "Full Face - Behandlung",
+        "price": "€200",
+        "description": "90 Min (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)",
+        "duration": "90 Min."
+      },
+      {
+        "name": "Full Face - Behandlung (Paket)",
+        "price": "€1000",
+        "description": "Sparabo 5 + 1 Gratis (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)",
+        "duration": ""
+      },
+      {
+        "name": "Gesicht + Hals & Dekolleté",
+        "price": "€300",
+        "description": "120 min (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)",
+        "duration": "120 Min."
+      },
+      {
+        "name": "Gesicht + Hals & Dekolleté (Paket)",
+        "price": "€1500",
+        "description": "Sparabo 5 + 1 Gratis (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "body-fx",
+    "title": "Body Fx",
+    "items": [
+      {
+        "name": "1 Zone",
+        "price": "€250",
+        "description": "60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Paket 3 Behandlungen",
+        "price": "€700",
+        "description": "60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Paket 6 Behandlungen",
+        "price": "€1350",
+        "description": "60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+        "duration": "60 Min."
+      }
+    ]
+  },
+  {
+    "id": "hydrafacial",
+    "title": "HydraFacial",
+    "items": [
+      {
+        "name": "HydraFacial™ Classic",
+        "price": "€189",
+        "description": "Die medizinisch zugelassene HydraFacial-Behandlung vereint Tiefenreinigung, sanftes Säurepeeling, Porenausreinigung und intensive Hydration in einer Anwendung. Zum Abschluss verwöhnen wir Ihre Haut mit einer beruhigenden Feuchtigkeitsmaske für einen sofortigen Glow-Effekt und ein sichtbar frischeres (60 Min)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "HydraFacial™ Sylver",
+        "price": "€219",
+        "description": "HydraFacial Classic in Kombination mit dem exklusiven Champagner Facial von iS Clinical. Die Behandlung vereint intensive Tiefenreinigung, Hydration und einen luxuriösen Pflegekomplex für einen besonders strahlenden, frischen Teint. Ideal für alle, die ihrer Haut einen sofort sichtbaren Glow und zusätzliche Pflege schenken möchten. Inklusive entspannender Abschlusspflege. (80 Min.)",
+        "duration": "80 Min."
+      },
+      {
+        "name": "HydraFacial™ Fire & Ice",
+        "price": "€219",
+        "description": "Die perfekte Kombination aus HydraFacial und dem legendären Fire & Ice Facial von iS Clinical. Während HydraFacial die Haut tiefenreinigt und intensiv mit Feuchtigkeit versorgt, fördert Fire & Ice die Hauterneuerung und verleiht einen sofort sichtbaren Glow-Effekt. Für ein verfeinertes Hautbild, mehr Strahlkraft und einen luxuriösen Frischekick. (80 Min.)",
+        "duration": "80 Min."
+      },
+      {
+        "name": "HydraFacial + Microneedling",
+        "price": "€389",
+        "description": "",
+        "duration": ""
+      },
+      {
+        "name": "HydraFacial + Nanoneedling",
+        "price": "€239",
+        "description": "*Nanoneedling - kann als Zusatzoption zu jeder Leistung hinzugefügt werden",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "medizinische-microneedling",
+    "title": "Medizinische Microneedling",
+    "items": [
+      {
+        "name": "Medizinische Microneedling",
+        "price": "€265",
+        "description": "Gesicht (60min)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Medizinische Microneedling",
+        "price": "€265",
+        "description": "Hals und Dekollete (60min)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Medizinische Microneedling",
+        "price": "€349",
+        "description": "Gesicht + Hals + Dekolleté (90min)",
+        "duration": "90 Min."
+      },
+      {
+        "name": "NOON Peeling + Microneedling",
+        "price": "€319",
+        "description": "(75min)",
+        "duration": "75 Min."
+      },
+      {
+        "name": "Medizinische Microneedling (3er Paket)",
+        "price": "€715",
+        "description": "",
+        "duration": ""
+      },
+      {
+        "name": "Medizinische Microneedling (6er Paket)",
+        "price": "€1390",
+        "description": "",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "noon",
+    "title": "NOON",
+    "items": [
+      {
+        "name": "NOON Express Glow",
+        "price": "€99",
+        "description": "Für einen schnellen Glow-Effekt und sofort sichtbar frischere Haut. Ideal für einen strahlenden Teint vor besonderen Anlässen oder als kurze Pflege zwischendurch (45min)",
+        "duration": "45 Min."
+      },
+      {
+        "name": "NOON Acne Treatment",
+        "price": "€169",
+        "description": "Eine klärende Gesichtsbehandlung zur Beruhigung entzündlicher Haut, Regulierung der Talgproduktion und Unterstützung der Hautregeneration (60min)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "NOON Rosacea Treatment",
+        "price": "€159",
+        "description": "Eine besonders sanfte Behandlung zur Stärkung der Hautbarriere, Reduktion von Rötungen und Beruhigung empfindlicher Rosazea-Haut (60min)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "NOON Even Tone (Pigmentierung)",
+        "price": "€169",
+        "description": "Eine ausgleichende Gesichtsbehandlung zur Aufhellung von Pigmentflecken und Förderung eines ebenmäßigen, strahlenden Hautbildes (60min)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "NOON Sun Repair (Anti-Age)",
+        "price": "€189",
+        "description": "Eine regenerierende Anti-Aging-Behandlung zur Reparatur lichtgeschädigter Haut, Stimulation der Kollagenproduktion und Verbesserung der Hautstruktur für ein glatteres, strafferes Hautbild. (60min)",
+        "duration": "60 Min."
+      },
+      {
+        "name": "NOON Peeling + Microneedling",
+        "price": "€319",
+        "description": "Eine intensive Kombination aus chemischen Peeling und Microneedling zur tiefen Hauterneuerung, Verbesserung der Hautstruktur, Reduktion von Falten, Pigmentierungen und Unreinheiten (75min)",
+        "duration": "75 Min."
+      }
+    ]
+  },
+  {
+    "id": "exosome",
+    "title": "Exosome",
+    "items": [
+      {
+        "name": "Medizinische Microneedling EXOSOME",
+        "price": "€399",
+        "description": "60 min",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Medizinische Microneedling Kopfhaut EXOSOME",
+        "price": "€399",
+        "description": "60 min",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Medizinische Microneedling Hals + Dekolleté EXOSOME",
+        "price": "€399",
+        "description": "60 min",
+        "duration": "60 Min."
+      },
+      {
+        "name": "HYDRAFACIAL + MICRONEEDLING + EXOSOMES",
+        "price": "€499",
+        "description": "90 min",
+        "duration": "90 Min."
+      },
+      {
+        "name": "NOON + MICRONEEDLING + EXOSOMES",
+        "price": "€499",
+        "description": "90 min",
+        "duration": "90 Min."
+      }
+    ]
+  },
+  {
+    "id": "manik-re",
+    "title": "Maniküre",
+    "items": [
+      {
+        "name": "Basic Maniküre",
+        "price": "€39",
+        "description": "60 Min",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Maniküre Lackieren",
+        "price": "€49",
+        "description": "75 Min",
+        "duration": "75 Min."
+      },
+      {
+        "name": "Männer Maniküre",
+        "price": "€45",
+        "description": "60 Min",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Gellack mit Maniküre",
+        "price": "€59",
+        "description": "90 Min inkl. Entfernung unseres Materials",
+        "duration": "90 Min."
+      },
+      {
+        "name": "French mit Maniküre",
+        "price": "€64",
+        "description": "120 Min",
+        "duration": "120 Min."
+      },
+      {
+        "name": "Gel Neumodellage",
+        "price": "€65 - €70",
+        "description": "120 - 150 Min",
+        "duration": "120 - 150 Min."
+      },
+      {
+        "name": "Gel Korrektur / Verstärkung",
+        "price": "€64",
+        "description": "120 Min",
+        "duration": "120 Min."
+      },
+      {
+        "name": "Entfernung von Fremdmaterial",
+        "price": "€10 - 20",
+        "description": "",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "klassische-gesichtspflege",
+    "title": "Klassische Gesichtspflege",
+    "items": [
+      {
+        "name": "Klassische Gesichtsbehandlung · jugendliche Haut",
+        "price": "89€",
+        "description": "Reinigung und Pflege abgestimmt auf die Bedürfnisse jugendlicher Haut.",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "pedik-re",
+    "title": "Pediküre",
+    "items": [
+      {
+        "name": "Basic Pediküre",
+        "price": "€44",
+        "description": "60 Min",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Männer Pediküre",
+        "price": "€45",
+        "description": "60 Min",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Pediküre Lackieren",
+        "price": "€49",
+        "description": "75 Min",
+        "duration": "75 Min."
+      },
+      {
+        "name": "Gellack mit Pediküre",
+        "price": "€59",
+        "description": "90 Min inkl. Entfernung unseres Materials",
+        "duration": "90 Min."
+      },
+      {
+        "name": "French mit Pediküre",
+        "price": "€64",
+        "description": "120 Min",
+        "duration": "120 Min."
+      },
+      {
+        "name": "Entfernung von Fremdmaterial",
+        "price": "€10 - 20",
+        "description": "",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "is-clinical-kosmetikbehandlungen",
+    "title": "IS Clinical Kosmetikbehandlungen",
+    "items": [
+      {
+        "name": "Gesichtsreinigung (trockene Haut bis reife Haut)",
+        "price": "€119",
+        "description": "Reinigung, Peeling, Enzympeeling, Ausreinigung(Ultraschall), Maske, Massage, Pflege",
+        "duration": ""
+      },
+      {
+        "name": "iS Clinical - FOAMING ENZYME TREATMENT",
+        "price": "€129",
+        "description": "Das Bekannte und auch sogenannte „Champagner Facial“ ist eine hochwirksame Anti-Aging und auch gleichzeitig beruhigende Behandlung. Die Behandlung erzeugt ein sensationelles, intensives und champagnerähnliches Kribbeln auf der Haut. Bei der Behandlung wird ein Aktivschaum eingesetzt der die Haut mit bioaktiven Inhaltsstoffen exfoliert. (45 Min)",
+        "duration": "45 Min."
+      },
+      {
+        "name": "iS Clinical - FIRE & ICE FACIAL",
+        "price": "€129",
+        "description": "Die bekannte Gesichtsbehandlung aus den USA. Diese Behandlung erneuert die Hautoberfläche, reduziert feine Linien und Falten und verfeinert die Poren. Bei der Behandlung werden zwei hochwirksame Masken verwendet. Die Fire-Maske erwärmt die Haut und fördert die Durchblutung, die Ice-Maske kühlt, beruhigt und hydratisiert intensiv. Das Ergebnis ist eine sichtbar glattere, straffe und festere Haut mit „Glow“-Effekt.",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "augenbrauen",
+    "title": "Augenbrauen",
+    "items": [
+      {
+        "name": "Korrektur (Zupfen/Waxen)",
+        "price": "€20",
+        "description": "30min",
+        "duration": "30 Min."
+      },
+      {
+        "name": "Korrektur + Färben",
+        "price": "€35",
+        "description": "60min",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Augenbrauen Lifting (Lifting+Färbung+Waxing)",
+        "price": "€60",
+        "description": "60min",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Augenbrauen Lifting (ohne Farbe)",
+        "price": "€45",
+        "description": "60min",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Färben",
+        "price": "25€",
+        "description": "30min",
+        "duration": "30 Min."
+      }
+    ]
+  },
+  {
+    "id": "wimpern",
+    "title": "Wimpern",
+    "items": [
+      {
+        "name": "Färben",
+        "price": "€20",
+        "description": "20 Min",
+        "duration": "20 Min."
+      },
+      {
+        "name": "Wimpern Lifting ohne Farbe",
+        "price": "€45",
+        "description": "60 Min",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Wimpern Lifting",
+        "price": "€60",
+        "description": "75 Min",
+        "duration": "75 Min."
+      }
+    ]
+  },
+  {
+    "id": "wimpernverl-ngerung",
+    "title": "Wimpernverlängerung",
+    "items": [
+      {
+        "name": "Classic 1:1",
+        "price": "€89",
+        "description": "Auffüllen ( bis zu 3 Wochen ) €50",
+        "duration": ""
+      },
+      {
+        "name": "Volumen 2D-3D",
+        "price": "€119",
+        "description": "Auffüllen ( bis zu 3 Wochen ) €60",
+        "duration": ""
+      },
+      {
+        "name": "Mega Volumen 4D-5D",
+        "price": "€139",
+        "description": "Auffüllen ( bis zu 3 Wochen ) €70",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "wellness",
+    "title": "Wellness",
+    "items": [
+      {
+        "name": "Entspannungsmassage",
+        "price": "€50",
+        "description": "30 Min",
+        "duration": "30 Min."
+      },
+      {
+        "name": "Entspannungsmassage",
+        "price": "€89",
+        "description": "50 Min",
+        "duration": "50 Min."
+      },
+      {
+        "name": "Rücken, Schulter-Naken-Massage",
+        "price": "€89",
+        "description": "50 Min",
+        "duration": "50 Min."
+      },
+      {
+        "name": "Lymphodrainage",
+        "price": "€94",
+        "description": "55 Min",
+        "duration": "55 Min."
+      },
+      {
+        "name": "Entspannungsmassage",
+        "price": "€119",
+        "description": "80 Min",
+        "duration": "80 Min."
+      },
+      {
+        "name": "Gesichtsmassage",
+        "price": "45€",
+        "description": "Eine individuell auf Ihre Wünsche abgestimmte Anwendung.",
+        "duration": "30 Min."
+      },
+      {
+        "name": "Körper-Korrektur-Massage",
+        "price": "70€",
+        "description": "Eine individuell auf Ihre Wünsche abgestimmte Anwendung.",
+        "duration": ""
+      },
+      {
+        "name": "Anti-Cellulite-Massage",
+        "price": "70€",
+        "description": "Eine individuell auf Ihre Wünsche abgestimmte Anwendung.",
+        "duration": ""
+      }
+    ]
+  },
+  {
+    "id": "private-physiotherapie",
+    "title": "Private Physiotherapie",
+    "items": [
+      {
+        "name": "KG (30 Min)",
+        "price": "€36,5",
+        "description": "",
+        "duration": "30 Min."
+      },
+      {
+        "name": "MT (30 Min)",
+        "price": "€40",
+        "description": "",
+        "duration": "30 Min."
+      },
+      {
+        "name": "CMD (30 Min)",
+        "price": "€40",
+        "description": "",
+        "duration": "30 Min."
+      },
+      {
+        "name": "MLD (30 Min)",
+        "price": "€40",
+        "description": "",
+        "duration": "30 Min."
+      },
+      {
+        "name": "MLD (45 Min)",
+        "price": "€55",
+        "description": "",
+        "duration": "45 Min."
+      },
+      {
+        "name": "MLD (60 Min)",
+        "price": "€65",
+        "description": "",
+        "duration": "60 Min."
+      },
+      {
+        "name": "Triggerpunktbehandlung (ca. 45 Min)",
+        "price": "€60",
+        "description": "",
+        "duration": "45 Min."
+      },
+      {
+        "name": "Kinesio Tapeanlegen",
+        "price": "€15",
+        "description": "",
+        "duration": ""
+      },
+      {
+        "name": "Hausbesuch",
+        "price": "€20",
+        "description": "",
+        "duration": ""
+      }
+    ]
+  }
+]

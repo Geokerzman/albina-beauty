@@ -1,0 +1,184 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/impressum/",
+  "refs": {
+    "e2210": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e2211": {
+      "name": "Impressum",
+      "role": "heading"
+    },
+    "e2212": {
+      "name": "Zustimmung verwalten",
+      "role": "button"
+    },
+    "e2213": {
+      "name": "https://ec.europa.eu/consumers/odr/",
+      "role": "link"
+    },
+    "e2214": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e2215": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e2216": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e2217": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e2218": {
+      "name": "",
+      "role": "link"
+    },
+    "e2219": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e2220": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e2221": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e2222": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e2223": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e2224": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e2225": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e2226": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e2227": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e2228": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e2229": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e2230": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e2231": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e2232": {
+      "name": "Menü",
+      "role": "navigation"
+    },
+    "e2233": {
+      "name": "",
+      "role": "link"
+    },
+    "e2234": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e2235": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e2236": {
+      "name": "02234 / 430 39 97",
+      "role": "link"
+    },
+    "e2237": {
+      "name": "0172 / 377 11 77",
+      "role": "link"
+    },
+    "e2238": {
+      "name": "info@albina-beauty-concept.de",
+      "role": "link"
+    },
+    "e2239": {
+      "name": "Frechener Weg 28 • 50859 Köln",
+      "role": "link"
+    },
+    "e2240": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e2241": {
+      "name": "",
+      "role": "link"
+    },
+    "e2242": {
+      "name": "",
+      "role": "link"
+    },
+    "e2243": {
+      "name": "",
+      "role": "link"
+    },
+    "e2244": {
+      "name": "Leistungen",
+      "role": "link"
+    },
+    "e2245": {
+      "name": "Preisliste",
+      "role": "link"
+    },
+    "e2246": {
+      "name": "Galerie",
+      "role": "link"
+    },
+    "e2247": {
+      "name": "Über Uns",
+      "role": "link"
+    },
+    "e2248": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e2249": {
+      "name": "Karriere",
+      "role": "link"
+    },
+    "e2250": {
+      "name": "Shop",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e2210, url=https://www.albina-beauty-concept.de/impressum/#content]\n- banner\n  - generic\n    - generic\n      - list\n        - listitem [level=1]\n          - link \"02234 / 430 39 97\" [ref=e2236, url=tel:022344303997]\n            - StaticText \"02234 / 430 39 97\"\n        - listitem [level=1]\n          - link \"0172 / 377 11 77\" [ref=e2237, url=tel:+491723771177]\n            - StaticText \"0172 / 377 11 77\"\n        - listitem [level=1]\n          - link \"info@albina-beauty-concept.de\" [ref=e2238, url=mailto:info@albina-beauty-concept.de]\n            - StaticText \"info@albina-beauty-concept.de\"\n        - listitem [level=1]\n          - link \"Frechener Weg 28 • 50859 Köln\" [ref=e2239, url=https://goo.gl/maps/ApuZwNBpUu2y252m7]\n            - StaticText \"Frechener Weg 28 • 50859 Köln\"\n      - search\n        - form\n          - button \"Suche\" [ref=e2235]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e2240]\n      - list\n        - listitem [level=1]\n          - link [ref=e2241, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e2242, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e2243, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e2233, url=https://www.albina-beauty-concept.de/]\n      - navigation \"Menü\" [ref=e2232]\n        - list\n          - listitem [level=1]\n            - link \"Leistungen\" [expanded=false, ref=e2244, url=https://www.albina-beauty-concept.de/leistungen/]\n              - StaticText \"Leistungen\"\n          - listitem [level=1]\n            - link \"Preisliste\" [ref=e2245, url=https://www.albina-beauty-concept.de/preisliste/]\n          - listitem [level=1]\n            - link \"Galerie\" [ref=e2246, url=https://www.albina-beauty-concept.de/galerie/]\n          - listitem [level=1]\n            - link \"Über Uns\" [ref=e2247, url=https://www.albina-beauty-concept.de/ueber-uns/]\n          - listitem [level=1]\n            - link \"Kontakt\" [ref=e2248, url=https://www.albina-beauty-concept.de/kontakt/]\n          - listitem [level=1]\n            - link \"Karriere\" [ref=e2249, url=https://www.albina-beauty-concept.de/elementor-1142/]\n          - listitem [level=1]\n            - link \"Shop\" [ref=e2250, url=http://shop.albina-beauty-concept.de/]\n      - link \"Termine\" [ref=e2234, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"Impressum\" [level=1, ref=e2211]\n  - paragraph\n    - strong\n      - StaticText \"Angaben gemäß § 5 TMG\"\n  - paragraph\n    - strong\n      - StaticText \"Betreiber:\"\n      - LineBreak \"\\n\"\n    - StaticText \"Albina Letova\"\n    - LineBreak \"\\n\"\n    - StaticText \"Frechener Weg 28\"\n    - LineBreak \"\\n\"\n    - StaticText \"D – 50859 Köln\"\n  - paragraph\n    - strong\n      - StaticText \"Kontakt:\"\n    - LineBreak \"\\n\"\n    - StaticText \"Telefon: +49 (0) 2234 4303997\"\n    - LineBreak \"\\n\"\n    - StaticText \"E-Mail: info@albina-beauty-concept.de\"\n    - LineBreak \"\\n\"\n    - StaticText \"Internetadresse: www.albina-beauty-concept.de\"\n  - paragraph\n    - strong\n      - StaticText \"Umsatzsteuer-Identifikationsnummer:\"\n      - LineBreak \"\\n\"\n    - StaticText \"DE 66501978246\"\n  - paragraph\n    - strong\n      - StaticText \"Gerichtsstand:\"\n    - LineBreak \"\\n\"\n    - StaticText \"Köln\"\n  - paragraph\n    - strong\n      - StaticText \"Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV\"\n      - LineBreak \"\\n\"\n    - StaticText \"Albina Letova\"\n  - paragraph\n    - strong\n      - StaticText \"Haftungsausschluss\"\n  - paragraph\n    - strong\n      - StaticText \"Haftung für Inhalte \"\n    - LineBreak \"\\n\"\n    - StaticText \"Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.\"\n  - paragraph\n    - strong\n      - StaticText \"Haftung für Links \"\n    - LineBreak \"\\n\"\n    - StaticText \"Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.\"\n  - paragraph\n    - strong\n      - StaticText \"Urheberrecht\"\n    - LineBreak \"\\n\"\n    - StaticText \"Die durch die Seitenbetreiber erstellten bzw. verwendeten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.\"\n  - paragraph\n    - strong\n      - StaticText \"Online-Streitbeilegung \"\n    - LineBreak \"\\n\"\n    - StaticText \"Die Europäische Kommission stellt unter \"\n    - link \"https://ec.europa.eu/consumers/odr/\" [ref=e2213, url=https://ec.europa.eu/consumers/odr/]\n    - StaticText \" eine Plattform zur Online-Streitbeilegung bereit, die Verbraucher für die Beilegung einer Streitigkeit nutzen können und auf der weitere Informationen zum Thema Streitschlichtung zu finden sind.\"\n  - paragraph\n    - strong\n      - StaticText \"Außergerichtliche Streitbeilegung \"\n    - LineBreak \"\\n\"\n    - StaticText \"Wir sind weder verpflichtet noch dazu bereit, im Falle einer Streitigkeit mit einem Verbraucher an einem Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e2218, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e2214]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e2219, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e2220, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e2221, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e2222, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e2223, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e2224, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e2215]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e2225, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e2226, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e2227, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e2216]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e2228, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e2229, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e2230, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e2231, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e2217]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- button \"Zustimmung verwalten\" [ref=e2212]\n- StaticText \"desktop\""
+}

@@ -1,0 +1,1505 @@
+{
+  "buttons": [
+    {
+      "label": "Suche",
+      "text": "",
+      "visible": true
+    },
+    {
+      "label": "Schließe dieses Suchfeld.",
+      "text": "\n",
+      "visible": false
+    },
+    {
+      "label": "Menü Umschalter",
+      "text": "\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Erleben Sie die Kombination aus höchster Wirksamkeit, Geschwindigkeit und Komfort mit unserem DIOLAZE InMode",
+      "visible": true
+    },
+    {
+      "label": null,
+      "text": "Was unterscheidet Laser-Haarentfernung von IPL?",
+      "visible": true
+    },
+    {
+      "label": null,
+      "text": "Überzeugen Sie sich selbst",
+      "visible": true
+    },
+    {
+      "label": "Dialog schließen",
+      "text": "\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "\n\n\n\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "\n\n\n\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "\n\n\n\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "\n\n\n\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Akzeptieren",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Ablehnen",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Einstellungen ansehen",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Einstellungen speichern",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Zustimmung verwalten",
+      "visible": false
+    }
+  ],
+  "canonical": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+  "dimensions": {
+    "height": 1000,
+    "scrollHeight": 3388,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  "forms": [
+    {
+      "action": "https://www.albina-beauty-concept.de/",
+      "fields": [
+        {
+          "label": "Suche",
+          "name": "s",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "search"
+        }
+      ],
+      "method": "get"
+    }
+  ],
+  "generator": "WordPress 7.1.4",
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Laser-Haarentfernung",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Dauerhafte Haarentfernung mit modernster Technologie – jetzt in Köln Weiden",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Präzise Wellenlänge, Impuls und Leistung für maximale Ergebnisse und Sicherheit.",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Schnelle und gründliche Haarentfernung mit weniger Sitzungen.",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Innovatives Kühlsystem für maximalen Komfort.",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Sicher und effektiv bis Hauttyp VI.",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "Paket 1",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "Paket 2",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "Paket 3",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "Paket 4",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "Paket 5",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "weitere Preise",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Oberschenkel\n150€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Unterschenkel\n150€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Beine komplett\n270€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Achselhöhle\n80€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Arme komplett\n220€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Unter-/Oberarme\n150€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Oberlippe\n65€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Hals\n85€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Gesicht komplett\n129€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Gesicht und Hals\n180€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Brust\n180€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Bauch\n180€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Nacken\n70€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Oberer Rücken\n150€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Rücken komplett\n220€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Bikini Zone\n120€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Intimbereich Komplett\n150€",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "Pofalte\n65€",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Unsere Leistungen",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Unsere Marken",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Information & Kontakt",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "visible": true
+    }
+  ],
+  "iframes": [],
+  "images": [
+    {
+      "alt": "",
+      "complete": true,
+      "height": 223,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-Black.svg",
+      "visible": true,
+      "width": 711
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 179,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2021/10/Ueber-uns-1536x192.jpg",
+      "visible": true,
+      "width": 1439
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 800,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/laser2.jpg",
+      "visible": true,
+      "width": 800
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 800,
+      "loading": "lazy",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/laser-gerat.jpg",
+      "visible": true,
+      "width": 800
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 1,
+      "loading": "auto",
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxIiBoZWlnaHQ9IjEiIHZpZXdCb3g9IjAgMCAxIDEiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+",
+      "visible": true,
+      "width": 1
+    },
+    {
+      "alt": "Albina Beauty Concept",
+      "complete": true,
+      "height": 1,
+      "loading": "auto",
+      "src": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+      "visible": false,
+      "width": 1
+    }
+  ],
+  "lang": "de",
+  "links": [
+    {
+      "target": "",
+      "text": "Zum Inhalt springen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/#content",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "02234 / 430 39 97",
+      "url": "tel:022344303997",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "0172 / 377 11 77",
+      "url": "tel:+491723771177",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "info@albina-beauty-concept.de",
+      "url": "mailto:info@albina-beauty-concept.de",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Frechener Weg 28 • 50859 Köln",
+      "url": "https://goo.gl/maps/ApuZwNBpUu2y252m7",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.instagram.com/albina.beautyconcept",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://facebook.com/Albina-Letova-108039101026948/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Leistungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Preisliste",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Galerie",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Über Uns",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Karriere",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Shop",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Leistungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Preisliste",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Galerie",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Über uns",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Karriere",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Shop",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Termine",
+      "url": "https://wa.me/491723771177",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Termine",
+      "url": "https://app.terminslot.de/employees?salonGuid=cc853bef-3396-41a3-8fcd-5058cf8e352f",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "InMode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "IS Clinical",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Impressum",
+      "url": "https://www.albina-beauty-concept.de/impressum/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Datenschutz",
+      "url": "https://www.albina-beauty-concept.de/datenschutzerklaerung/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Cookie Richtlinie (EU)",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Optionen verwalten",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/#",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Dienste verwalten",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/#",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Verwalten von {vendor_count}-Lieferanten",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/#",
+      "visible": false
+    },
+    {
+      "target": "_blank",
+      "text": "Lese mehr über diese Zwecke",
+      "url": "https://cookiedatabase.org/tcf/purposes/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Einstellungen ansehen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/#",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "{title}",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/#",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "{title}",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/#",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "{title}",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/#",
+      "visible": false
+    }
+  ],
+  "performance": [
+    {
+      "domContentLoaded": 496.89999985694885,
+      "load": 532,
+      "responseStatus": 200,
+      "transferSize": 22051,
+      "ttfb": 415.59999990463257
+    }
+  ],
+  "resources": [
+    {
+      "bytes": 42165,
+      "duration": 49.70000004768371,
+      "name": "https://www.albina-beauty-concept.de/wp-content/litespeed/css/e5151aab792282cf651b5ebe4507f5bb.css?ver=7c734",
+      "type": "link"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wlhyw.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/ubuntu-4ics6kvjbnbylgokfw72.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/ubuntu-4icv6kvjbnbylgocxcvjsgyn.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 13576,
+      "duration": 47.89999985694885,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 322,
+      "duration": 38.5,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "type": "fetch"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-Black.svg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2021/10/Ueber-uns-1536x192.jpg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/laser2.jpg",
+      "type": "css"
+    },
+    {
+      "bytes": 16551,
+      "duration": 41.10000014305115,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/laser-gerat.jpg",
+      "type": "img"
+    }
+  ],
+  "robots": "max-image-preview:large",
+  "structuredData": [],
+  "styles": [
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Zum Inhalt springen",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "18px",
+      "size": "12px",
+      "tag": "A",
+      "text": "02234 / 430 39 97",
+      "weight": "300"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "18px",
+      "size": "12px",
+      "tag": "A",
+      "text": "0172 / 377 11 77",
+      "weight": "300"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "18px",
+      "size": "12px",
+      "tag": "A",
+      "text": "info@albina-beauty-concept.de",
+      "weight": "300"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "18px",
+      "size": "12px",
+      "tag": "A",
+      "text": "Frechener Weg 28 • 50859 Köln",
+      "weight": "300"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Leistungen",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Preisliste",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Galerie",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Über Uns",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Kontakt",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Karriere",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Shop",
+      "weight": "400"
+    },
+    {
+      "background": "rgb(217, 190, 183)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "16px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Termine",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(137, 173, 192)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "32px",
+      "size": "32px",
+      "tag": "H1",
+      "text": "Laser-Haarentfernung",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(137, 173, 192)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Dauerhafte Haarentfernung mit modernster Technologie – jetzt in Köln Weiden",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Entdecken Sie die effektive Lösung für unerwünschte Haare mit dem innovativen DIOLAZE InMode – exklusiv bei uns, denn wir sind das erste Studio in Köln, das m",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Der DIOLAZE InMode bietet Spitzenleistung bei höchster Geschwindigkeit und sorgt für eine schmerzarme, angenehme Behandlung. Entwickelt, um sowohl grobe als au",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Neu in Köln Weiden – erleben Sie modernste Technologie und maximalen Komfort. Sagen Sie unerwünschten Haaren Lebewohl und genießen Sie glatte Haut!",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(217, 190, 183)",
+      "font": "Ubuntu, sans-serif",
+      "lineHeight": "38.4px",
+      "size": "32px",
+      "tag": "H2",
+      "text": "Präzise Wellenlänge, Impuls und Leistung für maximale Ergebnisse und Sicherheit.",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(217, 190, 183)",
+      "font": "Ubuntu, sans-serif",
+      "lineHeight": "38.4px",
+      "size": "32px",
+      "tag": "H2",
+      "text": "Schnelle und gründliche Haarentfernung mit weniger Sitzungen.",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(217, 190, 183)",
+      "font": "Ubuntu, sans-serif",
+      "lineHeight": "38.4px",
+      "size": "32px",
+      "tag": "H2",
+      "text": "Innovatives Kühlsystem für maximalen Komfort.",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(217, 190, 183)",
+      "font": "Ubuntu, sans-serif",
+      "lineHeight": "38.4px",
+      "size": "32px",
+      "tag": "H2",
+      "text": "Sicher und effektiv bis Hauttyp VI.",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(137, 173, 192)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "16px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Erleben Sie die Kombination aus höchster Wirksamkeit, Geschwindigkeit und Komfort mit unserem DIOLAZE InMode",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(137, 173, 192)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "16px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Was unterscheidet Laser-Haarentfernung von IPL?",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(137, 173, 192)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "16px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Überzeugen Sie sich selbst",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "28.8px",
+      "size": "24px",
+      "tag": "H3",
+      "text": "Paket 1",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "28.8px",
+      "size": "24px",
+      "tag": "H3",
+      "text": "Paket 2",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "28.8px",
+      "size": "24px",
+      "tag": "H3",
+      "text": "Paket 3",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "28.8px",
+      "size": "24px",
+      "tag": "H3",
+      "text": "Paket 4",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "28.8px",
+      "size": "24px",
+      "tag": "H3",
+      "text": "Paket 5",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(137, 173, 192)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "32px",
+      "size": "32px",
+      "tag": "H2",
+      "text": "weitere Preise",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Oberschenkel\n150€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Unterschenkel\n150€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Beine komplett\n270€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Achselhöhle\n80€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Arme komplett\n220€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Unter-/Oberarme\n150€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Oberlippe\n65€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Hals\n85€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Gesicht komplett\n129€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Gesicht und Hals\n180€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Brust\n180€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Bauch\n180€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Nacken\n70€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Oberer Rücken\n150€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Rücken komplett\n220€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Bikini Zone\n120€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Intimbereich Komplett\n150€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "20px",
+      "tag": "H5",
+      "text": "Pofalte\n65€",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Möchten Sie mehr Informationen oder einen Probetermin vereinbaren? Rufen Sie uns gerne an! Wenn Sie sich bereits entschieden haben, klicken Sie auf den Button u",
+      "weight": "400"
+    },
+    {
+      "background": "rgb(217, 190, 183)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "15px",
+      "size": "15px",
+      "tag": "A",
+      "text": "Termine",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "16px",
+      "size": "16px",
+      "tag": "H2",
+      "text": "Unsere Leistungen",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Laser-Haarentfernung",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "HydraFacial™",
+      "weight": "400"
+    }
+  ],
+  "text": "Zum Inhalt springen\n02234 / 430 39 97\n0172 / 377 11 77\ninfo@albina-beauty-concept.de\nFrechener Weg 28 • 50859 Köln\nSuche\nLeistungen\nPreisliste\nGalerie\nÜber Uns\nKontakt\nKarriere\nShop\nTermine\nLaser-Haarentfernung\nDauerhafte Haarentfernung mit modernster Technologie – jetzt in Köln Weiden\n\nEntdecken Sie die effektive Lösung für unerwünschte Haare mit dem innovativen DIOLAZE InMode – exklusiv bei uns, denn wir sind das erste Studio in Köln, das mit diesem fortschrittlichen Gerät arbeitet!\n\nDer DIOLAZE InMode bietet Spitzenleistung bei höchster Geschwindigkeit und sorgt für eine schmerzarme, angenehme Behandlung. Entwickelt, um sowohl grobe als auch feine Haare effektiv zu entfernen, ist er für nahezu alle Hauttypen, einschließlich Hauttyp VI, geeignet. Integrierte Sicherheitsvorkehrungen gewährleisten maximalen Komfort und Sicherheit bei jeder Sitzung.\n\nNeu in Köln Weiden – erleben Sie modernste Technologie und maximalen Komfort. Sagen Sie unerwünschten Haaren Lebewohl und genießen Sie glatte Haut!\n\nPräzise Wellenlänge, Impuls und Leistung für maximale Ergebnisse und Sicherheit.\nSchnelle und gründliche Haarentfernung mit weniger Sitzungen.\nInnovatives Kühlsystem für maximalen Komfort.\nSicher und effektiv bis Hauttyp VI.\nErleben Sie die Kombination aus höchster Wirksamkeit, Geschwindigkeit und Komfort mit unserem DIOLAZE InMode\nWas unterscheidet Laser-Haarentfernung von IPL?\nÜberzeugen Sie sich selbst\nPaket 1\n€\n180\n Achseln\n Intimbereich komplett\nPaket 2\n€\n300\n Achseln\n Intimbereich komplett\n Unterschenkel\nPaket 3\n€\n400\n Achseln\n Intimbereich komplett\n Beine komplett\nPaket 4\n€\n350\n Achseln\n Intimbereich komplett\n Unterschenkel\n Oberlippe\nPaket 5\n€\n420\n Nacken\n Brust\n oberer Rücken\n Hals\nweitere Preise\nOberschenkel\n150€\nUnterschenkel\n150€\nBeine komplett\n270€\nAchselhöhle\n80€\nArme komplett\n220€\nUnter-/Oberarme\n150€\nOberlippe\n65€\nHals\n85€\nGesicht komplett\n129€\nGesicht und Hals\n180€\nBrust\n180€\nBauch\n180€\nNacken\n70€\nOberer Rücken\n150€\nRücken komplett\n220€\nBikini Zone\n120€\nIntimbereich Komplett\n150€\nPofalte\n65€\n\nMöchten Sie mehr Informationen oder einen Probetermin vereinbaren? Rufen Sie uns gerne an! Wenn Sie sich bereits entschieden haben, klicken Sie auf den Button und buchen Sie Ihren Wunschtermin.\n\nTermine\n\nExklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\n\nUnsere Leistungen\nLaser-Haarentfernung\nHydraFacial™\nWellness\nKosmetische Behandlungen\nHand- und Fußpflege\nPrivate Physiotherapie\nUnsere Marken\nInMode\nHydraFacial™\nIS Clinical\nInformation & Kontakt\nImpressum\nDatenschutz\nKontakt\nCookie Richtlinie (EU)\n© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\nMade by Friends",
+  "title": "Laser-Haarentfernung – Albina Beauty Concept",
+  "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+  "viewport": "width=device-width, initial-scale=1"
+}

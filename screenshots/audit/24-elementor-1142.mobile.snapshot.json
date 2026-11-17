@@ -1,0 +1,168 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/elementor-1142/",
+  "refs": {
+    "e4154": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e4155": {
+      "name": "Karriere",
+      "role": "heading"
+    },
+    "e4156": {
+      "name": "Wir suchen DICH!",
+      "role": "heading"
+    },
+    "e4157": {
+      "name": "Massage Meisterin/in für Minijob/Teilzeit/Vollzeit",
+      "role": "heading"
+    },
+    "e4158": {
+      "name": "Nageldesigner/in für Minijob/Teilzeit/Vollzeit",
+      "role": "heading"
+    },
+    "e4159": {
+      "name": "Brow & Lash Artist für Minijob",
+      "role": "heading"
+    },
+    "e4160": {
+      "name": "Kosmetikerin (Minijob / Teilzeit)",
+      "role": "heading"
+    },
+    "e4161": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e4162": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e4163": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e4164": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e4165": {
+      "name": "",
+      "role": "link"
+    },
+    "e4166": {
+      "name": "Massage Meisterin/in für Minijob/Teilzeit/Vollzeit",
+      "role": "link"
+    },
+    "e4167": {
+      "name": "Nageldesigner/in für Minijob/Teilzeit/Vollzeit",
+      "role": "link"
+    },
+    "e4168": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e4169": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e4170": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e4171": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e4172": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e4173": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e4174": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e4175": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e4176": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e4177": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e4178": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e4179": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e4180": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e4181": {
+      "name": "Brow & Lash Artist für Minijob",
+      "role": "link"
+    },
+    "e4182": {
+      "name": "Kosmetikerin (Minijob / Teilzeit)",
+      "role": "link"
+    },
+    "e4183": {
+      "name": "Menü Umschalter",
+      "role": "button"
+    },
+    "e4184": {
+      "name": "",
+      "role": "link"
+    },
+    "e4185": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e4186": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e4187": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e4188": {
+      "name": "",
+      "role": "link"
+    },
+    "e4189": {
+      "name": "",
+      "role": "link"
+    },
+    "e4190": {
+      "name": "",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e4154, url=https://www.albina-beauty-concept.de/elementor-1142/#content]\n- banner\n  - generic\n    - generic\n      - search\n        - form\n          - button \"Suche\" [ref=e4186]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e4187]\n      - list\n        - listitem [level=1]\n          - link [ref=e4188, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e4189, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e4190, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e4184, url=https://www.albina-beauty-concept.de/]\n      - button \"Menü Umschalter\" [expanded=false, ref=e4183]\n      - link \"Termine\" [ref=e4185, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"Karriere\" [level=1, ref=e4155]\n  - generic\n    - heading \"Wir suchen DICH!\" [level=4, ref=e4156]\n    - paragraph\n      - StaticText \"Aktuell bieten wir folgende Positionen an:\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - link \"Massage Meisterin/in für Minijob/Teilzeit/Vollzeit\" [ref=e4166, url=https://www.albina-beauty-concept.de/elementor-1142/#massage]\n          - strong\n            - StaticText \"Massage Meisterin/in für Minijob/Teilzeit/Vollzeit\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - link \"Nageldesigner/in für Minijob/Teilzeit/Vollzeit\" [ref=e4167, url=https://www.albina-beauty-concept.de/elementor-1142/#nagel]\n          - strong\n            - StaticText \"Nageldesigner/in für Minijob/Teilzeit/Vollzeit\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - strong\n          - link \"Brow & Lash Artist für Minijob\" [ref=e4181, url=https://www.albina-beauty-concept.de/elementor-1142/#brow]\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - strong\n          - link \"Kosmetikerin (Minijob / Teilzeit)\" [ref=e4182, url=https://www.albina-beauty-concept.de/elementor-1142/#kosmetik]\n    - heading \"Massage Meisterin/in für Minijob/Teilzeit/Vollzeit\" [level=5, ref=e4157]\n      - strong\n        - StaticText \"Massage Meisterin/in für Minijob/Teilzeit/Vollzeit\"\n    - paragraph\n      - strong\n        - StaticText \"Aufgabenbereich:\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Durchführung von professionellen Massagen im Wellness- und Präventionsbereich\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Spezialisierungen: Klassische Massage, Entspannungsmassage, Lymphdrainage, Anti-Cellulite-Massage, Rücken- und Ganzkörpermassagen\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Individuelle Anpassung der Behandlungen an die Bedürfnisse der Kunden\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Beratung der Kunden zu passenden Anwendungen\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Einhaltung der internen und externen Hygienestandards\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Enge Zusammenarbeit mit Kolleginnen im Team\"\n    - paragraph\n      - strong\n        - LineBreak \"\\n\"\n        - StaticText \"Profil:\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Abgeschlossene Ausbildung als Masseur/in, medizinische/r Masseur/in oder Physiotherapeut/in\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Fundierte Fachkenntnisse in den gängigen Massage- und Wellnessmethoden\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Erfahrung im Bereich Lymphdrainage und Anti-Cellulite von Vorteil\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Selbstständige, strukturierte und hygienische Arbeitsweise\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Freundliches Auftreten, Freude am Umgang mit Menschen, Teamfähigkeit\"\n    - paragraph\n      - strong\n        - LineBreak \"\\n\"\n        - StaticText \"Angebot:\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Abwechslungsreiches Aufgabengebiet mit Fokus auf hochwertige Wellness- und Körperbehandlungen\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Moderne Studioausstattung in einem stilvollen Ambiente\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Weiterbildungsmöglichkeiten und Entwicklungsperspektiven\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Leistungsorientierte Vergütung\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Lifestyle-Bonus und angenehmes Arbeitsklima in einem motivierten Team\"\n    - paragraph\n    - paragraph\n      - StaticText \"Wir freuen uns auf Deine Bewerbungsunterlagen (Lebenslauf, Zeugnisse, Zertifikate).\"\n      - LineBreak \"\\n\"\n      - StaticText \"Bitte per E-Mail an: info@albina-beauty-concept.de\"\n      - LineBreak \"\\n\"\n      - StaticText \"Deine Bewerbung wird von uns vertraulich behandelt.\"\n    - heading \"Nageldesigner/in für Minijob/Teilzeit/Vollzeit\" [level=5, ref=e4158]\n      - strong\n        - StaticText \"Nageldesigner/in für Minijob/Teilzeit/Vollzeit\"\n    - paragraph\n      - strong\n        - StaticText \"Aufgabenbereich\"\n      - StaticText \":\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Durchführung von professionellen Nagelbehandlungen (Maniküre & Pediküre)\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Nagelmodellage, Verstärkung & Verlängerung (Gel / Rubber Base)\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Präzise French- und Babyboomer-Designs\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Kreative Nail Art & individuelle Designs nach Kundenwunsch\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Kundenberatung im Bereich Pflege und Trends\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Gewährleistung eines sauberen und hygienischen Arbeitsplatzes\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n    - paragraph\n      - strong\n        - StaticText \"Profil:\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Ausbildung als Nageldesigner/in oder mehrjährige Berufserfahrung\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Fachkenntnisse in klassischer und moderner Nagelmodellage\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Sicheres Arbeiten bei French, Babyboomer und kreativen Designs\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Sorgfältige, saubere und kreative Arbeitsweise\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Gepflegtes Erscheinungsbild, Freundlichkeit und Teamfähigkeit\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n    - paragraph\n      - strong\n        - StaticText \"Angebot:\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Kreatives und modernes Arbeitsumfeld in einem etablierten Studio\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Eigenverantwortliches Arbeiten mit Raum für individuelle Gestaltung\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Moderne Produkte und hochwertige Ausstattung\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Weiterbildungsmöglichkeiten und Entwicklungspotenzial\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Attraktive Vergütung plus Lifestyle-Bonus\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n    - paragraph\n      - StaticText \"Wir freuen uns auf Deine Bewerbungsunterlagen (Lebenslauf, Zeugnisse, Zertifikate).\"\n      - LineBreak \"\\n\"\n      - StaticText \"Bitte per E-Mail an: info@albina-beauty-concept.de\"\n      - LineBreak \"\\n\"\n      - StaticText \"Deine Bewerbung wird von uns vertraulich behandelt.\"\n    - heading \"Brow & Lash Artist für Minijob\" [level=5, ref=e4159]\n      - strong\n        - StaticText \"Brow & Lash Artist für Minijob\"\n    - paragraph\n      - strong\n        - StaticText \"Aufgabenbereich\"\n      - StaticText \":\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Durchführung von professionellen Brow- und Lash-Behandlungen\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Augenbrauenkorrektur & Augenbrauenstyling\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Färben von Augenbrauen und Wimpern\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Browlifting / Laminierung der Augenbrauen\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Lashlifting / Wimpernlifting inklusive Färben\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Individuelle Beratung der Kundinnen zu passenden Behandlungen und Pflege\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Gewährleistung eines sauberen und hygienischen Arbeitsplatzes\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Enge Zusammenarbeit mit Kolleginnen im Team\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n    - paragraph\n      - strong\n        - StaticText \"Profil:\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Erfahrung im Bereich Brow- & Lash-Styling\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Sicheres und präzises Arbeiten bei Browlifting und Lashlifting\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Gespür für Ästhetik, Symmetrie und natürliche Ergebnisse\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Selbstständige, strukturierte und hygienische Arbeitsweise\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Freundliches Auftreten, gepflegtes Erscheinungsbild und Teamfähigkeit\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Freude am Umgang mit Menschen und an Beauty & Lifestyle\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n    - paragraph\n      - strong\n        - StaticText \"Angebot:\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Modernes und stilvolles Arbeitsumfeld in einem etablierten Beauty Studio\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Arbeiten mit hochwertigen Produkten und moderner Ausstattung\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Angenehmes Arbeitsklima in einem motivierten Team\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Weiterbildungsmöglichkeiten und Entwicklungspotenzial\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Attraktive Vergütung plus Lifestyle-Bonus\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Flexible Arbeitszeiten im Rahmen eines Minijobs\"\n    - paragraph\n      - LineBreak \"\\n\"\n      - StaticText \"Wir freuen uns auf Deine Bewerbungsunterlagen (Lebenslauf, Zeugnisse, Zertifikate).\"\n      - LineBreak \"\\n\"\n      - StaticText \"Bitte per E-Mail an: info@albina-beauty-concept.de\"\n      - LineBreak \"\\n\"\n      - StaticText \"Deine Bewerbung wird von uns vertraulich behandelt.\"\n    - heading \"Kosmetikerin (Minijob / Teilzeit)\" [level=5, ref=e4160]\n      - strong\n        - StaticText \"Kosmetikerin (Minijob / Teilzeit)\"\n    - paragraph\n      - strong\n        - StaticText \"Aufgabenbereich\"\n      - StaticText \":\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Durchführung von professionellen Gesichtsbehandlungen und Hautanalysen\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"HydraFacial-Behandlungen\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Beratung der Kundinnen zu Hautpflege und passenden Behandlungen\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Erstellung individueller Behandlungskonzepte\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Verkauf und Empfehlung von Pflegeprodukten\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Vor- und Nachbereitung der Behandlungsräume\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Sicherstellung eines sauberen und hygienischen Arbeitsplatzes\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Enge Zusammenarbeit mit Kolleginnen im Team\"\n    - paragraph\n    - paragraph\n      - strong\n        - StaticText \"Profil\"\n      - StaticText \":\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Abgeschlossene Ausbildung als Kosmetikerin oder vergleichbare Qualifikation\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Erfahrung im Bereich apparative und klassische Kosmetik von Vorteil\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Freundliches und professionelles Auftreten\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Gespür für Hautbedürfnisse und individuelle Beratung\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Selbstständige, strukturierte und hygienische Arbeitsweise\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Leidenschaft für Beauty, Hautgesundheit und Kundenzufriedenheit\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Teamfähigkeit und Zuverlässigkeit\"\n    - paragraph\n    - paragraph\n      - strong\n        - StaticText \"Angebot\"\n      - StaticText \":\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Modernes und stilvolles Arbeitsumfeld in einem etablierten Beauty Studio\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Arbeiten mit hochwertigen Produkten und moderner Ausstattung\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Angenehmes Arbeitsklima in einem motivierten Team\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Weiterbildungsmöglichkeiten und Entwicklungspotenzial\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Attraktive Vergütung plus Lifestyle-Bonus\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Flexible Arbeitszeiten im Rahmen eines Minijobs oder einer Teilzeitstelle\"\n    - paragraph\n    - paragraph\n      - StaticText \"Wir freuen uns auf Deine Bewerbungsunterlagen (Lebenslauf, Zeugnisse, Zertifikate).\"\n    - paragraph\n      - StaticText \"Bitte per E-Mail an:\"\n      - LineBreak \"\\n\"\n      - StaticText \"info@albina-beauty-concept.de\"\n    - paragraph\n      - StaticText \"Deine Bewerbung wird von uns vertraulich behandelt.\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e4165, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e4161]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e4168, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e4169, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e4170, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e4171, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e4172, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e4173, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e4162]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e4174, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e4175, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e4176, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e4163]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e4177, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e4178, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e4179, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e4180, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e4164]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- StaticText \"mobile\""
+}

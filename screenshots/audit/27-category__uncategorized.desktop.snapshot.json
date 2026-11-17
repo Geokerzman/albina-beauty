@@ -1,0 +1,188 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/category/uncategorized/",
+  "refs": {
+    "e3055": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e3056": {
+      "name": "Kategorie: Uncategorized",
+      "role": "heading"
+    },
+    "e3057": {
+      "name": "Zustimmung verwalten",
+      "role": "button"
+    },
+    "e3058": {
+      "name": "Preisliste",
+      "role": "heading"
+    },
+    "e3059": {
+      "name": "Preisliste",
+      "role": "link"
+    },
+    "e3060": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e3061": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e3062": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e3063": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e3064": {
+      "name": "",
+      "role": "link"
+    },
+    "e3065": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e3066": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3067": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e3068": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e3069": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e3070": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e3071": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e3072": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3073": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e3074": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e3075": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e3076": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e3077": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e3078": {
+      "name": "Menü",
+      "role": "navigation"
+    },
+    "e3079": {
+      "name": "",
+      "role": "link"
+    },
+    "e3080": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e3081": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e3082": {
+      "name": "02234 / 430 39 97",
+      "role": "link"
+    },
+    "e3083": {
+      "name": "0172 / 377 11 77",
+      "role": "link"
+    },
+    "e3084": {
+      "name": "info@albina-beauty-concept.de",
+      "role": "link"
+    },
+    "e3085": {
+      "name": "Frechener Weg 28 • 50859 Köln",
+      "role": "link"
+    },
+    "e3086": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e3087": {
+      "name": "",
+      "role": "link"
+    },
+    "e3088": {
+      "name": "",
+      "role": "link"
+    },
+    "e3089": {
+      "name": "",
+      "role": "link"
+    },
+    "e3090": {
+      "name": "Leistungen",
+      "role": "link"
+    },
+    "e3091": {
+      "name": "Preisliste",
+      "role": "link"
+    },
+    "e3092": {
+      "name": "Galerie",
+      "role": "link"
+    },
+    "e3093": {
+      "name": "Über Uns",
+      "role": "link"
+    },
+    "e3094": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e3095": {
+      "name": "Karriere",
+      "role": "link"
+    },
+    "e3096": {
+      "name": "Shop",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e3055, url=https://www.albina-beauty-concept.de/category/uncategorized/#content]\n- banner\n  - generic\n    - generic\n      - list\n        - listitem [level=1]\n          - link \"02234 / 430 39 97\" [ref=e3082, url=tel:022344303997]\n            - StaticText \"02234 / 430 39 97\"\n        - listitem [level=1]\n          - link \"0172 / 377 11 77\" [ref=e3083, url=tel:+491723771177]\n            - StaticText \"0172 / 377 11 77\"\n        - listitem [level=1]\n          - link \"info@albina-beauty-concept.de\" [ref=e3084, url=mailto:info@albina-beauty-concept.de]\n            - StaticText \"info@albina-beauty-concept.de\"\n        - listitem [level=1]\n          - link \"Frechener Weg 28 • 50859 Köln\" [ref=e3085, url=https://goo.gl/maps/ApuZwNBpUu2y252m7]\n            - StaticText \"Frechener Weg 28 • 50859 Köln\"\n      - search\n        - form\n          - button \"Suche\" [ref=e3081]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e3086]\n      - list\n        - listitem [level=1]\n          - link [ref=e3087, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e3088, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e3089, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e3079, url=https://www.albina-beauty-concept.de/]\n      - navigation \"Menü\" [ref=e3078]\n        - list\n          - listitem [level=1]\n            - link \"Leistungen\" [expanded=false, ref=e3090, url=https://www.albina-beauty-concept.de/leistungen/]\n              - StaticText \"Leistungen\"\n          - listitem [level=1]\n            - link \"Preisliste\" [ref=e3091, url=https://www.albina-beauty-concept.de/preisliste/]\n          - listitem [level=1]\n            - link \"Galerie\" [ref=e3092, url=https://www.albina-beauty-concept.de/galerie/]\n          - listitem [level=1]\n            - link \"Über Uns\" [ref=e3093, url=https://www.albina-beauty-concept.de/ueber-uns/]\n          - listitem [level=1]\n            - link \"Kontakt\" [ref=e3094, url=https://www.albina-beauty-concept.de/kontakt/]\n          - listitem [level=1]\n            - link \"Karriere\" [ref=e3095, url=https://www.albina-beauty-concept.de/elementor-1142/]\n          - listitem [level=1]\n            - link \"Shop\" [ref=e3096, url=http://shop.albina-beauty-concept.de/]\n      - link \"Termine\" [ref=e3080, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"Kategorie: Uncategorized\" [level=1, ref=e3056]\n    - StaticText \"Kategorie: Uncategorized\"\n  - article\n    - heading \"Preisliste\" [level=2, ref=e3058]\n      - link \"Preisliste\" [ref=e3059, url=https://www.albina-beauty-concept.de/preisliste/]\n    - paragraph\n      - StaticText \"Maniküre Basic Maniküre €25 Maniküre Lackieren €35 Shellac mit Maniküre (CND) €45 Shellac mit Maniküre (LUXIO) €55 Gel Neumodelllage €60 – €65 Gel Korrektur / Auffüllen €40 – €50 Gel Korrektur / Auffüllen €40 – €50 Pediküre Basic Pediküre €30 Pediküre Lackieren €40 Gellack mit Pediküre €50 IS Clinical Kosmetikbehandlungen Klassische Gesichtsbehandlung €79 Reinigung, Enzympeeling, […]\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e3064, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e3060]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e3065, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3066, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e3067, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e3068, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e3069, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e3070, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e3061]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e3071, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3072, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e3073, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e3062]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e3074, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e3075, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e3076, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e3077, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e3063]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- button \"Zustimmung verwalten\" [ref=e3057]\n- StaticText \"desktop\""
+}

@@ -1,0 +1,252 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+  "refs": {
+    "e1150": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e1151": {
+      "name": "Perfekte Augenbrauen in Köln Weiden: Styling, Farbe und Lifting",
+      "role": "heading"
+    },
+    "e1152": {
+      "name": "AUGENBRAUEN",
+      "role": "heading"
+    },
+    "e1153": {
+      "name": "PREISLISTE",
+      "role": "heading"
+    },
+    "e1154": {
+      "name": "Wimpernlifting in Köln Weiden: Der perfekte Schwung für Ihre natürlichen Wimpern",
+      "role": "heading"
+    },
+    "e1155": {
+      "name": "WIMPERN LIFTING",
+      "role": "heading"
+    },
+    "e1156": {
+      "name": "Wimpernverlängerung – für einen perfekten Augenaufschlag",
+      "role": "heading"
+    },
+    "e1157": {
+      "name": "Wimpernverlängerung",
+      "role": "heading"
+    },
+    "e1158": {
+      "name": "PREISLISTE",
+      "role": "heading"
+    },
+    "e1159": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e1160": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e1161": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e1162": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e1163": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e1164": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e1165": {
+      "name": "",
+      "role": "link"
+    },
+    "e1166": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e1167": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e1168": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e1169": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e1170": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e1171": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e1172": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e1173": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e1174": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e1175": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e1176": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e1177": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e1178": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e1179": {
+      "name": "Menü",
+      "role": "navigation"
+    },
+    "e1180": {
+      "name": "Augenbrauen Korrektur und Färben 35€ ",
+      "role": "heading"
+    },
+    "e1181": {
+      "name": "Augenbrauen Lifting 60€",
+      "role": "heading"
+    },
+    "e1182": {
+      "name": "Augenbrauen Korrektur (Zupfen/Waxen) 15€",
+      "role": "heading"
+    },
+    "e1183": {
+      "name": "Augenbrauen Färben 25€",
+      "role": "heading"
+    },
+    "e1184": {
+      "name": "Klassik 1:1 89€ ",
+      "role": "heading"
+    },
+    "e1185": {
+      "name": "Volumen 2D-3D 119€",
+      "role": "heading"
+    },
+    "e1186": {
+      "name": "Mega Volumen 4D-5D 139€",
+      "role": "heading"
+    },
+    "e1187": {
+      "name": "Auffüllen Klassik 1:1 (Bis zu 3 Wochen ) 50€ ",
+      "role": "heading"
+    },
+    "e1188": {
+      "name": "Auffüllen Volumen 2D-3D (Bis zu 3 Wochen) 60€",
+      "role": "heading"
+    },
+    "e1189": {
+      "name": "Auffüllen Volumen 4D-5D (Bis zu 3 Wochen ) 75€",
+      "role": "heading"
+    },
+    "e1190": {
+      "name": "",
+      "role": "link"
+    },
+    "e1191": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e1192": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e1193": {
+      "name": "02234 / 430 39 97",
+      "role": "link"
+    },
+    "e1194": {
+      "name": "0172 / 377 11 77",
+      "role": "link"
+    },
+    "e1195": {
+      "name": "info@albina-beauty-concept.de",
+      "role": "link"
+    },
+    "e1196": {
+      "name": "Frechener Weg 28 • 50859 Köln",
+      "role": "link"
+    },
+    "e1197": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e1198": {
+      "name": "",
+      "role": "link"
+    },
+    "e1199": {
+      "name": "",
+      "role": "link"
+    },
+    "e1200": {
+      "name": "",
+      "role": "link"
+    },
+    "e1201": {
+      "name": "Leistungen",
+      "role": "link"
+    },
+    "e1202": {
+      "name": "Preisliste",
+      "role": "link"
+    },
+    "e1203": {
+      "name": "Galerie",
+      "role": "link"
+    },
+    "e1204": {
+      "name": "Über Uns",
+      "role": "link"
+    },
+    "e1205": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e1206": {
+      "name": "Karriere",
+      "role": "link"
+    },
+    "e1207": {
+      "name": "Shop",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- link \"Zum Inhalt springen\" [ref=e1150, url=https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/#content]\n- banner\n  - generic\n    - generic\n      - list\n        - listitem [level=1]\n          - link \"02234 / 430 39 97\" [ref=e1193, url=tel:022344303997]\n            - StaticText \"02234 / 430 39 97\"\n        - listitem [level=1]\n          - link \"0172 / 377 11 77\" [ref=e1194, url=tel:+491723771177]\n            - StaticText \"0172 / 377 11 77\"\n        - listitem [level=1]\n          - link \"info@albina-beauty-concept.de\" [ref=e1195, url=mailto:info@albina-beauty-concept.de]\n            - StaticText \"info@albina-beauty-concept.de\"\n        - listitem [level=1]\n          - link \"Frechener Weg 28 • 50859 Köln\" [ref=e1196, url=https://goo.gl/maps/ApuZwNBpUu2y252m7]\n            - StaticText \"Frechener Weg 28 • 50859 Köln\"\n      - search\n        - form\n          - button \"Suche\" [ref=e1192]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e1197]\n      - list\n        - listitem [level=1]\n          - link [ref=e1198, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e1199, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e1200, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e1190, url=https://www.albina-beauty-concept.de/]\n      - navigation \"Menü\" [ref=e1179]\n        - list\n          - listitem [level=1]\n            - link \"Leistungen\" [ref=e1201, url=https://www.albina-beauty-concept.de/leistungen/]\n              - StaticText \"Leistungen\"\n          - listitem [level=1]\n            - link \"Preisliste\" [ref=e1202, url=https://www.albina-beauty-concept.de/preisliste/]\n          - listitem [level=1]\n            - link \"Galerie\" [ref=e1203, url=https://www.albina-beauty-concept.de/galerie/]\n          - listitem [level=1]\n            - link \"Über Uns\" [ref=e1204, url=https://www.albina-beauty-concept.de/ueber-uns/]\n          - listitem [level=1]\n            - link \"Kontakt\" [ref=e1205, url=https://www.albina-beauty-concept.de/kontakt/]\n          - listitem [level=1]\n            - link \"Karriere\" [ref=e1206, url=https://www.albina-beauty-concept.de/elementor-1142/]\n          - listitem [level=1]\n            - link \"Shop\" [ref=e1207, url=http://shop.albina-beauty-concept.de/]\n      - link \"Termine\" [ref=e1191, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"Perfekte Augenbrauen in Köln Weiden: Styling, Farbe und Lifting\" [level=2, ref=e1151]\n  - generic\n    - generic\n      - heading \"AUGENBRAUEN\" [level=4, ref=e1152]\n      - paragraph\n        - StaticText \"Die Augenbrauen sind der Rahmen unseres Gesichts und spielen eine entscheidende Rolle für einen harmonischen und gepflegten Look. In unserem Kosmetikstudio in Köln Weiden bieten wir Ihnen ein breites Spektrum an professionellen Behandlungen, um Ihre Augenbrauen perfekt in Szene zu setzen.\"\n      - paragraph\n        - StaticText \"Unsere Augenbrauenkorrektur umfasst das präzise Formen der Brauen durch Zupfen oder Wachsen , angepasst an Ihre Gesichtsform und Ihre persönlichen Vorlieben. Für einen noch intensiveren Ausdruck bieten wir die Augenbrauenfärbung an – mit hochwertigen Farben, die perfekt auf Ihren Typ abgestimmt werden. Die Ergebnisse sehen nicht nur natürlich aus, sondern halten auch bis zu vier Wochen.\"\n      - paragraph\n        - StaticText \"Wenn Sie den ultimativen Wow-Effekt wünschen, empfehlen wir unser Augenbrauenlifting. Diese innovative Behandlung hebt die Brauen optisch an, glättet widerspenstige Härchen und verleiht ihnen mehr Volumen. Das Ergebnis: volle, perfekt gestylte Augenbrauen, die bis zu sechs Wochen lang halten.\"\n      - paragraph\n        - StaticText \"Lassen Sie sich von unseren erfahrenen Spezialistinnen beraten und gönnen Sie sich das Beste für Ihre Brauen. Vertrauen Sie auf unser Können, hochwertige Produkte und ein Ergebnis, das Ihren Look unterstreicht und Ihre natürliche Schönheit hervorhebt.\"\n  - generic\n    - heading \"PREISLISTE\" [level=4, ref=e1153]\n    - generic\n      - heading \"Augenbrauen Korrektur und Färben 35€ \" [level=5, ref=e1180]\n        - strong\n          - StaticText \"Augenbrauen Korrektur und Färben\"\n          - LineBreak \"\\n\"\n        - StaticText \"35€ \"\n      - heading \"Augenbrauen Lifting 60€\" [level=5, ref=e1181]\n        - strong\n          - StaticText \"Augenbrauen Lifting\"\n          - LineBreak \"\\n\"\n        - StaticText \"60€\"\n    - generic\n      - heading \"Augenbrauen Korrektur (Zupfen/Waxen) 15€\" [level=5, ref=e1182]\n        - strong\n          - StaticText \"Augenbrauen Korrektur (Zupfen/Waxen)\"\n          - LineBreak \"\\n\"\n        - StaticText \"15€\"\n      - heading \"Augenbrauen Färben 25€\" [level=5, ref=e1183]\n        - strong\n          - StaticText \"Augenbrauen Färben\"\n          - LineBreak \"\\n\"\n        - StaticText \"25€\"\n    - paragraph\n      - StaticText \"Möchten Sie mehr Informationen oder einen Probetermin vereinbaren? Rufen Sie uns gerne an! Wenn Sie sich bereits entschieden haben, klicken Sie auf den Button und buchen Sie Ihren Wunschtermin.\"\n    - link \"Termine\" [ref=e1163, url=https://app.terminslot.de/employees?salonGuid=cc853bef-3396-41a3-8fcd-5058cf8e352f]\n      - StaticText \"Termine\"\n    - heading \"Wimpernlifting in Köln Weiden: Der perfekte Schwung für Ihre natürlichen Wimpern\" [level=2, ref=e1154]\n  - generic\n    - generic\n      - heading \"WIMPERN LIFTING\" [level=4, ref=e1155]\n      - paragraph\n        - StaticText \"Für einen strahlenden Blick und natürlich geschwungene Wimpern ist ein professionelles Wimpernlifting die perfekte Wahl. In unserem Kosmetikstudio in Köln Weiden setzen wir auf innovative Techniken, um Ihren Wimpern einen langanhaltenden Schwung und mehr Volumen zu verleihen – ganz ohne künstliche Verlängerungen.\"\n      - paragraph\n        - StaticText \"Beim Wimpernlifting werden Ihre natürlichen Wimpern sanft angehoben und in Form gebracht. Das Ergebnis: Ein offener Blick, der Ihre Augen größer und ausdrucksvoller wirken lässt. Die Behandlung ist nicht nur schonend, sondern auch effektiv – der Schwung hält bis zu 6 Wochen und verleiht Ihren Wimpern einen natürlichen, gepflegten Look. Für den zusätzlichen Effekt können Ihre Wimpern nach dem Lifting gefärbt werden, um sie dunkler und definierter wirken zu lassen.\"\n      - paragraph\n        - StaticText \"Wenn Sie auf den Schwung verzichten möchten, bieten wir Ihnen die Möglichkeit, Ihre Wimpern separat zu färben. Mit unserer präzisen Wimpernfärbung wirken Ihre Augen strahlender, und Ihre Wimpern gewinnen an Intensität – ideal, um Ihren Look zu betonen, ohne Mascara zu verwenden.\"\n      - paragraph\n        - StaticText \"Unsere erfahrenen Spezialistinnen sorgen dafür, dass Ihre Wimpern genau so aussehen, wie Sie es sich wünschen – gepflegt, natürlich und mit dem perfekten Ausdruck. Besuchen Sie uns in Köln Weiden und gönnen Sie sich den Luxus eines professionellen Wimpernstylings.\"\n  - heading \"Wimpernverlängerung – für einen perfekten Augenaufschlag\" [level=2, ref=e1156]\n  - generic\n    - generic\n      - heading \"Wimpernverlängerung\" [level=4, ref=e1157]\n      - paragraph\n        - StaticText \"Geben Sie Ihrem Blick Ausdruck und lassen Sie Ihre Augen strahlen! Professionelle Wimpernverlängerung ist die perfekte Lösung für alle, die sich einen intensiven und langanhaltenden Look ohne tägliches Auftragen von Mascara wünschen.\"\n      - paragraph\n        - StaticText \"In unserem Studio in Köln Weiden arbeiten wir ausschließlich mit hochwertigen Materialien und modernsten Techniken, um Ihnen natürlich wirkende, voluminöse und perfekt geschwungene Wimpern zu verleihen. Unsere erfahrene Lash-Stylistin passt die Verlängerung individuell an Ihre Augenform und Ihre Wünsche an – von dezent natürlich bis hin zu glamourös.\"\n      - paragraph\n        - StaticText \"Warum Wimpernverlängerung bei Albina Beauty Concept?\"\n      - list\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - StaticText \"Natürlicher Look: Wir achten auf ein harmonisches Ergebnis, das Ihre Augenform perfekt unterstreicht.\"\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - StaticText \"Höchste Qualität: Wir verwenden nur geprüfte Produkte, die Ihre natürlichen Wimpern schonen.\"\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - StaticText \"Individuelle Beratung: Gemeinsam finden wir den Look, der zu Ihnen passt – ob klassische Verlängerung, Volumentechnik oder Mix.\"\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - StaticText \"Langanhaltende Ergebnisse: Mit der richtigen Pflege bleiben Ihre neuen Wimpern wochenlang makellos.\"\n      - paragraph\n        - LineBreak \"\\n\"\n        - StaticText \"Lassen Sie sich von der Kunst der Wimpernverlängerung bei Albina Beauty Concept begeistern und genießen Sie einen unvergleichlichen Augenaufschlag!\"\n  - generic\n    - heading \"PREISLISTE\" [level=4, ref=e1158]\n    - generic\n      - heading \"Klassik 1:1 89€ \" [level=5, ref=e1184]\n        - strong\n          - StaticText \"Klassik 1:1\"\n          - LineBreak \"\\n\"\n        - StaticText \"89€ \"\n      - heading \"Volumen 2D-3D 119€\" [level=5, ref=e1185]\n        - strong\n          - StaticText \"Volumen 2D-3D\"\n          - LineBreak \"\\n\"\n        - StaticText \"119€\"\n      - heading \"Mega Volumen 4D-5D 139€\" [level=5, ref=e1186]\n        - strong\n          - StaticText \"Mega Volumen 4D-5D\"\n          - LineBreak \"\\n\"\n        - StaticText \"139€\"\n    - generic\n      - heading \"Auffüllen Klassik 1:1 (Bis zu 3 Wochen ) 50€ \" [level=5, ref=e1187]\n        - strong\n          - StaticText \"Auffüllen Klassik 1:1\"\n          - LineBreak \"\\n\"\n          - StaticText \"(Bis zu 3 Wochen )\"\n          - LineBreak \"\\n\"\n        - StaticText \"50€ \"\n      - heading \"Auffüllen Volumen 2D-3D (Bis zu 3 Wochen) 60€\" [level=5, ref=e1188]\n        - strong\n          - StaticText \"Auffüllen Volumen 2D-3D\"\n          - LineBreak \"\\n\"\n          - StaticText \"(Bis zu 3 Wochen)\"\n          - LineBreak \"\\n\"\n        - StaticText \"60€\"\n      - heading \"Auffüllen Volumen 4D-5D (Bis zu 3 Wochen ) 75€\" [level=5, ref=e1189]\n        - strong\n          - StaticText \"Auffüllen Volumen 4D-5D\"\n          - LineBreak \"\\n\"\n          - StaticText \"(Bis zu 3 Wochen )\"\n          - LineBreak \"\\n\"\n        - StaticText \"75€\"\n    - paragraph\n      - StaticText \"Möchten Sie mehr Informationen oder einen Probetermin vereinbaren? Rufen Sie uns gerne an! Wenn Sie sich bereits entschieden haben, klicken Sie auf den Button und buchen Sie Ihren Wunschtermin.\"\n    - link \"Termine\" [ref=e1164, url=https://app.terminslot.de/employees?salonGuid=cc853bef-3396-41a3-8fcd-5058cf8e352f]\n      - StaticText \"Termine\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e1165, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e1159]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e1166, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e1167, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e1168, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e1169, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e1170, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e1171, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e1160]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e1172, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e1173, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e1174, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e1161]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e1175, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e1176, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e1177, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e1178, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e1162]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- generic"
+}

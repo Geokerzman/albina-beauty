@@ -1,0 +1,2433 @@
+{
+  "buttons": [
+    {
+      "label": "Dialog schließen",
+      "text": "\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "\n\n\n\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "\n\n\n\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "\n\n\n\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "\n\n\n\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Akzeptieren",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Ablehnen",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Einstellungen ansehen",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Einstellungen speichern",
+      "visible": false
+    },
+    {
+      "label": "Suche",
+      "text": "",
+      "visible": true
+    },
+    {
+      "label": "Schließe dieses Suchfeld.",
+      "text": "\n",
+      "visible": false
+    },
+    {
+      "label": "Menü Umschalter",
+      "text": "\n",
+      "visible": false
+    },
+    {
+      "label": "Suche",
+      "text": "",
+      "visible": false
+    },
+    {
+      "label": "Schließe dieses Suchfeld.",
+      "text": "\n",
+      "visible": false
+    },
+    {
+      "label": "Menü Umschalter",
+      "text": "\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Zustimmung verwalten",
+      "visible": true
+    }
+  ],
+  "canonical": "https://www.albina-beauty-concept.de/preisliste/",
+  "dimensions": {
+    "height": 1000,
+    "scrollHeight": 8661,
+    "scrollWidth": 1440,
+    "width": 1440
+  },
+  "forms": [
+    {
+      "action": "https://www.albina-beauty-concept.de/",
+      "fields": [
+        {
+          "label": "Suche",
+          "name": "s",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "search"
+        }
+      ],
+      "method": "get"
+    },
+    {
+      "action": "https://www.albina-beauty-concept.de/",
+      "fields": [
+        {
+          "name": "s",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "search"
+        }
+      ],
+      "method": "get"
+    }
+  ],
+  "generator": "WordPress 7.1.4",
+  "headings": [
+    {
+      "level": "H2",
+      "text": "Laser-Haarentfernung",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "FORMA by InMode",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Body Fx",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "HydraFacial",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Medizinische Microneedling",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "NOON",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Exosome",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Maniküre",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Pediküre",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "IS Clinical Kosmetikbehandlungen",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Augenbrauen",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Wimpern",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Wimpernverlängerung",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Wellness",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Private Physiotherapie",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Unsere Leistungen",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Unsere Marken",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Information & Kontakt",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "visible": true
+    }
+  ],
+  "iframes": [],
+  "images": [
+    {
+      "alt": "Albina Beauty Concept",
+      "complete": true,
+      "height": 1,
+      "loading": "auto",
+      "src": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+      "visible": false,
+      "width": 1
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 223,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-Black.svg",
+      "visible": true,
+      "width": 711
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 223,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-Black.svg",
+      "visible": false,
+      "width": 711
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 179,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2021/10/Ueber-uns-1536x192.jpg",
+      "visible": true,
+      "width": 1439
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 512,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/08/wimpern20.jpg",
+      "visible": true,
+      "width": 512
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 800,
+      "loading": "lazy",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/wimpern1.jpg",
+      "visible": true,
+      "width": 800
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 800,
+      "loading": "lazy",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/wimpern3.jpg",
+      "visible": true,
+      "width": 800
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 1024,
+      "loading": "lazy",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/massa-671x1024.jpg",
+      "visible": true,
+      "width": 671
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 1024,
+      "loading": "lazy",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2022/03/albina_beautyconcept_fotograf_anuanet_studio-1616-604x1024.jpg",
+      "visible": true,
+      "width": 604
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 223,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-White.svg",
+      "visible": true,
+      "width": 711
+    }
+  ],
+  "lang": "de",
+  "links": [
+    {
+      "target": "",
+      "text": "Optionen verwalten",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/#cmplz-manage-consent-container",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Dienste verwalten",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/#cmplz-cookies-overview",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Verwalten von {vendor_count}-Lieferanten",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/#cmplz-tcf-wrapper",
+      "visible": false
+    },
+    {
+      "target": "_blank",
+      "text": "Lese mehr über diese Zwecke",
+      "url": "https://cookiedatabase.org/tcf/purposes/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Einstellungen ansehen",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/#cmplz-manage-consent-container",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Cookie-Richtlinie",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Datenschutzerklärung",
+      "url": "https://www.albina-beauty-concept.de/datenschutzerklaerung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Impressum",
+      "url": "https://www.albina-beauty-concept.de/impressum/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Zum Inhalt springen",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#content",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "02234 / 430 39 97",
+      "url": "tel:022344303997",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "0172 / 377 11 77",
+      "url": "tel:+491723771177",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "info@albina-beauty-concept.de",
+      "url": "mailto:info@albina-beauty-concept.de",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Frechener Weg 28 • 50859 Köln",
+      "url": "https://goo.gl/maps/ApuZwNBpUu2y252m7",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.instagram.com/albina.beautyconcept",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://facebook.com/Albina-Letova-108039101026948/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Leistungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Preisliste",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Galerie",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Über Uns",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Karriere",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Shop",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Leistungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Preisliste",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Galerie",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Über uns",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Karriere",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Shop",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Termine",
+      "url": "https://wa.me/491723771177",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "tel:022344303997",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "tel:+491723771177",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "mailto:info@albina-beauty-concept.de",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://goo.gl/maps/ApuZwNBpUu2y252m7",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.instagram.com/albina.beautyconcept",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://facebook.com/Albina-Letova-108039101026948/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Leistungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Preisliste",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Galerie",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Über uns",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Karriere",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Shop",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://wa.me/491723771177",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Paket 1\n€180\n\n60 Min (Achseln, Intimbereich komplett)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Paket 2\n€300\n\n60 Min (Achseln, Intimbereich komplett, Unterschenkel)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Paket 3\n€400\n\n75 Min (Achseln, Intimbereich+Beine komplett)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Paket 4\n€350\n\n60 Min (Achseln, Intimbereich komplett, Unterschenkel, Oberlippe)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Paket 5\n€420\n\n60 Min (Nacken, Brust, oberer Rücken, Hals)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Paket 6\n€250\n\n60 Min (Achseln, Unterschenkel, Oberlippe)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "1 Region\n€75\n\n60 Min (Kinn / Wangen / Stirn / Hals / Kieferlinie / Nasolabialbereich / Augenpartie (unter den Augen)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "1 Region (Paket)\n€375\n\nSparabo 5 + 1 Gratis (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Full Face - Behandlung\n€200\n\n90 Min (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Full Face - Behandlung (Paket)\n€1000\n\nSparabo 5 + 1 Gratis (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Gesicht + Hals & Dekolleté\n€300\n\n120 min (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Gesicht + Hals & Dekolleté (Paket)\n€300\n\nSparabo 5 + 1 Gratis (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "1 Zone\n€250\n\n60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Paket 3 Behandlungen\n€700\n\n60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Paket 6 Behandlungen\n€1350\n\n60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™ Classic\n€189\n\nDie medizinisch zugelassene HydraFacial-Behandlung vereint Tiefenreinigung, sanftes Säurepeeling, Porenausreinigung und intensive Hydration in einer Anwendung. Zum Abschluss verwöhnen wir Ihre Haut mit einer beruhigenden Feuchtigkeitsmaske für einen sofortigen Glow-Effekt und ein sichtbar frischeres (60 Min)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™ Sylver\n€219\n\nHydraFacial Classic in Kombination mit dem exklusiven Champagner Facial von iS Clinical. Die Behandlung vereint intensive Tiefenreinigung, Hydration und einen luxuriösen Pflegekomplex für einen besonders strahlenden, frischen Teint. Ideal für alle, die ihrer Haut einen sofort sichtbaren Glow und zusätzliche Pflege schenken möchten. Inklusive entspannender Abschlusspflege. (80 Min.)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™ Fire & Ice\n€219\n\nDie perfekte Kombination aus HydraFacial und dem legendären Fire & Ice Facial von iS Clinical. Während HydraFacial die Haut tiefenreinigt und intensiv mit Feuchtigkeit versorgt, fördert Fire & Ice die Hauterneuerung und verleiht einen sofort sichtbaren Glow-Effekt. Für ein verfeinertes Hautbild, mehr Strahlkraft und einen luxuriösen Frischekick. (80 Min.)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HydraFacial + Microneedling\n€389",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HydraFacial + Nanoneedling\n€239\n\n*Nanoneedling - kann als Zusatzoption zu jeder Leistung hinzugefügt werden",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Medizinische Microneedling\n€265\n\nGesicht (60min)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Medizinische Microneedling\n€265\n\nHals und Dekollete (60min)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Medizinische Microneedling\n€349\n\nGesicht + Hals + Dekolleté (90min)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "NOON Peeling + Microneedling\n€319\n\n(75min)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Medizinische Microneedling (3er Paket)\n€715",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Medizinische Microneedling (6er Paket)\n€1390",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "NOON Express Glow\n€99\n\nFür einen schnellen Glow-Effekt und sofort sichtbar frischere Haut. Ideal für einen strahlenden Teint vor besonderen Anlässen oder als kurze Pflege zwischendurch (45min)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "NOON Acne Treatment\n€169\n\nEine klärende Gesichtsbehandlung zur Beruhigung entzündlicher Haut, Regulierung der Talgproduktion und Unterstützung der Hautregeneration (60min)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "NOON Rosacea Treatment\n€159\n\nEine besonders sanfte Behandlung zur Stärkung der Hautbarriere, Reduktion von Rötungen und Beruhigung empfindlicher Rosazea-Haut (60min)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "NOON Even Tone (Pigmentierung)\n€169\n\nEine ausgleichende Gesichtsbehandlung zur Aufhellung von Pigmentflecken und Förderung eines ebenmäßigen, strahlenden Hautbildes (60min)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "NOON Sun Repair (Anti-Age)\n€189\n\nEine regenerierende Anti-Aging-Behandlung zur Reparatur lichtgeschädigter Haut, Stimulation der Kollagenproduktion und Verbesserung der Hautstruktur für ein glatteres, strafferes Hautbild. (60min)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "NOON Peeling + Microneedling\n€319\n\nEine intensive Kombination aus chemischen Peeling und Microneedling zur tiefen Hauterneuerung, Verbesserung der Hautstruktur, Reduktion von Falten, Pigmentierungen und Unreinheiten (75min)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Medizinische Microneedling EXOSOME\n€399\n\n60 min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Medizinische Microneedling Kopfhaut EXOSOME\n€399\n\n60 min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Medizinische Microneedling Hals + Dekolleté EXOSOME \n€399\n\n60 min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HYDRAFACIAL + MICRONEEDLING + EXOSOMES\n€499\n\n90 min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "NOON + MICRONEEDLING + EXOSOMES\n€499\n\n90 min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Basic Maniküre\n€39\n\n60 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Maniküre Lackieren\n€49\n\n75 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Männer Maniküre\n€45\n\n60 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Gellack mit Maniküre\n€59\n\n90 Min inkl. Entfernung unseres Materials",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "French mit Maniküre\n€64\n\n120 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Gel Neumodellage\n€65 - €70\n\n120 - 150 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Gel Korrektur / Verstärkung\n€64\n\n120 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Entfernung von Fremdmaterial\n€10 - 20",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Basic Pediküre\n€44\n\n60 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Männer Pediküre\n€45\n\n60 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Pediküre Lackieren\n€49\n\n75 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Gellack mit Pediküre\n€59\n\n90 Min inkl. Entfernung unseres Materials",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "French mit Pediküre\n€64\n\n120 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Entfernung von Fremdmaterial\n€10 - 20",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Gesichtsreinigung (trockene Haut bis reife Haut)\n€119\n\nReinigung, Peeling, Enzympeeling, Ausreinigung(Ultraschall), Maske, Massage, Pflege",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "iS Clinical - FOAMING ENZYME TREATMENT\n€129\n\nDas Bekannte und auch sogenannte „Champagner Facial“ ist eine hochwirksame Anti-Aging und auch gleichzeitig beruhigende Behandlung. Die Behandlung erzeugt ein sensationelles, intensives und champagnerähnliches Kribbeln auf der Haut. Bei der Behandlung wird ein Aktivschaum eingesetzt der die Haut mit bioaktiven Inhaltsstoffen exfoliert. (45 Min)",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "iS Clinical - FIRE & ICE FACIAL\n€129\n\nDie bekannte Gesichtsbehandlung aus den USA. Diese Behandlung erneuert die Hautoberfläche, reduziert feine Linien und Falten und verfeinert die Poren. Bei der Behandlung werden zwei hochwirksame Masken verwendet. Die Fire-Maske erwärmt die Haut und fördert die Durchblutung, die Ice-Maske kühlt, beruhigt und hydratisiert intensiv. Das Ergebnis ist eine sichtbar glattere, straffe und festere Haut mit „Glow“-Effekt.",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Korrektur (Zupfen/Waxen)\n€20\n\n30min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Korrektur + Färben\n€35\n\n60min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen Lifting (Lifting+Färbung+Waxing)\n€60\n\n60min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen Lifting (ohne Farbe)\n€45\n\n60min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Färben\n25€\n\n30min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Färben\n€20\n\n20 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Wimpern Lifting ohne Farbe\n€45\n\n60 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Wimpern Lifting\n€60\n\n75 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Classic 1:1\n€89\n\nAuffüllen ( bis zu 3 Wochen ) €50",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Volumen 2D-3D\n€119\n\nAuffüllen ( bis zu 3 Wochen ) €60",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Mega Volumen 4D-5D\n€139\n\nAuffüllen ( bis zu 3 Wochen ) €70",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Entspannungsmassage\n€50\n\n30 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Entspannungsmassage\n€89\n\n50 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Rücken, Schulter-Naken-Massage\n€89\n\n50 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Lymphodrainage\n€94\n\n55 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Entspannungsmassage\n€119\n\n80 Min",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "KG (30 Min)\n€36,5",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "MT (30 Min)\n€40",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "CMD (30 Min)\n€40",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "MLD (30 Min)\n€40",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "MLD (45 Min)\n€55",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "MLD (60 Min)\n€65",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Triggerpunktbehandlung (ca. 45 Min)\n€60",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Kinesio Tapeanlegen\n€15",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Hausbesuch\n€20",
+      "url": "https://www.albina-beauty-concept.de/preisliste/#",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "InMode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "IS Clinical",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Impressum",
+      "url": "https://www.albina-beauty-concept.de/impressum/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Datenschutz",
+      "url": "https://www.albina-beauty-concept.de/datenschutzerklaerung/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Cookie Richtlinie (EU)",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+      "visible": true
+    }
+  ],
+  "performance": [
+    {
+      "domContentLoaded": 466.2000000476837,
+      "load": 473.7999999523163,
+      "responseStatus": 200,
+      "transferSize": 24489,
+      "ttfb": 429.7999999523163
+    }
+  ],
+  "resources": [
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/litespeed/css/b644d482142716b54881a09d0b95818e.css?ver=7c734",
+      "type": "link"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.54.0",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wlhyw.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/ubuntu-4ics6kvjbnbylgokfw72.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/ubuntu-4icv6kvjbnbylgocxcvjsgyn.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/laser2.jpg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 0.7000000476837158,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/forma.jpg",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0.5,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/body.jpg",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0.7999999523162842,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/hydra.jpg",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0.7000000476837158,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2026/04/micro.jpg",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2026/04/noon.jpg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 0.7000000476837158,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2026/04/29847d2e9d68d-1.png",
+      "type": "css"
+    },
+    {
+      "bytes": 322,
+      "duration": 42.5,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "type": "fetch"
+    },
+    {
+      "bytes": 0,
+      "duration": 0.5,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/manik.jpg",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/stuhl2.jpg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 0.6000001430511475,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2022/03/albina_beautyconcept_fotograf_anuanet_studio-768x1150.jpg",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-Black.svg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2021/10/Ueber-uns-1536x192.jpg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-includes/js/jquery/jquery.min.js",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.googletagmanager.com/gtag/js?id=GT-NFXC3LJL",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.googletagmanager.com/gtm.js?id=GTM-MXZMD6MB",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-includes/js/dist/hooks.min.js",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-includes/js/dist/i18n.min.js",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/litespeed/js/9014f24669e44fbcde2afe1f66d5db5a.js?ver=7c734",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/complianz/css/banner-1-optin.css?v=21",
+      "type": "link"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/js/chunks/section-stretched-section.min.js?ver=4.3.5",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/js/chunks/background-slideshow.min.js?ver=4.3.5",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.5",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/js/chunks/text-editor.min.js?ver=4.3.5",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 34.700000047683716,
+      "name": "https://pagead2.googlesyndication.com/ccm/collect?rcb=9&frm=0&apvc=1&tid=AW-542333108&en=page_view&dl=https%3A%2F%2Fwww.albina-beauty-concept.de%2Fpreisliste%2F&scrsrc=www.googletagmanager.com&rnd=391775671.1794951201&navt=n&npa=1&did=dZTNiMT&gdid=dZTNiMT&gtm=45Pe6bg0v9218320494za208zd9218320494xecxf1&gcs=G100&gcd=13p3p3p2p5l1&dma_cps=-&dma=1&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121246026~121246034&tft=1794951200778&tfd=1041&gap.plf=5&tids=AW-542333108&fmt=8",
+      "type": "fetch"
+    },
+    {
+      "bytes": 0,
+      "duration": 34.59999990463257,
+      "name": "https://pagead2.googlesyndication.com/ccm/collect?rcb=3&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.albina-beauty-concept.de%2Fpreisliste%2F&scrsrc=www.googletagmanager.com&rnd=391775671.1794951201&navt=n&npa=1&ep.ads_data_redaction=0&gdid=dZTNiMT&gtm=45He6bg0v9284591744za200zd9284591744xeaxf1&gcs=G100&gcd=13p3p3p2p5l1&dma_cps=-&dma=1&tag_exp=100940090~115616985~115938465~115938469~118897920~118897930~119793973~120385423~120412526~120420416~120469145~120469153~121049589~121246026~121246034&tft=1794951200778&tfd=1041&gap.plf=5&fmt=8",
+      "type": "fetch"
+    },
+    {
+      "bytes": 0,
+      "duration": 35.700000047683716,
+      "name": "https://region1.google-analytics.com/g/collect?v=2&tid=G-KRGEEEQ0MD&gtm=45Pe6bg0v9218320494za208zd9218320494xf1&_p=1794951200266&gcs=G100&gcd=13p3p3p2p5l1&npa=1&dma_cps=-&dma=1&gdid=dZTNiMT&cid=381394284.1794951201&frm=0&ngs=1&pscdl=denied&rcb=9&sr=800x600&uaa=arm&uab=64&uafvl=Chromium%3B157.0.8103.78%7CNot-A.Brand%3B99.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.6.2&uaw=0&ul=ru-ru&_s=1&tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385422~120412526~120420414~120469145~120469153~121246026~121246034&sid=1794951200&sct=1&seg=0&dl=https%3A%2F%2Fwww.albina-beauty-concept.de%2Fpreisliste%2F&dt=Preisliste%20%E2%80%93%20Albina%20Beauty%20Concept&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&gap.plf=5&tfd=1043",
+      "type": "fetch"
+    },
+    {
+      "bytes": 0,
+      "duration": 2.3000001907348633,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/08/wimpern20.jpg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 2.8999998569488525,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/wimpern1.jpg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 2.5999999046325684,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/wimpern3.jpg",
+      "type": "img"
+    },
+    {
+      "bytes": 23886,
+      "duration": 73.29999995231628,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/massa-671x1024.jpg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-White.svg",
+      "type": "img"
+    },
+    {
+      "bytes": 86338,
+      "duration": 103.29999995231628,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2022/03/albina_beautyconcept_fotograf_anuanet_studio-1616-604x1024.jpg",
+      "type": "img"
+    }
+  ],
+  "robots": "max-image-preview:large",
+  "structuredData": [],
+  "styles": [
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Zum Inhalt springen",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "18px",
+      "size": "12px",
+      "tag": "A",
+      "text": "02234 / 430 39 97",
+      "weight": "300"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "18px",
+      "size": "12px",
+      "tag": "A",
+      "text": "0172 / 377 11 77",
+      "weight": "300"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "18px",
+      "size": "12px",
+      "tag": "A",
+      "text": "info@albina-beauty-concept.de",
+      "weight": "300"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "18px",
+      "size": "12px",
+      "tag": "A",
+      "text": "Frechener Weg 28 • 50859 Köln",
+      "weight": "300"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Leistungen",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(211, 181, 116)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Preisliste",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Galerie",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Über Uns",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Kontakt",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Karriere",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Shop",
+      "weight": "400"
+    },
+    {
+      "background": "rgb(217, 190, 183)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "16px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Termine",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(137, 173, 192)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "32px",
+      "size": "32px",
+      "tag": "H2",
+      "text": "Laser-Haarentfernung",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Paket 1\n€180\n\n60 Min (Achseln, Intimbereich komplett)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "60 Min (Achseln, Intimbereich komplett)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Paket 2\n€300\n\n60 Min (Achseln, Intimbereich komplett, Unterschenkel)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "60 Min (Achseln, Intimbereich komplett, Unterschenkel)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Paket 3\n€400\n\n75 Min (Achseln, Intimbereich+Beine komplett)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "75 Min (Achseln, Intimbereich+Beine komplett)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Paket 4\n€350\n\n60 Min (Achseln, Intimbereich komplett, Unterschenkel, Oberlippe)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "60 Min (Achseln, Intimbereich komplett, Unterschenkel, Oberlippe)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Paket 5\n€420\n\n60 Min (Nacken, Brust, oberer Rücken, Hals)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "60 Min (Nacken, Brust, oberer Rücken, Hals)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Paket 6\n€250\n\n60 Min (Achseln, Unterschenkel, Oberlippe)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "60 Min (Achseln, Unterschenkel, Oberlippe)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(137, 173, 192)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "32px",
+      "size": "32px",
+      "tag": "H2",
+      "text": "FORMA by InMode",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "1 Region\n€75\n\n60 Min (Kinn / Wangen / Stirn / Hals / Kieferlinie / Nasolabialbereich / Augenpartie (unter den Augen)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "60 Min (Kinn / Wangen / Stirn / Hals / Kieferlinie / Nasolabialbereich / Augenpartie (unter den Augen)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "1 Region (Paket)\n€375\n\nSparabo 5 + 1 Gratis (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Sparabo 5 + 1 Gratis (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Full Face - Behandlung\n€200\n\n90 Min (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "90 Min (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Full Face - Behandlung (Paket)\n€1000\n\nSparabo 5 + 1 Gratis (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Sparabo 5 + 1 Gratis (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Gesicht + Hals & Dekolleté\n€300\n\n120 min (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "120 min (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Gesicht + Hals & Dekolleté (Paket)\n€300\n\nSparabo 5 + 1 Gratis (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Sparabo 5 + 1 Gratis (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(137, 173, 192)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "32px",
+      "size": "32px",
+      "tag": "H2",
+      "text": "Body Fx",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "1 Zone\n€250\n\n60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Paket 3 Behandlungen\n€700\n\n60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Paket 6 Behandlungen\n€1350\n\n60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(137, 173, 192)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "32px",
+      "size": "32px",
+      "tag": "H2",
+      "text": "HydraFacial",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "HydraFacial™ Classic\n€189\n\nDie medizinisch zugelassene HydraFacial-Behandlung vereint Tiefenreinigung, sanftes Säurepeeling, Porenausreinigung und intensive Hyd",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Die medizinisch zugelassene HydraFacial-Behandlung vereint Tiefenreinigung, sanftes Säurepeeling, Porenausreinigung und intensive Hydration in einer Anwendung. ",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "HydraFacial™ Sylver\n€219\n\nHydraFacial Classic in Kombination mit dem exklusiven Champagner Facial von iS Clinical. Die Behandlung vereint intensive Tiefenreinig",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "HydraFacial Classic in Kombination mit dem exklusiven Champagner Facial von iS Clinical. Die Behandlung vereint intensive Tiefenreinigung, Hydration und einen l",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "HydraFacial™ Fire & Ice\n€219\n\nDie perfekte Kombination aus HydraFacial und dem legendären Fire & Ice Facial von iS Clinical. Während HydraFacial die Haut tiefen",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Die perfekte Kombination aus HydraFacial und dem legendären Fire & Ice Facial von iS Clinical. Während HydraFacial die Haut tiefenreinigt und intensiv mit Feuch",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "HydraFacial + Microneedling\n€389",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "HydraFacial + Nanoneedling\n€239\n\n*Nanoneedling - kann als Zusatzoption zu jeder Leistung hinzugefügt werden",
+      "weight": "400"
+    }
+  ],
+  "text": "Zum Inhalt springen\n02234 / 430 39 97\n0172 / 377 11 77\ninfo@albina-beauty-concept.de\nFrechener Weg 28 • 50859 Köln\nSuche\nLeistungen\nPreisliste\nGalerie\nÜber Uns\nKontakt\nKarriere\nShop\nTermine\nLaser-Haarentfernung\nPaket 1\n€180\n\n60 Min (Achseln, Intimbereich komplett)\n\nPaket 2\n€300\n\n60 Min (Achseln, Intimbereich komplett, Unterschenkel)\n\nPaket 3\n€400\n\n75 Min (Achseln, Intimbereich+Beine komplett)\n\nPaket 4\n€350\n\n60 Min (Achseln, Intimbereich komplett, Unterschenkel, Oberlippe)\n\nPaket 5\n€420\n\n60 Min (Nacken, Brust, oberer Rücken, Hals)\n\nPaket 6\n€250\n\n60 Min (Achseln, Unterschenkel, Oberlippe)\n\nFORMA by InMode\n1 Region\n€75\n\n60 Min (Kinn / Wangen / Stirn / Hals / Kieferlinie / Nasolabialbereich / Augenpartie (unter den Augen)\n\n1 Region (Paket)\n€375\n\nSparabo 5 + 1 Gratis (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\n\nFull Face - Behandlung\n€200\n\n90 Min (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)\n\nFull Face - Behandlung (Paket)\n€1000\n\nSparabo 5 + 1 Gratis (Augenpartie (unter den Augen) + Wangen + Stirn + Nasolabialfalten)\n\nGesicht + Hals & Dekolleté\n€300\n\n120 min (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)\n\nGesicht + Hals & Dekolleté (Paket)\n€300\n\nSparabo 5 + 1 Gratis (Augenpartie(unter den Augen) + Wangen + Stirn + Nasolabialbereich + Hals + Dekolleté)\n\nBody Fx\n1 Zone\n€250\n\n60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\n\nPaket 3 Behandlungen\n€700\n\n60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\n\nPaket 6 Behandlungen\n€1350\n\n60 Min (z. B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\n\nHydraFacial\nHydraFacial™ Classic\n€189\n\nDie medizinisch zugelassene HydraFacial-Behandlung vereint Tiefenreinigung, sanftes Säurepeeling, Porenausreinigung und intensive Hydration in einer Anwendung. Zum Abschluss verwöhnen wir Ihre Haut mit einer beruhigenden Feuchtigkeitsmaske für einen sofortigen Glow-Effekt und ein sichtbar frischeres (60 Min)\n\nHydraFacial™ Sylver\n€219\n\nHydraFacial Classic in Kombination mit dem exklusiven Champagner Facial von iS Clinical. Die Behandlung vereint intensive Tiefenreinigung, Hydration und einen luxuriösen Pflegekomplex für einen besonders strahlenden, frischen Teint. Ideal für alle, die ihrer Haut einen sofort sichtbaren Glow und zusätzliche Pflege schenken möchten. Inklusive entspannender Abschlusspflege. (80 Min.)\n\nHydraFacial™ Fire & Ice\n€219\n\nDie perfekte Kombination aus HydraFacial und dem legendären Fire & Ice Facial von iS Clinical. Während HydraFacial die Haut tiefenreinigt und intensiv mit Feuchtigkeit versorgt, fördert Fire & Ice die Hauterneuerung und verleiht einen sofort sichtbaren Glow-Effekt. Für ein verfeinertes Hautbild, mehr Strahlkraft und einen luxuriösen Frischekick. (80 Min.)\n\nHydraFacial + Microneedling\n€389\n\nHydraFacial + Nanoneedling\n€239\n\n*Nanoneedling - kann als Zusatzoption zu jeder Leistung hinzugefügt werden\n\nMedizinische Microneedling\nMedizinische Microneedling\n€265\n\nGesicht (60min)\n\nMedizinische Microneedling\n€265\n\nHals und Dekollete (60min)\n\nMedizinische Microneedling\n€349\n\nGesicht + Hals + Dekolleté (90min)\n\nNOON Peeling + Microneedling\n€319\n\n(75min)\n\nMedizinische Microneedling (3er Paket)\n€715\nMedizinische Microneedling (6er Paket)\n€1390\nNOON\nNOON Express Glow\n€99\n\nFür einen schnellen Glow-Effekt und sofort sichtbar frischere Haut. Ideal für einen strahlenden Teint vor besonderen Anlässen oder als kurze Pflege zwischendurch (45min)\n\nNOON Acne Treatment\n€169\n\nEine klärende Gesichtsbehandlung zur Beruhigung entzündlicher Haut, Regulierung der Talgproduktion und Unterstützung der Hautregeneration (60min)\n\nNOON Rosacea Treatment\n€159\n\nEine besonders sanfte Behandlung zur Stärkung der Hautbarriere, Reduktion von Rötungen und Beruhigung empfindlicher Rosazea-Haut (60min)\n\nNOON Even Tone (Pigmentierung)\n€169\n\nEine ausgleichende Gesichtsbehandlung zur Aufhellung von Pigmentflecken und Förderung eines ebenmäßigen, strahlenden Hautbildes (60min)\n\nNOON Sun Repair (Anti-Age)\n€189\n\nEine regenerierende Anti-Aging-Behandlung zur Reparatur lichtgeschädigter Haut, Stimulation der Kollagenproduktion und Verbesserung der Hautstruktur für ein glatteres, strafferes Hautbild. (60min)\n\nNOON Peeling + Microneedling\n€319\n\nEine intensive Kombination aus chemischen Peeling und Microneedling zur tiefen Hauterneuerung, Verbesserung der Hautstruktur, Reduktion von Falten, Pigmentierungen und Unreinheiten (75min)\n\nExosome\nMedizinische Microneedling EXOSOME\n€399\n\n60 min\n\nMedizinische Microneedling Kopfhaut EXOSOME\n€399\n\n60 min\n\nMedizinische Microneedling Hals + Dekolleté EXOSOME \n€399\n\n60 min\n\nHYDRAFACIAL + MICRONEEDLING + EXOSOMES\n€499\n\n90 min\n\nNOON + MICRONEEDLING + EXOSOMES\n€499\n\n90 min\n\nManiküre\nBasic Maniküre\n€39\n\n60 Min\n\nManiküre Lackieren\n€49\n\n75 Min\n\nMänner Maniküre\n€45\n\n60 Min\n\nGellack mit Maniküre\n€59\n\n90 Min inkl. Entfernung unseres Materials\n\nFrench mit Maniküre\n€64\n\n120 Min\n\nGel Neumodellage\n€65 - €70\n\n120 - 150 Min\n\nGel Korrektur / Verstärkung\n€64\n\n120 Min\n\nEntfernung von Fremdmaterial\n€10 - 20\nPediküre\nBasic Pediküre\n€44\n\n60 Min\n\nMänner Pediküre\n€45\n\n60 Min\n\nPediküre Lackieren\n€49\n\n75 Min\n\nGellack mit Pediküre\n€59\n\n90 Min inkl. Entfernung unseres Materials\n\nFrench mit Pediküre\n€64\n\n120 Min\n\nEntfernung von Fremdmaterial\n€10 - 20\nIS Clinical Kosmetikbehandlungen\nGesichtsreinigung (trockene Haut bis reife Haut)\n€119\n\nReinigung, Peeling, Enzympeeling, Ausreinigung(Ultraschall), Maske, Massage, Pflege\n\niS Clinical - FOAMING ENZYME TREATMENT\n€129\n\nDas Bekannte und auch sogenannte „Champagner Facial“ ist eine hochwirksame Anti-Aging und auch gleichzeitig beruhigende Behandlung. Die Behandlung erzeugt ein sensationelles, intensives und champagnerähnliches Kribbeln auf der Haut. Bei der Behandlung wird ein Aktivschaum eingesetzt der die Haut mit bioaktiven Inhaltsstoffen exfoliert. (45 Min)\n\niS Clinical - FIRE & ICE FACIAL\n€129\n\nDie bekannte Gesichtsbehandlung aus den USA. Diese Behandlung erneuert die Hautoberfläche, reduziert feine Linien und Falten und verfeinert die Poren. Bei der Behandlung werden zwei hochwirksame Masken verwendet. Die Fire-Maske erwärmt die Haut und fördert die Durchblutung, die Ice-Maske kühlt, beruhigt und hydratisiert intensiv. Das Ergebnis ist eine sichtbar glattere, straffe und festere Haut mit „Glow“-Effekt.\n\nAugenbrauen\nKorrektur (Zupfen/Waxen)\n€20\n\n30min\n\nKorrektur + Färben\n€35\n\n60min\n\nAugenbrauen Lifting (Lifting+Färbung+Waxing)\n€60\n\n60min\n\nAugenbrauen Lifting (ohne Farbe)\n€45\n\n60min\n\nFärben\n25€\n\n30min\n\nWimpern\nFärben\n€20\n\n20 Min\n\nWimpern Lifting ohne Farbe\n€45\n\n60 Min\n\nWimpern Lifting\n€60\n\n75 Min\n\nWimpernverlängerung\nClassic 1:1\n€89\n\nAuffüllen ( bis zu 3 Wochen ) €50\n\nVolumen 2D-3D\n€119\n\nAuffüllen ( bis zu 3 Wochen ) €60\n\nMega Volumen 4D-5D\n€139\n\nAuffüllen ( bis zu 3 Wochen ) €70\n\nWellness\nEntspannungsmassage\n€50\n\n30 Min\n\nEntspannungsmassage\n€89\n\n50 Min\n\nRücken, Schulter-Naken-Massage\n€89\n\n50 Min\n\nLymphodrainage\n€94\n\n55 Min\n\nEntspannungsmassage\n€119\n\n80 Min\n\nPrivate Physiotherapie\nKG (30 Min)\n€36,5\n\nMT (30 Min)\n€40\n\nCMD (30 Min)\n€40\n\nMLD (30 Min)\n€40\n\nMLD (45 Min)\n€55\n\nMLD (60 Min)\n€65\n\nTriggerpunktbehandlung (ca. 45 Min)\n€60\n\nKinesio Tapeanlegen\n€15\n\nHausbesuch\n€20\n\nExklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\n\nUnsere Leistungen\nLaser-Haarentfernung\nHydraFacial™\nWellness\nKosmetische Behandlungen\nHand- und Fußpflege\nPrivate Physiotherapie\nUnsere Marken\nInMode\nHydraFacial™\nIS Clinical\nInformation & Kontakt\nImpressum\nDatenschutz\nKontakt\nCookie Richtlinie (EU)\n© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\nMade by Friends\nZustimmung verwalten",
+  "title": "Preisliste – Albina Beauty Concept",
+  "url": "https://www.albina-beauty-concept.de/preisliste/",
+  "viewport": "width=device-width, initial-scale=1"
+}

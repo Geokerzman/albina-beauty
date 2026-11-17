@@ -1,0 +1,164 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/",
+  "refs": {
+    "e3142": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e3143": {
+      "name": "Ihr Kosmetikstudio in Köln Weiden",
+      "role": "heading"
+    },
+    "e3144": {
+      "name": "Schönheit ganzheitlich und individuell​",
+      "role": "heading"
+    },
+    "e3145": {
+      "name": "Neu bei uns im Salon: Laser-Haarentfernung in Köln Weiden!",
+      "role": "heading"
+    },
+    "e3146": {
+      "name": "Verabschieden Sie sich von Rasieren und Wachsen!",
+      "role": "heading"
+    },
+    "e3147": {
+      "name": "Hand - & Fußpflege in Köln Weiden",
+      "role": "heading"
+    },
+    "e3148": {
+      "name": "Gönnen Sie Ihren Händen und Füßen eine wohlverdiente Auszeit!",
+      "role": "heading"
+    },
+    "e3149": {
+      "name": "Kosmetologie in Köln Weiden",
+      "role": "heading"
+    },
+    "e3150": {
+      "name": "Wellness-Massagen in Köln: Auszeit für Körper und Seele",
+      "role": "heading"
+    },
+    "e3151": {
+      "name": "Private Physiotherapie",
+      "role": "heading"
+    },
+    "e3152": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e3153": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e3154": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e3155": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e3156": {
+      "name": "",
+      "role": "link"
+    },
+    "e3157": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e3158": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3159": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e3160": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e3161": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e3162": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e3163": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e3164": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3165": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e3166": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e3167": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e3168": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e3169": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e3170": {
+      "name": "Menü Umschalter",
+      "role": "button"
+    },
+    "e3171": {
+      "name": "",
+      "role": "link"
+    },
+    "e3172": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e3173": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e3174": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e3175": {
+      "name": "",
+      "role": "link"
+    },
+    "e3176": {
+      "name": "",
+      "role": "link"
+    },
+    "e3177": {
+      "name": "",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e3142, url=https://www.albina-beauty-concept.de/#content]\n- banner\n  - generic\n    - generic\n      - search\n        - form\n          - button \"Suche\" [ref=e3173]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e3174]\n      - list\n        - listitem [level=1]\n          - link [ref=e3175, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e3176, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e3177, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e3171, url=https://www.albina-beauty-concept.de/]\n      - button \"Menü Umschalter\" [expanded=false, ref=e3170]\n      - link \"Termine\" [ref=e3172, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- generic\n  - generic\n    - paragraph\n      - StaticText \"WILLKOMMEN BEI\"\n- generic\n  - heading \"Ihr Kosmetikstudio in Köln Weiden\" [level=1, ref=e3143]\n  - heading \"Schönheit ganzheitlich und individuell\" [level=2, ref=e3144]\n  - generic\n    - paragraph\n      - StaticText \"Schönheitssalon, Wellness-Center und Physiotherapie in Einem: Albina Beauty Concept bietet Ihnen ein ausgewogen zusammengestelltes Rundum-Paket für Ihre individuellen Bedürfnisse. Hier gehen Schönheit und Gesundheit Hand in Hand – für ein exklusives Wohlbefinden.\"\n    - paragraph\n      - StaticText \"Unser Beauty-Konzept beruht auf der Ganzheitlichkeit. Modernste kosmetische Behandlungen, Hand- und Fußpflege, Wellness-Massagen und private Physiotherapie werden harmonisch miteinander vereint. Körper und Geist werden gepflegt und vitalisiert, Ihre natürliche Schönheit wird professionell unterstrichen.\"\n    - paragraph\n      - StaticText \"Unser Schönheitssalon befindet sich in Köln Weiden. Ruhig gelegen, dezent und stilvoll eingerichtet, bietet unser Studio einen wunderbaren Rückzugsort. Hier können Sie sich vom hektischen Alltag erholen und frische Energie tanken.\"\n- generic\n  - heading \"Neu bei uns im Salon: Laser-Haarentfernung in Köln Weiden!\" [level=2, ref=e3145]\n  - heading \"Verabschieden Sie sich von Rasieren und Wachsen!\" [level=5, ref=e3146]\n  - generic\n    - paragraph\n      - StaticText \"Mit der modernen DIOLAZE InMode-Technologie bieten wir Ihnen eine effektive, schnelle und hautfreundliche Lösung zur dauerhaften Haarentfernung.\"\n    - paragraph\n      - StaticText \"Unsere Beauty-Studio ist das erste in Köln, das mit diesem innovativen Gerät arbeitet!\"\n    - paragraph\n      - StaticText \"Der Diodenlaser überzeugt durch höchste Präzision und Komfort – selbst empfindliche Haut wird sanft behandelt. Genießen Sie glatte Haut ohne Aufwand und Irritationen.\"\n- generic\n  - heading \"Hand - & Fußpflege in Köln Weiden\" [level=2, ref=e3147]\n  - heading \"Gönnen Sie Ihren Händen und Füßen eine wohlverdiente Auszeit!\" [level=5, ref=e3148]\n  - generic\n    - paragraph\n      - StaticText \"Gepflegte Hände und Füße sind heute ein Muss – sie hinterlassen nicht nur einen guten Eindruck, sondern schenken Ihnen auch Entspannung und Selbstbewusstsein. Ob klassische Maniküre oder kreatives Nageldesign – bei uns werden Ihre Wünsche mit Sorgfalt und Stil erfüllt.\"\n- generic\n  - heading \"Kosmetologie in Köln Weiden\" [level=2, ref=e3149]\n  - generic\n    - figure\n      - Figcaption\n        - strong\n          - StaticText \"HydraFacial™\"\n        - StaticText \" in Köln Weiden • ALBINA Beauty Concept\"\n    - paragraph\n      - StaticText \"Wir kennen die neuesten Beauty-Trends und beherrschen modernste kosmetische Anwendungen. Von klassischen Gesichtsbehandlungen über Fruchtsäurepeelings und Microneedling bis hin zum innovativen HydraFacial™-Treatment – erleben Sie effektive Hautpflege- und Verjüngungsmethoden in Köln Weiden!\"\n      - LineBreak \"\\n\"\n      - StaticText \"Wir arbeiten ausschließlich mit der Premium-Kosmetik von iS Clinical, um Ihrer Haut die beste Pflege zu bieten. Neu in unserem Angebot: die hochmoderne IN Mode Forma- Behandlung – für straffere, jugendlichere Haut.\"\n- generic\n  - heading \"Wellness-Massagen in Köln: Auszeit für Körper und Seele\" [level=2, ref=e3150]\n    - StaticText \"Wellness-Massagen in Köln: Auszeit für Körper und Seele\"\n  - generic\n    - paragraph\n      - StaticText \"Entspannen, loslassen und Kräfte sammeln: Wir verwöhnen Sie mit einer duftenden Ganzkörpermassage oder einer wirkungsreichen Fußreflexzonenmassage. Soll es eine klassische Entspannungsmassage oder eine kräftigere Rückenmassage werden? Ob Verspannungen, schmerzende Muskeln oder ganz einfach nur der Wunsch, den Moment im Hier und Jetzt zu genießen – wir kümmern uns um Ihre Bedürfnisse.\"\n- generic\n  - heading \"Private Physiotherapie\" [level=2, ref=e3151]\n  - generic\n    - paragraph\n      - StaticText \"Schönheit bedeutet nicht nur ein gepflegtes Äußeres. Eine gute Körperhaltung sorgt für ein selbstbewusstes schönes Auftreten. Ein (wieder) schmerzfreies, unabhängiges und aktives Leben schenkt Gelassenheit und eine positive Ausstrahlung. All das lässt sich mit Physiotherapie, einem Teil unseres Beauty-Konzepts, erreichen.\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e3156, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e3152]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e3157, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3158, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e3159, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e3160, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e3161, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e3162, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e3153]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e3163, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3164, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e3165, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e3154]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e3166, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e3167, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e3168, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e3169, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e3155]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- StaticText \"mobile\""
+}

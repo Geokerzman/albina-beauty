@@ -1,0 +1,1748 @@
+{
+  "buttons": [
+    {
+      "label": "Dialog schließen",
+      "text": "\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "\n\n\n\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "\n\n\n\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "\n\n\n\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "\n\n\n\n",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Akzeptieren",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Ablehnen",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Einstellungen ansehen",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Einstellungen speichern",
+      "visible": false
+    },
+    {
+      "label": "Suche",
+      "text": "",
+      "visible": true
+    },
+    {
+      "label": "Schließe dieses Suchfeld.",
+      "text": "\n",
+      "visible": false
+    },
+    {
+      "label": "Menü Umschalter",
+      "text": "",
+      "visible": true
+    },
+    {
+      "label": "Suche",
+      "text": "",
+      "visible": false
+    },
+    {
+      "label": "Schließe dieses Suchfeld.",
+      "text": "\n",
+      "visible": false
+    },
+    {
+      "label": "Menü Umschalter",
+      "text": "",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "Zustimmung verwalten",
+      "visible": false
+    }
+  ],
+  "canonical": "https://www.albina-beauty-concept.de/leistungen/",
+  "dimensions": {
+    "height": 844,
+    "scrollHeight": 5067,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  "forms": [
+    {
+      "action": "https://www.albina-beauty-concept.de/",
+      "fields": [
+        {
+          "label": "Suche",
+          "name": "s",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "search"
+        }
+      ],
+      "method": "get"
+    },
+    {
+      "action": "https://www.albina-beauty-concept.de/",
+      "fields": [
+        {
+          "name": "s",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "search"
+        }
+      ],
+      "method": "get"
+    }
+  ],
+  "generator": "WordPress 7.1.4",
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Unsere Leistungen: Kosmetik und Physiotherapie in Köln Weiden",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "Wellness",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "Physiotherapie",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "Kosmetische Behandlungen",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "Hand- und Fußpflege",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Unsere Leistungen",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Unsere Marken",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Information & Kontakt",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "visible": true
+    }
+  ],
+  "iframes": [],
+  "images": [
+    {
+      "alt": "Albina Beauty Concept",
+      "complete": true,
+      "height": 1,
+      "loading": "auto",
+      "src": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+      "visible": false,
+      "width": 1
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 223,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-Black.svg",
+      "visible": true,
+      "width": 711
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 223,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-Black.svg",
+      "visible": false,
+      "width": 711
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 48,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2021/10/Ueber-uns-1536x192.jpg",
+      "visible": true,
+      "width": 390
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 390,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/massage.jpg",
+      "visible": true,
+      "width": 390
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 281,
+      "loading": "lazy",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2021/10/photo_2021-10-02_23-07-17-768x554.jpg",
+      "visible": true,
+      "width": 390
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 393,
+      "loading": "lazy",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/reinigung.jpg",
+      "visible": true,
+      "width": 390
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 393,
+      "loading": "lazy",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/pedikuere.jpg",
+      "visible": true,
+      "width": 390
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 223,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-White.svg",
+      "visible": true,
+      "width": 711
+    }
+  ],
+  "lang": "de",
+  "links": [
+    {
+      "target": "",
+      "text": "Optionen verwalten",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/#cmplz-manage-consent-container",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Dienste verwalten",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/#cmplz-cookies-overview",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Verwalten von {vendor_count}-Lieferanten",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/#cmplz-tcf-wrapper",
+      "visible": false
+    },
+    {
+      "target": "_blank",
+      "text": "Lese mehr über diese Zwecke",
+      "url": "https://cookiedatabase.org/tcf/purposes/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Einstellungen ansehen",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/#cmplz-manage-consent-container",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Cookie-Richtlinie",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Datenschutzerklärung",
+      "url": "https://www.albina-beauty-concept.de/datenschutzerklaerung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Impressum",
+      "url": "https://www.albina-beauty-concept.de/impressum/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Zum Inhalt springen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/#content",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "02234 / 430 39 97",
+      "url": "tel:022344303997",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "0172 / 377 11 77",
+      "url": "tel:+491723771177",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "info@albina-beauty-concept.de",
+      "url": "mailto:info@albina-beauty-concept.de",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Frechener Weg 28 • 50859 Köln",
+      "url": "https://goo.gl/maps/ApuZwNBpUu2y252m7",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.instagram.com/albina.beautyconcept",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://facebook.com/Albina-Letova-108039101026948/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Leistungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Preisliste",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Galerie",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Über uns",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Karriere",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Shop",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Leistungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Preisliste",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Galerie",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Über Uns",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Karriere",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Shop",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Termine",
+      "url": "https://wa.me/491723771177",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "02234 / 430 39 97",
+      "url": "tel:022344303997",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "0172 / 377 11 77",
+      "url": "tel:+491723771177",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "info@albina-beauty-concept.de",
+      "url": "mailto:info@albina-beauty-concept.de",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Frechener Weg 28 • 50859 Köln",
+      "url": "https://goo.gl/maps/ApuZwNBpUu2y252m7",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.instagram.com/albina.beautyconcept",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://facebook.com/Albina-Letova-108039101026948/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Leistungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Preisliste",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Galerie",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Über uns",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Karriere",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Shop",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://wa.me/491723771177",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "mehr Infos",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "mehr Infos",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "mehr Infos",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "mehr Infos",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "InMode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "IS Clinical",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Impressum",
+      "url": "https://www.albina-beauty-concept.de/impressum/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Datenschutz",
+      "url": "https://www.albina-beauty-concept.de/datenschutzerklaerung/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Cookie Richtlinie (EU)",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+      "visible": true
+    }
+  ],
+  "performance": [
+    {
+      "domContentLoaded": 399.7999999523163,
+      "load": 400.59999990463257,
+      "responseStatus": 200,
+      "transferSize": 19807,
+      "ttfb": 373.09999990463257
+    }
+  ],
+  "resources": [
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/litespeed/css/c6079160445db3ffd532105aac0cb7fe.css?ver=7c734",
+      "type": "link"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.54.0",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wlhyw.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/ubuntu-4ics6kvjbnbylgokfw72.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/ubuntu-4icv6kvjbnbylgocxcvjsgyn.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 322,
+      "duration": 34.19999980926514,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "type": "fetch"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-Black.svg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2021/10/Ueber-uns-1536x192.jpg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/massage.jpg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-includes/js/jquery/jquery.min.js",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.googletagmanager.com/gtag/js?id=GT-NFXC3LJL",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.googletagmanager.com/gtm.js?id=GTM-MXZMD6MB",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-includes/js/dist/hooks.min.js",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-includes/js/dist/i18n.min.js",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/litespeed/js/9014f24669e44fbcde2afe1f66d5db5a.js?ver=7c734",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/complianz/css/banner-1-optin.css?v=21",
+      "type": "link"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/js/chunks/section-stretched-section.min.js?ver=4.3.5",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/js/chunks/background-slideshow.min.js?ver=4.3.5",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.5",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/js/chunks/text-editor.min.js?ver=4.3.5",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 3.5,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2021/10/photo_2021-10-02_23-07-17-768x554.jpg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 3.4000000953674316,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/reinigung.jpg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 31.799999952316284,
+      "name": "https://pagead2.googlesyndication.com/ccm/collect?rcb=4&frm=0&apvc=1&tid=AW-542333108&en=page_view&dl=https%3A%2F%2Fwww.albina-beauty-concept.de%2Fleistungen%2F&scrsrc=www.googletagmanager.com&rnd=1890944007.1794951257&navt=n&npa=1&did=dZTNiMT&gdid=dZTNiMT&gtm=45Pe6bg0v9218320494za208zd9218320494xecxf1&gcs=G100&gcd=13p3p3p2p5l1&dma_cps=-&dma=1&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121246026~121246034&tft=1794951256712&tfd=964&tids=AW-542333108&fmt=8",
+      "type": "fetch"
+    },
+    {
+      "bytes": 0,
+      "duration": 35.59999990463257,
+      "name": "https://pagead2.googlesyndication.com/ccm/collect?rcb=13&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.albina-beauty-concept.de%2Fleistungen%2F&scrsrc=www.googletagmanager.com&rnd=1890944007.1794951257&navt=n&npa=1&ep.ads_data_redaction=0&gdid=dZTNiMT&gtm=45He6bg0v9284591744za200zd9284591744xeaxf1&gcs=G100&gcd=13p3p3p2p5l1&dma_cps=-&dma=1&tag_exp=115938465~115938468~118897920~118897930~120385423~120412526~120420416~120469145~120469153~121049589~121246026~121246034&tft=1794951256712&tfd=964&fmt=8",
+      "type": "fetch"
+    },
+    {
+      "bytes": 0,
+      "duration": 29.90000009536743,
+      "name": "https://region1.google-analytics.com/g/collect?v=2&tid=G-KRGEEEQ0MD&gtm=45Pe6bg0v9218320494za208zd9218320494xf1&_p=1794951256197&gcs=G100&gcd=13p3p3p2p5l1&npa=1&dma_cps=-&dma=1&gdid=dZTNiMT&cid=342567020.1794951257&frm=0&ngs=1&pscdl=denied&rcb=4&sr=800x600&uaa=arm&uab=64&uafvl=Chromium%3B157.0.8103.78%7CNot-A.Brand%3B99.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.6.2&uaw=0&ul=ru-ru&_s=1&tag_exp=115938465~115938468~118897920~118897930~120213116~120385423~120412528~120420414~120469145~120469153~121246026~121246034&sid=1794951256&sct=1&seg=0&dl=https%3A%2F%2Fwww.albina-beauty-concept.de%2Fleistungen%2F&dt=Leistungen%20%E2%80%93%20Albina%20Beauty%20Concept&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=966",
+      "type": "fetch"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-White.svg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 2.1000001430511475,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2025/04/pedikuere.jpg",
+      "type": "img"
+    }
+  ],
+  "robots": "max-image-preview:large",
+  "structuredData": [],
+  "styles": [
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Zum Inhalt springen",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(211, 181, 116)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Leistungen",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Preisliste",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Galerie",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Über Uns",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Kontakt",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Karriere",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Shop",
+      "weight": "400"
+    },
+    {
+      "background": "rgb(217, 190, 183)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "10px",
+      "size": "10px",
+      "tag": "A",
+      "text": "Termine",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(137, 173, 192)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "32px",
+      "size": "32px",
+      "tag": "H1",
+      "text": "Unsere Leistungen: Kosmetik und Physiotherapie in Köln Weiden",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Sie haben Hautprobleme, wie Akne oder vergrößerte Poren? Ihre Gesichtshaut ist trocken und die Hände rau? Sie haben einen verspannten Nacken und oft Kopfschmerz",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Wir verbinden Elemente aus Wellness, Physiotherapie und Kosmetik so, dass Sie sich nach unseren Behandlungen wie neugeboren fühlen. Mit viel Liebe haben wir daf",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Auf Wunsch bieten wir Ihnen individuell zusammengestellte Behandlungspakete an – für Frauen und Männer jeden Alters.",
+      "weight": "400"
+    },
+    {
+      "background": "rgb(217, 190, 183)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "15px",
+      "size": "15px",
+      "tag": "A",
+      "text": "mehr Infos",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Sie haben Hautprobleme, wie Akne oder vergrößerte Poren? Ihre Gesichtshaut ist trocken und die Hände rau? Sie haben einen verspannten Nacken und oft Kopfschmerz",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Wir verbinden Elemente aus Wellness, Physiotherapie und Kosmetik so, dass Sie sich nach unseren Behandlungen wie neugeboren fühlen. Mit viel Liebe haben wir daf",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Auf Wunsch bieten wir Ihnen individuell zusammengestellte Behandlungspakete an – für Frauen und Männer jeden Alters.",
+      "weight": "400"
+    },
+    {
+      "background": "rgb(217, 190, 183)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "15px",
+      "size": "15px",
+      "tag": "A",
+      "text": "mehr Infos",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Sie haben Hautprobleme, wie Akne oder vergrößerte Poren? Ihre Gesichtshaut ist trocken und die Hände rau? Sie haben einen verspannten Nacken und oft Kopfschmerz",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Wir verbinden Elemente aus Wellness, Physiotherapie und Kosmetik so, dass Sie sich nach unseren Behandlungen wie neugeboren fühlen. Mit viel Liebe haben wir daf",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Auf Wunsch bieten wir Ihnen individuell zusammengestellte Behandlungspakete an – für Frauen und Männer jeden Alters.",
+      "weight": "400"
+    },
+    {
+      "background": "rgb(217, 190, 183)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "15px",
+      "size": "15px",
+      "tag": "A",
+      "text": "mehr Infos",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Sie haben Hautprobleme, wie Akne oder vergrößerte Poren? Ihre Gesichtshaut ist trocken und die Hände rau? Sie haben einen verspannten Nacken und oft Kopfschmerz",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Wir verbinden Elemente aus Wellness, Physiotherapie und Kosmetik so, dass Sie sich nach unseren Behandlungen wie neugeboren fühlen. Mit viel Liebe haben wir daf",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(122, 122, 122)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Auf Wunsch bieten wir Ihnen individuell zusammengestellte Behandlungspakete an – für Frauen und Männer jeden Alters.",
+      "weight": "400"
+    },
+    {
+      "background": "rgb(217, 190, 183)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "15px",
+      "size": "15px",
+      "tag": "A",
+      "text": "mehr Infos",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "P",
+      "text": "Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "16px",
+      "size": "16px",
+      "tag": "H2",
+      "text": "Unsere Leistungen",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Laser-Haarentfernung",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "HydraFacial™",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Wellness",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Kosmetische Behandlungen",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Hand- und Fußpflege",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Private Physiotherapie",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "16px",
+      "size": "16px",
+      "tag": "H2",
+      "text": "Unsere Marken",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "InMode",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "HydraFacial™",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "IS Clinical",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "16px",
+      "size": "16px",
+      "tag": "H2",
+      "text": "Information & Kontakt",
+      "weight": "600"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Impressum",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Datenschutz",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Kontakt",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Cookie Richtlinie (EU)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "12px",
+      "size": "12px",
+      "tag": "H3",
+      "text": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "weight": "300"
+    }
+  ],
+  "text": "Zum Inhalt springen\nSuche\nLeistungen\nPreisliste\nGalerie\nÜber Uns\nKontakt\nKarriere\nShop\nTermine\nUnsere Leistungen: Kosmetik und Physiotherapie in Köln Weiden\nWellness\n\nSie haben Hautprobleme, wie Akne oder vergrößerte Poren? Ihre Gesichtshaut ist trocken und die Hände rau? Sie haben einen verspannten Nacken und oft Kopfschmerzen, die Ihnen das Leben schwermachen? Dank unseres ganzheitlichen Beauty- und Gesundheitskonzeptes lassen sich all diese Probleme an einem Ort lösen. Dieser Ort heißt Albina Beauty Concept.\n\nWir verbinden Elemente aus Wellness, Physiotherapie und Kosmetik so, dass Sie sich nach unseren Behandlungen wie neugeboren fühlen. Mit viel Liebe haben wir dafür ein stilvolles und ruhiges Umfeld für Sie eingerichtet, ausgestattet mit neuester Technik.\n\nAuf Wunsch bieten wir Ihnen individuell zusammengestellte Behandlungspakete an – für Frauen und Männer jeden Alters.\n\nmehr Infos\nPhysiotherapie\n\nSie haben Hautprobleme, wie Akne oder vergrößerte Poren? Ihre Gesichtshaut ist trocken und die Hände rau? Sie haben einen verspannten Nacken und oft Kopfschmerzen, die Ihnen das Leben schwermachen? Dank unseres ganzheitlichen Beauty- und Gesundheitskonzeptes lassen sich all diese Probleme an einem Ort lösen. Dieser Ort heißt Albina Beauty Concept.\n\nWir verbinden Elemente aus Wellness, Physiotherapie und Kosmetik so, dass Sie sich nach unseren Behandlungen wie neugeboren fühlen. Mit viel Liebe haben wir dafür ein stilvolles und ruhiges Umfeld für Sie eingerichtet, ausgestattet mit neuester Technik.\n\nAuf Wunsch bieten wir Ihnen individuell zusammengestellte Behandlungspakete an – für Frauen und Männer jeden Alters.\n\nmehr Infos\nKosmetische Behandlungen\n\nSie haben Hautprobleme, wie Akne oder vergrößerte Poren? Ihre Gesichtshaut ist trocken und die Hände rau? Sie haben einen verspannten Nacken und oft Kopfschmerzen, die Ihnen das Leben schwermachen? Dank unseres ganzheitlichen Beauty- und Gesundheitskonzeptes lassen sich all diese Probleme an einem Ort lösen. Dieser Ort heißt Albina Beauty Concept.\n\nWir verbinden Elemente aus Wellness, Physiotherapie und Kosmetik so, dass Sie sich nach unseren Behandlungen wie neugeboren fühlen. Mit viel Liebe haben wir dafür ein stilvolles und ruhiges Umfeld für Sie eingerichtet, ausgestattet mit neuester Technik.\n\nAuf Wunsch bieten wir Ihnen individuell zusammengestellte Behandlungspakete an – für Frauen und Männer jeden Alters.\n\nmehr Infos\nHand- und Fußpflege\n\nSie haben Hautprobleme, wie Akne oder vergrößerte Poren? Ihre Gesichtshaut ist trocken und die Hände rau? Sie haben einen verspannten Nacken und oft Kopfschmerzen, die Ihnen das Leben schwermachen? Dank unseres ganzheitlichen Beauty- und Gesundheitskonzeptes lassen sich all diese Probleme an einem Ort lösen. Dieser Ort heißt Albina Beauty Concept.\n\nWir verbinden Elemente aus Wellness, Physiotherapie und Kosmetik so, dass Sie sich nach unseren Behandlungen wie neugeboren fühlen. Mit viel Liebe haben wir dafür ein stilvolles und ruhiges Umfeld für Sie eingerichtet, ausgestattet mit neuester Technik.\n\nAuf Wunsch bieten wir Ihnen individuell zusammengestellte Behandlungspakete an – für Frauen und Männer jeden Alters.\n\nmehr Infos\n\nExklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\n\nUnsere Leistungen\nLaser-Haarentfernung\nHydraFacial™\nWellness\nKosmetische Behandlungen\nHand- und Fußpflege\nPrivate Physiotherapie\nUnsere Marken\nInMode\nHydraFacial™\nIS Clinical\nInformation & Kontakt\nImpressum\nDatenschutz\nKontakt\nCookie Richtlinie (EU)\n© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\nMade by Friends",
+  "title": "Leistungen – Albina Beauty Concept",
+  "url": "https://www.albina-beauty-concept.de/leistungen/",
+  "viewport": "width=device-width, initial-scale=1"
+}

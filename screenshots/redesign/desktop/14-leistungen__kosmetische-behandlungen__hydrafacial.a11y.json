@@ -1,0 +1,82 @@
+{
+  "axeVersion": "4.12.1",
+  "counts": {
+    "inapplicable": 50,
+    "incomplete": 1,
+    "passes": 39,
+    "violations": 0
+  },
+  "incomplete": [
+    {
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+      "id": "color-contrast",
+      "impact": "serious",
+      "nodeCount": 5,
+      "nodes": [
+        {
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element",
+          "html": "<span class=\"image-tag\">Signature Treatment</span>",
+          "target": [
+            ".service-hero-image > .image-tag"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node",
+          "html": "<span class=\"card-index\">01</span>",
+          "target": [
+            ".service-card:nth-child(1) > .service-card-image > .card-index"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node",
+          "html": "<span class=\"card-index\">02</span>",
+          "target": [
+            "a[href$=\"microneedling/\"] > .service-card-image > .card-index"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because element contains an image node",
+          "html": "<span class=\"card-index\">03</span>",
+          "target": [
+            "a[href$=\"noon-skin/\"] > .service-card-image > .card-index"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined because it is overlapped by another element",
+          "html": "<span class=\"image-tag\">Neu entdecken</span>",
+          "target": [
+            ".service-card-image > .image-tag"
+          ]
+        }
+      ],
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ]
+    }
+  ],
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "url": "http://localhost:3000/leistungen/kosmetische-behandlungen/hydrafacial/",
+  "violations": []
+}

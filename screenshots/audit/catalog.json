@@ -1,0 +1,230 @@
+{
+  "pages": [
+    {
+      "id": "01-home",
+      "url": "https://www.albina-beauty-concept.de/",
+      "finalUrl": "https://www.albina-beauty-concept.de/",
+      "title": "Albina Beauty Concept – Beauty & Wellness in Köln Weiden",
+      "status": 200,
+      "data": "audit/01-home.json"
+    },
+    {
+      "id": "02-preisliste",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "finalUrl": "https://www.albina-beauty-concept.de/preisliste/",
+      "title": "Preisliste – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/02-preisliste.json"
+    },
+    {
+      "id": "03-ueber-uns",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "finalUrl": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "title": "Über uns – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/03-ueber-uns.json"
+    },
+    {
+      "id": "04-ueber-uns__team",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/team/",
+      "finalUrl": "https://www.albina-beauty-concept.de/ueber-uns/team/",
+      "title": "Team – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/04-ueber-uns__team.json"
+    },
+    {
+      "id": "05-leistungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/",
+      "title": "Leistungen – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/05-leistungen.json"
+    },
+    {
+      "id": "06-leistungen__hand-und-fusspflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "title": "Hand- und Fußpflege – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/06-leistungen__hand-und-fusspflege.json"
+    },
+    {
+      "id": "07-leistungen__kosmetische-behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "title": "Kosmetische Behandlungen – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/07-leistungen__kosmetische-behandlungen.json"
+    },
+    {
+      "id": "08-leistungen__private-physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "title": "Private Physiotherapie – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/08-leistungen__private-physiotherapie.json"
+    },
+    {
+      "id": "09-leistungen__wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "title": "Wellness – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/09-leistungen__wellness.json"
+    },
+    {
+      "id": "10-galerie",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "finalUrl": "https://www.albina-beauty-concept.de/galerie/",
+      "title": "Galerie – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/10-galerie.json"
+    },
+    {
+      "id": "11-kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "finalUrl": "https://www.albina-beauty-concept.de/kontakt/",
+      "title": "Kontakt – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/11-kontakt.json"
+    },
+    {
+      "id": "12-impressum",
+      "url": "https://www.albina-beauty-concept.de/impressum/",
+      "finalUrl": "https://www.albina-beauty-concept.de/impressum/",
+      "title": "Impressum – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/12-impressum.json"
+    },
+    {
+      "id": "13-datenschutzerklaerung",
+      "url": "https://www.albina-beauty-concept.de/datenschutzerklaerung/",
+      "finalUrl": "https://www.albina-beauty-concept.de/datenschutzerklaerung/",
+      "title": "Datenschutzerklärung – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/13-datenschutzerklaerung.json"
+    },
+    {
+      "id": "14-leistungen__kosmetische-behandlungen__hydrafacial",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "title": "HydraFacial™ – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/14-leistungen__kosmetische-behandlungen__hydrafacial.json"
+    },
+    {
+      "id": "15-cookie-richtlinie-eu",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+      "finalUrl": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+      "title": "Cookie-Richtlinie (EU) – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/15-cookie-richtlinie-eu.json"
+    },
+    {
+      "id": "16-leistungen__laser-haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "title": "Laser-Haarentfernung – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/16-leistungen__laser-haarentfernung.json"
+    },
+    {
+      "id": "17-leistungen__forma-new-by-inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "title": "FORMA NEW by Inmode – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/17-leistungen__forma-new-by-inmode.json"
+    },
+    {
+      "id": "18-leistungen__microneedling",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "title": "MICRONEEDLING – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/18-leistungen__microneedling.json"
+    },
+    {
+      "id": "19-leistungen__klassische-gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "title": "Klassische Gesichtsbehandlung – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/19-leistungen__klassische-gesichtsbehandlung.json"
+    },
+    {
+      "id": "20-leistungen__is-clinical-behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "title": "IS Clinical Behandlung – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/20-leistungen__is-clinical-behandlung.json"
+    },
+    {
+      "id": "21-leistungen__augenbrauen-wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "title": "Augenbrauen & Wimpern – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/21-leistungen__augenbrauen-wimpern.json"
+    },
+    {
+      "id": "22-leistungen__body-fx-by-inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "title": "Body FX by Inmode – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/22-leistungen__body-fx-by-inmode.json"
+    },
+    {
+      "id": "23-leistungen__massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "title": "Massage – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/23-leistungen__massage.json"
+    },
+    {
+      "id": "24-elementor-1142",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "finalUrl": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "title": "Karriere – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/24-elementor-1142.json"
+    },
+    {
+      "id": "25-leistungen__exosome",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "title": "EXOSOME – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/25-leistungen__exosome.json"
+    },
+    {
+      "id": "26-leistungen__noon-skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "finalUrl": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "title": "Noon Skin – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/26-leistungen__noon-skin.json"
+    },
+    {
+      "id": "27-category__uncategorized",
+      "url": "https://www.albina-beauty-concept.de/category/uncategorized/",
+      "finalUrl": "https://www.albina-beauty-concept.de/category/uncategorized/",
+      "title": "Uncategorized – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/27-category__uncategorized.json"
+    },
+    {
+      "id": "28-author__albinaletova_ho1055am",
+      "url": "https://www.albina-beauty-concept.de/author/albinaletova_ho1055am/",
+      "finalUrl": "https://www.albina-beauty-concept.de/author/albinaletova_ho1055am/",
+      "title": "admin – Albina Beauty Concept",
+      "status": 200,
+      "data": "audit/28-author__albinaletova_ho1055am.json"
+    }
+  ],
+  "failures": [],
+  "pending": []
+}

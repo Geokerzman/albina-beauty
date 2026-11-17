@@ -1,0 +1,3018 @@
+{
+  "buttons": [
+    {
+      "label": "Suche",
+      "text": "",
+      "visible": true
+    },
+    {
+      "label": "Schließe dieses Suchfeld.",
+      "text": "\n",
+      "visible": false
+    },
+    {
+      "label": "Menü Umschalter",
+      "text": "",
+      "visible": true
+    },
+    {
+      "label": "Suche",
+      "text": "",
+      "visible": false
+    },
+    {
+      "label": "Schließe dieses Suchfeld.",
+      "text": "\n",
+      "visible": false
+    },
+    {
+      "label": "Menü Umschalter",
+      "text": "",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "label": null,
+      "text": "",
+      "visible": true
+    },
+    {
+      "label": null,
+      "text": "\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t",
+      "visible": false
+    },
+    {
+      "label": null,
+      "text": "",
+      "visible": true
+    }
+  ],
+  "canonical": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+  "dimensions": {
+    "height": 844,
+    "scrollHeight": 4691,
+    "scrollWidth": 390,
+    "width": 390
+  },
+  "forms": [
+    {
+      "action": "https://www.albina-beauty-concept.de/",
+      "fields": [
+        {
+          "label": "Suche",
+          "name": "s",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "search"
+        }
+      ],
+      "method": "get"
+    },
+    {
+      "action": "https://www.albina-beauty-concept.de/",
+      "fields": [
+        {
+          "name": "s",
+          "placeholder": "",
+          "required": false,
+          "tag": "INPUT",
+          "type": "search"
+        }
+      ],
+      "method": "get"
+    }
+  ],
+  "generator": "WordPress 7.1.4",
+  "headings": [
+    {
+      "level": "H1",
+      "text": "Cookie-Richtlinie (EU)",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "1. Einführung",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "2. Was sind Cookies?",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "3. Was sind Skripte?",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "4. Was ist ein Web Beacon?",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "5. Cookies",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "5.1 Technische oder funktionelle Cookies",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "5.2 Marketing- / Tracking-Cookies",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "6. Platzierte Cookies",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "Elementor",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "WordPress",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "Complianz",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "Google Fonts",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "Google Maps",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "Burst Statistics",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "Sonstiges",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H4",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H5",
+      "text": "",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "7. Einwilligung",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "7.1 Verwalte deine Einwilligungseinstellungen",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "8. Aktivierung/Deaktivierung und Löschen von Cookies",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "9. Deine Rechte in Bezug auf personenbezogene Daten",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "10. Kontaktdaten",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Unsere Leistungen",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Unsere Marken",
+      "visible": true
+    },
+    {
+      "level": "H2",
+      "text": "Information & Kontakt",
+      "visible": true
+    },
+    {
+      "level": "H3",
+      "text": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "visible": true
+    }
+  ],
+  "iframes": [],
+  "images": [
+    {
+      "alt": "",
+      "complete": true,
+      "height": 223,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-Black.svg",
+      "visible": true,
+      "width": 711
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 223,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-Black.svg",
+      "visible": false,
+      "width": 711
+    },
+    {
+      "alt": "",
+      "complete": true,
+      "height": 223,
+      "loading": "auto",
+      "src": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-White.svg",
+      "visible": true,
+      "width": 711
+    }
+  ],
+  "lang": "de",
+  "links": [
+    {
+      "target": "",
+      "text": "Zum Inhalt springen",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/#content",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "02234 / 430 39 97",
+      "url": "tel:022344303997",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "0172 / 377 11 77",
+      "url": "tel:+491723771177",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "info@albina-beauty-concept.de",
+      "url": "mailto:info@albina-beauty-concept.de",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Frechener Weg 28 • 50859 Köln",
+      "url": "https://goo.gl/maps/ApuZwNBpUu2y252m7",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.instagram.com/albina.beautyconcept",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://facebook.com/Albina-Letova-108039101026948/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Leistungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Preisliste",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Galerie",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Über uns",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Karriere",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Shop",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Leistungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Preisliste",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Galerie",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Über Uns",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Karriere",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Shop",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Termine",
+      "url": "https://wa.me/491723771177",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "02234 / 430 39 97",
+      "url": "tel:022344303997",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "0172 / 377 11 77",
+      "url": "tel:+491723771177",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "info@albina-beauty-concept.de",
+      "url": "mailto:info@albina-beauty-concept.de",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Frechener Weg 28 • 50859 Köln",
+      "url": "https://goo.gl/maps/ApuZwNBpUu2y252m7",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.instagram.com/albina.beautyconcept",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://facebook.com/Albina-Letova-108039101026948/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Leistungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Preisliste",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Galerie",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Über uns",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Karriere",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Shop",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/leistungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "EXOSOME",
+      "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Noon Skin",
+      "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "FORMA by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "MICRONEEDLING",
+      "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "IS Clinical Behandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Klassische Gesichtsbehandlung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Body FX by Inmode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Massage",
+      "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Augenbrauen & Wimpern",
+      "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/preisliste/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/galerie/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "http://shop.albina-beauty-concept.de/",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://wa.me/491723771177",
+      "visible": false
+    },
+    {
+      "target": "",
+      "text": "https://www.albina-beauty-concept.de",
+      "url": "https://www.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/service/elementor/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/elementor/elementor/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/service/wordpress/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/wordpress/wordpress_test_cookie/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/wordpress/wp_lang/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/wordpress/wp-settings-time/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/wordpress/wp-settings/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/wordpress/wordpress_logged_in_/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/wordpress/wpemojisettingssupports/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/service/complianz/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://complianz.io/legal/privacy-statement/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/complianz/cmplz_consented_services/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/complianz/cmplz_policy_id/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/complianz/cmplz_marketing/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/complianz/cmplz_statistics/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/complianz/cmplz_preferences/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/complianz/cmplz_functional/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/complianz/cmplz_banner-status/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/service/google-fonts/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://policies.google.com/privacy",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/google-fonts/tcb_google_fonts/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/service/google-maps/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://business.safety.google/privacy/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/google-maps/google-maps-api/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/service/burst-statistics/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "",
+      "url": "https://cookiedatabase.org/cookie/burst-statistics/burst_uid/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "https://www.albina-beauty-concept.de",
+      "url": "https://www.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "_blank",
+      "text": "cookiedatabase.org",
+      "url": "https://cookiedatabase.org/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "",
+      "url": "https://www.albina-beauty-concept.de/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Laser-Haarentfernung",
+      "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Wellness",
+      "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Kosmetische Behandlungen",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Hand- und Fußpflege",
+      "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Private Physiotherapie",
+      "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "InMode",
+      "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "HydraFacial™",
+      "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "IS Clinical",
+      "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Impressum",
+      "url": "https://www.albina-beauty-concept.de/impressum/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Datenschutz",
+      "url": "https://www.albina-beauty-concept.de/datenschutzerklaerung/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Kontakt",
+      "url": "https://www.albina-beauty-concept.de/kontakt/",
+      "visible": true
+    },
+    {
+      "target": "",
+      "text": "Cookie Richtlinie (EU)",
+      "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+      "visible": true
+    }
+  ],
+  "performance": [
+    {
+      "domContentLoaded": 492,
+      "load": 496.39999985694885,
+      "responseStatus": 200,
+      "transferSize": 21214,
+      "ttfb": 463.09999990463257
+    }
+  ],
+  "resources": [
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/litespeed/css/1520fdf1174792a6ba335ca84973f740.css?ver=7c734",
+      "type": "link"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.54.0",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/montserrat-jtusjig1_i6t8kchkm459wlhyw.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/ubuntu-4ics6kvjbnbylgokfw72.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/ubuntu-4icv6kvjbnbylgocxcvjsgyn.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo5cnqeu92fr1mu53zec9_vu3r1gihoszmkbnka.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/elementor/google-fonts/fonts/roboto-kfo7cnqeu92fr1me7ksn66agldtyluama3yuba.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2",
+      "type": "css"
+    },
+    {
+      "bytes": 0,
+      "duration": 0.5999999046325684,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/complianz-gdpr/assets/images/chevron-down.svg",
+      "type": "css"
+    },
+    {
+      "bytes": 322,
+      "duration": 34.700000047683716,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/litespeed-cache/guest.vary.php",
+      "type": "fetch"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-Black.svg",
+      "type": "img"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-includes/js/jquery/jquery.min.js",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.googletagmanager.com/gtag/js?id=GT-NFXC3LJL",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.googletagmanager.com/gtm.js?id=GTM-MXZMD6MB",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-includes/js/dist/hooks.min.js",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-includes/js/dist/i18n.min.js",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/litespeed/js/9014f24669e44fbcde2afe1f66d5db5a.js?ver=7c734",
+      "type": "script"
+    },
+    {
+      "bytes": 1633,
+      "duration": 181.29999995231628,
+      "name": "https://www.albina-beauty-concept.de/wp-json/complianz/v1/manage_consent_html?lang=de&locale=de_DE&token=ousfx",
+      "type": "xmlhttprequest"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/complianz/css/banner-1-optin.css?v=21",
+      "type": "link"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/js/chunks/section-stretched-section.min.js?ver=4.3.5",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/js/chunks/background-slideshow.min.js?ver=4.3.5",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.3.5",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/plugins/elementor/assets/js/chunks/text-editor.min.js?ver=4.3.5",
+      "type": "script"
+    },
+    {
+      "bytes": 0,
+      "duration": 31,
+      "name": "https://pagead2.googlesyndication.com/ccm/collect?rcb=12&frm=0&apvc=1&tid=AW-542333108&en=page_view&dl=https%3A%2F%2Fwww.albina-beauty-concept.de%2Fcookie-richtlinie-eu%2F&scrsrc=www.googletagmanager.com&rnd=803438833.1794951281&navt=n&npa=1&did=dZTNiMT&gdid=dZTNiMT&gtm=45Pe6bg0v9218320494za208zd9218320494xecxf1&gcs=G100&gcd=13p3p3p2p5l1&dma_cps=-&dma=1&tag_exp=115938466~115938469~118897920~118897930~119860443~120213116~120385422~120412526~120420416~120469145~120469153~121246026~121246034&tft=1794951280866&tfd=1057&tids=AW-542333108&fmt=8",
+      "type": "fetch"
+    },
+    {
+      "bytes": 0,
+      "duration": 35.299999952316284,
+      "name": "https://pagead2.googlesyndication.com/ccm/collect?rcb=17&frm=0&apvc=0&ae=g&en=page_view&dl=https%3A%2F%2Fwww.albina-beauty-concept.de%2Fcookie-richtlinie-eu%2F&scrsrc=www.googletagmanager.com&rnd=803438833.1794951281&navt=n&npa=1&ep.ads_data_redaction=0&gdid=dZTNiMT&gtm=45He6bg0v9284591744za200zd9284591744xeaxf1&gcs=G100&gcd=13p3p3p2p5l1&dma_cps=-&dma=1&tag_exp=115938466~115938469~118897920~118897930~119860443~120385423~120412528~120420416~120469145~120469153~121049589~121246026~121246034&tft=1794951280867&tfd=1058&fmt=8",
+      "type": "fetch"
+    },
+    {
+      "bytes": 0,
+      "duration": 33.89999985694885,
+      "name": "https://region1.google-analytics.com/g/collect?v=2&tid=G-KRGEEEQ0MD&gtm=45Pe6bg0v9218320494za208zd9218320494xf1&_p=1794951280349&gcs=G100&gcd=13p3p3p2p5l1&npa=1&dma_cps=-&dma=1&gdid=dZTNiMT&cid=2038231197.1794951281&frm=0&ngs=1&pscdl=denied&rcb=12&sr=800x600&uaa=arm&uab=64&uafvl=Chromium%3B157.0.8103.78%7CNot-A.Brand%3B99.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.6.2&uaw=0&ul=ru-ru&_s=1&tag_exp=115938466~115938469~118897920~118897930~119860443~120213116~120385422~120412526~120420416~120469145~120469153~121246026~121246034&sid=1794951280&sct=1&seg=0&dl=https%3A%2F%2Fwww.albina-beauty-concept.de%2Fcookie-richtlinie-eu%2F&dt=Cookie-Richtlinie%20(EU)%20%E2%80%93%20Albina%20Beauty%20Concept&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1060",
+      "type": "fetch"
+    },
+    {
+      "bytes": 0,
+      "duration": 0,
+      "name": "https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-White.svg",
+      "type": "img"
+    }
+  ],
+  "robots": "max-image-preview:large",
+  "structuredData": [],
+  "styles": [
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Zum Inhalt springen",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "24px",
+      "size": "16px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Leistungen",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Preisliste",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Galerie",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Über Uns",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Kontakt",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Karriere",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(22, 22, 63)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "20px",
+      "size": "16px",
+      "tag": "A",
+      "text": "Shop",
+      "weight": "400"
+    },
+    {
+      "background": "rgb(217, 190, 183)",
+      "color": "rgb(255, 255, 255)",
+      "font": "Roboto, sans-serif",
+      "lineHeight": "10px",
+      "size": "10px",
+      "tag": "A",
+      "text": "Termine",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(137, 173, 192)",
+      "font": "Montserrat, sans-serif",
+      "lineHeight": "38.4px",
+      "size": "32px",
+      "tag": "H1",
+      "text": "Cookie-Richtlinie (EU)",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Diese Cookie-Richtlinie wurde zuletzt am Juli 7, 2024 aktualisiert und gilt für Bürger und Einwohner mit ständigem Wohnsitz im Europäischen Wirtschaftsraum und ",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(217, 190, 183)",
+      "font": "Ubuntu, sans-serif",
+      "lineHeight": "26.4px",
+      "size": "22px",
+      "tag": "H2",
+      "text": "1. Einführung",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Unsere Website, https://www.albina-beauty-concept.de (im folgenden: \"Die Website\") verwendet Cookies und ähnliche Technologien (der Einfachheit halber werden al",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "A",
+      "text": "https://www.albina-beauty-concept.de",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(217, 190, 183)",
+      "font": "Ubuntu, sans-serif",
+      "lineHeight": "26.4px",
+      "size": "22px",
+      "tag": "H2",
+      "text": "2. Was sind Cookies?",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Ein Cookie ist eine einfache kleine Datei, die gemeinsam mit den Seiten einer Internetadresse versendet und vom Webbrowser auf dem PC oder einem anderen Gerät g",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(217, 190, 183)",
+      "font": "Ubuntu, sans-serif",
+      "lineHeight": "26.4px",
+      "size": "22px",
+      "tag": "H2",
+      "text": "3. Was sind Skripte?",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Ein Script ist ein Stück Programmcode, das benutzt wird, um unserer Website Funktionalität und Interaktivität zu ermöglichen. Dieser Code wird auf unseren Serve",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(217, 190, 183)",
+      "font": "Ubuntu, sans-serif",
+      "lineHeight": "26.4px",
+      "size": "22px",
+      "tag": "H2",
+      "text": "4. Was ist ein Web Beacon?",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Ein Web-Beacon (auch Pixel-Tag genannt), ist ein kleines unsichtbares Textfragment oder Bild auf einer Website, das benutzt wird, um den Verkehr auf der Website",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(217, 190, 183)",
+      "font": "Ubuntu, sans-serif",
+      "lineHeight": "26.4px",
+      "size": "22px",
+      "tag": "H2",
+      "text": "5. Cookies",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "26.4px",
+      "size": "22px",
+      "tag": "H3",
+      "text": "5.1 Technische oder funktionelle Cookies",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Einige Cookies stellen sicher, dass bestimmte Teile der Website ordnungsgemäß funktionieren und deine Benutzereinstellungen weiterhin in Erinnerung bleiben. Dur",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "26.4px",
+      "size": "22px",
+      "tag": "H3",
+      "text": "5.2 Marketing- / Tracking-Cookies",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Marketing- / Tracking-Cookies sind Cookies oder eine andere Form der lokalen Speicherung, die zur Erstellung von Benutzerprofilen verwendet werden, um Werbung a",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(217, 190, 183)",
+      "font": "Ubuntu, sans-serif",
+      "lineHeight": "26.4px",
+      "size": "22px",
+      "tag": "H2",
+      "text": "6. Platzierte Cookies",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21.6px",
+      "size": "18px",
+      "tag": "H3",
+      "text": "Elementor",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Statistik (anonym)",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21.6px",
+      "size": "18px",
+      "tag": "H3",
+      "text": "WordPress",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "Funktional",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "P",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(255, 255, 255, 0)",
+      "color": "rgb(204, 51, 102)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "21px",
+      "size": "14px",
+      "tag": "A",
+      "text": "",
+      "weight": "400"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    },
+    {
+      "background": "rgba(0, 0, 0, 0)",
+      "color": "rgb(51, 51, 51)",
+      "font": "-apple-system, \"system-ui\", \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\"",
+      "lineHeight": "25.2px",
+      "size": "14px",
+      "tag": "H5",
+      "text": "",
+      "weight": "500"
+    }
+  ],
+  "text": "Zum Inhalt springen\nSuche\nLeistungen\nPreisliste\nGalerie\nÜber Uns\nKontakt\nKarriere\nShop\nTermine\nCookie-Richtlinie (EU)\n\nDiese Cookie-Richtlinie wurde zuletzt am Juli 7, 2024 aktualisiert und gilt für Bürger und Einwohner mit ständigem Wohnsitz im Europäischen Wirtschaftsraum und der Schweiz.\n\n\n1. Einführung\n\nUnsere Website, https://www.albina-beauty-concept.de (im folgenden: \"Die Website\") verwendet Cookies und ähnliche Technologien (der Einfachheit halber werden all diese unter \"Cookies\" zusammengefasst). Cookies werden außerdem von uns beauftragten Drittparteien platziert. In dem unten stehendem Dokument informieren wir dich über die Verwendung von Cookies auf unserer Website.\n\n2. Was sind Cookies?\n\nEin Cookie ist eine einfache kleine Datei, die gemeinsam mit den Seiten einer Internetadresse versendet und vom Webbrowser auf dem PC oder einem anderen Gerät gespeichert werden kann. Die darin gespeicherten Informationen können während folgender Besuche zu unseren oder den Servern relevanter Drittanbieter gesendet werden.\n\n3. Was sind Skripte?\n\nEin Script ist ein Stück Programmcode, das benutzt wird, um unserer Website Funktionalität und Interaktivität zu ermöglichen. Dieser Code wird auf unseren Servern oder auf deinem Gerät ausgeführt.\n\n4. Was ist ein Web Beacon?\n\nEin Web-Beacon (auch Pixel-Tag genannt), ist ein kleines unsichtbares Textfragment oder Bild auf einer Website, das benutzt wird, um den Verkehr auf der Website zu überwachen. Um dies zu ermöglichen werden diverse Daten von dir mittels Web-Beacons gespeichert.\n\n5. Cookies\n5.1 Technische oder funktionelle Cookies\n\nEinige Cookies stellen sicher, dass bestimmte Teile der Website ordnungsgemäß funktionieren und deine Benutzereinstellungen weiterhin in Erinnerung bleiben. Durch das Setzen funktionaler Cookies erleichtern wir dir den Besuch unserer Website. Auf diese Weise musst du beim Besuch unserer Website nicht wiederholt dieselben Informationen eingeben, so bleiben Artikel beispielsweise in deinem Warenkorb, bis du bezahlst. Wir können diese Cookies ohne deine Einwilligung platzieren.\n\n5.2 Marketing- / Tracking-Cookies\n\nMarketing- / Tracking-Cookies sind Cookies oder eine andere Form der lokalen Speicherung, die zur Erstellung von Benutzerprofilen verwendet werden, um Werbung anzuzeigen oder den Benutzer auf dieser Website oder über mehrere Websites hinweg für ähnliche Marketingzwecke zu verfolgen.\n\n6. Platzierte Cookies\nElementor\n\nStatistik (anonym)\n\nConsent to service elementor\nWordPress\n\nFunktional\n\nConsent to service wordpress\nComplianz\n\nFunktional\n\nConsent to service complianz\nGoogle Fonts\n\nMarketing\n\nConsent to service google-fonts\nGoogle Maps\n\nMarketing\n\nConsent to service google-maps\nBurst Statistics\n\nStatistik (anonym)\n\nConsent to service burst-statistics\nSonstiges\n\nZweck wird noch ermittelt\n\nConsent to service sonstiges\n7. Einwilligung\n\nWenn du unsere Website das erste Mal besuchst, zeigen wir dir ein Pop-Up mit einer Erklärung über Cookies. Sobald du auf „Einstellungen speichern“ klickst, gibst du uns deine Einwilligung alle von dir gewählten Kategorien von Cookies und Plugins wie in dieser Cookie-Erklärung beschrieben zu verwenden. Du kannst die Verwendung von Cookies über deinen Browser deaktivieren, aber bitte beachte, dass unsere Website dann unter Umständen nicht richtig funktioniert.\n\n7.1 Verwalte deine Einwilligungseinstellungen\nFunktional\nImmer aktiv\nVorlieben\nVorlieben\nMarketing\nMarketing\n8. Aktivierung/Deaktivierung und Löschen von Cookies\n\nDu kannst deinen Internetbrowser verwenden um automatisch oder manuell Cookies zu löschen. Du kannst außerdem spezifizieren ob spezielle Cookies nicht platziert werden sollen. Eine andere Möglichkeit ist es deinen Internetbrowser derart einzurichten, dass du jedes Mal benachrichtigt wirst, wenn ein Cookie platziert wird. Für weitere Information über diese Möglichkeiten beachte die Anweisungen in der Hilfesektion deines Browsers.\n\nBitte nimm zur Kenntnis, dass unsere Website möglicherweise nicht richtig funktioniert, wenn alle Cookies deaktiviert sind. Wenn du die Cookies in deinem Browser löscht, werden diese neu platziert, wenn du unsere Website erneut besuchst.\n\n9. Deine Rechte in Bezug auf personenbezogene Daten\n\nDu hast folgende Rechte in Bezug auf deine personenbezogenen Daten:\n\nDu hast das Recht zu erfahren, warum deine personenbezogenen Daten benötigt werden, was damit passiert und wie lange sie aufbewahrt werden.\nAuskunftsrecht: Du hast das Recht deine uns bekannten persönliche Daten einzusehen.\nRecht auf Berichtigung: Du hast das Recht wann immer du wünscht, deine personenbezogenen Daten zu ergänzen, zu korrigieren sowie gelöscht oder blockiert zu bekommen.\nWenn du uns deine Einwilligung zur Verarbeitung deiner Daten erteilst, hast du das Recht diese Einwilligung zu widerrufen und deine personenbezogenen Daten löschen zu lassen.\nRecht auf Datenübertragbarkeit: Du hast das Recht, alle deine personenbezogenen Daten von dem für die Verarbeitung Verantwortlichen anzufordern und sie vollständig an einen anderen für die Verarbeitung Verantwortlichen zu übermitteln.\nWiderspruchsrecht: Du kannst der Verarbeitung deiner Daten widersprechen. Wir entsprechen dem, es sei denn es gibt berechtigte Gründe für die Verarbeitung.\n\nUm diese Rechte auszuüben kontaktiere uns bitte. Bitte beziehe dich auf die Kontaktdaten am Ende dieser Cookie-Erklärung. Wenn du eine Beschwerde darüber hast, wie wir deine Daten behandeln, würden wir diese gerne hören, aber du hast auch das Recht diese an die Aufsichtsbehörde (Datenschutzbehörde) zu richten.\n\n10. Kontaktdaten\n\nFür Fragen und/oder Kommentare über unsere Cookie-Richtlinien und diese Aussage kontaktiere uns bitte mittels der folgenden Kontaktdaten:\n\nAlbina Letova\nFrechener Weg 28\n50859 Köln\nDeutschland\nWebsite: https://www.albina-beauty-concept.de\nE-Mail: info@albina-beauty-concept.de\nTelefonnummer: +49 (0) 2234 4303997\n\nDiese Cookie-Richtlinie wurde mit cookiedatabase.org am Juli 7, 2024 synchronisiert.\n\nExklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\n\nUnsere Leistungen\nLaser-Haarentfernung\nHydraFacial™\nWellness\nKosmetische Behandlungen\nHand- und Fußpflege\nPrivate Physiotherapie\nUnsere Marken\nInMode\nHydraFacial™\nIS Clinical\nInformation & Kontakt\nImpressum\nDatenschutz\nKontakt\nCookie Richtlinie (EU)\n© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\nMade by Friends",
+  "title": "Cookie-Richtlinie (EU) – Albina Beauty Concept",
+  "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+  "viewport": "width=device-width, initial-scale=1"
+}

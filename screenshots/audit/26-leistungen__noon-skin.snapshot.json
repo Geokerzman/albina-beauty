@@ -1,0 +1,244 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+  "refs": {
+    "e1405": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e1406": {
+      "name": "NOON SKIN TREATMENT",
+      "role": "heading"
+    },
+    "e1407": {
+      "name": "NOON Behandlungen in Köln – medizinische Hautpflege ohne Ausfallzeit",
+      "role": "heading"
+    },
+    "e1408": {
+      "name": "Was ist NOON Cosmetics?",
+      "role": "heading"
+    },
+    "e1409": {
+      "name": "Vorteile der NOON Behandlung",
+      "role": "heading"
+    },
+    "e1410": {
+      "name": "Unsere NOON Skin Treatments",
+      "role": "heading"
+    },
+    "e1411": {
+      "name": "NOON Behandlung in Köln buchen",
+      "role": "heading"
+    },
+    "e1412": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e1413": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e1414": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e1415": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e1416": {
+      "name": "",
+      "role": "link"
+    },
+    "e1417": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e1418": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e1419": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e1420": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e1421": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e1422": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e1423": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e1424": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e1425": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e1426": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e1427": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e1428": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e1429": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e1430": {
+      "name": "Menü",
+      "role": "navigation"
+    },
+    "e1431": {
+      "name": "NOON Express Glow ",
+      "role": "heading"
+    },
+    "e1432": {
+      "name": "45 Min – 99€",
+      "role": "heading"
+    },
+    "e1433": {
+      "name": "NOON Acne Treatment",
+      "role": "heading"
+    },
+    "e1434": {
+      "name": "60 Min – 169€",
+      "role": "heading"
+    },
+    "e1435": {
+      "name": "NOON Rosacea Treatment",
+      "role": "heading"
+    },
+    "e1436": {
+      "name": "60 Min – 159€",
+      "role": "heading"
+    },
+    "e1437": {
+      "name": "NOON Even Tone (Pigmentierung)",
+      "role": "heading"
+    },
+    "e1438": {
+      "name": "60 Min – 169€",
+      "role": "heading"
+    },
+    "e1439": {
+      "name": "NOON Sun Repair (Anti-Age)",
+      "role": "heading"
+    },
+    "e1440": {
+      "name": "60 Min – 189€",
+      "role": "heading"
+    },
+    "e1441": {
+      "name": "NOON Peeling + Microneedling",
+      "role": "heading"
+    },
+    "e1442": {
+      "name": "75 Min – 319€",
+      "role": "heading"
+    },
+    "e1443": {
+      "name": "",
+      "role": "link"
+    },
+    "e1444": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e1445": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e1446": {
+      "name": "02234 / 430 39 97",
+      "role": "link"
+    },
+    "e1447": {
+      "name": "0172 / 377 11 77",
+      "role": "link"
+    },
+    "e1448": {
+      "name": "info@albina-beauty-concept.de",
+      "role": "link"
+    },
+    "e1449": {
+      "name": "Frechener Weg 28 • 50859 Köln",
+      "role": "link"
+    },
+    "e1450": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e1451": {
+      "name": "",
+      "role": "link"
+    },
+    "e1452": {
+      "name": "",
+      "role": "link"
+    },
+    "e1453": {
+      "name": "",
+      "role": "link"
+    },
+    "e1454": {
+      "name": "Leistungen",
+      "role": "link"
+    },
+    "e1455": {
+      "name": "Preisliste",
+      "role": "link"
+    },
+    "e1456": {
+      "name": "Galerie",
+      "role": "link"
+    },
+    "e1457": {
+      "name": "Über Uns",
+      "role": "link"
+    },
+    "e1458": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e1459": {
+      "name": "Karriere",
+      "role": "link"
+    },
+    "e1460": {
+      "name": "Shop",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- link \"Zum Inhalt springen\" [ref=e1405, url=https://www.albina-beauty-concept.de/leistungen/noon-skin/#content]\n- banner\n  - generic\n    - generic\n      - list\n        - listitem [level=1]\n          - link \"02234 / 430 39 97\" [ref=e1446, url=tel:022344303997]\n            - StaticText \"02234 / 430 39 97\"\n        - listitem [level=1]\n          - link \"0172 / 377 11 77\" [ref=e1447, url=tel:+491723771177]\n            - StaticText \"0172 / 377 11 77\"\n        - listitem [level=1]\n          - link \"info@albina-beauty-concept.de\" [ref=e1448, url=mailto:info@albina-beauty-concept.de]\n            - StaticText \"info@albina-beauty-concept.de\"\n        - listitem [level=1]\n          - link \"Frechener Weg 28 • 50859 Köln\" [ref=e1449, url=https://goo.gl/maps/ApuZwNBpUu2y252m7]\n            - StaticText \"Frechener Weg 28 • 50859 Köln\"\n      - search\n        - form\n          - button \"Suche\" [ref=e1445]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e1450]\n      - list\n        - listitem [level=1]\n          - link [ref=e1451, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e1452, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e1453, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e1443, url=https://www.albina-beauty-concept.de/]\n      - navigation \"Menü\" [ref=e1430]\n        - list\n          - listitem [level=1]\n            - link \"Leistungen\" [ref=e1454, url=https://www.albina-beauty-concept.de/leistungen/]\n              - StaticText \"Leistungen\"\n          - listitem [level=1]\n            - link \"Preisliste\" [ref=e1455, url=https://www.albina-beauty-concept.de/preisliste/]\n          - listitem [level=1]\n            - link \"Galerie\" [ref=e1456, url=https://www.albina-beauty-concept.de/galerie/]\n          - listitem [level=1]\n            - link \"Über Uns\" [ref=e1457, url=https://www.albina-beauty-concept.de/ueber-uns/]\n          - listitem [level=1]\n            - link \"Kontakt\" [ref=e1458, url=https://www.albina-beauty-concept.de/kontakt/]\n          - listitem [level=1]\n            - link \"Karriere\" [ref=e1459, url=https://www.albina-beauty-concept.de/elementor-1142/]\n          - listitem [level=1]\n            - link \"Shop\" [ref=e1460, url=http://shop.albina-beauty-concept.de/]\n      - link \"Termine\" [ref=e1444, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"NOON SKIN TREATMENT\" [level=2, ref=e1406]\n  - generic\n    - generic\n      - heading \"NOON Behandlungen in Köln – medizinische Hautpflege ohne Ausfallzeit\" [level=4, ref=e1407]\n        - StaticText \"NOON Behandlungen in Köln –\"\n        - LineBreak \"\\n\"\n        - StaticText \"medizinische Hautpflege ohne Ausfallzeit\"\n      - paragraph\n        - StaticText \"Die NOON Hautbehandlungen in Köln stehen für moderne, effektive und gleichzeitig hautschonende Pflege.\"\n      - paragraph\n        - StaticText \"Dank innovativer Wirkstoffe ermöglicht NOON intensive Ergebnisse – auch bei empfindlicher Haut – ohne starke Reizungen oder lange Ausfallzeiten.\"\n      - paragraph\n        - StaticText \"In unserem Studio in Köln Weiden bieten wir individuell abgestimmte NOON Treatments für unterschiedliche Hautbedürfnisse an.\"\n      - heading \"Was ist NOON Cosmetics?\" [level=4, ref=e1408]\n      - paragraph\n        - StaticText \"NOON ist eine professionelle medizinische Hautpflegemarke, die speziell für anspruchsvolle Haut entwickelt wurde.\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n        - strong\n          - StaticText \"Das Besondere:\"\n        - LineBreak \"\\n\"\n        - StaticText \"Die Produkte enthalten hochkonzentrierte Wirkstoffe wie Säuren und aktive Inhaltsstoffe, die durch eine spezielle Technologie Hautreizungen deutlich reduzieren.\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n        - StaticText \"Dadurch sind selbst intensive Peelings möglich – ohne lange Ausfallzeit\"\n  - generic\n    - heading \"Vorteile der NOON Behandlung\" [level=4, ref=e1409]\n      - StaticText \"Vorteile der NOON Behandlung\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"intensive Hauterneuerung ohne Ausfallzeit\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"geeignet auch für empfindliche Haut \"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"gezielte Behandlung von Akne, Rosacea & Pigmentflecken \"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Verbesserung von Hautstruktur und Glow \"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Anti-Aging Effekt durch aktive Wirkstoffe\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"sofort sichtbar frischere Haut\"\n  - generic\n    - heading \"Unsere NOON Skin Treatments\" [level=4, ref=e1410]\n    - generic\n      - generic\n        - heading \"NOON Express Glow \" [level=5, ref=e1431]\n        - paragraph\n          - StaticText \"Schnelle Auffrischung für einen frischen Teint\"\n        - list\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"sofortiger Glow\"\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"leichte Hauterneuerung\"\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"ideal als Frische-Boost\"\n        - heading \"45 Min – 99€\" [level=5, ref=e1432]\n          - strong\n            - StaticText \"45 Min – 99€\"\n      - generic\n        - heading \"NOON Acne Treatment\" [level=5, ref=e1433]\n        - paragraph\n          - StaticText \"Gezielte Behandlung bei unreiner Haut und Akne\"\n        - list\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"klärt die Haut intensiv\"\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"reduziert Entzündungen\"\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"reguliert die Talgproduktion\"\n        - heading \"60 Min – 169€\" [level=5, ref=e1434]\n          - strong\n            - StaticText \"60 Min – 169€\"\n      - generic\n        - heading \"NOON Rosacea Treatment\" [level=5, ref=e1435]\n        - paragraph\n          - StaticText \"Sanfte Pflege für empfindliche und gerötete Haut\"\n        - list\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"beruhigt die Haut\"\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"reduziert Rötungen\"\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"stärkt die Hautbarriere\"\n        - heading \"60 Min – 159€\" [level=5, ref=e1436]\n          - strong\n            - StaticText \"60 Min – 159€\"\n    - generic\n      - generic\n        - heading \"NOON Even Tone (Pigmentierung)\" [level=5, ref=e1437]\n        - paragraph\n          - StaticText \"Für ein gleichmäßiges und strahlendes Hautbild\"\n        - list\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"reduziert Pigmentflecken\"\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"gleicht den Hautton aus\"\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"verbessert den Glow\"\n        - heading \"60 Min – 169€\" [level=5, ref=e1438]\n          - strong\n            - StaticText \"60 Min – 169€\"\n      - generic\n        - heading \"NOON Sun Repair (Anti-Age)\" [level=5, ref=e1439]\n        - paragraph\n          - StaticText \"Regeneration und Anti-Aging\"\n        - list\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"stimuliert die Kollagenproduktion\"\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"verbessert Elastizität\"\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"reduziert feine Linien\"\n        - heading \"60 Min – 189€\" [level=5, ref=e1440]\n          - strong\n            - StaticText \"60 Min – 189€\"\n      - generic\n        - heading \"NOON Peeling + Microneedling\" [level=5, ref=e1441]\n        - paragraph\n          - StaticText \"Die Kombination aus NOON Peeling und Microneedling sorgt für eine besonders tiefgehende Hauterneuerung und maximale Wirkstoffaufnahme\"\n        - list\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"intensivere Ergebnisse als einzelne Behandlungen\"\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"Verbesserung von Hautstruktur und Narben\"\n          - listitem [level=1]\n            - ListMarker \"• \"\n            - StaticText \"sichtbarer Anti-Aging Effekt\"\n        - heading \"75 Min – 319€\" [level=5, ref=e1442]\n          - strong\n            - StaticText \"75 Min – 319€\"\n  - heading \"NOON Behandlung in Köln buchen\" [level=4, ref=e1411]\n  - paragraph\n    - StaticText \"Erleben Sie effektive Hautpflege auf einem neuen Niveau Vereinbaren Sie jetzt Ihren Termin und lassen Sie sich individuell beraten.\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e1416, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e1412]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e1417, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e1418, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e1419, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e1420, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e1421, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e1422, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e1413]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e1423, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e1424, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e1425, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e1414]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e1426, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e1427, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e1428, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e1429, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e1415]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- generic"
+}

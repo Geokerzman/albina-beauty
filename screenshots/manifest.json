@@ -1,0 +1,1452 @@
+[
+  {
+    "id": "01-home",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/",
+    "finalUrl": "https://www.albina-beauty-concept.de/",
+    "title": "Albina Beauty Concept – Beauty & Wellness in Köln Weiden",
+    "file": "desktop/01-home.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 5718,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 5718
+    },
+    "bytes": 2075609
+  },
+  {
+    "id": "02-preisliste",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/preisliste/",
+    "finalUrl": "https://www.albina-beauty-concept.de/preisliste/",
+    "title": "Preisliste – Albina Beauty Concept",
+    "file": "desktop/02-preisliste.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 8661,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 8661
+    },
+    "bytes": 3324161
+  },
+  {
+    "id": "03-ueber-uns",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+    "finalUrl": "https://www.albina-beauty-concept.de/ueber-uns/",
+    "title": "Über uns – Albina Beauty Concept",
+    "file": "desktop/03-ueber-uns.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 1789,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 1789
+    },
+    "bytes": 756182
+  },
+  {
+    "id": "04-ueber-uns__team",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/ueber-uns/team/",
+    "finalUrl": "https://www.albina-beauty-concept.de/ueber-uns/team/",
+    "title": "Team – Albina Beauty Concept",
+    "file": "desktop/04-ueber-uns__team.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 1682,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 1682
+    },
+    "bytes": 584762
+  },
+  {
+    "id": "05-leistungen",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/",
+    "title": "Leistungen – Albina Beauty Concept",
+    "file": "desktop/05-leistungen.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 2997,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 2997
+    },
+    "bytes": 1713043
+  },
+  {
+    "id": "06-leistungen__hand-und-fusspflege",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+    "title": "Hand- und Fußpflege – Albina Beauty Concept",
+    "file": "desktop/06-leistungen__hand-und-fusspflege.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 2700,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 2700
+    },
+    "bytes": 1104393
+  },
+  {
+    "id": "07-leistungen__kosmetische-behandlungen",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+    "title": "Kosmetische Behandlungen – Albina Beauty Concept",
+    "file": "desktop/07-leistungen__kosmetische-behandlungen.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 3640,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 3640
+    },
+    "bytes": 1873086
+  },
+  {
+    "id": "08-leistungen__private-physiotherapie",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+    "title": "Private Physiotherapie – Albina Beauty Concept",
+    "file": "desktop/08-leistungen__private-physiotherapie.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 1202,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 1202
+    },
+    "bytes": 723011
+  },
+  {
+    "id": "09-leistungen__wellness",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+    "title": "Wellness – Albina Beauty Concept",
+    "file": "desktop/09-leistungen__wellness.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 2003,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 2003
+    },
+    "bytes": 1294411
+  },
+  {
+    "id": "10-galerie",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/galerie/",
+    "finalUrl": "https://www.albina-beauty-concept.de/galerie/",
+    "title": "Galerie – Albina Beauty Concept",
+    "file": "desktop/10-galerie.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 1496,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 1496
+    },
+    "bytes": 1129521
+  },
+  {
+    "id": "11-kontakt",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/kontakt/",
+    "finalUrl": "https://www.albina-beauty-concept.de/kontakt/",
+    "title": "Kontakt – Albina Beauty Concept",
+    "file": "desktop/11-kontakt.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 1239,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 1239
+    },
+    "bytes": 687017
+  },
+  {
+    "id": "12-impressum",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/impressum/",
+    "finalUrl": "https://www.albina-beauty-concept.de/impressum/",
+    "title": "Impressum – Albina Beauty Concept",
+    "file": "desktop/12-impressum.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 1716,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 1716
+    },
+    "bytes": 318304
+  },
+  {
+    "id": "13-datenschutzerklaerung",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/datenschutzerklaerung/",
+    "finalUrl": "https://www.albina-beauty-concept.de/datenschutzerklaerung/",
+    "title": "Datenschutzerklärung – Albina Beauty Concept",
+    "file": "desktop/13-datenschutzerklaerung.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 15189,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 15189
+    },
+    "bytes": 4463516
+  },
+  {
+    "id": "14-leistungen__kosmetische-behandlungen__hydrafacial",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+    "title": "HydraFacial™ – Albina Beauty Concept",
+    "file": "desktop/14-leistungen__kosmetische-behandlungen__hydrafacial.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 2290,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 2290
+    },
+    "bytes": 1125583
+  },
+  {
+    "id": "15-cookie-richtlinie-eu",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+    "finalUrl": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+    "title": "Cookie-Richtlinie (EU) – Albina Beauty Concept",
+    "file": "desktop/15-cookie-richtlinie-eu.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 3047,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 3047
+    },
+    "bytes": 493527
+  },
+  {
+    "id": "16-leistungen__laser-haarentfernung",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+    "title": "Laser-Haarentfernung – Albina Beauty Concept",
+    "file": "desktop/16-leistungen__laser-haarentfernung.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 3481,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 3481
+    },
+    "bytes": 1111951
+  },
+  {
+    "id": "17-leistungen__forma-new-by-inmode",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+    "title": "FORMA NEW by Inmode – Albina Beauty Concept",
+    "file": "desktop/17-leistungen__forma-new-by-inmode.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 2797,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 2797
+    },
+    "bytes": 1025522
+  },
+  {
+    "id": "18-leistungen__microneedling",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+    "title": "MICRONEEDLING – Albina Beauty Concept",
+    "file": "desktop/18-leistungen__microneedling.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 1628,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 1628
+    },
+    "bytes": 764252
+  },
+  {
+    "id": "19-leistungen__klassische-gesichtsbehandlung",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+    "title": "Klassische Gesichtsbehandlung – Albina Beauty Concept",
+    "file": "desktop/19-leistungen__klassische-gesichtsbehandlung.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 1690,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 1690
+    },
+    "bytes": 784567
+  },
+  {
+    "id": "20-leistungen__is-clinical-behandlung",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+    "title": "IS Clinical Behandlung – Albina Beauty Concept",
+    "file": "desktop/20-leistungen__is-clinical-behandlung.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 1643,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 1643
+    },
+    "bytes": 816444
+  },
+  {
+    "id": "21-leistungen__augenbrauen-wimpern",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+    "title": "Augenbrauen & Wimpern – Albina Beauty Concept",
+    "file": "desktop/21-leistungen__augenbrauen-wimpern.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 3495,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 3495
+    },
+    "bytes": 1872892
+  },
+  {
+    "id": "22-leistungen__body-fx-by-inmode",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+    "title": "Body FX by Inmode – Albina Beauty Concept",
+    "file": "desktop/22-leistungen__body-fx-by-inmode.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 3333,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 3333
+    },
+    "bytes": 1277060
+  },
+  {
+    "id": "23-leistungen__massage",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/massage/",
+    "title": "Massage – Albina Beauty Concept",
+    "file": "desktop/23-leistungen__massage.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 2562,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 2562
+    },
+    "bytes": 992704
+  },
+  {
+    "id": "24-elementor-1142",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+    "finalUrl": "https://www.albina-beauty-concept.de/elementor-1142/",
+    "title": "Karriere – Albina Beauty Concept",
+    "file": "desktop/24-elementor-1142.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 3971,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 3971
+    },
+    "bytes": 593664
+  },
+  {
+    "id": "25-leistungen__exosome",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+    "title": "EXOSOME – Albina Beauty Concept",
+    "file": "desktop/25-leistungen__exosome.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 3190,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 3190
+    },
+    "bytes": 1519748
+  },
+  {
+    "id": "26-leistungen__noon-skin",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+    "title": "Noon Skin – Albina Beauty Concept",
+    "file": "desktop/26-leistungen__noon-skin.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 2387,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 2387
+    },
+    "bytes": 1032756
+  },
+  {
+    "id": "27-category__uncategorized",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/category/uncategorized/",
+    "finalUrl": "https://www.albina-beauty-concept.de/category/uncategorized/",
+    "title": "Uncategorized – Albina Beauty Concept",
+    "file": "desktop/27-category__uncategorized.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 1000
+    },
+    "bytes": 115671
+  },
+  {
+    "id": "28-author__albinaletova_ho1055am",
+    "device": "desktop",
+    "url": "https://www.albina-beauty-concept.de/author/albinaletova_ho1055am/",
+    "finalUrl": "https://www.albina-beauty-concept.de/author/albinaletova_ho1055am/",
+    "title": "admin – Albina Beauty Concept",
+    "file": "desktop/28-author__albinaletova_ho1055am.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 1000
+    },
+    "bytes": 110730
+  },
+  {
+    "id": "29-shop",
+    "device": "desktop",
+    "url": "https://shop.albina-beauty-concept.de/",
+    "finalUrl": "https://shop.albina-beauty-concept.de/",
+    "title": "This store is unavailable",
+    "file": "desktop/29-shop.png",
+    "viewport": {
+      "width": 1440,
+      "height": 1000
+    },
+    "pageDimensions": {
+      "height": 1000,
+      "scrollHeight": 1000,
+      "scrollWidth": 1440,
+      "width": 1440
+    },
+    "status": 404,
+    "error": null,
+    "pngDimensions": {
+      "width": 1440,
+      "height": 1000
+    },
+    "bytes": 27162
+  },
+  {
+    "id": "01-home",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/",
+    "finalUrl": "https://www.albina-beauty-concept.de/",
+    "title": "Albina Beauty Concept – Beauty & Wellness in Köln Weiden",
+    "file": "mobile/01-home.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 6932,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 6932
+    },
+    "bytes": 1160189
+  },
+  {
+    "id": "02-preisliste",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/preisliste/",
+    "finalUrl": "https://www.albina-beauty-concept.de/preisliste/",
+    "title": "Preisliste – Albina Beauty Concept",
+    "file": "mobile/02-preisliste.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 12750,
+      "scrollWidth": 411,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 411,
+      "height": 12750
+    },
+    "bytes": 1702554
+  },
+  {
+    "id": "03-ueber-uns",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/ueber-uns/",
+    "finalUrl": "https://www.albina-beauty-concept.de/ueber-uns/",
+    "title": "Über uns – Albina Beauty Concept",
+    "file": "mobile/03-ueber-uns.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 3482,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 3482
+    },
+    "bytes": 422329
+  },
+  {
+    "id": "04-ueber-uns__team",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/ueber-uns/team/",
+    "finalUrl": "https://www.albina-beauty-concept.de/ueber-uns/team/",
+    "title": "Team – Albina Beauty Concept",
+    "file": "mobile/04-ueber-uns__team.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 2696,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 2696
+    },
+    "bytes": 241850
+  },
+  {
+    "id": "05-leistungen",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/",
+    "title": "Leistungen – Albina Beauty Concept",
+    "file": "mobile/05-leistungen.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 5067,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 5067
+    },
+    "bytes": 896152
+  },
+  {
+    "id": "06-leistungen__hand-und-fusspflege",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+    "title": "Hand- und Fußpflege – Albina Beauty Concept",
+    "file": "mobile/06-leistungen__hand-und-fusspflege.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 4820,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 4820
+    },
+    "bytes": 599819
+  },
+  {
+    "id": "07-leistungen__kosmetische-behandlungen",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+    "title": "Kosmetische Behandlungen – Albina Beauty Concept",
+    "file": "mobile/07-leistungen__kosmetische-behandlungen.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 4832,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 4832
+    },
+    "bytes": 1081664
+  },
+  {
+    "id": "08-leistungen__private-physiotherapie",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/",
+    "title": "Private Physiotherapie – Albina Beauty Concept",
+    "file": "mobile/08-leistungen__private-physiotherapie.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 1942,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 1942
+    },
+    "bytes": 264674
+  },
+  {
+    "id": "09-leistungen__wellness",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+    "title": "Wellness – Albina Beauty Concept",
+    "file": "mobile/09-leistungen__wellness.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 3240,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 3240
+    },
+    "bytes": 576796
+  },
+  {
+    "id": "10-galerie",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/galerie/",
+    "finalUrl": "https://www.albina-beauty-concept.de/galerie/",
+    "title": "Galerie – Albina Beauty Concept",
+    "file": "mobile/10-galerie.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 1413,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 1413
+    },
+    "bytes": 181338
+  },
+  {
+    "id": "11-kontakt",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/kontakt/",
+    "finalUrl": "https://www.albina-beauty-concept.de/kontakt/",
+    "title": "Kontakt – Albina Beauty Concept",
+    "file": "mobile/11-kontakt.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 1770,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 1770
+    },
+    "bytes": 249437
+  },
+  {
+    "id": "12-impressum",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/impressum/",
+    "finalUrl": "https://www.albina-beauty-concept.de/impressum/",
+    "title": "Impressum – Albina Beauty Concept",
+    "file": "mobile/12-impressum.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 3180,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 3180
+    },
+    "bytes": 286592
+  },
+  {
+    "id": "13-datenschutzerklaerung",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/datenschutzerklaerung/",
+    "finalUrl": "https://www.albina-beauty-concept.de/datenschutzerklaerung/",
+    "title": "Datenschutzerklärung – Albina Beauty Concept",
+    "file": "mobile/13-datenschutzerklaerung.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 39981,
+      "scrollWidth": 669,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 669,
+      "height": 39981
+    },
+    "bytes": 5582266
+  },
+  {
+    "id": "14-leistungen__kosmetische-behandlungen__hydrafacial",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/",
+    "title": "HydraFacial™ – Albina Beauty Concept",
+    "file": "mobile/14-leistungen__kosmetische-behandlungen__hydrafacial.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 4895,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 4895
+    },
+    "bytes": 840617
+  },
+  {
+    "id": "15-cookie-richtlinie-eu",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+    "finalUrl": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+    "title": "Cookie-Richtlinie (EU) – Albina Beauty Concept",
+    "file": "mobile/15-cookie-richtlinie-eu.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 4691,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 4691
+    },
+    "bytes": 423639
+  },
+  {
+    "id": "16-leistungen__laser-haarentfernung",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+    "title": "Laser-Haarentfernung – Albina Beauty Concept",
+    "file": "mobile/16-leistungen__laser-haarentfernung.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 7668,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 7668
+    },
+    "bytes": 539547
+  },
+  {
+    "id": "17-leistungen__forma-new-by-inmode",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+    "title": "FORMA NEW by Inmode – Albina Beauty Concept",
+    "file": "mobile/17-leistungen__forma-new-by-inmode.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 4778,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 4778
+    },
+    "bytes": 553278
+  },
+  {
+    "id": "18-leistungen__microneedling",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+    "title": "MICRONEEDLING – Albina Beauty Concept",
+    "file": "mobile/18-leistungen__microneedling.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 2725,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 2725
+    },
+    "bytes": 342116
+  },
+  {
+    "id": "19-leistungen__klassische-gesichtsbehandlung",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/",
+    "title": "Klassische Gesichtsbehandlung – Albina Beauty Concept",
+    "file": "mobile/19-leistungen__klassische-gesichtsbehandlung.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 2695,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 2695
+    },
+    "bytes": 369844
+  },
+  {
+    "id": "20-leistungen__is-clinical-behandlung",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/",
+    "title": "IS Clinical Behandlung – Albina Beauty Concept",
+    "file": "mobile/20-leistungen__is-clinical-behandlung.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 2550,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 2550
+    },
+    "bytes": 301141
+  },
+  {
+    "id": "21-leistungen__augenbrauen-wimpern",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/augenbrauen-wimpern/",
+    "title": "Augenbrauen & Wimpern – Albina Beauty Concept",
+    "file": "mobile/21-leistungen__augenbrauen-wimpern.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 6673,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 6673
+    },
+    "bytes": 989018
+  },
+  {
+    "id": "22-leistungen__body-fx-by-inmode",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+    "title": "Body FX by Inmode – Albina Beauty Concept",
+    "file": "mobile/22-leistungen__body-fx-by-inmode.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 5574,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 5574
+    },
+    "bytes": 632622
+  },
+  {
+    "id": "23-leistungen__massage",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/massage/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/massage/",
+    "title": "Massage – Albina Beauty Concept",
+    "file": "mobile/23-leistungen__massage.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 4373,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 4373
+    },
+    "bytes": 478736
+  },
+  {
+    "id": "24-elementor-1142",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/elementor-1142/",
+    "finalUrl": "https://www.albina-beauty-concept.de/elementor-1142/",
+    "title": "Karriere – Albina Beauty Concept",
+    "file": "mobile/24-elementor-1142.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 6083,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 6083
+    },
+    "bytes": 489109
+  },
+  {
+    "id": "25-leistungen__exosome",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+    "title": "EXOSOME – Albina Beauty Concept",
+    "file": "mobile/25-leistungen__exosome.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 5246,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 5246
+    },
+    "bytes": 762365
+  },
+  {
+    "id": "26-leistungen__noon-skin",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+    "finalUrl": "https://www.albina-beauty-concept.de/leistungen/noon-skin/",
+    "title": "Noon Skin – Albina Beauty Concept",
+    "file": "mobile/26-leistungen__noon-skin.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 4471,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 4471
+    },
+    "bytes": 443220
+  },
+  {
+    "id": "27-category__uncategorized",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/category/uncategorized/",
+    "finalUrl": "https://www.albina-beauty-concept.de/category/uncategorized/",
+    "title": "Uncategorized – Albina Beauty Concept",
+    "file": "mobile/27-category__uncategorized.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 1267,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 1267
+    },
+    "bytes": 96568
+  },
+  {
+    "id": "28-author__albinaletova_ho1055am",
+    "device": "mobile",
+    "url": "https://www.albina-beauty-concept.de/author/albinaletova_ho1055am/",
+    "finalUrl": "https://www.albina-beauty-concept.de/author/albinaletova_ho1055am/",
+    "title": "admin – Albina Beauty Concept",
+    "file": "mobile/28-author__albinaletova_ho1055am.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 1228,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 200,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 1228
+    },
+    "bytes": 92313
+  },
+  {
+    "id": "29-shop",
+    "device": "mobile",
+    "url": "https://shop.albina-beauty-concept.de/",
+    "finalUrl": "https://shop.albina-beauty-concept.de/",
+    "title": "This store is unavailable",
+    "file": "mobile/29-shop.png",
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "pageDimensions": {
+      "height": 844,
+      "scrollHeight": 844,
+      "scrollWidth": 390,
+      "width": 390
+    },
+    "status": 404,
+    "error": null,
+    "pngDimensions": {
+      "width": 390,
+      "height": 844
+    },
+    "bytes": 21544
+  }
+]

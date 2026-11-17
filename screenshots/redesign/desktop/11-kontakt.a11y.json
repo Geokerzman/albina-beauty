@@ -1,0 +1,25 @@
+{
+  "axeVersion": "4.12.1",
+  "counts": {
+    "inapplicable": 51,
+    "incomplete": 0,
+    "passes": 38,
+    "violations": 0
+  },
+  "incomplete": [],
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "url": "http://localhost:3000/kontakt/",
+  "violations": []
+}

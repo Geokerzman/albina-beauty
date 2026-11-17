@@ -1,0 +1,36 @@
+{
+  "date": "2026-11-17",
+  "mainDomainPages": 28,
+  "linkedShopPages": 1,
+  "pageScreenshots": 58,
+  "bookingLandingStatus": 404,
+  "missingInternalPageLinks": [],
+  "failures": [],
+  "verifiedPngs": 58,
+  "mainDomainHttpStatuses": {
+    "200": 56
+  },
+  "states": [
+    "booking-terminslot-desktop.png",
+    "booking-terminslot-mobile.png",
+    "cookie-banner-desktop.png",
+    "cookie-banner-mobile.png",
+    "gallery-lightbox-desktop.png",
+    "mobile-cosmetic-submenu.png",
+    "mobile-menu-open.png",
+    "mobile-services-menu.png",
+    "team-albina-desktop.png",
+    "team-albina-mobile.png",
+    "team-alina-desktop.png",
+    "team-alina-mobile.png",
+    "team-dominika-desktop.png",
+    "team-dominika-mobile.png",
+    "team-evgenia-desktop.png",
+    "team-evgenia-mobile.png",
+    "team-irina-desktop.png",
+    "team-irina-mobile.png"
+  ],
+  "allPngsValid": true,
+  "allPngCount": 76,
+  "brokenReportLinks": []
+}

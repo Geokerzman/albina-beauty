@@ -1,0 +1,244 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/cookie-richtlinie-eu/",
+  "refs": {
+    "e3768": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e3769": {
+      "name": "Cookie-Richtlinie (EU)",
+      "role": "heading"
+    },
+    "e3770": {
+      "name": "1. Einführung",
+      "role": "heading"
+    },
+    "e3771": {
+      "name": "2. Was sind Cookies?",
+      "role": "heading"
+    },
+    "e3772": {
+      "name": "3. Was sind Skripte?",
+      "role": "heading"
+    },
+    "e3773": {
+      "name": "4. Was ist ein Web Beacon?",
+      "role": "heading"
+    },
+    "e3774": {
+      "name": "5. Cookies",
+      "role": "heading"
+    },
+    "e3775": {
+      "name": "5.1 Technische oder funktionelle Cookies",
+      "role": "heading"
+    },
+    "e3776": {
+      "name": "5.2 Marketing- / Tracking-Cookies",
+      "role": "heading"
+    },
+    "e3777": {
+      "name": "6. Platzierte Cookies",
+      "role": "heading"
+    },
+    "e3778": {
+      "name": "7. Einwilligung",
+      "role": "heading"
+    },
+    "e3779": {
+      "name": "7.1 Verwalte deine Einwilligungseinstellungen",
+      "role": "heading"
+    },
+    "e3780": {
+      "name": "8. Aktivierung/Deaktivierung und Löschen von Cookies",
+      "role": "heading"
+    },
+    "e3781": {
+      "name": "9. Deine Rechte in Bezug auf personenbezogene Daten",
+      "role": "heading"
+    },
+    "e3782": {
+      "name": "10. Kontaktdaten",
+      "role": "heading"
+    },
+    "e3783": {
+      "name": "https://www.albina-beauty-concept.de",
+      "role": "link"
+    },
+    "e3784": {
+      "name": "Funktional",
+      "role": "button"
+    },
+    "e3785": {
+      "name": "Vorlieben",
+      "role": "checkbox"
+    },
+    "e3786": {
+      "name": "Vorlieben",
+      "role": "button"
+    },
+    "e3787": {
+      "name": "Marketing",
+      "role": "checkbox"
+    },
+    "e3788": {
+      "name": "Marketing",
+      "role": "button"
+    },
+    "e3789": {
+      "name": "https://www.albina-beauty-concept.de",
+      "role": "link"
+    },
+    "e3790": {
+      "name": "cookiedatabase.org",
+      "role": "link"
+    },
+    "e3791": {
+      "name": "Elementor",
+      "role": "heading"
+    },
+    "e3792": {
+      "name": "WordPress",
+      "role": "heading"
+    },
+    "e3793": {
+      "name": "Complianz",
+      "role": "heading"
+    },
+    "e3794": {
+      "name": "Google Fonts",
+      "role": "heading"
+    },
+    "e3795": {
+      "name": "Google Maps",
+      "role": "heading"
+    },
+    "e3796": {
+      "name": "Burst Statistics",
+      "role": "heading"
+    },
+    "e3797": {
+      "name": "Sonstiges",
+      "role": "heading"
+    },
+    "e3798": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e3799": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e3800": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e3801": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e3802": {
+      "name": "",
+      "role": "link"
+    },
+    "e3803": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e3804": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3805": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e3806": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e3807": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e3808": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e3809": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e3810": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3811": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e3812": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e3813": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e3814": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e3815": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e3816": {
+      "name": "Menü Umschalter",
+      "role": "button"
+    },
+    "e3817": {
+      "name": "",
+      "role": "link"
+    },
+    "e3818": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e3819": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e3820": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e3821": {
+      "name": "",
+      "role": "link"
+    },
+    "e3822": {
+      "name": "",
+      "role": "link"
+    },
+    "e3823": {
+      "name": "",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- link \"Zum Inhalt springen\" [ref=e3768, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/#content]\n- banner\n  - generic\n    - generic\n      - search\n        - form\n          - button \"Suche\" [ref=e3819]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e3820]\n      - list\n        - listitem [level=1]\n          - link [ref=e3821, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e3822, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e3823, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e3817, url=https://www.albina-beauty-concept.de/]\n      - button \"Menü Umschalter\" [expanded=false, ref=e3816]\n      - link \"Termine\" [ref=e3818, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"Cookie-Richtlinie (EU)\" [level=1, ref=e3769]\n  - generic\n    - paragraph\n      - StaticText \"Diese Cookie-Richtlinie wurde zuletzt am Juli 7, 2024 aktualisiert und gilt für Bürger und Einwohner mit ständigem Wohnsitz im Europäischen Wirtschaftsraum und der Schweiz.\"\n      - LineBreak \"\\n\"\n    - heading \"1. Einführung\" [level=2, ref=e3770]\n    - paragraph\n      - StaticText \"Unsere Website, \"\n      - link \"https://www.albina-beauty-concept.de\" [ref=e3783, url=https://www.albina-beauty-concept.de/]\n      - StaticText \" (im folgenden: \\\"Die Website\\\") verwendet Cookies und ähnliche Technologien (der Einfachheit halber werden all diese unter \\\"Cookies\\\" zusammengefasst). Cookies werden außerdem von uns beauftragten Drittparteien platziert. In dem unten stehendem Dokument informieren wir dich über die Verwendung von Cookies auf unserer Website.\"\n    - heading \"2. Was sind Cookies?\" [level=2, ref=e3771]\n    - paragraph\n      - StaticText \"Ein Cookie ist eine einfache kleine Datei, die gemeinsam mit den Seiten einer Internetadresse versendet und vom Webbrowser auf dem PC oder einem anderen Gerät gespeichert werden kann. Die darin gespeicherten Informationen können während folgender Besuche zu unseren oder den Servern relevanter Drittanbieter gesendet werden.\"\n    - heading \"3. Was sind Skripte?\" [level=2, ref=e3772]\n    - paragraph\n      - StaticText \"Ein Script ist ein Stück Programmcode, das benutzt wird, um unserer Website Funktionalität und Interaktivität zu ermöglichen. Dieser Code wird auf unseren Servern oder auf deinem Gerät ausgeführt.\"\n    - heading \"4. Was ist ein Web Beacon?\" [level=2, ref=e3773]\n    - paragraph\n      - StaticText \"Ein Web-Beacon (auch Pixel-Tag genannt), ist ein kleines unsichtbares Textfragment oder Bild auf einer Website, das benutzt wird, um den Verkehr auf der Website zu überwachen. Um dies zu ermöglichen werden diverse Daten von dir mittels Web-Beacons gespeichert.\"\n    - heading \"5. Cookies\" [level=2, ref=e3774]\n    - heading \"5.1 Technische oder funktionelle Cookies\" [level=3, ref=e3775]\n    - paragraph\n      - StaticText \"Einige Cookies stellen sicher, dass bestimmte Teile der Website ordnungsgemäß funktionieren und deine Benutzereinstellungen weiterhin in Erinnerung bleiben. Durch das Setzen funktionaler Cookies erleichtern wir dir den Besuch unserer Website. Auf diese Weise musst du beim Besuch unserer Website nicht wiederholt dieselben Informationen eingeben, so bleiben Artikel beispielsweise in deinem Warenkorb, bis du bezahlst. Wir können diese Cookies ohne deine Einwilligung platzieren.\"\n    - heading \"5.2 Marketing- / Tracking-Cookies\" [level=3, ref=e3776]\n    - paragraph\n      - StaticText \"Marketing- / Tracking-Cookies sind Cookies oder eine andere Form der lokalen Speicherung, die zur Erstellung von Benutzerprofilen verwendet werden, um Werbung anzuzeigen oder den Benutzer auf dieser Website oder über mehrere Websites hinweg für ähnliche Marketingzwecke zu verfolgen.\"\n    - heading \"6. Platzierte Cookies\" [level=2, ref=e3777]\n    - generic\n      - group\n        - DisclosureTriangle \"Elementor Statistik (anonym) Consent to service elementor\" [expanded=false]\n          - heading \"Elementor\" [level=3, ref=e3791]\n          - paragraph\n            - StaticText \"Statistik (anonym)\"\n          - LabelText\n            - StaticText \"Consent to service elementor\"\n      - group\n        - DisclosureTriangle \"WordPress Funktional Consent to service wordpress\" [expanded=false]\n          - heading \"WordPress\" [level=3, ref=e3792]\n          - paragraph\n            - StaticText \"Funktional\"\n          - LabelText\n            - StaticText \"Consent to service wordpress\"\n      - group\n        - DisclosureTriangle \"Complianz Funktional Consent to service complianz\" [expanded=false]\n          - heading \"Complianz\" [level=3, ref=e3793]\n          - paragraph\n            - StaticText \"Funktional\"\n          - LabelText\n            - StaticText \"Consent to service complianz\"\n      - group\n        - DisclosureTriangle \"Google Fonts Marketing Consent to service google-fonts\" [expanded=false]\n          - heading \"Google Fonts\" [level=3, ref=e3794]\n          - paragraph\n            - StaticText \"Marketing\"\n          - LabelText\n            - StaticText \"Consent to service google-fonts\"\n      - group\n        - DisclosureTriangle \"Google Maps Marketing Consent to service google-maps\" [expanded=false]\n          - heading \"Google Maps\" [level=3, ref=e3795]\n          - paragraph\n            - StaticText \"Marketing\"\n          - LabelText\n            - StaticText \"Consent to service google-maps\"\n      - group\n        - DisclosureTriangle \"Burst Statistics Statistik (anonym) Consent to service burst-statistics\" [expanded=false]\n          - heading \"Burst Statistics\" [level=3, ref=e3796]\n          - paragraph\n            - StaticText \"Statistik (anonym)\"\n          - LabelText\n            - StaticText \"Consent to service burst-statistics\"\n      - group\n        - DisclosureTriangle \"Sonstiges Zweck wird noch ermittelt Consent to service sonstiges\" [expanded=false]\n          - heading \"Sonstiges\" [level=3, ref=e3797]\n          - paragraph\n            - StaticText \"Zweck wird noch ermittelt\"\n          - LabelText\n            - StaticText \"Consent to service sonstiges\"\n    - heading \"7. Einwilligung\" [level=2, ref=e3778]\n    - paragraph\n      - StaticText \"Wenn du unsere Website das erste Mal besuchst, zeigen wir dir ein Pop-Up mit einer Erklärung über Cookies. Sobald du auf „Einstellungen speichern“ klickst, gibst du uns deine Einwilligung alle von dir gewählten Kategorien von Cookies und Plugins wie in dieser Cookie-Erklärung beschrieben zu verwenden. Du kannst die Verwendung von Cookies über deinen Browser deaktivieren, aber bitte beachte, dass unsere Website dann unter Umständen nicht richtig funktioniert.\"\n    - heading \"7.1 Verwalte deine Einwilligungseinstellungen\" [level=3, ref=e3779]\n    - StaticText \"Funktional\"\n    - StaticText \"Immer aktiv\"\n    - button \"Funktional\" [expanded=false, ref=e3784]\n    - StaticText \"Vorlieben\"\n    - checkbox \"Vorlieben\" [checked=false, ref=e3785]\n    - LabelText\n      - StaticText \"Vorlieben\"\n    - button \"Vorlieben\" [expanded=false, ref=e3786]\n    - StaticText \"Marketing\"\n    - checkbox \"Marketing\" [checked=false, ref=e3787]\n    - LabelText\n      - StaticText \"Marketing\"\n    - button \"Marketing\" [expanded=false, ref=e3788]\n    - heading \"8. Aktivierung/Deaktivierung und Löschen von Cookies\" [level=2, ref=e3780]\n    - paragraph\n      - StaticText \"Du kannst deinen Internetbrowser verwenden um automatisch oder manuell Cookies zu löschen. Du kannst außerdem spezifizieren ob spezielle Cookies nicht platziert werden sollen. Eine andere Möglichkeit ist es deinen Internetbrowser derart einzurichten, dass du jedes Mal benachrichtigt wirst, wenn ein Cookie platziert wird. Für weitere Information über diese Möglichkeiten beachte die Anweisungen in der Hilfesektion deines Browsers.\"\n    - paragraph\n      - StaticText \"Bitte nimm zur Kenntnis, dass unsere Website möglicherweise nicht richtig funktioniert, wenn alle Cookies deaktiviert sind. Wenn du die Cookies in deinem Browser löscht, werden diese neu platziert, wenn du unsere Website erneut besuchst.\"\n    - heading \"9. Deine Rechte in Bezug auf personenbezogene Daten\" [level=2, ref=e3781]\n    - paragraph\n      - StaticText \"Du hast folgende Rechte in Bezug auf deine personenbezogenen Daten:\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Du hast das Recht zu erfahren, warum deine personenbezogenen Daten benötigt werden, was damit passiert und wie lange sie aufbewahrt werden.\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Auskunftsrecht: Du hast das Recht deine uns bekannten persönliche Daten einzusehen.\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Recht auf Berichtigung: Du hast das Recht wann immer du wünscht, deine personenbezogenen Daten zu ergänzen, zu korrigieren sowie gelöscht oder blockiert zu bekommen.\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Wenn du uns deine Einwilligung zur Verarbeitung deiner Daten erteilst, hast du das Recht diese Einwilligung zu widerrufen und deine personenbezogenen Daten löschen zu lassen.\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Recht auf Datenübertragbarkeit: Du hast das Recht, alle deine personenbezogenen Daten von dem für die Verarbeitung Verantwortlichen anzufordern und sie vollständig an einen anderen für die Verarbeitung Verantwortlichen zu übermitteln.\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Widerspruchsrecht: Du kannst der Verarbeitung deiner Daten widersprechen. Wir entsprechen dem, es sei denn es gibt berechtigte Gründe für die Verarbeitung.\"\n    - paragraph\n      - StaticText \"Um diese Rechte auszuüben kontaktiere uns bitte. Bitte beziehe dich auf die Kontaktdaten am Ende dieser Cookie-Erklärung. Wenn du eine Beschwerde darüber hast, wie wir deine Daten behandeln, würden wir diese gerne hören, aber du hast auch das Recht diese an die Aufsichtsbehörde (Datenschutzbehörde) zu richten.\"\n    - heading \"10. Kontaktdaten\" [level=2, ref=e3782]\n    - paragraph\n      - StaticText \"Für Fragen und/oder Kommentare über unsere Cookie-Richtlinien und diese Aussage kontaktiere uns bitte mittels der folgenden Kontaktdaten:\"\n    - paragraph\n      - StaticText \"Albina Letova\"\n      - LineBreak \"\\n\"\n      - StaticText \"Frechener Weg 28\"\n      - LineBreak \"\\n\"\n      - StaticText \"50859 Köln\"\n      - LineBreak \"\\n\"\n      - StaticText \"Deutschland\"\n      - LineBreak \"\\n\"\n      - StaticText \"Website: \"\n      - link \"https://www.albina-beauty-concept.de\" [ref=e3789, url=https://www.albina-beauty-concept.de/]\n      - LineBreak \"\\n\"\n      - StaticText \"E-Mail: info@albina-beauty-concept.de\"\n      - LineBreak \"\\n\"\n      - StaticText \"Telefonnummer: +49 (0) 2234 4303997\"\n    - paragraph\n      - StaticText \"Diese Cookie-Richtlinie wurde mit \"\n      - link \"cookiedatabase.org\" [ref=e3790, url=https://cookiedatabase.org/]\n        - StaticText \"cookiedatabase.org\"\n        - image\n      - StaticText \" am Juli 7, 2024 synchronisiert.\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e3802, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e3798]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e3803, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3804, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e3805, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e3806, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e3807, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e3808, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e3799]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e3809, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3810, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e3811, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e3800]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e3812, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e3813, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e3814, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e3815, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e3801]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- StaticText \"mobile\""
+}

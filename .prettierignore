@@ -1,0 +1,8 @@
+node_modules
+.next
+screenshots
+public
+src/content/source-copy.json
+src/content/assets.json
+src/content/legal.json
+package-lock.json

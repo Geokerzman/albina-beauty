@@ -1,0 +1,148 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/leistungen/wellness/",
+  "refs": {
+    "e3514": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e3515": {
+      "name": "Wellness in Köln Weiden",
+      "role": "heading"
+    },
+    "e3516": {
+      "name": "BodyFX – Revolutionäre Körperkonturierung jetzt in Köln Weiden",
+      "role": "heading"
+    },
+    "e3517": {
+      "name": "Wohltuende Massagen bei Albina Beauty Concept in Köln Weiden",
+      "role": "heading"
+    },
+    "e3518": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e3519": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e3520": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e3521": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e3522": {
+      "name": "mehr Info",
+      "role": "link"
+    },
+    "e3523": {
+      "name": "mehr Info",
+      "role": "link"
+    },
+    "e3524": {
+      "name": "",
+      "role": "link"
+    },
+    "e3525": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e3526": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3527": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e3528": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e3529": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e3530": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e3531": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e3532": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3533": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e3534": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e3535": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e3536": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e3537": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e3538": {
+      "name": "Menü Umschalter",
+      "role": "button"
+    },
+    "e3539": {
+      "name": "",
+      "role": "link"
+    },
+    "e3540": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e3541": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e3542": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e3543": {
+      "name": "",
+      "role": "link"
+    },
+    "e3544": {
+      "name": "",
+      "role": "link"
+    },
+    "e3545": {
+      "name": "",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e3514, url=https://www.albina-beauty-concept.de/leistungen/wellness/#content]\n- banner\n  - generic\n    - generic\n      - search\n        - form\n          - button \"Suche\" [ref=e3541]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e3542]\n      - list\n        - listitem [level=1]\n          - link [ref=e3543, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e3544, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e3545, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e3539, url=https://www.albina-beauty-concept.de/]\n      - button \"Menü Umschalter\" [expanded=false, ref=e3538]\n      - link \"Termine\" [ref=e3540, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"Wellness in Köln Weiden\" [level=1, ref=e3515]\n  - generic\n    - generic\n      - heading \"BodyFX – Revolutionäre Körperkonturierung jetzt in Köln Weiden\" [level=4, ref=e3516]\n      - paragraph\n        - StaticText \"Erleben Sie modernste Technologie für eine effektive Körperformung mit BodyFX – exklusiv bei Albina Beauty Concept, der ersten Beauty-Studio in Köln mit diesem innovativen Gerät!\"\n      - paragraph\n        - StaticText \"BodyFX arbeitet mit Radiofrequenz (RF) und sorgt für eine dreidimensionale Straffung von Haut und Bindegewebe. Die gezielte Erwärmung und integrierte Sicherheitsvorkehrungen gewährleisten eine sichere und angenehme Behandlung. Diese Methode bietet Ergebnisse, die bisher nur mit invasiven Eingriffen möglich waren – jetzt schonend und ohne Ausfallzeiten.\"\n      - paragraph\n        - StaticText \"Entdecken Sie die Zukunft der Körperformung bei uns!\"\n      - link \"mehr Info\" [ref=e3522, url=https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/]\n        - StaticText \"mehr Info\"\n  - generic\n    - generic\n      - heading \"Wohltuende Massagen bei Albina Beauty Concept in Köln Weiden\" [level=4, ref=e3517]\n      - paragraph\n        - StaticText \"Gönnen Sie sich eine Auszeit und lassen Sie sich von unseren professionellen Massagen verwöhnen – für Körper, Geist und Seele. In unserem Beauty-Studio bieten wir vielfältige Massagen, die nicht nur entspannen, sondern auch gezielt auf Ihre individuellen Bedürfnisse eingehen.\"\n      - paragraph\n        - StaticText \"Unser Angebot umfasst:\"\n      - list\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - strong\n            - StaticText \"Entspannungsmassage\"\n          - StaticText \" – Perfekt zum Abschalten und Regenerieren.\"\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - strong\n            - StaticText \"Körper-Korrektur-Massage\"\n          - StaticText \" – Unterstützt die Konturierung und Straffung.\"\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - strong\n            - StaticText \"Lymphdrainage\"\n          - StaticText \" – Für eine verbesserte Durchblutung und Entgiftung.\"\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - strong\n            - StaticText \"Rücken-, Schulter- und Nacken-Massage\"\n          - StaticText \" – Löst gezielt Verspannungen.\"\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - strong\n            - StaticText \"Anti-Cellulite-Massage\"\n          - StaticText \" – Zur Verbesserung des Hautbildes und Reduzierung von Cellulite. \"\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - strong\n            - StaticText \"Gesichtsmassage\"\n          - StaticText \" – Für einen frischen, strahlenden Teint.\"\n      - paragraph\n        - LineBreak \"\\n\"\n        - StaticText \"Erleben Sie die wohltuende Wirkung unserer Massagen und gönnen Sie sich eine Auszeit vom Alltag.\"\n      - link \"mehr Info\" [ref=e3523, url=https://www.albina-beauty-concept.de/leistungen/massage/]\n        - StaticText \"mehr Info\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e3524, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e3518]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e3525, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3526, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e3527, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e3528, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e3529, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e3530, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e3519]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e3531, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3532, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e3533, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e3520]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e3534, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e3535, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e3536, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e3537, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e3521]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- StaticText \"mobile\""
+}

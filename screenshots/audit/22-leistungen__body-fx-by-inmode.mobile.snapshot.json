@@ -1,0 +1,172 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/",
+  "refs": {
+    "e4078": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e4079": {
+      "name": "BodyFX – Revolutionäre Körperkonturierung bei Albina Beauty Concept in Köln Weiden",
+      "role": "heading"
+    },
+    "e4080": {
+      "name": "Wie funktioniert BodyFX?",
+      "role": "button"
+    },
+    "e4081": {
+      "name": "Wie funktioniert BodyFX?",
+      "role": "region"
+    },
+    "e4082": {
+      "name": "Welche Bereiche können behandelt werden?",
+      "role": "button"
+    },
+    "e4083": {
+      "name": "Wie viele Behandlungen sind notwendig?",
+      "role": "button"
+    },
+    "e4084": {
+      "name": "Ist die Behandlung sicher und schmerzfrei?",
+      "role": "button"
+    },
+    "e4085": {
+      "name": "PREISLISTE",
+      "role": "heading"
+    },
+    "e4086": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e4087": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e4088": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e4089": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e4090": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e4091": {
+      "name": "",
+      "role": "link"
+    },
+    "e4092": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e4093": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e4094": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e4095": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e4096": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e4097": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e4098": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e4099": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e4100": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e4101": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e4102": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e4103": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e4104": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e4105": {
+      "name": "Menü Umschalter",
+      "role": "button"
+    },
+    "e4106": {
+      "name": "1 Zone 250€ ",
+      "role": "heading"
+    },
+    "e4107": {
+      "name": "Paket 3 Behandlungen 700€",
+      "role": "heading"
+    },
+    "e4108": {
+      "name": "Paket 6 Behandlungen 1350€",
+      "role": "heading"
+    },
+    "e4109": {
+      "name": "",
+      "role": "link"
+    },
+    "e4110": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e4111": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e4112": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e4113": {
+      "name": "",
+      "role": "link"
+    },
+    "e4114": {
+      "name": "",
+      "role": "link"
+    },
+    "e4115": {
+      "name": "",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e4078, url=https://www.albina-beauty-concept.de/leistungen/body-fx-by-inmode/#content]\n- banner\n  - generic\n    - generic\n      - search\n        - form\n          - button \"Suche\" [ref=e4111]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e4112]\n      - list\n        - listitem [level=1]\n          - link [ref=e4113, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e4114, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e4115, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e4109, url=https://www.albina-beauty-concept.de/]\n      - button \"Menü Umschalter\" [expanded=false, ref=e4105]\n      - link \"Termine\" [ref=e4110, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"BodyFX – Revolutionäre Körperkonturierung bei Albina Beauty Concept in Köln Weiden\" [level=2, ref=e4079]\n  - generic\n    - paragraph\n      - StaticText \"BodyFX setzt neue Maßstäbe in der nicht-invasiven Körperformung und liefert Ergebnisse, die bisher nur durch aufwendige chirurgische Eingriffe erreichbar waren. Dieses innovative Verfahren kombiniert modernste Radiofrequenztechnologie (RFAL) mit gezielter RF, um die Haut zu straffen, Fettzellen zu reduzieren und das Gewebe dreidimensional zu festigen.\"\n    - paragraph\n      - StaticText \"Dank der gleichmäßigen Erwärmung des Weichgewebes und integrierter Sicherheitsvorkehrungen wie Echtzeit-Temperaturmessung und Stromabschaltung ist die Behandlung nicht nur hochwirksam, sondern auch sicher und angenehm.\"\n    - paragraph\n      - StaticText \"Als erste Beauty-Studio in Köln bieten wir Ihnen die Möglichkeit, von dieser fortschrittlichen Technologie zu profitieren und Ihrem Körper eine gezielte Konturierung zu schenken. Erleben Sie die neuesten Standards der Körperformung – exklusiv bei Albina Beauty Concept!\"\n  - generic\n    - generic\n      - paragraph\n        - StaticText \"Modernste Technologie ermöglicht eine präzise Steuerung und Optimierung der Spitzenenergie für maximale Effizienz und Sicherheit.\"\n      - paragraph\n        - StaticText \"Durch das gezielte Erwärmen des Gewebes wird die Schwelle für die selektive Apoptose (kontrollierter Zelltod) von Fettzellen effektiv gesenkt – für noch bessere Ergebnisse bei der Körperkonturierung.\"\n      - paragraph\n        - StaticText \"Eine intelligente Echtzeitüberwachung sorgt für das Erreichen und Halten optimaler Behandlungstemperaturen, wodurch unerwünschte Gewebeschäden vermieden werden.\"\n      - paragraph\n        - StaticText \"Die aktive Überwachung und Regulierung der Temperatur gewährleistet eine sichere Behandlung. Integrierte Abschaltungen minimieren das Risiko thermischer Verletzungen und bieten so ein Höchstmaß an Sicherheit.\"\n  - generic\n    - button \"Wie funktioniert BodyFX?\" [expanded=true, ref=e4080]\n      - StaticText \"Wie funktioniert BodyFX?\"\n    - region \"Wie funktioniert BodyFX?\" [ref=e4081]\n      - paragraph\n        - StaticText \"Mit Hilfe eines Vakuums wird die zu behandelnde Hautzone sanft angesaugt und durch Radiofrequenz erhitzt. Hochfrequenzimpulse dringen gezielt in das Gewebe ein, lösen Fettzellen auf und regen den natürlichen Abbau durch den Körper an. Gleichzeitig wird die Kollagenproduktion angeregt, wodurch die Haut straffer und glatter wird.\"\n    - button \"Welche Bereiche können behandelt werden?\" [expanded=false, ref=e4082]\n      - StaticText \"Welche Bereiche können behandelt werden?\"\n    - button \"Wie viele Behandlungen sind notwendig?\" [expanded=false, ref=e4083]\n      - StaticText \"Wie viele Behandlungen sind notwendig?\"\n    - button \"Ist die Behandlung sicher und schmerzfrei?\" [expanded=false, ref=e4084]\n      - StaticText \"Ist die Behandlung sicher und schmerzfrei?\"\n    - paragraph\n      - strong\n        - StaticText \"Entdecken Sie BodyFX jetzt bei Albina Beauty Concept – als erste Beauty-Studio in Köln mit dieser einzigartigen Technologie!\"\n  - generic\n    - heading \"PREISLISTE\" [level=4, ref=e4085]\n    - generic\n      - heading \"1 Zone 250€ \" [level=5, ref=e4106]\n        - strong\n          - StaticText \"1 Zone\"\n          - LineBreak \"\\n\"\n        - StaticText \"250€ \"\n      - paragraph\n        - StaticText \"(z.B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\"\n      - heading \"Paket 3 Behandlungen 700€\" [level=5, ref=e4107]\n        - strong\n          - StaticText \"Paket 3 Behandlungen\"\n          - LineBreak \"\\n\"\n        - StaticText \"700€\"\n      - paragraph\n        - StaticText \"(z.B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\"\n      - heading \"Paket 6 Behandlungen 1350€\" [level=5, ref=e4108]\n        - strong\n          - StaticText \"Paket 6 Behandlungen\"\n          - LineBreak \"\\n\"\n        - StaticText \"1350€\"\n      - paragraph\n        - StaticText \"(z.B. Bauch, Hüften, Oberschenkel, Gesäß, Oberarme, Knie)\"\n    - paragraph\n      - StaticText \"Möchten Sie mehr Informationen oder einen Probetermin vereinbaren? Rufen Sie uns gerne an! Wenn Sie sich bereits entschieden haben, klicken Sie auf den Button und buchen Sie Ihren Wunschtermin.\"\n    - link \"Termine\" [ref=e4090, url=https://app.terminslot.de/employees?salonGuid=cc853bef-3396-41a3-8fcd-5058cf8e352f]\n      - StaticText \"Termine\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e4091, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e4086]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e4092, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e4093, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e4094, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e4095, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e4096, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e4097, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e4087]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e4098, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e4099, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e4100, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e4088]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e4101, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e4102, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e4103, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e4104, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e4089]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- StaticText \"mobile\""
+}

@@ -1,0 +1,252 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/",
+  "refs": {
+    "e1920": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e1921": {
+      "name": "Zustimmung verwalten",
+      "role": "button"
+    },
+    "e1922": {
+      "name": "Hand- und Fußpflege in Köln Weiden",
+      "role": "heading"
+    },
+    "e1923": {
+      "name": "Maniküre",
+      "role": "heading"
+    },
+    "e1924": {
+      "name": "MANIKÜRE PREISLISTE",
+      "role": "heading"
+    },
+    "e1925": {
+      "name": "Pediküre",
+      "role": "heading"
+    },
+    "e1926": {
+      "name": "PEDIKÜRE PREISLISTE",
+      "role": "heading"
+    },
+    "e1927": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e1928": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e1929": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e1930": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e1931": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e1932": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e1933": {
+      "name": "",
+      "role": "link"
+    },
+    "e1934": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e1935": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e1936": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e1937": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e1938": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e1939": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e1940": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e1941": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e1942": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e1943": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e1944": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e1945": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e1946": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e1947": {
+      "name": "Menü",
+      "role": "navigation"
+    },
+    "e1948": {
+      "name": "Basic Maniküre 39€ ",
+      "role": "heading"
+    },
+    "e1949": {
+      "name": "Gellack mit Maniküre 59€",
+      "role": "heading"
+    },
+    "e1950": {
+      "name": "Gellack mit Maniküre (Verstärkung) 64€",
+      "role": "heading"
+    },
+    "e1951": {
+      "name": "French/Design mit Maniküre 64€",
+      "role": "heading"
+    },
+    "e1952": {
+      "name": "Gel Neumodellage 74€",
+      "role": "heading"
+    },
+    "e1953": {
+      "name": "Maniküre Lackieren 49€",
+      "role": "heading"
+    },
+    "e1954": {
+      "name": "Männer Maniküre 45€",
+      "role": "heading"
+    },
+    "e1955": {
+      "name": "Basic Pediküre: 49€ ",
+      "role": "heading"
+    },
+    "e1956": {
+      "name": "Gellack mit Pediküre 59€",
+      "role": "heading"
+    },
+    "e1957": {
+      "name": "French/Design mit Pediküre 64€",
+      "role": "heading"
+    },
+    "e1958": {
+      "name": "Pediküre Lackieren 49€",
+      "role": "heading"
+    },
+    "e1959": {
+      "name": "Männer Pediküre 45€",
+      "role": "heading"
+    },
+    "e1960": {
+      "name": "",
+      "role": "link"
+    },
+    "e1961": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e1962": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e1963": {
+      "name": "02234 / 430 39 97",
+      "role": "link"
+    },
+    "e1964": {
+      "name": "0172 / 377 11 77",
+      "role": "link"
+    },
+    "e1965": {
+      "name": "info@albina-beauty-concept.de",
+      "role": "link"
+    },
+    "e1966": {
+      "name": "Frechener Weg 28 • 50859 Köln",
+      "role": "link"
+    },
+    "e1967": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e1968": {
+      "name": "",
+      "role": "link"
+    },
+    "e1969": {
+      "name": "",
+      "role": "link"
+    },
+    "e1970": {
+      "name": "",
+      "role": "link"
+    },
+    "e1971": {
+      "name": "Leistungen",
+      "role": "link"
+    },
+    "e1972": {
+      "name": "Preisliste",
+      "role": "link"
+    },
+    "e1973": {
+      "name": "Galerie",
+      "role": "link"
+    },
+    "e1974": {
+      "name": "Über Uns",
+      "role": "link"
+    },
+    "e1975": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e1976": {
+      "name": "Karriere",
+      "role": "link"
+    },
+    "e1977": {
+      "name": "Shop",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e1920, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/#content]\n- banner\n  - generic\n    - generic\n      - list\n        - listitem [level=1]\n          - link \"02234 / 430 39 97\" [ref=e1963, url=tel:022344303997]\n            - StaticText \"02234 / 430 39 97\"\n        - listitem [level=1]\n          - link \"0172 / 377 11 77\" [ref=e1964, url=tel:+491723771177]\n            - StaticText \"0172 / 377 11 77\"\n        - listitem [level=1]\n          - link \"info@albina-beauty-concept.de\" [ref=e1965, url=mailto:info@albina-beauty-concept.de]\n            - StaticText \"info@albina-beauty-concept.de\"\n        - listitem [level=1]\n          - link \"Frechener Weg 28 • 50859 Köln\" [ref=e1966, url=https://goo.gl/maps/ApuZwNBpUu2y252m7]\n            - StaticText \"Frechener Weg 28 • 50859 Köln\"\n      - search\n        - form\n          - button \"Suche\" [ref=e1962]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e1967]\n      - list\n        - listitem [level=1]\n          - link [ref=e1968, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e1969, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e1970, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e1960, url=https://www.albina-beauty-concept.de/]\n      - navigation \"Menü\" [ref=e1947]\n        - list\n          - listitem [level=1]\n            - link \"Leistungen\" [expanded=false, ref=e1971, url=https://www.albina-beauty-concept.de/leistungen/]\n              - StaticText \"Leistungen\"\n          - listitem [level=1]\n            - link \"Preisliste\" [ref=e1972, url=https://www.albina-beauty-concept.de/preisliste/]\n          - listitem [level=1]\n            - link \"Galerie\" [ref=e1973, url=https://www.albina-beauty-concept.de/galerie/]\n          - listitem [level=1]\n            - link \"Über Uns\" [ref=e1974, url=https://www.albina-beauty-concept.de/ueber-uns/]\n          - listitem [level=1]\n            - link \"Kontakt\" [ref=e1975, url=https://www.albina-beauty-concept.de/kontakt/]\n          - listitem [level=1]\n            - link \"Karriere\" [ref=e1976, url=https://www.albina-beauty-concept.de/elementor-1142/]\n          - listitem [level=1]\n            - link \"Shop\" [ref=e1977, url=http://shop.albina-beauty-concept.de/]\n      - link \"Termine\" [ref=e1961, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"Hand- und Fußpflege in Köln Weiden\" [level=2, ref=e1922]\n  - generic\n    - generic\n      - heading \"Maniküre\" [level=4, ref=e1923]\n      - paragraph\n        - StaticText \"Ihre Hände sind Ihre Visitenkarte – deshalb verdienen sie nur die beste Pflege!\"\n      - paragraph\n        - StaticText \"In unserem Salon in Köln Weiden bieten wir Ihnen professionelle Maniküre, die nicht nur schön aussieht, sondern auch die Gesundheit Ihrer Nägel unterstützt. Unsere erfahrenen Top-Meister arbeiten präzise und mit höchster Sorgfalt, um Ihre individuellen Wünsche zu erfüllen.\"\n      - paragraph\n        - StaticText \"Was wir Ihnen bieten:\"\n      - list\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - StaticText \"Klassische Maniküre: Für perfekt geformte, gesunde Nägel.\"\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - StaticText \"Gellack und Gel-Modellage: Langlebige und makellose Ergebnisse in Ihrem Wunschdesign.\"\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - StaticText \"Individuelle Beratung: Ihre Zufriedenheit steht bei uns an erster Stelle – wir gehen auf Ihre Bedürfnisse ein und setzen Ihre Vorstellungen perfekt um.\"\n      - paragraph\n        - StaticText \"Unser Ziel ist es, Ihre natürliche Schönheit zu unterstreichen und Ihnen ein luxuriöses Pflegeerlebnis zu bieten. Gepflegte Hände sind heute wichtiger denn je, und wir sind hier, um sicherzustellen, dass Sie sich rundum wohlfühlen.\"\n      - paragraph\n        - StaticText \"Vertrauen Sie auf unsere Expertise und erleben Sie Maniküre auf höchstem Niveau.\"\n  - generic\n    - heading \"MANIKÜRE PREISLISTE\" [level=4, ref=e1924]\n    - generic\n      - heading \"Basic Maniküre 39€ \" [level=5, ref=e1948]\n        - strong\n          - StaticText \"Basic Maniküre\"\n          - LineBreak \"\\n\"\n        - StaticText \"39€ \"\n      - heading \"Gellack mit Maniküre 59€\" [level=5, ref=e1949]\n        - strong\n          - StaticText \"Gellack mit Maniküre\"\n          - LineBreak \"\\n\"\n        - StaticText \"59€\"\n      - heading \"Gellack mit Maniküre (Verstärkung) 64€\" [level=5, ref=e1950]\n        - strong\n          - StaticText \"Gellack mit Maniküre (Verstärkung)\"\n          - LineBreak \"\\n\"\n        - StaticText \"64€\"\n    - generic\n      - heading \"French/Design mit Maniküre 64€\" [level=5, ref=e1951]\n        - strong\n          - StaticText \"French/Design mit Maniküre\"\n          - LineBreak \"\\n\"\n        - StaticText \"64€\"\n      - heading \"Gel Neumodellage 74€\" [level=5, ref=e1952]\n        - strong\n          - StaticText \"Gel Neumodellage\"\n          - LineBreak \"\\n\"\n        - StaticText \"74€\"\n      - heading \"Maniküre Lackieren 49€\" [level=5, ref=e1953]\n        - strong\n          - StaticText \"Maniküre Lackieren\"\n          - LineBreak \"\\n\"\n        - StaticText \"49€\"\n    - generic\n      - heading \"Männer Maniküre 45€\" [level=5, ref=e1954]\n        - strong\n          - StaticText \"Männer Maniküre\"\n          - LineBreak \"\\n\"\n        - StaticText \"45€\"\n    - paragraph\n      - StaticText \"Möchten Sie mehr Informationen oder einen Probetermin vereinbaren? Rufen Sie uns gerne an! Wenn Sie sich bereits entschieden haben, klicken Sie auf den Button und buchen Sie Ihren Wunschtermin.\"\n    - link \"Termine\" [ref=e1931, url=https://app.terminslot.de/employees?salonGuid=cc853bef-3396-41a3-8fcd-5058cf8e352f]\n      - StaticText \"Termine\"\n  - generic\n    - generic\n      - heading \"Pediküre\" [level=4, ref=e1925]\n      - paragraph\n        - StaticText \"Gepflegte Füße sind nicht nur ein Zeichen von Ästhetik, sondern auch ein wichtiger Bestandteil Ihres Wohlbefindens. In unserem Salon in Köln Weiden bieten wir Ihnen professionelle Pediküre, die Schönheit und Gesundheit Ihrer Füße vereint. Unsere erfahrenen Top-Meisterinen arbeiten mit höchster Präzision und sorgen für ein Ergebnis, das überzeugt.\"\n      - paragraph\n        - StaticText \"Was wir Ihnen bieten:\"\n      - list\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - StaticText \"Klassische Pediküre: Sanfte Entfernung von Hornhaut und perfekte Form für Ihre Nägel.\"\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - StaticText \"Gellack und klassischer Nagellack: Langlebige und makellose Farbergebnisse für stilvolle Füße.\"\n        - listitem [level=1]\n          - ListMarker \"• \"\n          - StaticText \"Individuelle Beratung: Wir gehen auf Ihre Wünsche ein und setzen sie professionell um.\"\n      - paragraph\n        - LineBreak \"\\n\"\n        - StaticText \"Unser Ziel ist es, Ihre Füße nicht nur gepflegt, sondern auch gesund zu halten. Egal ob Sie sich einfach entspannen möchten oder auf der Suche nach einer langanhaltenden Pflege sind – bei uns sind Ihre Füße in besten Händen.\"\n  - generic\n    - heading \"PEDIKÜRE PREISLISTE\" [level=4, ref=e1926]\n    - generic\n      - heading \"Basic Pediküre: 49€ \" [level=5, ref=e1955]\n        - strong\n          - StaticText \"Basic Pediküre:\"\n          - LineBreak \"\\n\"\n        - StaticText \"49€ \"\n      - heading \"Gellack mit Pediküre 59€\" [level=5, ref=e1956]\n        - strong\n          - StaticText \"Gellack mit Pediküre\"\n          - LineBreak \"\\n\"\n        - StaticText \"59€\"\n      - heading \"French/Design mit Pediküre 64€\" [level=5, ref=e1957]\n        - strong\n          - StaticText \"French/Design mit Pediküre\"\n          - LineBreak \"\\n\"\n        - StaticText \"64€\"\n    - generic\n      - heading \"Pediküre Lackieren 49€\" [level=5, ref=e1958]\n        - strong\n          - StaticText \"Pediküre Lackieren\"\n          - LineBreak \"\\n\"\n        - StaticText \"49€\"\n      - heading \"Männer Pediküre 45€\" [level=5, ref=e1959]\n        - strong\n          - StaticText \"Männer Pediküre\"\n          - LineBreak \"\\n\"\n        - StaticText \"45€\"\n    - paragraph\n      - StaticText \"Möchten Sie mehr Informationen oder einen Probetermin vereinbaren? Rufen Sie uns gerne an! Wenn Sie sich bereits entschieden haben, klicken Sie auf den Button und buchen Sie Ihren Wunschtermin.\"\n    - link \"Termine\" [ref=e1932, url=https://app.terminslot.de/employees?salonGuid=cc853bef-3396-41a3-8fcd-5058cf8e352f]\n      - StaticText \"Termine\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e1933, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e1927]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e1934, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e1935, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e1936, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e1937, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e1938, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e1939, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e1928]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e1940, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e1941, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e1942, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e1929]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e1943, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e1944, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e1945, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e1946, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e1930]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- button \"Zustimmung verwalten\" [ref=e1921]\n- StaticText \"desktop\""
+}

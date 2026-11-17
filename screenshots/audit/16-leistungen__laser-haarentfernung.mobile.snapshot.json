@@ -1,0 +1,268 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/",
+  "refs": {
+    "e3824": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e3825": {
+      "name": "Laser-Haarentfernung",
+      "role": "heading"
+    },
+    "e3826": {
+      "name": "Dauerhafte Haarentfernung mit modernster Technologie – jetzt in Köln Weiden",
+      "role": "heading"
+    },
+    "e3827": {
+      "name": "Präzise Wellenlänge, Impuls und Leistung für maximale Ergebnisse und Sicherheit.",
+      "role": "heading"
+    },
+    "e3828": {
+      "name": "Schnelle und gründliche Haarentfernung mit weniger Sitzungen.",
+      "role": "heading"
+    },
+    "e3829": {
+      "name": "Innovatives Kühlsystem für maximalen Komfort.",
+      "role": "heading"
+    },
+    "e3830": {
+      "name": "Sicher und effektiv bis Hauttyp VI.",
+      "role": "heading"
+    },
+    "e3831": {
+      "name": "Erleben Sie die Kombination aus höchster Wirksamkeit, Geschwindigkeit und Komfort mit unserem DIOLAZE InMode",
+      "role": "button"
+    },
+    "e3832": {
+      "name": "Erleben Sie die Kombination aus höchster Wirksamkeit, Geschwindigkeit und Komfort mit unserem DIOLAZE InMode",
+      "role": "region"
+    },
+    "e3833": {
+      "name": "Was unterscheidet Laser-Haarentfernung von IPL?",
+      "role": "button"
+    },
+    "e3834": {
+      "name": "Überzeugen Sie sich selbst",
+      "role": "button"
+    },
+    "e3835": {
+      "name": "Paket 1",
+      "role": "heading"
+    },
+    "e3836": {
+      "name": "Paket 2",
+      "role": "heading"
+    },
+    "e3837": {
+      "name": "Paket 3",
+      "role": "heading"
+    },
+    "e3838": {
+      "name": "Paket 4",
+      "role": "heading"
+    },
+    "e3839": {
+      "name": "Paket 5",
+      "role": "heading"
+    },
+    "e3840": {
+      "name": "weitere Preise",
+      "role": "heading"
+    },
+    "e3841": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e3842": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e3843": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e3844": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e3845": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e3846": {
+      "name": "",
+      "role": "link"
+    },
+    "e3847": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e3848": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3849": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e3850": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e3851": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e3852": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e3853": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e3854": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3855": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e3856": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e3857": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e3858": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e3859": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e3860": {
+      "name": "Menü Umschalter",
+      "role": "button"
+    },
+    "e3861": {
+      "name": "Oberschenkel 150€",
+      "role": "heading"
+    },
+    "e3862": {
+      "name": "Unterschenkel 150€",
+      "role": "heading"
+    },
+    "e3863": {
+      "name": "Beine komplett 270€",
+      "role": "heading"
+    },
+    "e3864": {
+      "name": "Achselhöhle 80€",
+      "role": "heading"
+    },
+    "e3865": {
+      "name": "Arme komplett 220€",
+      "role": "heading"
+    },
+    "e3866": {
+      "name": "Unter-/Oberarme 150€",
+      "role": "heading"
+    },
+    "e3867": {
+      "name": "Oberlippe 65€",
+      "role": "heading"
+    },
+    "e3868": {
+      "name": "Hals 85€",
+      "role": "heading"
+    },
+    "e3869": {
+      "name": "Gesicht komplett 129€",
+      "role": "heading"
+    },
+    "e3870": {
+      "name": "Gesicht und Hals 180€",
+      "role": "heading"
+    },
+    "e3871": {
+      "name": "Brust 180€",
+      "role": "heading"
+    },
+    "e3872": {
+      "name": "Bauch 180€",
+      "role": "heading"
+    },
+    "e3873": {
+      "name": "Nacken 70€",
+      "role": "heading"
+    },
+    "e3874": {
+      "name": "Oberer Rücken 150€",
+      "role": "heading"
+    },
+    "e3875": {
+      "name": "Rücken komplett 220€",
+      "role": "heading"
+    },
+    "e3876": {
+      "name": "Bikini Zone 120€",
+      "role": "heading"
+    },
+    "e3877": {
+      "name": "Intimbereich Komplett 150€",
+      "role": "heading"
+    },
+    "e3878": {
+      "name": "Pofalte 65€",
+      "role": "heading"
+    },
+    "e3879": {
+      "name": "",
+      "role": "link"
+    },
+    "e3880": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e3881": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e3882": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e3883": {
+      "name": "",
+      "role": "link"
+    },
+    "e3884": {
+      "name": "",
+      "role": "link"
+    },
+    "e3885": {
+      "name": "",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e3824, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/#content]\n- banner\n  - generic\n    - generic\n      - search\n        - form\n          - button \"Suche\" [ref=e3881]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e3882]\n      - list\n        - listitem [level=1]\n          - link [ref=e3883, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e3884, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e3885, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e3879, url=https://www.albina-beauty-concept.de/]\n      - button \"Menü Umschalter\" [expanded=false, ref=e3860]\n      - link \"Termine\" [ref=e3880, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - generic\n    - heading \"Laser-Haarentfernung\" [level=1, ref=e3825]\n    - heading \"Dauerhafte Haarentfernung mit modernster Technologie – jetzt in Köln Weiden\" [level=5, ref=e3826]\n  - generic\n    - paragraph\n      - StaticText \"Entdecken Sie die effektive Lösung für unerwünschte Haare mit dem innovativen DIOLAZE InMode – exklusiv bei uns, denn wir sind das erste Studio in Köln, das mit diesem fortschrittlichen Gerät arbeitet!\"\n    - paragraph\n      - StaticText \"Der DIOLAZE InMode bietet Spitzenleistung bei höchster Geschwindigkeit und sorgt für eine schmerzarme, angenehme Behandlung. Entwickelt, um sowohl grobe als auch feine Haare effektiv zu entfernen, ist er für nahezu alle Hauttypen, einschließlich Hauttyp VI, geeignet. Integrierte Sicherheitsvorkehrungen gewährleisten maximalen Komfort und Sicherheit bei jeder Sitzung.\"\n    - paragraph\n      - StaticText \"Neu in Köln Weiden – erleben Sie modernste Technologie und maximalen Komfort. Sagen Sie unerwünschten Haaren Lebewohl und genießen Sie glatte Haut!\"\n  - generic\n    - generic\n      - heading \"Präzise Wellenlänge, Impuls und Leistung für maximale Ergebnisse und Sicherheit.\" [level=2, ref=e3827]\n      - heading \"Schnelle und gründliche Haarentfernung mit weniger Sitzungen.\" [level=2, ref=e3828]\n      - heading \"Innovatives Kühlsystem für maximalen Komfort.\" [level=2, ref=e3829]\n      - heading \"Sicher und effektiv bis Hauttyp VI.\" [level=2, ref=e3830]\n  - button \"Erleben Sie die Kombination aus höchster Wirksamkeit, Geschwindigkeit und Komfort mit unserem DIOLAZE InMode\" [expanded=true, ref=e3831]\n    - StaticText \"Erleben Sie die Kombination aus höchster Wirksamkeit, Geschwindigkeit und Komfort mit unserem DIOLAZE InMode\"\n  - region \"Erleben Sie die Kombination aus höchster Wirksamkeit, Geschwindigkeit und Komfort mit unserem DIOLAZE InMode\" [ref=e3832]\n    - paragraph\n      - StaticText \"Dieses medizinische Gerät arbeitet mit modernster Diodenlaser-Technologie (810 nm), die eine der effektivsten Methoden zur dauerhaften Haarentfernung bietet. Dank der fortschrittlichsten Kühlung ist die Behandlung nahezu schmerzfrei und angenehm – auch bei hartnäckigen Haaren.\"\n  - button \"Was unterscheidet Laser-Haarentfernung von IPL?\" [expanded=false, ref=e3833]\n    - StaticText \"Was unterscheidet Laser-Haarentfernung von IPL?\"\n  - button \"Überzeugen Sie sich selbst\" [expanded=false, ref=e3834]\n    - StaticText \"Überzeugen Sie sich selbst\"\n  - generic\n    - heading \"Paket 1\" [level=3, ref=e3835]\n    - StaticText \"€\"\n    - StaticText \"180\"\n    - list\n      - listitem [level=1]\n        - generic\n          - StaticText \"Achseln\"\n      - listitem [level=1]\n        - generic\n          - StaticText \"Intimbereich komplett\"\n    - heading \"Paket 2\" [level=3, ref=e3836]\n    - StaticText \"€\"\n    - StaticText \"300\"\n    - list\n      - listitem [level=1]\n        - generic\n          - StaticText \"Achseln\"\n      - listitem [level=1]\n        - generic\n          - StaticText \"Intimbereich komplett\"\n      - listitem [level=1]\n        - generic\n          - StaticText \"Unterschenkel\"\n    - heading \"Paket 3\" [level=3, ref=e3837]\n    - StaticText \"€\"\n    - StaticText \"400\"\n    - list\n      - listitem [level=1]\n        - generic\n          - StaticText \"Achseln\"\n      - listitem [level=1]\n        - generic\n          - StaticText \"Intimbereich komplett\"\n      - listitem [level=1]\n        - generic\n          - StaticText \"Beine komplett\"\n    - heading \"Paket 4\" [level=3, ref=e3838]\n    - StaticText \"€\"\n    - StaticText \"350\"\n    - list\n      - listitem [level=1]\n        - generic\n          - StaticText \"Achseln\"\n      - listitem [level=1]\n        - generic\n          - StaticText \"Intimbereich komplett\"\n      - listitem [level=1]\n        - generic\n          - StaticText \"Unterschenkel\"\n      - listitem [level=1]\n        - generic\n          - StaticText \"Oberlippe\"\n    - heading \"Paket 5\" [level=3, ref=e3839]\n    - StaticText \"€\"\n    - StaticText \"420\"\n    - list\n      - listitem [level=1]\n        - generic\n          - StaticText \"Nacken\"\n      - listitem [level=1]\n        - generic\n          - StaticText \"Brust\"\n      - listitem [level=1]\n        - generic\n          - StaticText \"oberer Rücken\"\n      - listitem [level=1]\n        - generic\n          - StaticText \"Hals\"\n  - generic\n    - heading \"weitere Preise\" [level=2, ref=e3840]\n    - generic\n      - heading \"Oberschenkel 150€\" [level=5, ref=e3861]\n        - strong\n          - StaticText \"Oberschenkel\"\n          - LineBreak \"\\n\"\n        - StaticText \"150€\"\n      - heading \"Unterschenkel 150€\" [level=5, ref=e3862]\n        - strong\n          - StaticText \"Unterschenkel\"\n          - LineBreak \"\\n\"\n        - StaticText \"150€\"\n      - heading \"Beine komplett 270€\" [level=5, ref=e3863]\n        - strong\n          - StaticText \"Beine komplett\"\n          - LineBreak \"\\n\"\n        - StaticText \"270€\"\n    - generic\n      - heading \"Achselhöhle 80€\" [level=5, ref=e3864]\n        - strong\n          - StaticText \"Achselhöhle\"\n          - LineBreak \"\\n\"\n        - StaticText \"80€\"\n      - heading \"Arme komplett 220€\" [level=5, ref=e3865]\n        - strong\n          - StaticText \"Arme komplett\"\n          - LineBreak \"\\n\"\n        - StaticText \"220€\"\n      - heading \"Unter-/Oberarme 150€\" [level=5, ref=e3866]\n        - strong\n          - StaticText \"Unter-/Oberarme\"\n          - LineBreak \"\\n\"\n        - StaticText \"150€\"\n    - generic\n      - heading \"Oberlippe 65€\" [level=5, ref=e3867]\n        - strong\n          - StaticText \"Oberlippe\"\n          - LineBreak \"\\n\"\n        - StaticText \"65€\"\n      - heading \"Hals 85€\" [level=5, ref=e3868]\n        - strong\n          - StaticText \"Hals\"\n          - LineBreak \"\\n\"\n        - StaticText \"85€\"\n      - heading \"Gesicht komplett 129€\" [level=5, ref=e3869]\n        - strong\n          - StaticText \"Gesicht komplett\"\n          - LineBreak \"\\n\"\n        - StaticText \"129€\"\n    - generic\n      - heading \"Gesicht und Hals 180€\" [level=5, ref=e3870]\n        - strong\n          - StaticText \"Gesicht und Hals\"\n          - LineBreak \"\\n\"\n        - StaticText \"180€\"\n      - heading \"Brust 180€\" [level=5, ref=e3871]\n        - strong\n          - StaticText \"Brust\"\n          - LineBreak \"\\n\"\n        - StaticText \"180€\"\n      - heading \"Bauch 180€\" [level=5, ref=e3872]\n        - strong\n          - StaticText \"Bauch\"\n          - LineBreak \"\\n\"\n        - StaticText \"180€\"\n    - generic\n      - heading \"Nacken 70€\" [level=5, ref=e3873]\n        - strong\n          - StaticText \"Nacken\"\n          - LineBreak \"\\n\"\n        - StaticText \"70€\"\n      - heading \"Oberer Rücken 150€\" [level=5, ref=e3874]\n        - strong\n          - StaticText \"Oberer Rücken\"\n          - LineBreak \"\\n\"\n        - StaticText \"150€\"\n      - heading \"Rücken komplett 220€\" [level=5, ref=e3875]\n        - strong\n          - StaticText \"Rücken komplett\"\n          - LineBreak \"\\n\"\n        - StaticText \"220€\"\n    - generic\n      - heading \"Bikini Zone 120€\" [level=5, ref=e3876]\n        - strong\n          - StaticText \"Bikini Zone\"\n          - LineBreak \"\\n\"\n        - StaticText \"120€\"\n      - heading \"Intimbereich Komplett 150€\" [level=5, ref=e3877]\n        - strong\n          - StaticText \"Intimbereich Komplett\"\n          - LineBreak \"\\n\"\n        - StaticText \"150€\"\n      - heading \"Pofalte 65€\" [level=5, ref=e3878]\n        - strong\n          - StaticText \"Pofalte\"\n          - LineBreak \"\\n\"\n        - StaticText \"65€\"\n    - paragraph\n      - StaticText \"Möchten Sie mehr Informationen oder einen Probetermin vereinbaren? Rufen Sie uns gerne an! Wenn Sie sich bereits entschieden haben, klicken Sie auf den Button und buchen Sie Ihren Wunschtermin.\"\n    - link \"Termine\" [ref=e3845, url=https://app.terminslot.de/employees?salonGuid=cc853bef-3396-41a3-8fcd-5058cf8e352f]\n      - StaticText \"Termine\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e3846, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e3841]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e3847, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3848, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e3849, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e3850, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e3851, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e3852, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e3842]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e3853, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3854, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e3855, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e3843]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e3856, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e3857, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e3858, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e3859, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e3844]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- StaticText \"mobile\""
+}

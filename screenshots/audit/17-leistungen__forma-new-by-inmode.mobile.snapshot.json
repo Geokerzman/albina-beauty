@@ -1,0 +1,204 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/",
+  "refs": {
+    "e3886": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e3887": {
+      "name": "FORMA by Inmode",
+      "role": "heading"
+    },
+    "e3888": {
+      "name": "Der eingebaute Sensor misst die Hauttemperatur in Echtzeit für maximale Sicherheit und Effizienz.",
+      "role": "heading"
+    },
+    "e3889": {
+      "name": "Die „Cut-off Temperature“-Funktion reguliert die Energie automatisch, sobald die optimale Temperatur erreicht wird.",
+      "role": "heading"
+    },
+    "e3890": {
+      "name": "Längere Exposition bei Temperaturen über 40 °C sorgt für sichtbare und langanhaltende Resultate.",
+      "role": "heading"
+    },
+    "e3891": {
+      "name": "Forma ist sicher und effektiv – unabhängig von Ihrem Hauttyp.",
+      "role": "heading"
+    },
+    "e3892": {
+      "name": "Was ist Forma?",
+      "role": "button"
+    },
+    "e3893": {
+      "name": "Was ist Forma?",
+      "role": "region"
+    },
+    "e3894": {
+      "name": "Für wen eignet sich Forma?",
+      "role": "button"
+    },
+    "e3895": {
+      "name": "Welche Bereiche können behandelt werden?",
+      "role": "button"
+    },
+    "e3896": {
+      "name": "Wie viele Sitzungen sind nötig?",
+      "role": "button"
+    },
+    "e3897": {
+      "name": "Kombination mit anderen Treatments?",
+      "role": "button"
+    },
+    "e3898": {
+      "name": "Preisliste",
+      "role": "heading"
+    },
+    "e3899": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e3900": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e3901": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e3902": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e3903": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e3904": {
+      "name": "",
+      "role": "link"
+    },
+    "e3905": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e3906": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3907": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e3908": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e3909": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e3910": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e3911": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e3912": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e3913": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e3914": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e3915": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e3916": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e3917": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e3918": {
+      "name": "Menü Umschalter",
+      "role": "button"
+    },
+    "e3919": {
+      "name": "1 Region 75€",
+      "role": "heading"
+    },
+    "e3920": {
+      "name": "1 Region (Paket) 375€",
+      "role": "heading"
+    },
+    "e3921": {
+      "name": "Gesicht Komplett 200€",
+      "role": "heading"
+    },
+    "e3922": {
+      "name": "Gesicht Komplett (Paket) 1000€",
+      "role": "heading"
+    },
+    "e3923": {
+      "name": "Gesicht Komplett + Hals & Dekolleté 300€",
+      "role": "heading"
+    },
+    "e3924": {
+      "name": "Gesicht Komplett + Hals & Dekolleté (Paket) 1500€",
+      "role": "heading"
+    },
+    "e3925": {
+      "name": "",
+      "role": "link"
+    },
+    "e3926": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e3927": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e3928": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e3929": {
+      "name": "",
+      "role": "link"
+    },
+    "e3930": {
+      "name": "",
+      "role": "link"
+    },
+    "e3931": {
+      "name": "",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e3886, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/#content]\n- banner\n  - generic\n    - generic\n      - search\n        - form\n          - button \"Suche\" [ref=e3927]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e3928]\n      - list\n        - listitem [level=1]\n          - link [ref=e3929, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e3930, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e3931, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e3925, url=https://www.albina-beauty-concept.de/]\n      - button \"Menü Umschalter\" [expanded=false, ref=e3918]\n      - link \"Termine\" [ref=e3926, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"FORMA by Inmode\" [level=1, ref=e3887]\n  - generic\n    - paragraph\n      - StaticText \"Die innovative Forma-Behandlung ist ideal für Gesichts- und Körperstraffung. Durch gezielte Radiofrequenz wird die Kollagenproduktion angeregt, wodurch die Haut sichtbar glatter, straffer und jugendlicher wird. Dank modernster Temperaturkontrollen bleibt die Behandlung sicher und angenehm, während tieferliegende Hautschichten effektiv erreicht werden.\"\n    - paragraph\n      - StaticText \"Stars wie Kim Kardashian schwören auf diese Technologie, um ihre Haut jugendlich und frisch zu halten. Jetzt können auch Sie von dieser revolutionären Methode profitieren und ein strahlendes, glattes Hautbild genießen.\"\n    - paragraph\n      - StaticText \"Entdecken Sie Forma bei Albina Beauty Concept in Köln Weiden – als erstes Studio in Köln mit dieser Technologie – und erleben Sie beeindruckende Ergebnisse, die Sie überzeugen werden.\"\n  - generic\n    - generic\n      - heading \"Der eingebaute Sensor misst die Hauttemperatur in Echtzeit für maximale Sicherheit und Effizienz.\" [level=3, ref=e3888]\n      - heading \"Die „Cut-off Temperature“-Funktion reguliert die Energie automatisch, sobald die optimale Temperatur erreicht wird.\" [level=3, ref=e3889]\n      - heading \"Längere Exposition bei Temperaturen über 40 °C sorgt für sichtbare und langanhaltende Resultate.\" [level=3, ref=e3890]\n      - heading \"Forma ist sicher und effektiv – unabhängig von Ihrem Hauttyp.\" [level=3, ref=e3891]\n  - button \"Was ist Forma?\" [expanded=true, ref=e3892]\n    - StaticText \"Was ist Forma?\"\n  - region \"Was ist Forma?\" [ref=e3893]\n    - paragraph\n      - StaticText \"Die Forma-Behandlung bei Albina Beauty Concept nutzt modernste Hochfrequenztechnologie, um die Kollagenproduktion zu stimulieren und die Hautelastizität zu verbessern. Ihre Haut wirkt nach der Behandlung straffer, glatter und frischer – und das mit sofort sichtbaren Ergebnissen.\"\n  - button \"Für wen eignet sich Forma?\" [expanded=false, ref=e3894]\n    - StaticText \"Für wen eignet sich Forma?\"\n  - button \"Welche Bereiche können behandelt werden?\" [expanded=false, ref=e3895]\n    - StaticText \"Welche Bereiche können behandelt werden?\"\n  - button \"Wie viele Sitzungen sind nötig?\" [expanded=false, ref=e3896]\n    - StaticText \"Wie viele Sitzungen sind nötig?\"\n  - button \"Kombination mit anderen Treatments?\" [expanded=false, ref=e3897]\n    - StaticText \"Kombination mit anderen Treatments?\"\n  - generic\n    - heading \"Preisliste\" [level=2, ref=e3898]\n    - generic\n      - heading \"1 Region 75€\" [level=5, ref=e3919]\n        - strong\n          - StaticText \"1 Region\"\n          - LineBreak \"\\n\"\n        - StaticText \"75€\"\n      - paragraph\n        - StaticText \"Kinn/ Wangen/ Stirn/ Kieferlinie/ Nasolabialbereich/ Augenpartie\"\n      - heading \"1 Region (Paket) 375€\" [level=5, ref=e3920]\n        - strong\n          - StaticText \"1 Region (Paket)\"\n          - LineBreak \"\\n\"\n        - StaticText \"375€\"\n      - paragraph\n        - StaticText \"Sparabo 5+1 Gratis\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n      - heading \"Gesicht Komplett 200€\" [level=5, ref=e3921]\n        - strong\n          - StaticText \"Gesicht Komplett\"\n          - LineBreak \"\\n\"\n        - StaticText \"200€\"\n      - paragraph\n        - StaticText \"Augenpartie + Wangen + Stirn + Nasolabialbereich\"\n    - generic\n      - heading \"Gesicht Komplett (Paket) 1000€\" [level=5, ref=e3922]\n        - strong\n          - StaticText \"Gesicht Komplett (Paket)\"\n          - LineBreak \"\\n\"\n        - StaticText \"1000€\"\n      - paragraph\n        - StaticText \"Sparabo 5+1 Gratis\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n      - heading \"Gesicht Komplett + Hals & Dekolleté 300€\" [level=5, ref=e3923]\n        - strong\n          - StaticText \"Gesicht Komplett + Hals & Dekolleté\"\n          - LineBreak \"\\n\"\n        - StaticText \"300€\"\n      - paragraph\n        - StaticText \"Augenpartie + Wangen + Stirn + Nasolabialbereich + Hals + Dekollete\"\n      - heading \"Gesicht Komplett + Hals & Dekolleté (Paket) 1500€\" [level=5, ref=e3924]\n        - strong\n          - StaticText \"Gesicht Komplett + Hals & Dekolleté (Paket)\"\n          - LineBreak \"\\n\"\n        - StaticText \"1500€\"\n      - paragraph\n        - StaticText \"Sparabo 5+1 Gratis\"\n    - paragraph\n      - StaticText \"Möchten Sie mehr Informationen oder einen Probetermin vereinbaren? Rufen Sie uns gerne an! Wenn Sie sich bereits entschieden haben, klicken Sie auf den Button und buchen Sie Ihren Wunschtermin.\"\n    - link \"Termine\" [ref=e3903, url=https://app.terminslot.de/employees?salonGuid=cc853bef-3396-41a3-8fcd-5058cf8e352f]\n      - StaticText \"Termine\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e3904, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e3899]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e3905, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3906, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e3907, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e3908, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e3909, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e3910, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e3900]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e3911, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e3912, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e3913, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e3901]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e3914, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e3915, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e3916, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e3917, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e3902]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- StaticText \"mobile\""
+}

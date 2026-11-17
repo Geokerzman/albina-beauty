@@ -1,0 +1,236 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/leistungen/exosome/",
+  "refs": {
+    "e2936": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e2937": {
+      "name": "Zustimmung verwalten",
+      "role": "button"
+    },
+    "e2938": {
+      "name": "EXOSOME",
+      "role": "heading"
+    },
+    "e2939": {
+      "name": "Exosomen Behandlung in Köln – Microneedling mit EXOCEAN für Haut & Haare",
+      "role": "heading"
+    },
+    "e2940": {
+      "name": "Was sind Exosomen?",
+      "role": "heading"
+    },
+    "e2941": {
+      "name": "Vorteile der Exosomen Behandlung",
+      "role": "heading"
+    },
+    "e2942": {
+      "name": "YouTube video player",
+      "role": "Iframe"
+    },
+    "e2943": {
+      "name": "Exosomen Microneedling für das Gesicht",
+      "role": "heading"
+    },
+    "e2944": {
+      "name": "Exosomen Behandlung für Haare in Köln",
+      "role": "heading"
+    },
+    "e2945": {
+      "name": "Wie läuft die Behandlung ab?",
+      "role": "heading"
+    },
+    "e2946": {
+      "name": "Termin für Exosomen Behandlung in Köln buchen",
+      "role": "heading"
+    },
+    "e2947": {
+      "name": "EXOSOME PREISLISTE",
+      "role": "heading"
+    },
+    "e2948": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e2949": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e2950": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e2951": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e2952": {
+      "name": "",
+      "role": "link"
+    },
+    "e2953": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e2954": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e2955": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e2956": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e2957": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e2958": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e2959": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e2960": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e2961": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e2962": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e2963": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e2964": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e2965": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e2966": {
+      "name": "Menü",
+      "role": "navigation"
+    },
+    "e2967": {
+      "name": "Medizinische Microneedling EXOSOME 399€ ",
+      "role": "heading"
+    },
+    "e2968": {
+      "name": "Medizinische Microneedling Kopfhaut EXOSOME 399€",
+      "role": "heading"
+    },
+    "e2969": {
+      "name": "Medizinische Microneedling Hals + Dekolleté EXOSOME 399€",
+      "role": "heading"
+    },
+    "e2970": {
+      "name": "HYDRAFACIAL + MICRONEEDLING + EXOSOMES 499€",
+      "role": "heading"
+    },
+    "e2971": {
+      "name": "NOON + MICRONEEDLING + EXOSOMES 449€",
+      "role": "heading"
+    },
+    "e2972": {
+      "name": "",
+      "role": "link"
+    },
+    "e2973": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e2974": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e2975": {
+      "name": "02234 / 430 39 97",
+      "role": "link"
+    },
+    "e2976": {
+      "name": "0172 / 377 11 77",
+      "role": "link"
+    },
+    "e2977": {
+      "name": "info@albina-beauty-concept.de",
+      "role": "link"
+    },
+    "e2978": {
+      "name": "Frechener Weg 28 • 50859 Köln",
+      "role": "link"
+    },
+    "e2979": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e2980": {
+      "name": "",
+      "role": "link"
+    },
+    "e2981": {
+      "name": "",
+      "role": "link"
+    },
+    "e2982": {
+      "name": "",
+      "role": "link"
+    },
+    "e2983": {
+      "name": "Leistungen",
+      "role": "link"
+    },
+    "e2984": {
+      "name": "Preisliste",
+      "role": "link"
+    },
+    "e2985": {
+      "name": "Galerie",
+      "role": "link"
+    },
+    "e2986": {
+      "name": "Über Uns",
+      "role": "link"
+    },
+    "e2987": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e2988": {
+      "name": "Karriere",
+      "role": "link"
+    },
+    "e2989": {
+      "name": "Shop",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e2936, url=https://www.albina-beauty-concept.de/leistungen/exosome/#content]\n- banner\n  - generic\n    - generic\n      - list\n        - listitem [level=1]\n          - link \"02234 / 430 39 97\" [ref=e2975, url=tel:022344303997]\n            - StaticText \"02234 / 430 39 97\"\n        - listitem [level=1]\n          - link \"0172 / 377 11 77\" [ref=e2976, url=tel:+491723771177]\n            - StaticText \"0172 / 377 11 77\"\n        - listitem [level=1]\n          - link \"info@albina-beauty-concept.de\" [ref=e2977, url=mailto:info@albina-beauty-concept.de]\n            - StaticText \"info@albina-beauty-concept.de\"\n        - listitem [level=1]\n          - link \"Frechener Weg 28 • 50859 Köln\" [ref=e2978, url=https://goo.gl/maps/ApuZwNBpUu2y252m7]\n            - StaticText \"Frechener Weg 28 • 50859 Köln\"\n      - search\n        - form\n          - button \"Suche\" [ref=e2974]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e2979]\n      - list\n        - listitem [level=1]\n          - link [ref=e2980, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e2981, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e2982, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e2972, url=https://www.albina-beauty-concept.de/]\n      - navigation \"Menü\" [ref=e2966]\n        - list\n          - listitem [level=1]\n            - link \"Leistungen\" [expanded=false, ref=e2983, url=https://www.albina-beauty-concept.de/leistungen/]\n              - StaticText \"Leistungen\"\n          - listitem [level=1]\n            - link \"Preisliste\" [ref=e2984, url=https://www.albina-beauty-concept.de/preisliste/]\n          - listitem [level=1]\n            - link \"Galerie\" [ref=e2985, url=https://www.albina-beauty-concept.de/galerie/]\n          - listitem [level=1]\n            - link \"Über Uns\" [ref=e2986, url=https://www.albina-beauty-concept.de/ueber-uns/]\n          - listitem [level=1]\n            - link \"Kontakt\" [ref=e2987, url=https://www.albina-beauty-concept.de/kontakt/]\n          - listitem [level=1]\n            - link \"Karriere\" [ref=e2988, url=https://www.albina-beauty-concept.de/elementor-1142/]\n          - listitem [level=1]\n            - link \"Shop\" [ref=e2989, url=http://shop.albina-beauty-concept.de/]\n      - link \"Termine\" [ref=e2973, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"EXOSOME\" [level=2, ref=e2938]\n  - generic\n    - generic\n      - heading \"Exosomen Behandlung in Köln – Microneedling mit EXOCEAN für Haut & Haare\" [level=4, ref=e2939]\n      - paragraph\n        - StaticText \"Die Exosomen Behandlung in Köln ist eine der modernsten Methoden der ästhetischen Kosmetik.\"\n        - LineBreak \"\\n\"\n        - StaticText \"In unserem Studio in Köln Weiden kombinieren wir Microneedling mit EXOCEAN Exosomen, um die Hautregeneration zu fördern und gleichzeitig auch die Kopfhaut und das Haarwachstum gezielt zu unterstützen.\"\n        - LineBreak \"\\n\"\n        - StaticText \"Diese innovative Behandlung sorgt für sichtbar glattere Haut, mehr Spannkraft und eine intensive Revitalisierung – sowohl im Gesicht als auch im Bereich der Haare.\"\n      - paragraph\n      - heading \"Was sind Exosomen?\" [level=4, ref=e2940]\n      - paragraph\n        - StaticText \"Exosomen sind hochaktive Zellbotenstoffe, die die Kommunikation zwischen den Hautzellen verbessern und die natürliche Regeneration anregen.\"\n        - LineBreak \"\\n\"\n        - StaticText \"In Kombination mit Microneedling können die Wirkstoffe tief in die Haut eingeschleust werden und dort ihre maximale Wirkung entfalten.\"\n        - LineBreak \"\\n\"\n        - StaticText \"Die EXOCEAN Technologie verbindet Exosomen mit marinen Wirkstoffen und sorgt so für eine besonders effektive Hautverjüngung und Haarstimulation.\"\n      - paragraph\n  - generic\n    - heading \"Vorteile der Exosomen Behandlung\" [level=4, ref=e2941]\n      - StaticText \"Vorteile der Exosomen Behandlung\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"intensive Hautverjüngung in Köln\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Förderung der Kollagenproduktion\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Verbesserung von Hautstruktur und Glow\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Behandlung von Akne, Narben und Pigmentflecken\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Unterstützung bei Haarausfall\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Aktivierung des Haarwachstums\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Schneller sichtbare Ergebnisse im Vergleich zu klassischem Microneedling\"\n    - Iframe \"YouTube video player\" [ref=e2942]\n      - generic \"Проигрыватель YouTube\"\n  - generic\n    - heading \"Exosomen Microneedling für das Gesicht\" [level=4, ref=e2943]\n    - paragraph\n      - StaticText \"Die Behandlung eignet sich ideal für:\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"Falten und feine Linien\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"unreine Haut und Akne\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"vergrößerte Poren\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"müde und fahle Haut\"\n    - paragraph\n    - paragraph\n      - strong\n        - StaticText \"Ergebnis: \"\n      - StaticText \"straffere, glattere und strahlendere Haut\"\n  - generic\n    - heading \"Exosomen Behandlung für Haare in Köln\" [level=4, ref=e2944]\n    - paragraph\n      - StaticText \"Die Exosomen Therapie kann auch gezielt für die Kopfhaut eingesetzt werden:\"\n    - list\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"gegen Haarausfall\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"zur Stärkung der Haarwurzeln\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"für dichteres Haar\"\n      - listitem [level=1]\n        - ListMarker \"• \"\n        - StaticText \"zur Verbesserung der Kopfhaut\"\n    - paragraph\n      - strong\n        - LineBreak \"\\n\"\n        - StaticText \"Ergebnis: \"\n      - StaticText \"mehr Haarwachstum, stärkere Haare und gesunde Kopfhaut\"\n  - heading \"Wie läuft die Behandlung ab?\" [level=4, ref=e2945]\n  - paragraph\n    - StaticText \"Bei der Behandlung wird die Haut oder Kopfhaut mit Microneedling vorbereitet, sodass die Exosomen tief eindringen können.\"\n  - paragraph\n    - StaticText \"Die Wirkstoffe entfalten ihre Wirkung direkt in den Zellen und unterstützen die natürliche Regeneration der Haut und Haare.\"\n  - heading \"Termin für Exosomen Behandlung in Köln buchen\" [level=4, ref=e2946]\n  - paragraph\n    - StaticText \"Erleben Sie die nächste Generation der Haut- und Haarbehandlung.\"\n  - paragraph\n    - StaticText \"Vereinbaren Sie jetzt Ihren Termin für Microneedling mit Exosomen in Köln und lassen Sie sich persönlich beraten.\"\n  - generic\n    - heading \"EXOSOME PREISLISTE\" [level=4, ref=e2947]\n    - generic\n      - heading \"Medizinische Microneedling EXOSOME 399€ \" [level=5, ref=e2967]\n        - strong\n          - StaticText \"Medizinische\"\n          - LineBreak \"\\n\"\n          - StaticText \"Microneedling EXOSOME\"\n          - LineBreak \"\\n\"\n        - StaticText \"399€ \"\n      - heading \"Medizinische Microneedling Kopfhaut EXOSOME 399€\" [level=5, ref=e2968]\n        - strong\n          - StaticText \"Medizinische Microneedling\"\n          - LineBreak \"\\n\"\n          - StaticText \"Kopfhaut EXOSOME\"\n          - LineBreak \"\\n\"\n        - StaticText \"399€\"\n      - heading \"Medizinische Microneedling Hals + Dekolleté EXOSOME 399€\" [level=5, ref=e2969]\n        - strong\n          - StaticText \"Medizinische Microneedling\"\n          - LineBreak \"\\n\"\n          - StaticText \"Hals + Dekolleté EXOSOME\"\n          - LineBreak \"\\n\"\n        - StaticText \"399€\"\n    - generic\n      - heading \"HYDRAFACIAL + MICRONEEDLING + EXOSOMES 499€\" [level=5, ref=e2970]\n        - strong\n          - StaticText \"HYDRAFACIAL + MICRONEEDLING\"\n          - LineBreak \"\\n\"\n          - StaticText \"+ EXOSOMES\"\n          - LineBreak \"\\n\"\n        - StaticText \"499€\"\n      - heading \"NOON + MICRONEEDLING + EXOSOMES 449€\" [level=5, ref=e2971]\n        - strong\n          - StaticText \"NOON + MICRONEEDLING\"\n          - LineBreak \"\\n\"\n          - StaticText \"+ EXOSOMES\"\n          - LineBreak \"\\n\"\n        - StaticText \"449€\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e2952, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e2948]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e2953, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e2954, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e2955, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e2956, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e2957, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e2958, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e2949]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e2959, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e2960, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e2961, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e2950]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e2962, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e2963, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e2964, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e2965, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e2951]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- button \"Zustimmung verwalten\" [ref=e2937]\n- StaticText \"desktop\""
+}

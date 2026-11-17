@@ -1,0 +1,220 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/",
+  "refs": {
+    "e1978": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e1979": {
+      "name": "Zustimmung verwalten",
+      "role": "button"
+    },
+    "e1980": {
+      "name": "Kosmetische Behandlungen in Köln Weiden",
+      "role": "heading"
+    },
+    "e1981": {
+      "name": "FORMA NEW by Inmode",
+      "role": "heading"
+    },
+    "e1982": {
+      "name": "Hydrafacial",
+      "role": "heading"
+    },
+    "e1983": {
+      "name": "Microneedling",
+      "role": "heading"
+    },
+    "e1984": {
+      "name": "Klassische Gesichtsbehandlung",
+      "role": "heading"
+    },
+    "e1985": {
+      "name": "IS Clinical Behandlung",
+      "role": "heading"
+    },
+    "e1986": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e1987": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e1988": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e1989": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e1990": {
+      "name": "mehr Infos",
+      "role": "link"
+    },
+    "e1991": {
+      "name": "mehr Infos",
+      "role": "link"
+    },
+    "e1992": {
+      "name": "mehr Infos",
+      "role": "link"
+    },
+    "e1993": {
+      "name": "mehr Infos",
+      "role": "link"
+    },
+    "e1994": {
+      "name": "mehr Infos",
+      "role": "link"
+    },
+    "e1995": {
+      "name": "",
+      "role": "link"
+    },
+    "e1996": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e1997": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e1998": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e1999": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e2000": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e2001": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e2002": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e2003": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e2004": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e2005": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e2006": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e2007": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e2008": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e2009": {
+      "name": "Menü",
+      "role": "navigation"
+    },
+    "e2010": {
+      "name": "",
+      "role": "link"
+    },
+    "e2011": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e2012": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e2013": {
+      "name": "02234 / 430 39 97",
+      "role": "link"
+    },
+    "e2014": {
+      "name": "0172 / 377 11 77",
+      "role": "link"
+    },
+    "e2015": {
+      "name": "info@albina-beauty-concept.de",
+      "role": "link"
+    },
+    "e2016": {
+      "name": "Frechener Weg 28 • 50859 Köln",
+      "role": "link"
+    },
+    "e2017": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e2018": {
+      "name": "",
+      "role": "link"
+    },
+    "e2019": {
+      "name": "",
+      "role": "link"
+    },
+    "e2020": {
+      "name": "",
+      "role": "link"
+    },
+    "e2021": {
+      "name": "Leistungen",
+      "role": "link"
+    },
+    "e2022": {
+      "name": "Preisliste",
+      "role": "link"
+    },
+    "e2023": {
+      "name": "Galerie",
+      "role": "link"
+    },
+    "e2024": {
+      "name": "Über Uns",
+      "role": "link"
+    },
+    "e2025": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e2026": {
+      "name": "Karriere",
+      "role": "link"
+    },
+    "e2027": {
+      "name": "Shop",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n- link \"Zum Inhalt springen\" [ref=e1978, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/#content]\n- banner\n  - generic\n    - generic\n      - list\n        - listitem [level=1]\n          - link \"02234 / 430 39 97\" [ref=e2013, url=tel:022344303997]\n            - StaticText \"02234 / 430 39 97\"\n        - listitem [level=1]\n          - link \"0172 / 377 11 77\" [ref=e2014, url=tel:+491723771177]\n            - StaticText \"0172 / 377 11 77\"\n        - listitem [level=1]\n          - link \"info@albina-beauty-concept.de\" [ref=e2015, url=mailto:info@albina-beauty-concept.de]\n            - StaticText \"info@albina-beauty-concept.de\"\n        - listitem [level=1]\n          - link \"Frechener Weg 28 • 50859 Köln\" [ref=e2016, url=https://goo.gl/maps/ApuZwNBpUu2y252m7]\n            - StaticText \"Frechener Weg 28 • 50859 Köln\"\n      - search\n        - form\n          - button \"Suche\" [ref=e2012]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e2017]\n      - list\n        - listitem [level=1]\n          - link [ref=e2018, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e2019, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e2020, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e2010, url=https://www.albina-beauty-concept.de/]\n      - navigation \"Menü\" [ref=e2009]\n        - list\n          - listitem [level=1]\n            - link \"Leistungen\" [expanded=false, ref=e2021, url=https://www.albina-beauty-concept.de/leistungen/]\n              - StaticText \"Leistungen\"\n          - listitem [level=1]\n            - link \"Preisliste\" [ref=e2022, url=https://www.albina-beauty-concept.de/preisliste/]\n          - listitem [level=1]\n            - link \"Galerie\" [ref=e2023, url=https://www.albina-beauty-concept.de/galerie/]\n          - listitem [level=1]\n            - link \"Über Uns\" [ref=e2024, url=https://www.albina-beauty-concept.de/ueber-uns/]\n          - listitem [level=1]\n            - link \"Kontakt\" [ref=e2025, url=https://www.albina-beauty-concept.de/kontakt/]\n          - listitem [level=1]\n            - link \"Karriere\" [ref=e2026, url=https://www.albina-beauty-concept.de/elementor-1142/]\n          - listitem [level=1]\n            - link \"Shop\" [ref=e2027, url=http://shop.albina-beauty-concept.de/]\n      - link \"Termine\" [ref=e2011, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"Kosmetische Behandlungen in Köln Weiden\" [level=2, ref=e1980]\n  - generic\n    - generic\n      - heading \"FORMA NEW by Inmode\" [level=4, ref=e1981]\n      - paragraph\n        - StaticText \"Die innovative Radiofrequenz-Behandlung Forma regt die Kollagenproduktion an und sorgt für straffere, glattere Haut. Exklusiv bei uns – wir sind das erste Studio in Köln, das diese Technologie anbietet.\"\n      - paragraph\n        - StaticText \"Dank integrierter Temperaturkontrollen ist die Behandlung sicher und effektiv – perfekt für ein jugendliches, strahlendes Aussehen.\"\n      - link \"mehr Infos\" [ref=e1990, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n        - StaticText \"mehr Infos\"\n  - generic\n    - generic\n      - heading \"Hydrafacial\" [level=4, ref=e1982]\n      - paragraph\n        - StaticText \"Das Hydrafacial-Gerät vereint Tiefenreinigung, Peeling und Hydration in einer Behandlung. Mit modernster Technologie werden Unreinheiten entfernt, die Haut gepflegt und verjüngt – für sofort sichtbare Ergebnisse und einen strahlenden Teint!\"\n      - link \"mehr Infos\" [ref=e1991, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n        - StaticText \"mehr Infos\"\n  - generic\n    - generic\n      - heading \"Microneedling\" [level=4, ref=e1983]\n      - paragraph\n        - StaticText \"Microneedling stimuliert die Kollagenproduktion und verbessert die Hautstruktur. Mit feinsten Nadeln wird die Haut regeneriert, Falten gemindert und ein glattes, ebenmäßiges Hautbild gefördert – ideal für strahlende, jugendliche Haut!\"\n      - link \"mehr Infos\" [ref=e1992, url=https://www.albina-beauty-concept.de/leistungen/microneedling/]\n        - StaticText \"mehr Infos\"\n  - generic\n    - generic\n      - heading \"Klassische Gesichtsbehandlung\" [level=4, ref=e1984]\n      - paragraph\n        - StaticText \"Die klassische Gesichtsbehandlung bietet eine gründliche Reinigung, ein sanftes Peeling und intensive Pflege, abgestimmt auf Ihren Hauttyp. Sie entfernt Unreinheiten, fördert die Durchblutung und sorgt für einen frischen, ebenmäßigen Teint. Ideal, um Ihrer Haut neue Energie zu schenken und sie zum Strahlen zu bringen!\"\n      - link \"mehr Infos\" [ref=e1993, url=https://www.albina-beauty-concept.de/leistungen/klassische-gesichtsbehandlung/]\n        - StaticText \"mehr Infos\"\n  - generic\n    - generic\n      - heading \"IS Clinical Behandlung\" [level=4, ref=e1985]\n      - paragraph\n        - StaticText \"Unsere IS Clinical Behandlungen bieten eine vielseitige Auswahl an hochwirksamen Anwendungen, abgestimmt auf Ihre individuellen Hautbedürfnisse. Ob intensive Feuchtigkeit, Regeneration oder Anti-Aging – die innovativen Formeln fördern die Kollagenproduktion, revitalisieren die Haut und lassen Ihren Teint strahlen. Erleben Sie medizinische Wirksamkeit kombiniert mit luxuriöser Pflege!\"\n      - link \"mehr Infos\" [ref=e1994, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n        - StaticText \"mehr Infos\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e1995, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e1986]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e1996, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e1997, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e1998, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e1999, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e2000, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e2001, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e1987]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e2002, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e2003, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e2004, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e1988]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e2005, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e2006, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e2007, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e2008, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e1989]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- button \"Zustimmung verwalten\" [ref=e1979]\n- StaticText \"desktop\""
+}

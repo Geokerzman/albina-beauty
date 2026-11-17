@@ -1,0 +1,32 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://shop.albina-beauty-concept.de/",
+  "refs": {
+    "e3139": {
+      "name": "What happened?",
+      "role": "heading"
+    },
+    "e3140": {
+      "name": "What can I do?",
+      "role": "heading"
+    },
+    "e3141": {
+      "name": "Return to the previous page.",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- generic\n  - image\n  - paragraph\n    - StaticText \"Something went wrong.\"\n- generic\n  - heading \"What happened?\" [level=3, ref=e3139]\n  - StaticText \"This store is unavailable\"\n- generic\n  - heading \"What can I do?\" [level=3, ref=e3140]\n  - list\n    - listitem [level=1]\n      - ListMarker \"• \"\n      - link \"Return to the previous page.\" [ref=e3141, url=javascript:history.back()]\n- StaticText \"Request ID: 09552091-eaf8-466f-a281-3cca58884b32-1794951245\""
+}

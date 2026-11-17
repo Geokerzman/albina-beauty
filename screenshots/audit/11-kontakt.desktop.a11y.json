@@ -1,0 +1,442 @@
+{
+  "axeVersion": "4.12.1",
+  "counts": {
+    "inapplicable": 44,
+    "incomplete": 3,
+    "passes": 44,
+    "violations": 7
+  },
+  "incomplete": [
+    {
+      "help": "ARIA attributes must conform to valid values",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/aria-valid-attr-value?application=axeAPI",
+      "id": "aria-valid-attr-value",
+      "impact": "critical",
+      "nodeCount": 2,
+      "nodes": [
+        {
+          "failureSummary": "Fix all of the following:\n  Unable to determine if aria-controls referenced ID exists on the page while using aria-haspopup: aria-controls=\"sm-17949512154311475-2\"",
+          "html": "<a href=\"https://www.albina-beauty-concept.de/leistungen/\" class=\"elementor-item has-submenu\" id=\"sm-17949512154311475-1\" aria-haspopup=\"true\" aria-controls=\"sm-17949512154311475-2\" aria-expanded=\"false\">",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-4ead1a56.elementor-inner-section[data-id=\"4ead1a56\"] > .elementor-column-gap-default.elementor-container > .elementor-element-4d7695aa.elementor-col-33[data-id=\"4d7695aa\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1810c7c7.elementor-nav-menu__align-start.elementor-nav-menu--stretch > .elementor-widget-container > .elementor-nav-menu--main.elementor-nav-menu--layout-horizontal.e--pointer-underline > .elementor-nav-menu[data-smartmenus-id=\"17949512154311475\"] > .menu-item-58.menu-item-has-children.menu-item-type-post_type > .has-submenu[aria-controls=\"sm-17949512154311475-2\"][aria-haspopup=\"true\"]"
+          ]
+        },
+        {
+          "failureSummary": "Fix all of the following:\n  Unable to determine if aria-controls referenced ID exists on the page while using aria-haspopup: aria-controls=\"cmplz-cookiebanner-1-optin\"",
+          "html": "<button class=\"cmplz-btn cmplz-manage-consent manage-consent-1 cmplz-show\" aria-haspopup=\"dialog\" aria-controls=\"cmplz-cookiebanner-1-optin\">Zustimmung verwalten</button>",
+          "target": [
+            ".cmplz-manage-consent"
+          ]
+        }
+      ],
+      "tags": [
+        "cat.aria",
+        "wcag2a",
+        "wcag412",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-7.1.1"
+      ]
+    },
+    {
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+      "id": "color-contrast",
+      "impact": "serious",
+      "nodeCount": 1,
+      "nodes": [
+        {
+          "failureSummary": "Fix any of the following:\n  Element's background color could not be determined due to a background image",
+          "html": "<button class=\"cmplz-blocked-content-notice cmplz-accept-category cmplz-accept-marketing\" data-service=\"google-maps\" data-category=\"marketing\" aria-label=\"Klicke hier, um marketing-Cookies zu akzeptieren und diesen Inhalt zu aktivieren\">",
+          "target": [
+            ".cmplz-blocked-content-notice"
+          ]
+        }
+      ],
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ]
+    },
+    {
+      "help": "IDs used in ARIA and labels must be unique",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/duplicate-id-aria?application=axeAPI",
+      "id": "duplicate-id-aria",
+      "impact": "critical",
+      "nodeCount": 13,
+      "nodes": [
+        {
+          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: elementor-search-form-133d807d",
+          "html": "<input id=\"elementor-search-form-133d807d\" placeholder=\"\" class=\"elementor-search-form__input\" type=\"search\" name=\"s\" value=\"\">",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1e5ee6dc.elementor-reverse-mobile[data-id=\"1e5ee6dc\"] > .elementor-column-gap-default.elementor-container > .elementor-element-16bf4591.elementor-col-33[data-id=\"16bf4591\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-133d807d.elementor-search-form--skin-full_screen.elementor-widget-search-form > .elementor-widget-container > search > form > .elementor-search-form__container > .elementor-search-form__input[placeholder=\"\"][type=\"search\"]"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: sm-17949512154311475-1",
+          "html": "<a href=\"https://www.albina-beauty-concept.de/leistungen/\" class=\"elementor-item has-submenu\" id=\"sm-17949512154311475-1\" aria-haspopup=\"true\" aria-controls=\"sm-17949512154311475-2\" aria-expanded=\"false\">",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-4ead1a56.elementor-inner-section[data-id=\"4ead1a56\"] > .elementor-column-gap-default.elementor-container > .elementor-element-4d7695aa.elementor-col-33[data-id=\"4d7695aa\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1810c7c7.elementor-nav-menu__align-start.elementor-nav-menu--stretch > .elementor-widget-container > .elementor-nav-menu--main.elementor-nav-menu--layout-horizontal.e--pointer-underline > .elementor-nav-menu[data-smartmenus-id=\"17949512154311475\"] > .menu-item-58.menu-item-has-children.menu-item-type-post_type > .has-submenu[aria-controls=\"sm-17949512154311475-2\"][aria-haspopup=\"true\"]"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: sm-17949512154311475-2",
+          "html": "<ul class=\"sub-menu elementor-nav-menu--dropdown\" id=\"sm-17949512154311475-2\" role=\"group\" aria-hidden=\"true\" aria-labelledby=\"sm-17949512154311475-1\" aria-expanded=\"false\">",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-4ead1a56.elementor-inner-section[data-id=\"4ead1a56\"] > .elementor-column-gap-default.elementor-container > .elementor-element-4d7695aa.elementor-col-33[data-id=\"4d7695aa\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1810c7c7.elementor-nav-menu__align-start.elementor-nav-menu--stretch > .elementor-widget-container > .elementor-nav-menu--main.elementor-nav-menu--layout-horizontal.e--pointer-underline > .elementor-nav-menu[data-smartmenus-id=\"17949512154311475\"] > .menu-item-58.menu-item-has-children.menu-item-type-post_type > .sub-menu[aria-labelledby=\"sm-17949512154311475-1\"][role=\"group\"]"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: sm-17949512154311475-3",
+          "html": "<a href=\"https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/\" class=\"elementor-sub-item has-submenu\" id=\"sm-17949512154311475-3\" aria-haspopup=\"true\" aria-controls=\"sm-17949512154311475-4\" aria-expanded=\"false\">",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-4ead1a56.elementor-inner-section[data-id=\"4ead1a56\"] > .elementor-column-gap-default.elementor-container > .elementor-element-4d7695aa.elementor-col-33[data-id=\"4d7695aa\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1810c7c7.elementor-nav-menu__align-start.elementor-nav-menu--stretch > .elementor-widget-container > .elementor-nav-menu--main.elementor-nav-menu--layout-horizontal.e--pointer-underline > .elementor-nav-menu[data-smartmenus-id=\"17949512154311475\"] > .menu-item-58.menu-item-has-children.menu-item-type-post_type > .sub-menu[aria-labelledby=\"sm-17949512154311475-1\"][role=\"group\"] > .menu-item-60.menu-item-has-children.menu-item-type-post_type > .has-submenu[aria-controls=\"sm-17949512154311475-4\"][aria-haspopup=\"true\"]"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: sm-17949512154311475-4",
+          "html": "<ul class=\"sub-menu elementor-nav-menu--dropdown\" id=\"sm-17949512154311475-4\" role=\"group\" aria-hidden=\"true\" aria-labelledby=\"sm-17949512154311475-3\" aria-expanded=\"false\">",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-4ead1a56.elementor-inner-section[data-id=\"4ead1a56\"] > .elementor-column-gap-default.elementor-container > .elementor-element-4d7695aa.elementor-col-33[data-id=\"4d7695aa\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1810c7c7.elementor-nav-menu__align-start.elementor-nav-menu--stretch > .elementor-widget-container > .elementor-nav-menu--main.elementor-nav-menu--layout-horizontal.e--pointer-underline > .elementor-nav-menu[data-smartmenus-id=\"17949512154311475\"] > .menu-item-58.menu-item-has-children.menu-item-type-post_type > .sub-menu[aria-labelledby=\"sm-17949512154311475-1\"][role=\"group\"] > .menu-item-60.menu-item-has-children.menu-item-type-post_type > .sub-menu[aria-labelledby=\"sm-17949512154311475-3\"][role=\"group\"]"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: sm-17949512154311475-5",
+          "html": "<a href=\"https://www.albina-beauty-concept.de/leistungen/wellness/\" class=\"elementor-sub-item has-submenu\" id=\"sm-17949512154311475-5\" aria-haspopup=\"true\" aria-controls=\"sm-17949512154311475-6\" aria-expanded=\"false\">",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-4ead1a56.elementor-inner-section[data-id=\"4ead1a56\"] > .elementor-column-gap-default.elementor-container > .elementor-element-4d7695aa.elementor-col-33[data-id=\"4d7695aa\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1810c7c7.elementor-nav-menu__align-start.elementor-nav-menu--stretch > .elementor-widget-container > .elementor-nav-menu--main.elementor-nav-menu--layout-horizontal.e--pointer-underline > .elementor-nav-menu[data-smartmenus-id=\"17949512154311475\"] > .menu-item-58.menu-item-has-children.menu-item-type-post_type > .sub-menu[aria-labelledby=\"sm-17949512154311475-1\"][role=\"group\"] > .menu-item-62.menu-item-has-children.menu-item-type-post_type > .has-submenu[aria-controls=\"sm-17949512154311475-6\"][aria-haspopup=\"true\"]"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: sm-17949512154311475-6",
+          "html": "<ul class=\"sub-menu elementor-nav-menu--dropdown\" id=\"sm-17949512154311475-6\" role=\"group\" aria-hidden=\"true\" aria-labelledby=\"sm-17949512154311475-5\" aria-expanded=\"false\">",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-4ead1a56.elementor-inner-section[data-id=\"4ead1a56\"] > .elementor-column-gap-default.elementor-container > .elementor-element-4d7695aa.elementor-col-33[data-id=\"4d7695aa\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1810c7c7.elementor-nav-menu__align-start.elementor-nav-menu--stretch > .elementor-widget-container > .elementor-nav-menu--main.elementor-nav-menu--layout-horizontal.e--pointer-underline > .elementor-nav-menu[data-smartmenus-id=\"17949512154311475\"] > .menu-item-58.menu-item-has-children.menu-item-type-post_type > .sub-menu[aria-labelledby=\"sm-17949512154311475-1\"][role=\"group\"] > .menu-item-62.menu-item-has-children.menu-item-type-post_type > .sub-menu[aria-labelledby=\"sm-17949512154311475-5\"][role=\"group\"]"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: sm-17949512154322502-1",
+          "html": "<a href=\"https://www.albina-beauty-concept.de/leistungen/\" class=\"elementor-item has-submenu\" tabindex=\"-1\" id=\"sm-17949512154322502-1\" aria-haspopup=\"true\" aria-controls=\"sm-17949512154322502-2\" aria-expanded=\"false\">",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-4ead1a56.elementor-inner-section[data-id=\"4ead1a56\"] > .elementor-column-gap-default.elementor-container > .elementor-element-4d7695aa.elementor-col-33[data-id=\"4d7695aa\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1810c7c7.elementor-nav-menu__align-start.elementor-nav-menu--stretch > .elementor-widget-container > nav:nth-child(3) > .elementor-nav-menu[data-smartmenus-id=\"17949512154322502\"] > .menu-item-58.menu-item-has-children.menu-item-type-post_type > .has-submenu[aria-controls=\"sm-17949512154322502-2\"][aria-haspopup=\"true\"]"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: sm-17949512154322502-2",
+          "html": "<ul class=\"sub-menu elementor-nav-menu--dropdown\" id=\"sm-17949512154322502-2\" role=\"group\" aria-hidden=\"true\" aria-labelledby=\"sm-17949512154322502-1\" aria-expanded=\"false\">",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-4ead1a56.elementor-inner-section[data-id=\"4ead1a56\"] > .elementor-column-gap-default.elementor-container > .elementor-element-4d7695aa.elementor-col-33[data-id=\"4d7695aa\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1810c7c7.elementor-nav-menu__align-start.elementor-nav-menu--stretch > .elementor-widget-container > nav:nth-child(3) > .elementor-nav-menu[data-smartmenus-id=\"17949512154322502\"] > .menu-item-58.menu-item-has-children.menu-item-type-post_type > .sub-menu[aria-labelledby=\"sm-17949512154322502-1\"][role=\"group\"]"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Document has multiple elements referenced with ARIA with the same id attribute: sm-17949512154322502-3",
+          "html": "<a href=\"https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/\" class=\"elementor-sub-item has-submenu\" tabindex=\"-1\" id=\"sm-17949512154322502-3\" aria-haspopup=\"true\" aria-controls=\"sm-17949512154322502-4\" aria-expanded=\"false\">",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-4ead1a56.elementor-inner-section[data-id=\"4ead1a56\"] > .elementor-column-gap-default.elementor-container > .elementor-element-4d7695aa.elementor-col-33[data-id=\"4d7695aa\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1810c7c7.elementor-nav-menu__align-start.elementor-nav-menu--stretch > .elementor-widget-container > nav:nth-child(3) > .elementor-nav-menu[data-smartmenus-id=\"17949512154322502\"] > .menu-item-58.menu-item-has-children.menu-item-type-post_type > .sub-menu[aria-labelledby=\"sm-17949512154322502-1\"][role=\"group\"] > .menu-item-60.menu-item-has-children.menu-item-type-post_type > .has-submenu[aria-controls=\"sm-17949512154322502-4\"][aria-haspopup=\"true\"]"
+          ]
+        }
+      ],
+      "tags": [
+        "cat.parsing",
+        "wcag2a",
+        "wcag412",
+        "EN-301-549",
+        "EN-9.4.1.2",
+        "RGAAv4",
+        "RGAA-8.2.1"
+      ]
+    }
+  ],
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "url": "https://www.albina-beauty-concept.de/kontakt/",
+  "violations": [
+    {
+      "help": "Elements must meet minimum color contrast ratio thresholds",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/color-contrast?application=axeAPI",
+      "id": "color-contrast",
+      "impact": "serious",
+      "nodeCount": 30,
+      "nodes": [
+        {
+          "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 2.38 (foreground color: #ffffff, background color: #89adc0, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+          "html": "<span class=\"elementor-icon-list-text\">02234 / 430 39 97</span>",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1e5ee6dc.elementor-reverse-mobile[data-id=\"1e5ee6dc\"] > .elementor-column-gap-default.elementor-container > .elementor-element-23ced42d.elementor-hidden-phone[data-id=\"23ced42d\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-3b559085.elementor-tablet-align-start[data-id=\"3b559085\"] > .elementor-widget-container > .elementor-inline-items.elementor-icon-list-items > .elementor-inline-item.elementor-icon-list-item:nth-child(1) > a[href=\"tel:022344303997\"] > .elementor-icon-list-text"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 2.38 (foreground color: #ffffff, background color: #89adc0, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+          "html": "<span class=\"elementor-icon-list-text\">0172 / 377 11 77</span>",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1e5ee6dc.elementor-reverse-mobile[data-id=\"1e5ee6dc\"] > .elementor-column-gap-default.elementor-container > .elementor-element-23ced42d.elementor-hidden-phone[data-id=\"23ced42d\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-3b559085.elementor-tablet-align-start[data-id=\"3b559085\"] > .elementor-widget-container > .elementor-inline-items.elementor-icon-list-items > .elementor-inline-item.elementor-icon-list-item:nth-child(2) > a[href=\"tel:+491723771177\"] > .elementor-icon-list-text"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 2.38 (foreground color: #ffffff, background color: #89adc0, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+          "html": "<span class=\"elementor-icon-list-text\">info@albina-beauty-concept.de</span>",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1e5ee6dc.elementor-reverse-mobile[data-id=\"1e5ee6dc\"] > .elementor-column-gap-default.elementor-container > .elementor-element-23ced42d.elementor-hidden-phone[data-id=\"23ced42d\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-3b559085.elementor-tablet-align-start[data-id=\"3b559085\"] > .elementor-widget-container > .elementor-inline-items.elementor-icon-list-items > .elementor-inline-item.elementor-icon-list-item:nth-child(3) > a > .elementor-icon-list-text"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 2.38 (foreground color: #ffffff, background color: #89adc0, font size: 9.0pt (12px), font weight: normal). Expected contrast ratio of 4.5:1",
+          "html": "<span class=\"elementor-icon-list-text\">Frechener Weg 28 • 50859 Köln</span>",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1e5ee6dc.elementor-reverse-mobile[data-id=\"1e5ee6dc\"] > .elementor-column-gap-default.elementor-container > .elementor-element-23ced42d.elementor-hidden-phone[data-id=\"23ced42d\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-3b559085.elementor-tablet-align-start[data-id=\"3b559085\"] > .elementor-widget-container > .elementor-inline-items.elementor-icon-list-items > .elementor-inline-item.elementor-icon-list-item:nth-child(4) > a > .elementor-icon-list-text"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 1.97 (foreground color: #d3b574, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+          "html": "<a href=\"https://www.albina-beauty-concept.de/kontakt/\" aria-current=\"page\" class=\"elementor-item elementor-item-active\">Kontakt</a>",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-4ead1a56.elementor-inner-section[data-id=\"4ead1a56\"] > .elementor-column-gap-default.elementor-container > .elementor-element-4d7695aa.elementor-col-33[data-id=\"4d7695aa\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1810c7c7.elementor-nav-menu__align-start.elementor-nav-menu--stretch > .elementor-widget-container > .elementor-nav-menu--main.elementor-nav-menu--layout-horizontal.e--pointer-underline > .elementor-nav-menu[data-smartmenus-id=\"17949512154311475\"] > .current-menu-item.page_item.page-item-53 > .elementor-item-active.elementor-item[aria-current=\"page\"]"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 1.97 (foreground color: #ffffff, background color: #ccb3ac, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+          "html": "<span class=\"elementor-button-text\">Termine</span>",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-4ead1a56.elementor-inner-section[data-id=\"4ead1a56\"] > .elementor-column-gap-default.elementor-container > .elementor-element-59a8a0a1.elementor-col-33[data-id=\"59a8a0a1\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-6b04b3a.elementor-align-left.elementor-widget-mobile__width-initial > .elementor-widget-container > .elementor-button-wrapper > .elementor-button.elementor-button-link.elementor-size-xs > .elementor-button-content-wrapper > .elementor-button-text"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 2.38 (foreground color: #89adc0, background color: #ffffff, font size: 24.0pt (32px), font weight: normal). Expected contrast ratio of 3:1",
+          "html": "<h1 class=\"elementor-heading-title elementor-size-default\">Kontakt</h1>",
+          "target": [
+            "h1"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.29 (foreground color: #7a7a7a, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+          "html": "<p>Frechener Weg 28<br>50859 Köln</p>",
+          "target": [
+            "p:nth-child(2)"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.29 (foreground color: #7a7a7a, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+          "html": "<p>Tel:&nbsp;<a href=\"tel:022344303997\">02234 / 430 39 97</a><br>Mobil: <a href=\"tel:01723771177\">0172 / 377 11 77</a><br><a href=\"mailto:info@albina-beauty-concept.de\">info@albina-beauty-concept.de</a></p>",
+          "target": [
+            "p:nth-child(3)"
+          ]
+        },
+        {
+          "failureSummary": "Fix any of the following:\n  Element has insufficient color contrast of 4.29 (foreground color: #7a7a7a, background color: #ffffff, font size: 12.0pt (16px), font weight: normal). Expected contrast ratio of 4.5:1",
+          "html": "<p>Haben Sie Fragen zu unseren Behandlungen oder möchten Sie einen Termin vereinbaren? Rufen Sie uns an oder schreiben Sie uns – wir melden uns schnellstmöglich bei Ihnen mit Terminvorschlägen.</p>",
+          "target": [
+            "p:nth-child(4)"
+          ]
+        }
+      ],
+      "tags": [
+        "cat.color",
+        "wcag2aa",
+        "wcag143",
+        "TTv5",
+        "TT13.c",
+        "EN-301-549",
+        "EN-9.1.4.3",
+        "ACT",
+        "RGAAv4",
+        "RGAA-3.2.1"
+      ]
+    },
+    {
+      "help": "Heading levels should only increase by one",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/heading-order?application=axeAPI",
+      "id": "heading-order",
+      "impact": "moderate",
+      "nodeCount": 1,
+      "nodes": [
+        {
+          "failureSummary": "Fix any of the following:\n  Heading order invalid",
+          "html": "<h4>Albina Beauty Concept</h4>",
+          "target": [
+            "h4"
+          ]
+        }
+      ],
+      "tags": [
+        "cat.semantics",
+        "best-practice"
+      ]
+    },
+    {
+      "help": "Contentinfo landmark should not be contained in another landmark",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-contentinfo-is-top-level?application=axeAPI",
+      "id": "landmark-contentinfo-is-top-level",
+      "impact": "moderate",
+      "nodeCount": 1,
+      "nodes": [
+        {
+          "failureSummary": "Fix any of the following:\n  The contentinfo landmark is contained in another landmark.",
+          "html": "<footer class=\"elementor-section el...\" data-id=\"6bac75e5\" data-element_type=\"section\" data-e-type=\"section\" data-settings=\"{\"background_backgro...\">",
+          "target": [
+            ".elementor-element-6bac75e5"
+          ]
+        }
+      ],
+      "tags": [
+        "cat.semantics",
+        "best-practice"
+      ]
+    },
+    {
+      "help": "Document should not have more than one contentinfo landmark",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-no-duplicate-contentinfo?application=axeAPI",
+      "id": "landmark-no-duplicate-contentinfo",
+      "impact": "moderate",
+      "nodeCount": 1,
+      "nodes": [
+        {
+          "failureSummary": "Fix any of the following:\n  Document has more than one contentinfo landmark",
+          "html": "<footer data-elementor-type=\"footer\" data-elementor-id=\"74\" class=\"elementor elementor-74 elementor-location-footer\" data-elementor-post-type=\"elementor_library\">",
+          "target": [
+            ".elementor-74"
+          ]
+        }
+      ],
+      "tags": [
+        "cat.semantics",
+        "best-practice"
+      ]
+    },
+    {
+      "help": "Landmarks should have a unique role or role/label/title (i.e. accessible name) combination",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/landmark-unique?application=axeAPI",
+      "id": "landmark-unique",
+      "impact": "moderate",
+      "nodeCount": 1,
+      "nodes": [
+        {
+          "failureSummary": "Fix any of the following:\n  The landmark must have a unique aria-label, aria-labelledby, or title to make landmarks distinguishable",
+          "html": "<footer data-elementor-type=\"footer\" data-elementor-id=\"74\" class=\"elementor elementor-74 elementor-location-footer\" data-elementor-post-type=\"elementor_library\">",
+          "target": [
+            ".elementor-74"
+          ]
+        }
+      ],
+      "tags": [
+        "cat.semantics",
+        "best-practice"
+      ]
+    },
+    {
+      "help": "Links must have discernible text",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/link-name?application=axeAPI",
+      "id": "link-name",
+      "impact": "serious",
+      "nodeCount": 7,
+      "nodes": [
+        {
+          "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute",
+          "html": "<a href=\"https://www.instagram.com/albina.beautyconcept\"><span class=\"elementor-icon-list-icon\">\n<i aria-hidden=\"true\" class=\"fab fa-instagram\"></i>\t\t\t\t\t\t</span>\n<span class=\"elementor-icon-list-text\"></span>\n</a>",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1e5ee6dc.elementor-reverse-mobile[data-id=\"1e5ee6dc\"] > .elementor-column-gap-default.elementor-container > .elementor-element-57bd50ab.elementor-col-33[data-id=\"57bd50ab\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-e8f449f.elementor-align-end[data-id=\"e8f449f\"] > .elementor-widget-container > .elementor-inline-items.elementor-icon-list-items > .elementor-inline-item.elementor-icon-list-item:nth-child(1) > a"
+          ]
+        },
+        {
+          "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute",
+          "html": "<a href=\"https://api.whatsapp.com/send?phone=+491723771177&amp;text=Guten%20Tag!\"><span class=\"elementor-icon-list-icon\">\n<i aria-hidden=\"true\" class=\"fab fa-whatsapp\"></i>\t\t\t\t\t\t</span>\n<span class=\"elementor-icon-list-text\"></span>\n</a>",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1e5ee6dc.elementor-reverse-mobile[data-id=\"1e5ee6dc\"] > .elementor-column-gap-default.elementor-container > .elementor-element-57bd50ab.elementor-col-33[data-id=\"57bd50ab\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-e8f449f.elementor-align-end[data-id=\"e8f449f\"] > .elementor-widget-container > .elementor-inline-items.elementor-icon-list-items > .elementor-inline-item.elementor-icon-list-item:nth-child(2) > a"
+          ]
+        },
+        {
+          "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute",
+          "html": "<a href=\"https://facebook.com/Albina-Letova-108039101026948/\"><span class=\"elementor-icon-list-icon\">\n<i aria-hidden=\"true\" class=\"fab fa-facebook-f\"></i>\t\t\t\t\t\t</span>\n<span class=\"elementor-icon-list-text\"></span>\n</a>",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-1e5ee6dc.elementor-reverse-mobile[data-id=\"1e5ee6dc\"] > .elementor-column-gap-default.elementor-container > .elementor-element-57bd50ab.elementor-col-33[data-id=\"57bd50ab\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-e8f449f.elementor-align-end[data-id=\"e8f449f\"] > .elementor-widget-container > .elementor-inline-items.elementor-icon-list-items > .elementor-inline-item.elementor-icon-list-item:nth-child(3) > a"
+          ]
+        },
+        {
+          "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute",
+          "html": "<a href=\"https://www.albina-beauty-concept.de\">",
+          "target": [
+            ".elementor-sticky--active > .elementor-column-gap-default.elementor-container > .elementor-element-6391cc2c.elementor-col-100[data-id=\"6391cc2c\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-4ead1a56.elementor-inner-section[data-id=\"4ead1a56\"] > .elementor-column-gap-default.elementor-container > .elementor-element-72efe59f.elementor-col-33[data-id=\"72efe59f\"] > .elementor-element-populated.elementor-widget-wrap > .elementor-element-65dbc341.elementor-widget-image[data-id=\"65dbc341\"] > .elementor-widget-container > a"
+          ]
+        },
+        {
+          "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute",
+          "html": "<a href=\"https://m.facebook.com/Albina-Letova-108039101026948/\">",
+          "target": [
+            ".elementor-element-372b270 > .elementor-widget-container > a"
+          ]
+        },
+        {
+          "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute",
+          "html": "<a href=\"https://www.instagram.com/albina.beautyconcept/\">",
+          "target": [
+            ".elementor-element-7495fdc > .elementor-widget-container > a"
+          ]
+        },
+        {
+          "failureSummary": "Fix all of the following:\n  Element is in tab order and does not have accessible text\n\nFix any of the following:\n  Element does not have text that is visible to screen readers\n  aria-label attribute does not exist or is empty\n  aria-labelledby attribute does not exist, references elements that do not exist or references elements that are empty\n  Element has no title attribute",
+          "html": "<a href=\"/\">",
+          "target": [
+            "a[href=\"/\"]"
+          ]
+        }
+      ],
+      "tags": [
+        "cat.name-role-value",
+        "wcag2a",
+        "wcag244",
+        "wcag412",
+        "section508",
+        "section508.22.a",
+        "TTv5",
+        "TT6.a",
+        "EN-301-549",
+        "EN-9.2.4.4",
+        "EN-9.4.1.2",
+        "ACT",
+        "RGAAv4",
+        "RGAA-6.2.1"
+      ]
+    },
+    {
+      "help": "All page content should be contained by landmarks",
+      "helpUrl": "https://dequeuniversity.com/rules/axe/4.12/region?application=axeAPI",
+      "id": "region",
+      "impact": "moderate",
+      "nodeCount": 1,
+      "nodes": [
+        {
+          "failureSummary": "Fix any of the following:\n  Some page content is not contained by landmarks",
+          "html": "<a class=\"skip-link screen-reader-text\" href=\"#content\">Zum Inhalt springen</a>",
+          "target": [
+            ".skip-link"
+          ]
+        }
+      ],
+      "tags": [
+        "cat.keyboard",
+        "best-practice",
+        "RGAAv4",
+        "RGAA-9.2.1"
+      ]
+    }
+  ]
+}

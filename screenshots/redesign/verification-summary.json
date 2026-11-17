@@ -1,0 +1,35 @@
+{
+  "productionBuild": "passed",
+  "contentIntegrity": "31 routes, all 28 original URLs, 13 services, 101 price entries",
+  "browserPageChecks": 62,
+  "pageViewportSizes": [
+    "1440x1000",
+    "390x844"
+  ],
+  "allPagesHTTP200": true,
+  "allPagesExactlyOneH1": true,
+  "allPagesWithoutOverflow": true,
+  "brokenImages": 0,
+  "axeAudits": 18,
+  "axeViolations": 0,
+  "responsiveAdditionalSamples": 24,
+  "responsiveAdditionalWidths": [
+    320,
+    768,
+    1024
+  ],
+  "messagesSent": false,
+  "cmsImplemented": false,
+  "functionalScenarios": [
+    "catalog category filter",
+    "catalog search",
+    "catalog empty state",
+    "price category filter and search",
+    "price item booking preselection",
+    "WhatsApp request preparation without sending",
+    "gallery arrow keys and Escape",
+    "team biography dialog",
+    "mobile navigation",
+    "desktop mega-menu"
+  ]
+}

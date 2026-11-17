@@ -1,0 +1,18 @@
+import fs from 'node:fs';
+import path from 'node:path';
+const root=process.cwd();
+const content=fs.readFileSync(path.join(root,'src/content/site.ts'),'utf8');
+const source=JSON.parse(fs.readFileSync(path.join(root,'screenshots/audit/catalog.json'),'utf8'));
+const services=[...content.matchAll(/slug: "([^"]+)"/g)].map(m=>`/leistungen/${m[1]}/`);
+const routesText=fs.readFileSync(path.join(root,'src/content/pages.ts'),'utf8');
+const special=[...routesText.matchAll(/export const specialRoutes = \[([^\]]+)\]/g)][0][1].match(/"[^"]+"/g).map(s=>'/'+s.slice(1,-1)+'/');
+const routes=new Set(['/',...services,...special]);
+const missing=source.pages.filter(p=>!routes.has(new URL(p.url).pathname));
+if(missing.length)throw new Error('Missing original routes: '+missing.map(p=>p.url).join(', '));
+const groups=JSON.parse(fs.readFileSync(path.join(root,'src/content/prices.json'),'utf8'));
+const ids=groups.map(g=>g.id);
+if(new Set(ids).size!==ids.length)throw new Error('Duplicate price-group id');
+for(const [,list]of content.matchAll(/priceIds: \[([^\]]+)\]/g))for(const id of list.matchAll(/"([^"]+)"/g))if(!ids.includes(id[1]))throw new Error('Missing group '+id[1]);
+for(const [,name]of content.matchAll(/image: "([^"]+)"/g))if(!fs.existsSync(path.join(root,'public/images',name)))throw new Error('Missing photo '+name);
+if(content.includes('app.terminslot.de'))throw new Error('Broken legacy booking link remains');
+console.log(`Verified ${routes.size} public routes, all ${source.pages.length} original URLs, ${services.length} treatments and ${groups.reduce((n,g)=>n+g.items.length,0)} shared price entries.`);

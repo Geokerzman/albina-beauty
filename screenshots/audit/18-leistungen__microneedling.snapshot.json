@@ -1,0 +1,200 @@
+{
+  "lifecycle": {
+    "effectiveLaunch": {
+      "browserLaunched": true,
+      "engine": "chrome",
+      "launchHash": 17461799183016884555
+    },
+    "launched": false,
+    "relaunchedBrowser": false,
+    "restartedBackground": false,
+    "restoreStatus": "not_configured",
+    "reused": true,
+    "saveStatus": "not_attempted"
+  },
+  "origin": "https://www.albina-beauty-concept.de/leistungen/microneedling/",
+  "refs": {
+    "e1018": {
+      "name": "Zum Inhalt springen",
+      "role": "link"
+    },
+    "e1019": {
+      "name": "MICRONEEDLING",
+      "role": "heading"
+    },
+    "e1020": {
+      "name": "Microneedling in Köln Weiden – für eine strahlende, glatte Haut",
+      "role": "heading"
+    },
+    "e1021": {
+      "name": "Preisliste",
+      "role": "heading"
+    },
+    "e1022": {
+      "name": "Unsere Leistungen",
+      "role": "heading"
+    },
+    "e1023": {
+      "name": "Unsere Marken",
+      "role": "heading"
+    },
+    "e1024": {
+      "name": "Information & Kontakt",
+      "role": "heading"
+    },
+    "e1025": {
+      "name": "© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden",
+      "role": "heading"
+    },
+    "e1026": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e1027": {
+      "name": "",
+      "role": "link"
+    },
+    "e1028": {
+      "name": "Laser-Haarentfernung",
+      "role": "link"
+    },
+    "e1029": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e1030": {
+      "name": "Wellness",
+      "role": "link"
+    },
+    "e1031": {
+      "name": "Kosmetische Behandlungen",
+      "role": "link"
+    },
+    "e1032": {
+      "name": "Hand- und Fußpflege",
+      "role": "link"
+    },
+    "e1033": {
+      "name": "Private Physiotherapie",
+      "role": "link"
+    },
+    "e1034": {
+      "name": "InMode",
+      "role": "link"
+    },
+    "e1035": {
+      "name": "HydraFacial™",
+      "role": "link"
+    },
+    "e1036": {
+      "name": "IS Clinical",
+      "role": "link"
+    },
+    "e1037": {
+      "name": "Impressum",
+      "role": "link"
+    },
+    "e1038": {
+      "name": "Datenschutz",
+      "role": "link"
+    },
+    "e1039": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e1040": {
+      "name": "Cookie Richtlinie (EU)",
+      "role": "link"
+    },
+    "e1041": {
+      "name": "Menü",
+      "role": "navigation"
+    },
+    "e1042": {
+      "name": "Medizinische Microneedling 199€ ",
+      "role": "heading"
+    },
+    "e1043": {
+      "name": "Medizinische Microneedling (3er Paket) 319€",
+      "role": "heading"
+    },
+    "e1044": {
+      "name": "Medizinische Microneedling (6er Paket) 599€",
+      "role": "heading"
+    },
+    "e1045": {
+      "name": "",
+      "role": "link"
+    },
+    "e1046": {
+      "name": "Termine",
+      "role": "link"
+    },
+    "e1047": {
+      "name": "Suche",
+      "role": "button"
+    },
+    "e1048": {
+      "name": "02234 / 430 39 97",
+      "role": "link"
+    },
+    "e1049": {
+      "name": "0172 / 377 11 77",
+      "role": "link"
+    },
+    "e1050": {
+      "name": "info@albina-beauty-concept.de",
+      "role": "link"
+    },
+    "e1051": {
+      "name": "Frechener Weg 28 • 50859 Köln",
+      "role": "link"
+    },
+    "e1052": {
+      "name": "Suche",
+      "role": "searchbox"
+    },
+    "e1053": {
+      "name": "",
+      "role": "link"
+    },
+    "e1054": {
+      "name": "",
+      "role": "link"
+    },
+    "e1055": {
+      "name": "",
+      "role": "link"
+    },
+    "e1056": {
+      "name": "Leistungen",
+      "role": "link"
+    },
+    "e1057": {
+      "name": "Preisliste",
+      "role": "link"
+    },
+    "e1058": {
+      "name": "Galerie",
+      "role": "link"
+    },
+    "e1059": {
+      "name": "Über Uns",
+      "role": "link"
+    },
+    "e1060": {
+      "name": "Kontakt",
+      "role": "link"
+    },
+    "e1061": {
+      "name": "Karriere",
+      "role": "link"
+    },
+    "e1062": {
+      "name": "Shop",
+      "role": "link"
+    }
+  },
+  "removedRefs": [],
+  "snapshot": "- link \"Zum Inhalt springen\" [ref=e1018, url=https://www.albina-beauty-concept.de/leistungen/microneedling/#content]\n- banner\n  - generic\n    - generic\n      - list\n        - listitem [level=1]\n          - link \"02234 / 430 39 97\" [ref=e1048, url=tel:022344303997]\n            - StaticText \"02234 / 430 39 97\"\n        - listitem [level=1]\n          - link \"0172 / 377 11 77\" [ref=e1049, url=tel:+491723771177]\n            - StaticText \"0172 / 377 11 77\"\n        - listitem [level=1]\n          - link \"info@albina-beauty-concept.de\" [ref=e1050, url=mailto:info@albina-beauty-concept.de]\n            - StaticText \"info@albina-beauty-concept.de\"\n        - listitem [level=1]\n          - link \"Frechener Weg 28 • 50859 Köln\" [ref=e1051, url=https://goo.gl/maps/ApuZwNBpUu2y252m7]\n            - StaticText \"Frechener Weg 28 • 50859 Köln\"\n      - search\n        - form\n          - button \"Suche\" [ref=e1047]\n          - generic\n            - LabelText\n              - StaticText \"Suche\"\n            - searchbox \"Suche\" [ref=e1052]\n      - list\n        - listitem [level=1]\n          - link [ref=e1053, url=https://www.instagram.com/albina.beautyconcept]\n        - listitem [level=1]\n          - link [ref=e1054, url=https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!]\n        - listitem [level=1]\n          - link [ref=e1055, url=https://facebook.com/Albina-Letova-108039101026948/]\n    - generic\n      - link [ref=e1045, url=https://www.albina-beauty-concept.de/]\n      - navigation \"Menü\" [ref=e1041]\n        - list\n          - listitem [level=1]\n            - link \"Leistungen\" [ref=e1056, url=https://www.albina-beauty-concept.de/leistungen/]\n              - StaticText \"Leistungen\"\n          - listitem [level=1]\n            - link \"Preisliste\" [ref=e1057, url=https://www.albina-beauty-concept.de/preisliste/]\n          - listitem [level=1]\n            - link \"Galerie\" [ref=e1058, url=https://www.albina-beauty-concept.de/galerie/]\n          - listitem [level=1]\n            - link \"Über Uns\" [ref=e1059, url=https://www.albina-beauty-concept.de/ueber-uns/]\n          - listitem [level=1]\n            - link \"Kontakt\" [ref=e1060, url=https://www.albina-beauty-concept.de/kontakt/]\n          - listitem [level=1]\n            - link \"Karriere\" [ref=e1061, url=https://www.albina-beauty-concept.de/elementor-1142/]\n          - listitem [level=1]\n            - link \"Shop\" [ref=e1062, url=http://shop.albina-beauty-concept.de/]\n      - link \"Termine\" [ref=e1046, url=https://wa.me/491723771177]\n        - StaticText \"Termine\"\n- main\n  - heading \"MICRONEEDLING\" [level=1, ref=e1019]\n  - generic\n    - generic\n      - heading \"Microneedling in Köln Weiden – für eine strahlende, glatte Haut\" [level=5, ref=e1020]\n      - paragraph\n        - StaticText \"Microneedling ist eine effektive Methode zur Hautverjüngung und Behandlung von Hautproblemen wie feinen Linien, Falten, Aknenarben, vergrößerten Poren oder Pigmentstörungen. Durch feinste, kontrollierte Mikroverletzungen in der Haut wird die natürliche Kollagen- und Elastinproduktion angeregt. Das Ergebnis ist eine glattere, straffere und strahlendere Haut.\"\n      - paragraph\n        - StaticText \"In unserem Kosmetikstudio in Köln Weiden setzen wir auf modernste Technik und hochwertige Produkte, um die Behandlung schmerzarm und effektiv zu gestalten. Die gezielte Anwendung von Hyaluron, Vitaminen oder anderen Wirkstoffen während des Microneedlings verstärkt die Regeneration und sorgt für langanhaltende Ergebnisse.\"\n      - paragraph\n        - StaticText \"Erleben Sie, wie Microneedling Ihre Haut erneuert und für ein ebenmäßiges, jugendliches Hautbild sorgt – ganz ohne Ausfallzeiten. Vereinbaren Sie jetzt Ihren Termin in unserem Studio und gönnen Sie Ihrer Haut die Pflege, die sie verdient!\"\n  - generic\n    - heading \"Preisliste\" [level=2, ref=e1021]\n    - generic\n      - heading \"Medizinische Microneedling 199€ \" [level=5, ref=e1042]\n        - strong\n          - StaticText \"Medizinische Microneedling\"\n          - LineBreak \"\\n\"\n          - StaticText \"199\"\n        - StaticText \"€\"\n        - LineBreak \"\\n\"\n        - LineBreak \"\\n\"\n      - heading \"Medizinische Microneedling (3er Paket) 319€\" [level=5, ref=e1043]\n        - strong\n          - StaticText \"Medizinische Microneedling\"\n          - LineBreak \"\\n\"\n          - StaticText \"(3er Paket)\"\n          - LineBreak \"\\n\"\n        - StaticText \"319€\"\n      - heading \"Medizinische Microneedling (6er Paket) 599€\" [level=5, ref=e1044]\n        - strong\n          - StaticText \"Medizinische Microneedling\"\n          - LineBreak \"\\n\"\n          - StaticText \"(6er Paket)\"\n          - LineBreak \"\\n\"\n        - StaticText \"599€\"\n    - paragraph\n      - StaticText \"Möchten Sie mehr Informationen oder einen Probetermin vereinbaren? Rufen Sie uns gerne an! Wenn Sie sich bereits entschieden haben, klicken Sie auf den Button und buchen Sie Ihren Wunschtermin.\"\n    - link \"Termine\" [ref=e1026, url=https://app.terminslot.de/employees?salonGuid=cc853bef-3396-41a3-8fcd-5058cf8e352f]\n      - StaticText \"Termine\"\n- contentinfo\n  - generic\n    - generic\n      - link [ref=e1027, url=https://www.albina-beauty-concept.de/]\n      - paragraph\n        - StaticText \"Exklusiver Standort für Hydrafacial, IS Clinical, Microneedling, Maniküre, Pediküre und private Physiotherapie in Köln Weiden.\"\n    - generic\n      - heading \"Unsere Leistungen\" [level=2, ref=e1022]\n      - list\n        - listitem [level=1]\n          - link \"Laser-Haarentfernung\" [ref=e1028, url=https://www.albina-beauty-concept.de/leistungen/laser-haarentfernung/]\n            - StaticText \"Laser-Haarentfernung\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e1029, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"Wellness\" [ref=e1030, url=https://www.albina-beauty-concept.de/leistungen/wellness/]\n            - StaticText \"Wellness\"\n        - listitem [level=1]\n          - link \"Kosmetische Behandlungen\" [ref=e1031, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/]\n            - StaticText \"Kosmetische Behandlungen\"\n        - listitem [level=1]\n          - link \"Hand- und Fußpflege\" [ref=e1032, url=https://www.albina-beauty-concept.de/leistungen/hand-und-fusspflege/]\n            - StaticText \"Hand- und Fußpflege\"\n        - listitem [level=1]\n          - link \"Private Physiotherapie\" [ref=e1033, url=https://www.albina-beauty-concept.de/leistungen/private-physiotherapie/]\n            - StaticText \"Private Physiotherapie\"\n    - generic\n      - heading \"Unsere Marken\" [level=2, ref=e1023]\n      - list\n        - listitem [level=1]\n          - link \"InMode\" [ref=e1034, url=https://www.albina-beauty-concept.de/leistungen/forma-new-by-inmode/]\n            - StaticText \"InMode\"\n        - listitem [level=1]\n          - link \"HydraFacial™\" [ref=e1035, url=https://www.albina-beauty-concept.de/leistungen/kosmetische-behandlungen/hydrafacial/]\n            - StaticText \"HydraFacial™\"\n        - listitem [level=1]\n          - link \"IS Clinical\" [ref=e1036, url=https://www.albina-beauty-concept.de/leistungen/is-clinical-behandlung/]\n            - StaticText \"IS Clinical\"\n    - generic\n      - heading \"Information & Kontakt\" [level=2, ref=e1024]\n      - list\n        - listitem [level=1]\n          - link \"Impressum\" [ref=e1037, url=https://www.albina-beauty-concept.de/impressum/]\n            - StaticText \"Impressum\"\n        - listitem [level=1]\n          - link \"Datenschutz\" [ref=e1038, url=https://www.albina-beauty-concept.de/datenschutzerklaerung/]\n            - StaticText \"Datenschutz\"\n        - listitem [level=1]\n          - link \"Kontakt\" [ref=e1039, url=https://www.albina-beauty-concept.de/kontakt/]\n            - StaticText \"Kontakt\"\n        - listitem [level=1]\n          - link \"Cookie Richtlinie (EU)\" [ref=e1040, url=https://www.albina-beauty-concept.de/cookie-richtlinie-eu/]\n            - StaticText \"Cookie Richtlinie (EU)\"\n  - contentinfo\n    - generic\n      - heading \"© Alle Rechte vorbehalten - Albina Beauty Concept - Köln Weiden\" [level=3, ref=e1025]\n        - StaticText \"© Alle Rechte vorbehalten - \"\n        - strong\n          - StaticText \"Albina Beauty Concept\"\n        - StaticText \" - Köln Weiden\"\n      - StaticText \"Made by Friends\"\n- generic"
+}
