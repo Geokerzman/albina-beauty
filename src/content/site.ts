@@ -7,9 +7,15 @@ export const site = {
   phone: "02234 / 430 39 97",
   phoneHref: "tel:+4922344303997",
   mobile: "0172 / 377 11 77",
+  mobileHref: "tel:+491723771177",
   email: "info@albina-beauty-concept.de",
   instagram: "https://www.instagram.com/albina.beautyconcept/",
   whatsapp: "https://wa.me/491723771177",
+  whatsappSocial: "https://api.whatsapp.com/send?phone=+491723771177&text=Guten%20Tag!",
+  facebook: "https://facebook.com/Albina-Letova-108039101026948/",
+  headerMap: "https://goo.gl/maps/ApuZwNBpUu2y252m7",
+  mapEmbed:
+    "https://maps.google.com/maps?q=Frechener%20Weg%2028%2050859%20K%C3%B6ln&t=m&z=14&output=embed&iwloc=near",
   map: "https://www.google.com/maps/search/?api=1&query=Albina+Beauty+Concept+Frechener+Weg+28+50859+K%C3%B6ln",
 };
 export interface PriceItem {

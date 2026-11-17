@@ -20,4 +20,10 @@ Cormorant Garamond (заголовки) и Manrope (интерфейс/текс�
 
 ## Иконки и логотип
 
-Иконки: lucide-react (ISC). Текстовый wordmark ALBINA и favicon реализованы в коде, в палитре нового дизайна. Финальное соответствие фирменному знаку согласуется с владельцем.
+Иконки интерфейса: lucide-react (ISC).
+
+Оригинальный логотип скачан с сайта и используется в шапке, подвале и мобильном меню: `public/images/Albina-Beauty-Concept-Black.svg`.
+Источник: https://www.albina-beauty-concept.de/wp-content/uploads/2020/09/Albina-Beauty-Concept-Black.svg
+
+Исходный значок сохранён как `public/images/cropped-v1_bg-192x192.png`; из него создан многослойный `src/app/favicon.ico`. Этот же PNG используется как дополнительный значок 192×192 и Apple touch icon.
+Источник: https://www.albina-beauty-concept.de/wp-content/uploads/2024/01/cropped-v1_bg-192x192.png

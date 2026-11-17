@@ -14,7 +14,10 @@ export const metadata: Metadata = {
   },
   description:
     "Persönliche Hautpflege, Beauty und Wohlbefinden in Köln Weiden. Entdecken Sie Albina Beauty Concept.",
-  icons: { icon: "/icon.svg" },
+  icons: {
+    icon: [{ url: "/images/cropped-v1_bg-192x192.png", type: "image/png", sizes: "192x192" }],
+    apple: "/images/cropped-v1_bg-192x192.png",
+  },
   openGraph: { type: "website", locale: "de_DE", siteName: site.name },
   twitter: { card: "summary_large_image" },
 };

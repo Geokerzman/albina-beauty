@@ -385,7 +385,8 @@ export function CookieNotice() {
       </button>
       <p>Ein guter Besuch braucht Vertrauen.</p>
       <span>
-        Wir verwenden nur technisch notwendige Funktionen. Keine Analyse- oder Marketing-Cookies.
+        Wir verwenden technisch notwendige Funktionen. Auf der Kontaktseite wird eine Karte von
+        Google Maps eingebunden.
       </span>
       <div>
         <Link href="/cookie-richtlinie-eu/">Mehr erfahren</Link>

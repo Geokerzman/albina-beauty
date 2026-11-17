@@ -775,18 +775,38 @@ export function ContactPage() {
             <br />
             <em>in Köln Weiden.</em>
           </h2>
-          <div className="contact-item">
-            <MapPin size={19} />
-            <div>
-              <span>Unser Studio</span>
-              <p>
-                {site.address}
-                <br />
-                {site.postal}
-              </p>
-              <a href={site.map} target="_blank" rel="noopener noreferrer" className="text-link">
-                Route planen <ArrowUpRight size={15} />
-              </a>
+          <div className="contact-item contact-location">
+            <div className="contact-location-body">
+              <div className="contact-location-address">
+                <MapPin size={19} aria-hidden="true" />
+                <div className="contact-location-copy">
+                  <span>Unser Studio</span>
+                  <p>
+                    {site.address}
+                    <br />
+                    {site.postal}
+                  </p>
+                  <a
+                    href={site.map}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-link"
+                  >
+                    Route planen <ArrowUpRight size={15} />
+                  </a>
+                </div>
+              </div>
+              <div className="contact-mini-map">
+                <iframe
+                  src={site.mapEmbed}
+                  title={`Albina Beauty Concept – ${site.address}, ${site.postal}`}
+                  width="220"
+                  height="150"
+                  loading="lazy"
+                  allowFullScreen
+                  referrerPolicy="strict-origin-when-cross-origin"
+                />
+              </div>
             </div>
           </div>
           <div className="contact-item">
@@ -807,21 +827,6 @@ export function ContactPage() {
           <p className="contact-timing">Termine nach persönlicher Vereinbarung.</p>
           <BookButton />
         </div>
-      </section>
-      <section className="container contact-note section-pad">
-        <p className="eyebrow">Einfach ankommen</p>
-        <h2>
-          In Ruhe geplant.
-          <br />
-          <em>Entspannt angekommen.</em>
-        </h2>
-        <p>
-          Planen Sie Ihre Anfahrt über Google Maps. Bei Fragen zu Ihrem Besuch, einem besonderen
-          Anliegen oder einem Hausbesuch für private Physiotherapie sprechen Sie uns gerne vorab an.
-        </p>
-        <a href={site.map} target="_blank" rel="noopener noreferrer" className="text-link">
-          Anfahrt in Google Maps öffnen <ArrowUpRight size={16} />
-        </a>
       </section>
       <ClosingInvitation />
     </>
