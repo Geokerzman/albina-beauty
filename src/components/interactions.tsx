@@ -361,42 +361,6 @@ export function TeamGrid() {
     </>
   );
 }
-export function CookieNotice() {
-  const [show, setShow] = useState(false);
-  useEffect(() => {
-    try {
-      setShow(!localStorage.getItem("albina-essential-notice"));
-    } catch {}
-  }, []);
-  function dismiss() {
-    setShow(false);
-    try {
-      localStorage.setItem("albina-essential-notice", "acknowledged");
-    } catch {}
-  }
-  return show ? (
-    <aside className="cookie-notice" aria-label="Datenschutzhinweis">
-      <button
-        onClick={dismiss}
-        className="cookie-dismiss"
-        aria-label="Datenschutzhinweis schließen"
-      >
-        <X size={16} />
-      </button>
-      <p>Ein guter Besuch braucht Vertrauen.</p>
-      <span>
-        Wir verwenden technisch notwendige Funktionen. Auf der Kontaktseite wird eine Karte von
-        Google Maps eingebunden.
-      </span>
-      <div>
-        <Link href="/cookie-richtlinie-eu/">Mehr erfahren</Link>
-        <button onClick={dismiss}>
-          Verstanden <ArrowRight size={14} />
-        </button>
-      </div>
-    </aside>
-  ) : null;
-}
 export function FAQ({ items }: { items: { question: string; answer: string }[] }) {
   return (
     <div className="faq-list">

@@ -2,6 +2,7 @@ import Link from "next/link";
 import { ArrowUpRight, Instagram } from "lucide-react";
 import { Wordmark } from "./header";
 import { BookButton } from "./booking";
+import { CookieSettingsButton } from "./ui/cookie-consent";
 import { site } from "@/content/site";
 export function ClosingInvitation() {
   return (
@@ -76,6 +77,7 @@ export function Footer() {
             <Link href="/impressum/">Impressum</Link>
             <Link href="/datenschutzerklaerung/">Datenschutz</Link>
             <Link href="/cookie-richtlinie-eu/">Cookies</Link>
+            <CookieSettingsButton />
           </div>
         </div>
       </div>

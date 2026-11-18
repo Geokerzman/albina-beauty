@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { BookingProvider } from "@/components/booking";
-import { CookieNotice } from "@/components/interactions";
+import { CookieConsentProvider } from "@/components/ui/cookie-consent";
 import { site } from "@/content/site";
 import "./fonts.css";
 import "./globals.css";
@@ -45,14 +45,15 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         <a className="skip-link" href="#main-content">
           Zum Inhalt springen
         </a>
-        <BookingProvider>
-          <Header />
-          <main id="main-content" tabIndex={-1}>
-            {children}
-          </main>
-          <Footer />
-          <CookieNotice />
-        </BookingProvider>
+        <CookieConsentProvider>
+          <BookingProvider>
+            <Header />
+            <main id="main-content" tabIndex={-1}>
+              {children}
+            </main>
+            <Footer />
+          </BookingProvider>
+        </CookieConsentProvider>
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(schema).replace(/</g, "\\u003c") }}

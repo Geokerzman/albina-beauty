@@ -23,6 +23,7 @@ import {
   FAQ,
 } from "./interactions";
 import { Button } from "./ui/button";
+import { ConsentMap, CookieSettingsButton } from "./ui/cookie-consent";
 import { homePage, type HomeBlock } from "@/content/pages";
 import {
   services,
@@ -796,17 +797,10 @@ export function ContactPage() {
                   </a>
                 </div>
               </div>
-              <div className="contact-mini-map">
-                <iframe
-                  src={site.mapEmbed}
-                  title={`Albina Beauty Concept – ${site.address}, ${site.postal}`}
-                  width="220"
-                  height="150"
-                  loading="lazy"
-                  allowFullScreen
-                  referrerPolicy="strict-origin-when-cross-origin"
-                />
-              </div>
+              <ConsentMap
+                src={site.mapEmbed}
+                title={`Albina Beauty Concept – ${site.address}, ${site.postal}`}
+              />
             </div>
           </div>
           <div className="contact-item">
@@ -980,6 +974,7 @@ export function LegalPage({ slug }: { slug: string }) {
           <Link href="/impressum/">Impressum</Link>
           <Link href="/datenschutzerklaerung/">Datenschutz</Link>
           <Link href="/cookie-richtlinie-eu/">Cookie-Richtlinie</Link>
+          {slug === "cookie-richtlinie-eu" && <CookieSettingsButton />}
           <Link href="/kontakt/">Kontakt</Link>
         </aside>
         <div className="legal-copy">

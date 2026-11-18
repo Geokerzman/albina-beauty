@@ -442,7 +442,7 @@ select:focus {
   position: relative;
   height: 100%;
   overflow: hidden;
-  border-radius: 250px 250px 2px 2px;
+  border-radius: 50% 50% 2px 2px / 250px 250px 2px 2px;
   background: var(--nude);
 }
 .hero-image > img {
@@ -966,7 +966,15 @@ summary::-webkit-details-marker {
 }
 .footer-bottom > div {
   display: flex;
+  flex-wrap: wrap;
   gap: 22px;
+}
+.cookie-settings-link,
+.cookie-consent-links button {
+  padding: 0;
+  text-align: left;
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 /* Inner pages. */
 .breadcrumbs {
@@ -1151,7 +1159,7 @@ summary::-webkit-details-marker {
   height: 540px;
   position: relative;
   overflow: hidden;
-  border-radius: 200px 200px 0 0;
+  border-radius: 50% 50% 0 0 / 200px 200px 0 0;
   background: var(--nude);
 }
 .service-hero-image > img {
@@ -2020,59 +2028,6 @@ summary::-webkit-details-marker {
 .mobile-navigation > .button {
   width: 100%;
 }
-.cookie-notice {
-  position: fixed;
-  bottom: 22px;
-  left: 22px;
-  z-index: 55;
-  width: 310px;
-  max-width: calc(100vw - 44px);
-  background: var(--paper);
-  padding: 22px 22px 19px;
-  border: 1px solid var(--line);
-  box-shadow: 0 8px 30px #3828200b;
-}
-.cookie-notice > p {
-  font-family: var(--font-display);
-  font-size: 21px;
-  color: var(--brown);
-  line-height: 1.2;
-  padding-right: 15px;
-  margin-bottom: 10px;
-}
-.cookie-notice > span {
-  font-size: 9px;
-  line-height: 1.85;
-  display: block;
-  color: var(--muted);
-}
-.cookie-notice > div {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 15px;
-  margin-top: 16px;
-  font-size: 9px;
-}
-.cookie-notice > div > a {
-  text-decoration: underline;
-  text-underline-offset: 4px;
-}
-.cookie-notice > div > button {
-  display: flex;
-  gap: 10px;
-  align-items: center;
-  padding: 0;
-  font-size: 10px;
-  font-weight: 500;
-}
-.cookie-dismiss {
-  position: absolute;
-  top: 8px;
-  right: 8px;
-  padding: 4px;
-  display: flex;
-}
 @keyframes overlay-in {
   from {
     opacity: 0;
@@ -2924,7 +2879,7 @@ summary::-webkit-details-marker {
     margin-top: 3px;
   }
   .hero-image {
-    border-radius: 200px 200px 0 0;
+    border-radius: 50% 50% 0 0 / 200px 200px 0 0;
   }
   .hero-image > img {
     object-position: 50% 57%;
@@ -3321,7 +3276,7 @@ summary::-webkit-details-marker {
   .service-hero-image {
     height: 440px;
     width: 100%;
-    border-radius: 180px 180px 0 0;
+    border-radius: 50% 50% 0 0 / 180px 180px 0 0;
   }
   .benefit-strip {
     flex-direction: column;
@@ -3882,22 +3837,6 @@ summary::-webkit-details-marker {
     top: 23px;
     right: 21px;
   }
-  .cookie-notice {
-    bottom: 13px;
-    left: 13px;
-    width: 300px;
-    max-width: calc(100vw - 26px);
-    padding: 20px;
-  }
-  .cookie-notice > p {
-    font-size: 21px;
-  }
-  .cookie-notice > span {
-    font-size: 9px;
-  }
-  .cookie-notice > div {
-    margin-top: 13px;
-  }
 }
 @media (max-width: 360px) {
   .hero-copy h1 {
@@ -4110,15 +4049,6 @@ summary::-webkit-details-marker {
 .booking-dialog > .muted {
   font-size: 13px;
 }
-.cookie-notice > span {
-  font-size: 11px;
-}
-.cookie-notice > div {
-  font-size: 10px;
-}
-.cookie-notice > div > button {
-  font-size: 11px;
-}
 @media (max-width: 1150px) {
   .desktop-nav {
     gap: 20px;
@@ -4309,9 +4239,6 @@ summary::-webkit-details-marker {
   }
   .booking-dialog > .muted {
     font-size: 12px;
-  }
-  .cookie-notice > span {
-    font-size: 10px;
   }
 }
 :root {
@@ -4623,11 +4550,26 @@ h3 {
   border: 1px solid var(--line);
   background: var(--nude);
 }
-.contact-mini-map iframe {
+.contact-mini-map iframe,
+.contact-map-placeholder {
   display: block;
   width: 100%;
   height: 150px;
   border: 0;
+}
+.contact-map-placeholder {
+  display: grid;
+  place-content: center;
+  justify-items: center;
+  gap: 5px;
+  padding: 8px;
+  font-size: 12px;
+  color: var(--brown);
+}
+.contact-map-placeholder .button {
+  min-height: 36px;
+  padding: 4px 7px;
+  letter-spacing: 0;
 }
 @media (max-width: 600px) {
   .contact-location-address {
@@ -4637,7 +4579,8 @@ h3 {
     grid-template-columns: minmax(0, 1fr) 148px;
     gap: 13px;
   }
-  .contact-mini-map iframe {
+  .contact-mini-map iframe,
+  .contact-map-placeholder {
     height: 140px;
   }
   .contact-location-copy .text-link {
@@ -4650,7 +4593,8 @@ h3 {
     grid-template-columns: minmax(0, 1fr) 128px;
     gap: 10px;
   }
-  .contact-mini-map iframe {
+  .contact-mini-map iframe,
+  .contact-map-placeholder {
     height: 130px;
   }
   .contact-location-copy p {
@@ -4660,4 +4604,97 @@ h3 {
     gap: 6px;
     font-size: 9px;
   }
+}
+
+.cookie-consent {
+  position: fixed;
+  z-index: 55;
+  inset-inline-start: max(12px, env(safe-area-inset-left));
+  bottom: max(12px, env(safe-area-inset-bottom));
+  width: min(420px, calc(100% - 24px));
+  max-height: calc(100dvh - 24px);
+  overflow-y: auto;
+  padding: clamp(16px, 4vw, 24px);
+  background: var(--paper);
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  box-shadow: 0 12px 36px #38282026;
+}
+.cookie-consent h2,
+.cookie-settings h2 {
+  margin: 0 0 8px;
+  font-size: clamp(24px, 5vw, 32px);
+  line-height: 1.15;
+}
+.cookie-consent h2 {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+}
+.cookie-consent h2 svg {
+  flex-shrink: 0;
+}
+.cookie-consent p,
+.cookie-settings p,
+.cookie-setting #cookie-maps-description {
+  margin: 0;
+  color: var(--muted);
+  font-size: 13px;
+  line-height: 1.6;
+}
+.cookie-consent-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 16px;
+}
+.cookie-consent-actions .button {
+  flex: 1 1 auto;
+  min-height: 44px;
+  padding-inline: 10px;
+  letter-spacing: 0.03em;
+}
+.cookie-consent-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+  margin-top: 8px;
+  font-size: 12px;
+}
+.cookie-consent-links > * {
+  display: inline-flex;
+  align-items: center;
+  min-height: 36px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+.dialog-content.cookie-settings {
+  width: min(480px, calc(100% - 24px));
+  padding: clamp(16px, 5vw, 32px);
+}
+.cookie-settings h2 {
+  padding-right: 34px;
+}
+.cookie-setting {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 12px 0;
+  border-bottom: 1px solid var(--line);
+}
+.cookie-setting strong,
+.cookie-setting #cookie-maps-description {
+  display: block;
+}
+.cookie-setting > span:last-child {
+  flex-shrink: 0;
+  font-size: 12px;
+}
+.cookie-setting input {
+  flex-shrink: 0;
+  width: 22px;
+  height: 22px;
+  accent-color: var(--brown);
+  cursor: pointer;
 }
