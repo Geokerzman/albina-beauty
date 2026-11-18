@@ -1,0 +1,593 @@
+{
+  "breadcrumbs": {
+    "ariaLabel": "Brotkrumennavigation",
+    "link": "/",
+    "linkText": "Startseite"
+  },
+  "homeHero": {
+    "link": "/leistungen/",
+    "linkText": "Treatments entdecken ",
+    "text": "Individuell. Achtsam. Für Sie.",
+    "imageAlt": "Redaktionelles Beauty-Motiv: ein ruhiger Moment in warmem Sonnenlicht",
+    "link2": "/ueber-uns/",
+    "ariaLabel": "Unser Studio kennenlernen",
+    "text2": "Weniger Alltag.",
+    "emphasis": "Mehr Sie.",
+    "text3": "THE ART OF PERSONAL BEAUTY",
+    "link3": "#treatments",
+    "ariaLabel2": "Treatments entdecken"
+  },
+  "studioStory": {
+    "imageAlt": "Der einladende Empfangsbereich unseres Studios in Köln Weiden",
+    "imageAlt2": "Detail unseres gemütlichen Pedikürebereichs",
+    "text": "KÖLN WEIDEN · SEIT 2019",
+    "link": "/ueber-uns/",
+    "linkText": "Unsere Geschichte kennenlernen ",
+    "text2": "Albina",
+    "text3": "INHABERIN & IHRE GASTGEBERIN"
+  },
+  "homeBrands": {
+    "ariaLabel": "Unsere Pflegemarken",
+    "text": "GUTE PFLEGE.",
+    "text2": "AUSGEWÄHLTE PARTNER."
+  },
+  "homeTreatments": {
+    "link": "/leistungen/",
+    "linkText": "Alle Treatments entdecken "
+  },
+  "homePhilosophy": {
+    "link": "/leistungen/kosmetische-behandlungen/",
+    "link2": "/leistungen/wellness/",
+    "link3": "/leistungen/private-physiotherapie/",
+    "link4": "/leistungen/"
+  },
+  "homeGallery": {
+    "link": "/galerie/",
+    "linkText": "Mehr Einblicke "
+  },
+  "homeFaq": {
+    "text": "Noch eine Frage?",
+    "text2": "Wir sind gerne für Sie da.",
+    "link": "/kontakt/",
+    "linkText": "Kontakt aufnehmen "
+  },
+  "catalogIntro": {
+    "text": "Treatments",
+    "eyebrow": "Ihre persönliche Auszeit",
+    "title": "Die Kunst schöner Hautpflege.",
+    "title2": "Wohlfühlen beginnt bei Ihnen.",
+    "title3": "Was tut Ihnen heute gut?",
+    "description": "Entdecken Sie unsere Welt aus Hautpflege, Beauty und Wohlbefinden. Persönlich ausgewählt. Sorgfältig auf Sie abgestimmt."
+  },
+  "catalogResults": {
+    "heading": "Unsere Treatments im Überblick"
+  },
+  "catalogConsultation": {
+    "heading": "Noch auf der Suche nach Ihrem Treatment?",
+    "text": "Wir beraten Sie persönlich und finden gemeinsam Ihre passende Pflege.",
+    "buttonText": "Beratung anfragen "
+  },
+  "serviceHero": {
+    "text": "Treatments",
+    "text2": "ab ",
+    "link": "#behandlungen-preise",
+    "linkText": "Behandlungen & Preise "
+  },
+  "serviceStory": {
+    "eyebrow": "Ein Treatment, so persönlich wie Sie",
+    "text": "Für mehr Bewegung.",
+    "emphasis": "Für Ihr Wohlbefinden.",
+    "text2": "Ein Moment Ruhe.",
+    "emphasis2": "Ganz für Sie.",
+    "text3": "Für die Details,",
+    "emphasis3": "die Sie ausmachen.",
+    "text4": "Ihr Körper.",
+    "emphasis4": "Ihr gutes Gefühl.",
+    "text5": "Für Ihr ganz",
+    "emphasis5": "eigenes Hautgefühl."
+  },
+  "serviceHydraSteps": {
+    "eyebrow": "Ihr Treatment, Schritt für Schritt",
+    "heading": "Vier Schritte. ",
+    "emphasis": "Ein Frischemoment.",
+    "steps": [
+      {
+        "title": "Abtragen",
+        "image": "HydrafacialMD_Schritt_1-1024x576.jpg"
+      },
+      {
+        "title": "Peelen",
+        "image": "HydrafacialMD_Schritt_2-1024x576.jpg"
+      },
+      {
+        "title": "Ausreinigen",
+        "image": "HydrafacialMD_Schritt_3.jpg"
+      },
+      {
+        "title": "Hydratisieren",
+        "image": "HydrafacialMD_Schritt_4-1024x576.jpg"
+      }
+    ]
+  },
+  "servicePrices": {
+    "eyebrow": "Zeit für Ihre Pflege",
+    "heading": "Ihr Treatment.",
+    "emphasis": "Auf einen Blick.",
+    "link": "/preisliste/",
+    "linkText": "Die gesamte Preisliste "
+  },
+  "serviceVisit": {
+    "eyebrow": "Bei uns sind Sie in guten Händen",
+    "heading": "Ihr Besuch. ",
+    "emphasis": "In aller Ruhe.",
+    "steps": [
+      {
+        "title": "Wir lernen Sie kennen.",
+        "text": "Ihre Wünsche, Ihr Hautgefühl und Ihre Fragen stehen zuerst. Gemeinsam besprechen wir die passende Behandlung."
+      },
+      {
+        "title": "Ihr persönlicher Moment.",
+        "text": "Wir stimmen die Anwendung auf Sie ab und nehmen uns die Zeit für eine sorgfältige, achtsame Behandlung."
+      },
+      {
+        "title": "Ein gutes Gefühl für danach.",
+        "text": "Sie erhalten auf Wunsch passende Pflegeempfehlungen. Weitere Termine planen wir gemeinsam mit Ihnen."
+      }
+    ]
+  },
+  "serviceFaq": {
+    "heading": "Ihre Fragen. ",
+    "emphasis": "Unsere Antworten.",
+    "questions": [
+      {
+        "question": "Ist dieses Treatment das richtige für mich?",
+        "answer": "Das klären wir in einem persönlichen Beratungsgespräch. Bitte informieren Sie uns vorab über Besonderheiten Ihrer Haut, aktuelle Behandlungen oder gesundheitliche Fragen."
+      },
+      {
+        "question": "Wie kann ich einen Termin vereinbaren?",
+        "answer": "Über „Termin vereinbaren“ bereiten Sie Ihre Anfrage vor und öffnen sie anschließend in WhatsApp. Alternativ können Sie uns anrufen oder eine E-Mail schreiben. Wir bestätigen Ihren Termin persönlich."
+      },
+      {
+        "question": "Was sollte ich vor meinem Besuch beachten?",
+        "answer": "Die Vorbereitung hängt von der gewählten Behandlung ab. Fragen Sie uns bei der Terminvereinbarung nach den passenden Hinweisen. Wir beraten Sie auch zur Nachpflege."
+      }
+    ]
+  },
+  "serviceRelated": {
+    "eyebrow": "Vielleicht auch etwas für Sie",
+    "heading": "Mehr Wohlfühlmomente."
+  },
+  "pricesIntro": {
+    "current": "Behandlungen & Preise",
+    "eyebrow": "Klar. Persönlich. Auf einen Blick.",
+    "title": "Ein Moment für Sie.\\nEin gutes Gefühl dabei.",
+    "description": "Entdecken Sie unsere Behandlungen und Preise. Gerne beraten wir Sie bei der Auswahl Ihres persönlichen Pflegerituals."
+  },
+  "pricesResults": {
+    "heading": "Die gesamte Preisliste"
+  },
+  "aboutIntro": {
+    "current": "Unser Team",
+    "current2": "Unser Studio",
+    "eyebrow": "Die Menschen hinter Ihrem Wohlfühlmoment",
+    "eyebrow2": "Die Philosophie von Albina Beauty Concept",
+    "title": "Mit Herz. Mit Erfahrung.\nGanz für Sie.",
+    "title2": "Schönheit ist persönlich.\nUnsere Pflege auch.",
+    "description": "Lernen Sie die Menschen kennen, die Ihren Besuch besonders machen.",
+    "description2": "Wir glauben an Pflege, die mehr kann als nur gut aussehen. An persönliche Begegnungen. Und an kleine Auszeiten mit großer Wirkung."
+  },
+  "aboutImage": {
+    "image": "/images/photo_2021-10-02_23-07-13-1024x1024.jpg",
+    "imageAlt": "Willkommen im Albina Beauty Concept Studio"
+  },
+  "aboutFounder": {
+    "image": "/images/albina_beautyconcept_fotograf_anuanet_studio-1616-604x1024.jpg",
+    "imageAlt": "Albina Letova, Gründerin von Albina Beauty Concept",
+    "eyebrow": "Hallo, ich bin Albina.",
+    "heading": "Zwei Berufe.",
+    "heading2": "Eine Leidenschaft.",
+    "emphasis": "Ihr Wohlbefinden.",
+    "text": "Als Physiotherapeutin und Kosmetikerin betrachte ich Schönheit und Wohlbefinden ganzheitlich. Beide Berufe verbindet für mich die Freude daran, Menschen etwas Gutes zu tun.",
+    "text2": "Seit 2019 ist Albina Beauty Concept mein Ort dafür. Ein Studio, in dem moderne Behandlungen auf persönliche Aufmerksamkeit treffen. Wo wir zuhören, bevor wir beginnen – und gemeinsam mit Ihnen einen individuellen Beauty-Plan entwickeln.",
+    "text3": "Ich freue mich darauf, Sie kennenzulernen.",
+    "text4": "Albina"
+  },
+  "aboutValues": {
+    "eyebrow": "Was uns wichtig ist",
+    "values": [
+      {
+        "title": "Persönlichkeit",
+        "text": "Jede Haut ist anders. Jeder Mensch auch. Deshalb beginnt jede Behandlung mit einem Gespräch."
+      },
+      {
+        "title": "Sorgfalt",
+        "text": "Professionelle Produkte, sorgfältige Handarbeit und die passende Technik – für eine Pflege, die zu Ihnen passt."
+      },
+      {
+        "title": "Ganzheitlichkeit",
+        "text": "Kosmetik, Wellness und Physiotherapie vereinen wir zu einem Konzept für Schönheit und Wohlbefinden."
+      }
+    ]
+  },
+  "aboutTeam": {
+    "eyebrow": "Persönlichkeiten mit Leidenschaft",
+    "heading": "Schön, Sie ",
+    "emphasis": "kennenzulernen.",
+    "text": "Ein erfahrenes Team.",
+    "text2": "Eine gemeinsame Liebe zum Detail."
+  },
+  "galleryIntro": {
+    "current": "Einblicke",
+    "eyebrow": "Willkommen bei uns",
+    "title": "Ein Ort.\\nViele schöne Momente.",
+    "description": "Echte Einblicke in unser Studio, unsere Arbeit und die kleinen Details, die Ihren Besuch besonders machen."
+  },
+  "contactIntro": {
+    "current": "Kontakt & Anfahrt",
+    "eyebrow": "Wir freuen uns auf Sie",
+    "title": "Ihr Weg zu uns.\\nUnd zu sich selbst.",
+    "description": "Eine Frage, ein Pflegewunsch oder Ihr nächster Termin – wir sind gerne persönlich für Sie da."
+  },
+  "contactDetails": {
+    "image": "/images/photo_2021-10-02_23-02-47-1024x739.jpg",
+    "imageAlt": "Behandlungsraum und professionelle Pflege im Albina Beauty Studio",
+    "eyebrow": "Albina Beauty Concept",
+    "heading": "Besuchen Sie uns",
+    "emphasis": "in Köln Weiden.",
+    "text": "Unser Studio",
+    "linkText": "Route planen ",
+    "text2": "Rufen Sie uns an",
+    "text3": "Schreiben Sie uns",
+    "text4": "Termine nach persönlicher Vereinbarung."
+  },
+  "careersIntro": {
+    "current": "Karriere",
+    "eyebrow": "Gemeinsam Schönes schaffen",
+    "title": "Ihre Leidenschaft.\\nUnser nächstes Kapitel.",
+    "description": "Sie lieben Ihren Beruf und möchten Menschen mit Ihrer Arbeit etwas Gutes tun? Dann lernen wir Sie gerne kennen."
+  },
+  "careersOverview": {
+    "text": "Bei Albina Beauty Concept erwartet Sie ein persönliches Team, hochwertige Produkte, ein stilvolles Studio und Raum für Ihre fachliche Weiterentwicklung.",
+    "eyebrow": "Unsere offenen Positionen"
+  },
+  "careersJobs": {
+    "subheading": "Das erwartet Sie",
+    "subheading2": "Das bringen Sie mit",
+    "subheading3": "Was wir Ihnen bieten",
+    "text": "Ein modernes Arbeitsumfeld, hochwertige Ausstattung, Weiterbildungsmöglichkeiten, attraktive Vergütung und ein kollegiales Team.",
+    "linkText": "Jetzt per E-Mail bewerben "
+  },
+  "careersContact": {
+    "heading": "Wir freuen uns auf ",
+    "emphasis": "Ihre Persönlichkeit.",
+    "text": "Senden Sie uns Ihren Lebenslauf, Zeugnisse und Zertifikate an",
+    "text2": ". Ihre Bewerbung behandeln wir vertraulich."
+  },
+  "shopIntro": {
+    "current": "Pflege für zu Hause",
+    "eyebrow": "Ihr Ritual geht weiter",
+    "title": "Ein Stück Pflege.",
+    "emphasis": "Für jeden Tag.",
+    "text": "Die passende Pflege hört nicht an der Studiotür auf. Wir beraten Sie persönlich zu Produkten von iS Clinical und NOON – abgestimmt auf Ihre Haut und Ihre Behandlungen.",
+    "service": "Produktberatung",
+    "buttonText": "Produktberatung anfragen ",
+    "link": "/kontakt/",
+    "linkText": "Persönlich Kontakt aufnehmen ",
+    "image": "/images/noon.jpg",
+    "imageAlt": "NOON Hautpflegeprodukte für die tägliche Pflegeroutine"
+  },
+  "bookingPage": {
+    "current": "Termin vereinbaren",
+    "eyebrow": "Zeit für Sie",
+    "title": "Ihr nächster",
+    "emphasis": "Wohlfühlmoment.",
+    "text": "Bereiten Sie Ihre Anfrage vor. In WhatsApp senden Sie die Nachricht anschließend selbst an unser Team. Wir stimmen Ihren Termin persönlich mit Ihnen ab.",
+    "text2": "Lieber direkt?"
+  },
+  "legalLayout": {
+    "eyebrow": "Informationen & Transparenz",
+    "link": "/impressum/",
+    "linkText": "Impressum",
+    "link2": "/datenschutzerklaerung/",
+    "linkText2": "Datenschutz",
+    "link3": "/cookie-richtlinie-eu/",
+    "linkText3": "Cookie-Richtlinie",
+    "link4": "/kontakt/",
+    "linkText4": "Kontakt"
+  },
+  "archiveIntro": {
+    "current": "Autor: Albina",
+    "current2": "Archiv",
+    "eyebrow": "Albina Beauty Concept",
+    "title": "Aus unserem Studio.",
+    "title2": "Das Beauty-Archiv.",
+    "description": "Unsere aktuellen Behandlungen und Preise finden Sie in der zentralen Übersicht."
+  },
+  "archiveLink": {
+    "link": "/preisliste/",
+    "eyebrow": "Behandlungen & Preise",
+    "heading": "Ihre Pflege. Auf einen Blick.",
+    "text": "Entdecken Sie das aktuelle Angebot unseres Studios."
+  },
+  "wordmark": {
+    "link": "/",
+    "ariaLabel": "Albina Beauty Concept – Startseite",
+    "image": "/images/Albina-Beauty-Concept-Black.svg",
+    "imageAlt": "Albina Beauty Concept"
+  },
+  "headerTopbar": {
+    "ariaLabel": "Kontakt & soziale Netzwerke",
+    "ariaLabel2": "Website durchsuchen",
+    "title": "Suche",
+    "ariaLabel3": "Albina Beauty Concept auf Instagram",
+    "title2": "Instagram",
+    "ariaLabel4": "Albina Beauty Concept auf WhatsApp",
+    "title3": "WhatsApp",
+    "ariaLabel5": "Albina Beauty Concept auf Facebook",
+    "title4": "Facebook"
+  },
+  "headerNavigation": {
+    "ariaLabel": "Hauptnavigation",
+    "buttonText": "Treatments ",
+    "link": "/preisliste/",
+    "linkText": "Preise",
+    "link2": "/ueber-uns/",
+    "linkText2": "Unser Studio",
+    "link3": "/galerie/",
+    "linkText3": "Einblicke",
+    "link4": "/kontakt/",
+    "linkText4": "Kontakt",
+    "ariaLabel2": "Menü öffnen"
+  },
+  "headerTreatments": {
+    "ariaLabel": "Treatments-Menü schließen",
+    "eyebrow": "Ihr persönliches Ritual",
+    "heading": "Was tut Ihnen",
+    "emphasis": "heute gut?",
+    "link": "/leistungen/",
+    "linkText": "Alle Treatments "
+  },
+  "headerSearch": {
+    "eyebrow": "Albina Beauty Concept",
+    "heading": "Was suchen Sie?",
+    "description": "Entdecken Sie unsere Treatments, Preise und Informationen rund um Ihren Besuch.",
+    "placeholder": "Treatment oder Thema suchen",
+    "ariaLabel": "Website durchsuchen",
+    "ariaLabel2": "Suchbegriff löschen",
+    "text": "Direkt zu Ihrem Wunsch",
+    "text2": "Keine passenden Ergebnisse. Versuchen Sie einen anderen Begriff oder sprechen Sie uns persönlich an.",
+    "link": "/kontakt/",
+    "linkText": "Kontakt aufnehmen ",
+    "pages": [
+      {
+        "title": "Alle Treatments",
+        "href": "/leistungen/",
+        "category": "Entdecken",
+        "description": "Unsere Leistungen und Behandlungen im Überblick"
+      },
+      {
+        "title": "Behandlungen & Preise",
+        "href": "/preisliste/",
+        "category": "Information",
+        "description": "Preisliste Kosten Pakete Dauer"
+      },
+      {
+        "title": "Unser Studio",
+        "href": "/ueber-uns/",
+        "category": "Albina Beauty Concept",
+        "description": "Unsere Geschichte Philosophie Über uns"
+      },
+      {
+        "title": "Unser Team",
+        "href": "/ueber-uns/team/",
+        "category": "Albina Beauty Concept",
+        "description": "Mitarbeiter Spezialisten Albina Alina Evgenia Dominika Irina"
+      },
+      {
+        "title": "Kontakt & Anfahrt",
+        "href": "/kontakt/",
+        "category": "Ihr Besuch",
+        "description": "Adresse Telefon E-Mail Route Köln Weiden"
+      },
+      {
+        "title": "Einblicke ins Studio",
+        "href": "/galerie/",
+        "category": "Entdecken",
+        "description": "Galerie Fotos Räume"
+      },
+      {
+        "title": "Termin vereinbaren",
+        "href": "/termin-vereinbaren/",
+        "category": "Ihr Besuch",
+        "description": "Terminbuchung Anfrage WhatsApp Beratung"
+      },
+      {
+        "title": "Karriere",
+        "href": "/karriere/",
+        "category": "Unser Team",
+        "description": "Jobs Bewerbung Stellen offene Positionen"
+      },
+      {
+        "title": "Pflege für zu Hause",
+        "href": "/shop/",
+        "category": "Produktberatung",
+        "description": "Shop NOON iS Clinical Produkte"
+      }
+    ],
+    "results": " Ergebnisse"
+  },
+  "headerMobile": {
+    "heading": "Hauptnavigation",
+    "description": "Entdecken Sie unsere Treatments, das Studio und die Kontaktmöglichkeiten.",
+    "ariaLabel": "Mobile Navigation",
+    "link": "/leistungen/",
+    "linkText": "Alle Treatments ",
+    "links": [
+      {
+        "title": "Preise",
+        "link": "/preisliste/"
+      },
+      {
+        "title": "Unser Studio",
+        "link": "/ueber-uns/"
+      },
+      {
+        "title": "Einblicke",
+        "link": "/galerie/"
+      },
+      {
+        "title": "Kontakt",
+        "link": "/kontakt/"
+      },
+      {
+        "title": "Karriere",
+        "link": "/karriere/"
+      }
+    ],
+    "link2": "/termin-vereinbaren/",
+    "linkText2": "Termin anfragen "
+  },
+  "closingInvitation": {
+    "eyebrow": "Wir freuen uns auf Sie",
+    "heading": "Ein guter Moment,",
+    "emphasis": "an sich zu denken.",
+    "text": "Für Ihre Haut. Für Ihr Wohlbefinden. Ganz für Sie."
+  },
+  "footer": {
+    "text": "Schönheit ist persönlich.",
+    "text2": "Unsere Pflege auch.",
+    "ariaLabel": "Unser Instagram",
+    "heading": "Entdecken",
+    "link": "/leistungen/",
+    "linkText": "Unsere Treatments",
+    "link2": "/preisliste/",
+    "linkText2": "Behandlungen & Preise",
+    "link3": "/galerie/",
+    "linkText3": "Einblicke ins Studio",
+    "link4": "/shop/",
+    "linkText4": "Pflege für zu Hause",
+    "heading2": "Albina Beauty Concept",
+    "link5": "/ueber-uns/",
+    "linkText5": "Unsere Philosophie",
+    "link6": "/ueber-uns/team/",
+    "linkText6": "Das Team",
+    "link7": "/karriere/",
+    "linkText7": "Karriere ",
+    "link8": "/kontakt/",
+    "linkText8": "Kontakt & Anfahrt",
+    "heading3": "Ihr Weg zu uns",
+    "text3": "Termine nach Vereinbarung",
+    "text4": " Albina Beauty Concept",
+    "text5": "Mit Liebe zur Schönheit. In Köln.",
+    "link9": "/impressum/",
+    "linkText9": "Impressum",
+    "link10": "/datenschutzerklaerung/",
+    "linkText10": "Datenschutz",
+    "link11": "/cookie-richtlinie-eu/",
+    "linkText11": "Cookies"
+  },
+  "bookingDialog": {
+    "eyebrow": "Zeit für Sie",
+    "heading": "Ihr nächster",
+    "emphasis": "Wohlfühlmoment.",
+    "description": "Erzählen Sie uns von Ihrem Wunsch. Gemeinsam finden wir Ihren passenden Termin."
+  },
+  "bookingButton": {
+    "text": "Termin vereinbaren "
+  },
+  "bookingForm": {
+    "label": "Ihr Treatment",
+    "option": "Ich wünsche mir eine Beratung",
+    "label2": "Ihr Name ",
+    "text": "(optional)",
+    "placeholder": "Wie dürfen wir Sie ansprechen?",
+    "label3": "Wunschtag ",
+    "text2": "(optional)",
+    "label4": "Ihre Wünsche ",
+    "text3": "(optional)",
+    "placeholder2": "Was können wir für Sie tun?",
+    "text4": " Ihre Anfrage ist vorbereitet.",
+    "linkText": "In WhatsApp öffnen ",
+    "text5": "Sie senden die Nachricht anschließend selbst in WhatsApp. Ihr Termin ist erst nach unserer Bestätigung verbindlich.",
+    "buttonText": "Anfrage vorbereiten ",
+    "text6": "Lieber persönlich sprechen? ",
+    "text7": ". Ihre Eingaben werden hier nicht gespeichert. Mit dem Öffnen von WhatsApp gelten dessen Datenschutzbedingungen.",
+    "messageIntro": "Guten Tag, ich möchte gerne einen Termin vereinbaren.",
+    "messageName": " Mein Name ist ",
+    "messageService": " Ich interessiere mich für ",
+    "messageConsultation": " Ich wünsche mir eine persönliche Beratung.",
+    "messageDate": " Mein Wunschtermin: "
+  },
+  "treatmentExplorer": {
+    "ariaLabel": "Treatments filtern",
+    "placeholder": "Treatment suchen",
+    "ariaLabel2": "Treatment suchen",
+    "text": " für Sie",
+    "subheading": "Ein neuer Suchwunsch?",
+    "text2": "Versuchen Sie einen anderen Begriff oder lassen Sie sich persönlich beraten.",
+    "buttonText": "Alle Treatments anzeigen "
+  },
+  "priceList": {
+    "eyebrow": "Ihre Behandlung",
+    "text": "Details zur Behandlung "
+  },
+  "priceExplorer": {
+    "eyebrow": " Behandlungen",
+    "buttonText": "Alle Behandlungen ",
+    "placeholder": "Behandlung oder Pflegewunsch suchen",
+    "ariaLabel": "Preisliste durchsuchen",
+    "ariaLabel2": "Suche zurücksetzen",
+    "text": "Keine passende Behandlung gefunden. Versuchen Sie einen anderen Suchbegriff.",
+    "text2": "Alle Preise in Euro. Den passenden Behandlungsumfang besprechen wir persönlich. Bei Fragen sind wir gerne für Sie da."
+  },
+  "galleryControls": {
+    "heading": "Einblicke in unser Studio",
+    "description": "Mit den Pfeiltasten oder den Schaltflächen können Sie zwischen den Fotografien wechseln.",
+    "ariaLabel": "Vorheriges Foto",
+    "ariaLabel2": "Nächstes Foto"
+  },
+  "teamControls": {
+    "text": "Kennenlernen "
+  },
+  "cookieBanner": {
+    "heading": " Cookie-Einstellungen",
+    "text": "Wir speichern Ihre Auswahl auf diesem Gerät. Wenn Sie zustimmen, laden wir Google Maps auf der Kontaktseite. Dabei werden Daten an Google übertragen.",
+    "buttonText": "Nur notwendige",
+    "buttonText2": "Alle akzeptieren",
+    "buttonText3": "Einstellungen",
+    "link": "/cookie-richtlinie-eu/",
+    "linkText": "Cookie-Richtlinie",
+    "heading2": "Cookie-Einstellungen",
+    "description": "Legen Sie fest, ob Google Maps auf der Kontaktseite geladen werden darf.",
+    "text2": "Notwendige Speicherung",
+    "text3": "Speichert Ihre Auswahl auf diesem Gerät.",
+    "text4": "Immer aktiv",
+    "text5": "Google Maps",
+    "text6": "Zeigt die Karte auf der Kontaktseite an und überträgt dabei Daten an Google.",
+    "ariaLabel": "Google Maps",
+    "buttonText4": "Nur notwendige",
+    "buttonText5": "Auswahl speichern"
+  },
+  "cookieSettings": {
+    "buttonText": "Cookie-Einstellungen"
+  },
+  "cookieMap": {
+    "text": "Google Maps",
+    "buttonText": "Karte freigeben"
+  },
+  "notFound": {
+    "eyebrow": "404 · Ein kleiner Umweg",
+    "title": "Dieser Weg führt",
+    "emphasis": "gerade nicht weiter.",
+    "text": "Aber Ihr nächster Wohlfühlmoment wartet schon auf Sie.",
+    "link": "/",
+    "linkText": "Zur Startseite ",
+    "link2": "/leistungen/",
+    "linkText2": "Treatments entdecken "
+  },
+  "siteChrome": {
+    "skipLink": "Zum Inhalt springen",
+    "shareImage": "/images/beauty-editorial.webp",
+    "shareImageAlt": "Albina Beauty Concept – Beauty & Wellbeing in Köln Weiden"
+  }
+}

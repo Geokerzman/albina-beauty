@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
-import { services } from "@/content/site";
-import { homePage, specialRoutes } from "@/content/pages";
+import { getSiteContent } from "@/cms/site-content";
+import { imagePath } from "@/lib/image-path";
 import {
   HomeBlockRenderer,
   CatalogPage,
@@ -16,33 +16,6 @@ import {
   LegalPage,
   ArchivePage,
 } from "@/components/page-sections";
-export const dynamicParams = false;
-export function generateStaticParams() {
-  return [
-    { slug: [] },
-    ...specialRoutes.map((s) => ({ slug: s.split("/") })),
-    ...services.map((s) => ({ slug: ["leistungen", ...s.slug.split("/")] })),
-  ];
-}
-const routeTitles: Record<string, string> = {
-  leistungen: "Unsere Treatments",
-  "leistungen/kosmetische-behandlungen": "Kosmetische Behandlungen",
-  "leistungen/wellness": "Wellness & Körperpflege",
-  preisliste: "Behandlungen & Preise",
-  "ueber-uns": "Unser Studio",
-  "ueber-uns/team": "Unser Team",
-  galerie: "Einblicke ins Studio",
-  kontakt: "Kontakt & Anfahrt",
-  karriere: "Karriere",
-  "elementor-1142": "Karriere",
-  impressum: "Impressum",
-  datenschutzerklaerung: "Datenschutzerklärung",
-  "cookie-richtlinie-eu": "Cookie-Richtlinie",
-  shop: "Pflege für zu Hause",
-  "termin-vereinbaren": "Termin vereinbaren",
-  "category/uncategorized": "Beauty-Archiv",
-  "author/albinaletova_ho1055am": "Aus unserem Studio",
-};
 export async function generateMetadata({
   params,
 }: {
@@ -50,9 +23,11 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { slug = [] } = await params;
   const path = slug.join("/");
+  const { services, legal, seo, copy, site } = await getSiteContent();
   const service = services.find((s) => `leistungen/${s.slug}` === path);
-  const title = path ? service?.title || routeTitles[path] : homePage.title;
-  const description = service?.description || homePage.description;
+  const page = seo[path || "home"];
+  const title = service?.title || legal[path as keyof typeof legal]?.title || page?.title;
+  const description = service?.description || page?.description || seo.home.description;
   const canonical = path === "elementor-1142" ? "/karriere/" : path ? `/${path}/` : "/";
   return {
     title,
@@ -63,15 +38,14 @@ export async function generateMetadata({
         ? { index: false, follow: true }
         : undefined,
     openGraph: {
-      title: `${title} | Albina Beauty Concept`,
+      title: `${title} | ${site.name}`,
       description,
       url: canonical,
+      siteName: site.name,
       images: [
         {
-          url: "/images/beauty-editorial.webp",
-          width: 1122,
-          height: 1402,
-          alt: "Albina Beauty Concept – Beauty & Wellbeing in Köln Weiden",
+          url: imagePath(copy.siteChrome.shareImage),
+          alt: copy.siteChrome.shareImageAlt,
         },
       ],
     },
@@ -80,6 +54,7 @@ export async function generateMetadata({
 export default async function Page({ params }: { params: Promise<{ slug?: string[] }> }) {
   const { slug = [] } = await params;
   const path = slug.join("/");
+  const { services } = await getSiteContent();
   const service = services.find((s) => `leistungen/${s.slug}` === path);
   if (service) return <ServicePage service={service} />;
   switch (path) {

@@ -1,8 +1,9 @@
 "use client";
+import { useSiteContent } from "@/cms/site-content-provider";
 import Link from "next/link";
 import Image from "next/image";
 import { usePathname } from "next/navigation";
-import { useEffect, useState } from "react";
+import { useEffect, useLayoutEffect, useRef, useState } from "react";
 import {
   ArrowUpRight,
   ChevronDown,
@@ -18,7 +19,8 @@ import {
 } from "lucide-react";
 import { Dialog, DialogContent, DialogTitle, DialogDescription } from "@/components/ui/dialog";
 import { BookButton } from "@/components/booking";
-import { services, serviceHref, site, type Category } from "@/content/site";
+import { imagePath } from "@/lib/image-path";
+import { serviceHref, type Category } from "@/content/site";
 const categories: Category[] = [
   "Gesicht",
   "Körper & Entspannung",
@@ -26,11 +28,12 @@ const categories: Category[] = [
   "Physiotherapie",
 ];
 export function Wordmark() {
+  const { copy } = useSiteContent();
   return (
-    <Link className="wordmark" href="/" aria-label="Albina Beauty Concept – Startseite">
+    <Link className="wordmark" href={copy.wordmark.link} aria-label={copy.wordmark.ariaLabel}>
       <Image
-        src="/images/Albina-Beauty-Concept-Black.svg"
-        alt="Albina Beauty Concept"
+        src={imagePath(copy.wordmark.image)}
+        alt={copy.wordmark.imageAlt}
         width={712}
         height={223}
         unoptimized
@@ -58,69 +61,11 @@ function WhatsAppIcon() {
     </svg>
   );
 }
-const searchPages = [
-  ...services.map((service) => ({
-    title: service.label || service.title,
-    href: serviceHref(service),
-    category: service.category,
-    description: service.description,
-  })),
-  {
-    title: "Alle Treatments",
-    href: "/leistungen/",
-    category: "Entdecken",
-    description: "Unsere Leistungen und Behandlungen im Überblick",
-  },
-  {
-    title: "Behandlungen & Preise",
-    href: "/preisliste/",
-    category: "Information",
-    description: "Preisliste Kosten Pakete Dauer",
-  },
-  {
-    title: "Unser Studio",
-    href: "/ueber-uns/",
-    category: "Albina Beauty Concept",
-    description: "Unsere Geschichte Philosophie Über uns",
-  },
-  {
-    title: "Unser Team",
-    href: "/ueber-uns/team/",
-    category: "Albina Beauty Concept",
-    description: "Mitarbeiter Spezialisten Albina Alina Evgenia Dominika Irina",
-  },
-  {
-    title: "Kontakt & Anfahrt",
-    href: "/kontakt/",
-    category: "Ihr Besuch",
-    description: "Adresse Telefon E-Mail Route Köln Weiden",
-  },
-  {
-    title: "Einblicke ins Studio",
-    href: "/galerie/",
-    category: "Entdecken",
-    description: "Galerie Fotos Räume",
-  },
-  {
-    title: "Termin vereinbaren",
-    href: "/termin-vereinbaren/",
-    category: "Ihr Besuch",
-    description: "Terminbuchung Anfrage WhatsApp Beratung",
-  },
-  {
-    title: "Karriere",
-    href: "/karriere/",
-    category: "Unser Team",
-    description: "Jobs Bewerbung Stellen offene Positionen",
-  },
-  {
-    title: "Pflege für zu Hause",
-    href: "/shop/",
-    category: "Produktberatung",
-    description: "Shop NOON iS Clinical Produkte",
-  },
-];
-function searchResults(query: string) {
+
+function searchResults(
+  query: string,
+  searchPages: { title: string; href: string; category: string; description: string }[],
+) {
   const term = query.trim().toLocaleLowerCase("de");
   if (!term)
     return [
@@ -135,11 +80,25 @@ function searchResults(query: string) {
 }
 
 export function Header() {
+  const { site, services, copy } = useSiteContent();
   const [mega, setMega] = useState(false);
   const [mobile, setMobile] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
   const [searchQuery, setSearchQuery] = useState("");
+  const topbarRef = useRef<HTMLDivElement>(null);
+  const headerRef = useRef<HTMLElement>(null);
+  const treatmentsButtonRef = useRef<HTMLButtonElement>(null);
   const pathname = usePathname();
+  const searchPages = [
+    ...services.map((service) => ({
+      title: service.label || service.title,
+      href: serviceHref(service),
+      category: service.category,
+      description: service.description,
+    })),
+    ...copy.headerSearch.pages,
+  ];
+  const results = searchResults(searchQuery, searchPages);
   useEffect(() => {
     const close = () => {
       setMega(false);
@@ -148,16 +107,46 @@ export function Header() {
     };
     close();
   }, [pathname]);
-  useEffect(() => {
-    const escape = (e: KeyboardEvent) => {
-      if (e.key === "Escape") setMega(false);
+  useLayoutEffect(() => {
+    const header = headerRef.current;
+    if (!mega || !header) return;
+
+    const mobileViewport = window.matchMedia("(max-width: 800px)");
+    const closeOnMobile = () => {
+      if (mobileViewport.matches) setMega(false);
     };
-    document.addEventListener("keydown", escape);
-    return () => document.removeEventListener("keydown", escape);
-  }, []);
+    const updatePosition = () => {
+      header.style.setProperty("--header-bottom", `${header.getBoundingClientRect().bottom}px`);
+    };
+    const onKeyDown = (event: KeyboardEvent) => {
+      if (event.key !== "Escape" || event.defaultPrevented) return;
+      setMega(false);
+      treatmentsButtonRef.current?.focus({ preventScroll: true });
+    };
+
+    updatePosition();
+    closeOnMobile();
+    const observer = new ResizeObserver(updatePosition);
+    observer.observe(header);
+    if (topbarRef.current) observer.observe(topbarRef.current);
+    window.addEventListener("scroll", updatePosition, { passive: true });
+    mobileViewport.addEventListener("change", closeOnMobile);
+    document.addEventListener("keydown", onKeyDown);
+    return () => {
+      observer.disconnect();
+      window.removeEventListener("scroll", updatePosition);
+      mobileViewport.removeEventListener("change", closeOnMobile);
+      document.removeEventListener("keydown", onKeyDown);
+    };
+  }, [mega]);
   return (
     <>
-      <div className="topbar" role="region" aria-label="Kontakt & soziale Netzwerke">
+      <div
+        ref={topbarRef}
+        className="topbar"
+        role="region"
+        aria-label={copy.headerTopbar.ariaLabel}
+      >
         <div className="topbar-inner container">
           <div className="topbar-contacts">
             <a href={site.phoneHref}>
@@ -183,12 +172,13 @@ export function Header() {
             <button
               type="button"
               onClick={() => {
+                setMega(false);
                 setSearchQuery("");
                 setSearchOpen(true);
               }}
-              aria-label="Website durchsuchen"
+              aria-label={copy.headerTopbar.ariaLabel2}
               aria-haspopup="dialog"
-              title="Suche"
+              title={copy.headerTopbar.title}
             >
               <Search size={15} aria-hidden="true" />
             </button>
@@ -197,8 +187,8 @@ export function Header() {
               href={site.instagram}
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Albina Beauty Concept auf Instagram"
-              title="Instagram"
+              aria-label={copy.headerTopbar.ariaLabel3}
+              title={copy.headerTopbar.title2}
             >
               <Instagram size={15} aria-hidden="true" />
             </a>
@@ -206,8 +196,8 @@ export function Header() {
               href={site.whatsappSocial}
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Albina Beauty Concept auf WhatsApp"
-              title="WhatsApp"
+              aria-label={copy.headerTopbar.ariaLabel4}
+              title={copy.headerTopbar.title3}
             >
               <WhatsAppIcon />
             </a>
@@ -215,40 +205,98 @@ export function Header() {
               href={site.facebook}
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Albina Beauty Concept auf Facebook"
-              title="Facebook"
+              aria-label={copy.headerTopbar.ariaLabel5}
+              title={copy.headerTopbar.title4}
             >
               <Facebook size={15} aria-hidden="true" />
             </a>
           </div>
         </div>
       </div>
-      <header className="site-header">
+      <header ref={headerRef} className="site-header">
         <div className="header-inner">
           <Wordmark />
-          <nav aria-label="Hauptnavigation" className="desktop-nav">
+          <nav
+            aria-label={copy.headerNavigation.ariaLabel}
+            className="desktop-nav"
+            onBlur={(event) => {
+              if (event.relatedTarget && !event.currentTarget.contains(event.relatedTarget)) {
+                setMega(false);
+              }
+            }}
+          >
             <button
+              ref={treatmentsButtonRef}
+              type="button"
               className={mega || pathname.startsWith("/leistungen") ? "active" : ""}
               aria-expanded={mega}
-              aria-controls="treatment-menu"
-              onClick={() => setMega(!mega)}
+              aria-controls={mega ? "treatment-menu" : undefined}
+              onClick={() => setMega((open) => !open)}
             >
-              Treatments <ChevronDown size={12} className={mega ? "rotate" : ""} />
+              {copy.headerNavigation.buttonText}
+              <ChevronDown size={12} className={mega ? "rotate" : ""} />
             </button>
+            {mega && (
+              <div className="mega-menu" id="treatment-menu">
+                <div className="mega-menu-inner">
+                  <div className="mega-intro">
+                    <p className="eyebrow">{copy.headerTreatments.eyebrow}</p>
+                    <h2>
+                      {copy.headerTreatments.heading}
+                      <br />
+                      <em>{copy.headerTreatments.emphasis}</em>
+                    </h2>
+                    <Link
+                      className="text-link"
+                      href={copy.headerTreatments.link}
+                      onNavigate={() => setMega(false)}
+                    >
+                      {copy.headerTreatments.linkText}
+                      <ArrowUpRight size={15} />
+                    </Link>
+                  </div>
+                  {categories.map((cat) => (
+                    <div className="mega-column" key={cat}>
+                      <span className="eyebrow">{cat}</span>
+                      {services
+                        .filter((s) => s.category === cat)
+                        .map((s) => (
+                          <Link
+                            key={s.slug}
+                            href={serviceHref(s)}
+                            onNavigate={() => setMega(false)}
+                          >
+                            {s.label || s.title}
+                          </Link>
+                        ))}
+                    </div>
+                  ))}
+                </div>
+              </div>
+            )}
             <Link
-              href="/preisliste/"
+              href={copy.headerNavigation.link}
               aria-current={pathname === "/preisliste/" ? "page" : undefined}
             >
-              Preise
+              {copy.headerNavigation.linkText}
             </Link>
-            <Link href="/ueber-uns/" aria-current={pathname === "/ueber-uns/" ? "page" : undefined}>
-              Unser Studio
+            <Link
+              href={copy.headerNavigation.link2}
+              aria-current={pathname === "/ueber-uns/" ? "page" : undefined}
+            >
+              {copy.headerNavigation.linkText2}
             </Link>
-            <Link href="/galerie/" aria-current={pathname === "/galerie/" ? "page" : undefined}>
-              Einblicke
+            <Link
+              href={copy.headerNavigation.link3}
+              aria-current={pathname === "/galerie/" ? "page" : undefined}
+            >
+              {copy.headerNavigation.linkText3}
             </Link>
-            <Link href="/kontakt/" aria-current={pathname === "/kontakt/" ? "page" : undefined}>
-              Kontakt
+            <Link
+              href={copy.headerNavigation.link4}
+              aria-current={pathname === "/kontakt/" ? "page" : undefined}
+            >
+              {copy.headerNavigation.linkText4}
             </Link>
           </nav>
           <div className="header-actions">
@@ -256,54 +304,32 @@ export function Header() {
             <button
               className="mobile-menu-button"
               onClick={() => setMobile(true)}
-              aria-label="Menü öffnen"
+              aria-label={copy.headerNavigation.ariaLabel2}
             >
               <Menu size={23} />
             </button>
           </div>
         </div>
         {mega && (
-          <>
-            <button
-              className="mega-backdrop"
-              onClick={() => setMega(false)}
-              tabIndex={-1}
-              aria-label="Treatments-Menü schließen"
-            />
-            <div className="mega-menu" id="treatment-menu">
-              <div className="mega-intro">
-                <p className="eyebrow">Ihr persönliches Ritual</p>
-                <h2>
-                  Was tut Ihnen
-                  <br />
-                  <em>heute gut?</em>
-                </h2>
-                <Link className="text-link" href="/leistungen/">
-                  Alle Treatments <ArrowUpRight size={15} />
-                </Link>
-              </div>
-              {categories.map((cat) => (
-                <div className="mega-column" key={cat}>
-                  <span className="eyebrow">{cat}</span>
-                  {services
-                    .filter((s) => s.category === cat)
-                    .map((s) => (
-                      <Link key={s.slug} href={serviceHref(s)}>
-                        {s.label || s.title}
-                      </Link>
-                    ))}
-                </div>
-              ))}
-            </div>
-          </>
+          <button
+            type="button"
+            className="mega-backdrop"
+            onPointerDown={(event) => event.preventDefault()}
+            onClick={() => {
+              setMega(false);
+              treatmentsButtonRef.current?.focus({ preventScroll: true });
+            }}
+            tabIndex={-1}
+            aria-label={copy.headerTreatments.ariaLabel}
+          />
         )}
       </header>
       <Dialog open={searchOpen} onOpenChange={setSearchOpen}>
         <DialogContent className="site-search-dialog">
-          <p className="eyebrow">Albina Beauty Concept</p>
-          <DialogTitle className="dialog-heading">Was suchen Sie?</DialogTitle>
+          <p className="eyebrow">{copy.headerSearch.eyebrow}</p>
+          <DialogTitle className="dialog-heading">{copy.headerSearch.heading}</DialogTitle>
           <DialogDescription className="site-search-description">
-            Entdecken Sie unsere Treatments, Preise und Informationen rund um Ihren Besuch.
+            {copy.headerSearch.description}
           </DialogDescription>
           <label className="site-search-input">
             <Search size={18} aria-hidden="true" />
@@ -311,14 +337,14 @@ export function Header() {
               type="search"
               value={searchQuery}
               onChange={(event) => setSearchQuery(event.target.value)}
-              placeholder="Treatment oder Thema suchen"
-              aria-label="Website durchsuchen"
+              placeholder={copy.headerSearch.placeholder}
+              aria-label={copy.headerSearch.ariaLabel}
             />
             {searchQuery && (
               <button
                 type="button"
                 onClick={() => setSearchQuery("")}
-                aria-label="Suchbegriff löschen"
+                aria-label={copy.headerSearch.ariaLabel2}
               >
                 <X size={16} />
               </button>
@@ -326,11 +352,11 @@ export function Header() {
           </label>
           <p className="site-search-count" role="status">
             {searchQuery.trim()
-              ? `${searchResults(searchQuery).length} Ergebnisse`
-              : "Direkt zu Ihrem Wunsch"}
+              ? `${results.length}${copy.headerSearch.results}`
+              : copy.headerSearch.text}
           </p>
           <div className="site-search-results">
-            {searchResults(searchQuery).map((result) => (
+            {results.map((result) => (
               <Link href={result.href} key={result.href} onClick={() => setSearchOpen(false)}>
                 <span>
                   <small>{result.category}</small>
@@ -339,14 +365,16 @@ export function Header() {
                 <ArrowUpRight size={17} aria-hidden="true" />
               </Link>
             ))}
-            {searchResults(searchQuery).length === 0 && (
+            {results.length === 0 && (
               <div className="site-search-empty">
-                <p>
-                  Keine passenden Ergebnisse. Versuchen Sie einen anderen Begriff oder sprechen Sie
-                  uns persönlich an.
-                </p>
-                <Link href="/kontakt/" className="text-link" onClick={() => setSearchOpen(false)}>
-                  Kontakt aufnehmen <ArrowUpRight size={15} />
+                <p>{copy.headerSearch.text2}</p>
+                <Link
+                  href={copy.headerSearch.link}
+                  className="text-link"
+                  onClick={() => setSearchOpen(false)}
+                >
+                  {copy.headerSearch.linkText}
+                  <ArrowUpRight size={15} />
                 </Link>
               </div>
             )}
@@ -355,14 +383,13 @@ export function Header() {
       </Dialog>
       <Dialog open={mobile} onOpenChange={setMobile}>
         <DialogContent className="mobile-navigation">
-          <DialogTitle className="sr-only">Hauptnavigation</DialogTitle>
-          <DialogDescription className="sr-only">
-            Entdecken Sie unsere Treatments, das Studio und die Kontaktmöglichkeiten.
-          </DialogDescription>
+          <DialogTitle className="sr-only">{copy.headerMobile.heading}</DialogTitle>
+          <DialogDescription className="sr-only">{copy.headerMobile.description}</DialogDescription>
           <Wordmark />
-          <nav aria-label="Mobile Navigation">
-            <Link href="/leistungen/" onClick={() => setMobile(false)}>
-              Alle Treatments <ArrowUpRight />
+          <nav aria-label={copy.headerMobile.ariaLabel}>
+            <Link href={copy.headerMobile.link} onClick={() => setMobile(false)}>
+              {copy.headerMobile.linkText}
+              <ArrowUpRight />
             </Link>
             {categories.map((cat) => (
               <details key={cat}>
@@ -381,13 +408,7 @@ export function Header() {
                 </div>
               </details>
             ))}
-            {[
-              ["Preise", "/preisliste/"],
-              ["Unser Studio", "/ueber-uns/"],
-              ["Einblicke", "/galerie/"],
-              ["Kontakt", "/kontakt/"],
-              ["Karriere", "/karriere/"],
-            ].map(([title, url]) => (
+            {copy.headerMobile.links.map(({ title, link: url }) => (
               <Link key={url} href={url} onClick={() => setMobile(false)}>
                 {title}
               </Link>
@@ -398,11 +419,12 @@ export function Header() {
             {site.phone}
           </a>
           <Link
-            href="/termin-vereinbaren/"
+            href={copy.headerMobile.link2}
             className="button button-primary"
             onClick={() => setMobile(false)}
           >
-            Termin anfragen <ArrowUpRight size={17} />
+            {copy.headerMobile.linkText2}
+            <ArrowUpRight size={17} />
           </Link>
         </DialogContent>
       </Dialog>

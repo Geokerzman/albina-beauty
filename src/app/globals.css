@@ -329,29 +329,35 @@ select:focus {
 }
 .mega-backdrop {
   position: fixed;
-  inset: 91px 0 0;
+  inset: var(--header-bottom) 0 0;
   background: #21140f35;
   z-index: -1;
   cursor: default;
 }
 .mega-menu {
-  position: absolute;
-  top: 100%;
-  left: 0;
-  right: 0;
+  position: fixed;
+  inset: var(--header-bottom) 0 auto;
+  max-height: calc(100dvh - var(--header-bottom));
+  overflow-y: auto;
+  overscroll-behavior-y: contain;
   background: var(--background);
+  box-shadow: 0 15px 20px #30211908;
+}
+.mega-menu-inner {
+  max-width: 1440px;
+  margin-inline: auto;
   padding: 46px 64px 52px;
   display: grid;
-  grid-template-columns: 1.15fr 1fr 1fr 1fr 0.95fr;
+  grid-template-columns: minmax(0, 1.15fr) repeat(3, minmax(0, 1fr)) minmax(0, 0.95fr);
   gap: 32px;
-  border-top: 1px solid var(--line);
-  box-shadow: 0 15px 20px #30211908;
+  overflow-wrap: anywhere;
 }
 .mega-intro h2 {
   font-size: 38px;
   margin: 12px 0 22px;
 }
 .mega-column .eyebrow {
+  display: block;
   color: var(--accent);
   margin: 3px 0 20px;
   letter-spacing: 0.12em;
@@ -2137,7 +2143,7 @@ summary::-webkit-details-marker {
   .hero-scroll {
     display: none;
   }
-  .mega-menu {
+  .mega-menu-inner {
     padding: 35px 40px;
     gap: 23px;
   }
@@ -2398,7 +2404,8 @@ summary::-webkit-details-marker {
     height: 77px;
     padding: 0 24px;
   }
-  .desktop-nav {
+  .desktop-nav,
+  .mega-backdrop {
     display: none;
   }
   .header-actions {

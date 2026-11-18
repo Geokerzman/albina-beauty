@@ -23,6 +23,7 @@ export interface PriceItem {
   price: string;
   description: string;
   duration: string;
+  treatment?: string;
 }
 export interface PriceGroup {
   id: string;

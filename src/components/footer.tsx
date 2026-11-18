@@ -1,27 +1,29 @@
+import { getSiteContent } from "@/cms/site-content";
 import Link from "next/link";
 import { ArrowUpRight, Instagram } from "lucide-react";
 import { Wordmark } from "./header";
 import { BookButton } from "./booking";
 import { CookieSettingsButton } from "./ui/cookie-consent";
-import { site } from "@/content/site";
-export function ClosingInvitation() {
+export async function ClosingInvitation() {
+  const { copy } = await getSiteContent();
   return (
     <section className="closing-invitation">
       <div className="container">
-        <p className="eyebrow">Wir freuen uns auf Sie</p>
+        <p className="eyebrow">{copy.closingInvitation.eyebrow}</p>
         <h2>
-          Ein guter Moment,
+          {copy.closingInvitation.heading}
           <br />
-          <em>an sich zu denken.</em>
+          <em>{copy.closingInvitation.emphasis}</em>
         </h2>
-        <p>Für Ihre Haut. Für Ihr Wohlbefinden. Ganz für Sie.</p>
+        <p>{copy.closingInvitation.text}</p>
         <BookButton variant="light" />
         <span className="closing-line" aria-hidden="true" />
       </div>
     </section>
   );
 }
-export function Footer() {
+export async function Footer() {
+  const { site, copy } = await getSiteContent();
   return (
     <footer className="site-footer">
       <div className="container">
@@ -29,37 +31,38 @@ export function Footer() {
           <div className="footer-brand">
             <Wordmark />
             <p>
-              Schönheit ist persönlich.
+              {copy.footer.text}
               <br />
-              Unsere Pflege auch.
+              {copy.footer.text2}
             </p>
             <a
               href={site.instagram}
               target="_blank"
               rel="noopener noreferrer"
-              aria-label="Unser Instagram"
+              aria-label={copy.footer.ariaLabel}
             >
               <Instagram size={18} />
             </a>
           </div>
           <div>
-            <h2>Entdecken</h2>
-            <Link href="/leistungen/">Unsere Treatments</Link>
-            <Link href="/preisliste/">Behandlungen & Preise</Link>
-            <Link href="/galerie/">Einblicke ins Studio</Link>
-            <Link href="/shop/">Pflege für zu Hause</Link>
+            <h2>{copy.footer.heading}</h2>
+            <Link href={copy.footer.link}>{copy.footer.linkText}</Link>
+            <Link href={copy.footer.link2}>{copy.footer.linkText2}</Link>
+            <Link href={copy.footer.link3}>{copy.footer.linkText3}</Link>
+            <Link href={copy.footer.link4}>{copy.footer.linkText4}</Link>
           </div>
           <div>
-            <h2>Albina Beauty Concept</h2>
-            <Link href="/ueber-uns/">Unsere Philosophie</Link>
-            <Link href="/ueber-uns/team/">Das Team</Link>
-            <Link href="/karriere/">
-              Karriere <ArrowUpRight size={12} />
+            <h2>{copy.footer.heading2}</h2>
+            <Link href={copy.footer.link5}>{copy.footer.linkText5}</Link>
+            <Link href={copy.footer.link6}>{copy.footer.linkText6}</Link>
+            <Link href={copy.footer.link7}>
+              {copy.footer.linkText7}
+              <ArrowUpRight size={12} />
             </Link>
-            <Link href="/kontakt/">Kontakt & Anfahrt</Link>
+            <Link href={copy.footer.link8}>{copy.footer.linkText8}</Link>
           </div>
           <div>
-            <h2>Ihr Weg zu uns</h2>
+            <h2>{copy.footer.heading3}</h2>
             <a href={site.map} target="_blank" rel="noopener noreferrer">
               {site.address}
               <br />
@@ -67,16 +70,19 @@ export function Footer() {
             </a>
             <a href={site.phoneHref}>{site.phone}</a>
             <a href={`mailto:${site.email}`}>{site.email}</a>
-            <p className="footer-note">Termine nach Vereinbarung</p>
+            <p className="footer-note">{copy.footer.text3}</p>
           </div>
         </div>
         <div className="footer-bottom">
-          <span>© {new Date().getFullYear()} Albina Beauty Concept</span>
-          <span>Mit Liebe zur Schönheit. In Köln.</span>
+          <span>
+            © {new Date().getFullYear()}
+            {copy.footer.text4}
+          </span>
+          <span>{copy.footer.text5}</span>
           <div>
-            <Link href="/impressum/">Impressum</Link>
-            <Link href="/datenschutzerklaerung/">Datenschutz</Link>
-            <Link href="/cookie-richtlinie-eu/">Cookies</Link>
+            <Link href={copy.footer.link9}>{copy.footer.linkText9}</Link>
+            <Link href={copy.footer.link10}>{copy.footer.linkText10}</Link>
+            <Link href={copy.footer.link11}>{copy.footer.linkText11}</Link>
             <CookieSettingsButton />
           </div>
         </div>

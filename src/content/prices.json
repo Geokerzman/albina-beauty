@@ -491,18 +491,21 @@
     "items": [
       {
         "name": "Gesichtsreinigung (trockene Haut bis reife Haut)",
+        "treatment": "klassische-gesichtsbehandlung",
         "price": "€119",
         "description": "Reinigung, Peeling, Enzympeeling, Ausreinigung(Ultraschall), Maske, Massage, Pflege",
         "duration": ""
       },
       {
         "name": "iS Clinical - FOAMING ENZYME TREATMENT",
+        "treatment": "is-clinical-behandlung",
         "price": "€129",
         "description": "Das Bekannte und auch sogenannte „Champagner Facial“ ist eine hochwirksame Anti-Aging und auch gleichzeitig beruhigende Behandlung. Die Behandlung erzeugt ein sensationelles, intensives und champagnerähnliches Kribbeln auf der Haut. Bei der Behandlung wird ein Aktivschaum eingesetzt der die Haut mit bioaktiven Inhaltsstoffen exfoliert. (45 Min)",
         "duration": "45 Min."
       },
       {
         "name": "iS Clinical - FIRE & ICE FACIAL",
+        "treatment": "is-clinical-behandlung",
         "price": "€129",
         "description": "Die bekannte Gesichtsbehandlung aus den USA. Diese Behandlung erneuert die Hautoberfläche, reduziert feine Linien und Falten und verfeinert die Poren. Bei der Behandlung werden zwei hochwirksame Masken verwendet. Die Fire-Maske erwärmt die Haut und fördert die Durchblutung, die Ice-Maske kühlt, beruhigt und hydratisiert intensiv. Das Ergebnis ist eine sichtbar glattere, straffe und festere Haut mit „Glow“-Effekt.",
         "duration": ""

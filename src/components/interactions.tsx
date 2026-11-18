@@ -1,4 +1,5 @@
 "use client";
+import { useSiteContent } from "@/cms/site-content-provider";
 import { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
@@ -14,15 +15,8 @@ import {
 import { Dialog, DialogContent, DialogTitle, DialogDescription } from "./ui/dialog";
 import { BookButton } from "./booking";
 import { euro } from "@/lib/utils";
-import {
-  services,
-  serviceHref,
-  gallery,
-  team,
-  priceGroups,
-  type PriceGroup,
-  type Service,
-} from "@/content/site";
+import { imagePath } from "@/lib/image-path";
+import { serviceHref, type PriceGroup, type Service } from "@/content/site";
 
 export function ServiceCard({
   service,
@@ -37,7 +31,7 @@ export function ServiceCard({
     <Link className="service-card" href={serviceHref(service)}>
       <div className="service-card-image">
         <Image
-          src={`/images/${service.image}`}
+          src={imagePath(service.image)}
           alt={service.imageAlt}
           fill
           sizes="(max-width: 650px) 90vw, (max-width: 1000px) 45vw, 30vw"
@@ -58,6 +52,7 @@ export function ServiceCard({
   );
 }
 export function TreatmentExplorer({ initialCategory = "Alle" }: { initialCategory?: string }) {
+  const { services, copy } = useSiteContent();
   const [category, setCategory] = useState(initialCategory);
   const [query, setQuery] = useState("");
   const filtered = services.filter(
@@ -68,7 +63,7 @@ export function TreatmentExplorer({ initialCategory = "Alle" }: { initialCategor
   return (
     <div className="explorer">
       <div className="explorer-controls">
-        <div className="filter-tabs" role="group" aria-label="Treatments filtern">
+        <div className="filter-tabs" role="group" aria-label={copy.treatmentExplorer.ariaLabel}>
           {["Alle", "Gesicht", "Körper & Entspannung", "Beauty Essentials", "Physiotherapie"].map(
             (c) => (
               <button
@@ -87,13 +82,14 @@ export function TreatmentExplorer({ initialCategory = "Alle" }: { initialCategor
           <input
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Treatment suchen"
-            aria-label="Treatment suchen"
+            placeholder={copy.treatmentExplorer.placeholder}
+            aria-label={copy.treatmentExplorer.ariaLabel2}
           />
         </label>
       </div>
       <p className="results-count" aria-live="polite">
-        {filtered.length} {filtered.length === 1 ? "Treatment" : "Treatments"} für Sie
+        {filtered.length} {filtered.length === 1 ? "Treatment" : "Treatments"}
+        {copy.treatmentExplorer.text}
       </p>
       <div className="treatment-grid">
         {filtered.map((s, i) => (
@@ -102,8 +98,8 @@ export function TreatmentExplorer({ initialCategory = "Alle" }: { initialCategor
       </div>
       {!filtered.length && (
         <div className="empty-results">
-          <h3>Ein neuer Suchwunsch?</h3>
-          <p>Versuchen Sie einen anderen Begriff oder lassen Sie sich persönlich beraten.</p>
+          <h3>{copy.treatmentExplorer.subheading}</h3>
+          <p>{copy.treatmentExplorer.text2}</p>
           <button
             className="text-link"
             onClick={() => {
@@ -111,7 +107,8 @@ export function TreatmentExplorer({ initialCategory = "Alle" }: { initialCategor
               setCategory("Alle");
             }}
           >
-            Alle Treatments anzeigen <ArrowRight size={16} />
+            {copy.treatmentExplorer.buttonText}
+            <ArrowRight size={16} />
           </button>
         </div>
       )}
@@ -125,12 +122,13 @@ export function PriceList({
   groups: PriceGroup[];
   compact?: boolean;
 }) {
+  const { copy } = useSiteContent();
   return (
     <div className={`price-groups ${compact ? "price-groups-compact" : ""}`}>
       {groups.map((g) => (
         <section className="price-group" id={g.id} key={g.id}>
           <div className="price-group-head">
-            <span className="eyebrow">Ihre Behandlung</span>
+            <span className="eyebrow">{copy.priceList.eyebrow}</span>
             <h3>{g.title}</h3>
           </div>
           <div className="price-items">
@@ -142,7 +140,8 @@ export function PriceList({
                   {item.description && (
                     <details className="price-description">
                       <summary>
-                        Details zur Behandlung <ChevronDown size={12} />
+                        {copy.priceList.text}
+                        <ChevronDown size={12} />
                       </summary>
                       <p>{item.description}</p>
                     </details>
@@ -168,6 +167,7 @@ export function PriceList({
   );
 }
 export function PriceExplorer() {
+  const { priceGroups, copy } = useSiteContent();
   const [query, setQuery] = useState("");
   const [group, setGroup] = useState("all");
   const filtered = priceGroups
@@ -183,10 +183,12 @@ export function PriceExplorer() {
     <div className="prices-layout">
       <aside className="prices-sidebar">
         <span className="eyebrow">
-          <SlidersHorizontal size={13} /> Behandlungen
+          <SlidersHorizontal size={13} />
+          {copy.priceExplorer.eyebrow}
         </span>
         <button className={group === "all" ? "selected" : ""} onClick={() => setGroup("all")}>
-          Alle Behandlungen <span>{priceGroups.reduce((n, g) => n + g.items.length, 0)}</span>
+          {copy.priceExplorer.buttonText}
+          <span>{priceGroups.reduce((n, g) => n + g.items.length, 0)}</span>
         </button>
         {priceGroups.map((g) => (
           <button
@@ -205,32 +207,26 @@ export function PriceExplorer() {
           <input
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            placeholder="Behandlung oder Pflegewunsch suchen"
-            aria-label="Preisliste durchsuchen"
+            placeholder={copy.priceExplorer.placeholder}
+            aria-label={copy.priceExplorer.ariaLabel}
           />
           {query && (
-            <button onClick={() => setQuery("")} aria-label="Suche zurücksetzen">
+            <button onClick={() => setQuery("")} aria-label={copy.priceExplorer.ariaLabel2}>
               <X size={16} />
             </button>
           )}
         </label>
         <div aria-live="polite">
           <PriceList groups={filtered} />
-          {!filtered.length && (
-            <p className="empty-results">
-              Keine passende Behandlung gefunden. Versuchen Sie einen anderen Suchbegriff.
-            </p>
-          )}
+          {!filtered.length && <p className="empty-results">{copy.priceExplorer.text}</p>}
         </div>
-        <p className="pricing-note">
-          Alle Preise in Euro. Den passenden Behandlungsumfang besprechen wir persönlich. Bei Fragen
-          sind wir gerne für Sie da.
-        </p>
+        <p className="pricing-note">{copy.priceExplorer.text2}</p>
       </div>
     </div>
   );
 }
 export function StudioGallery({ preview = false }: { preview?: boolean }) {
+  const { gallery, copy } = useSiteContent();
   const [selected, setSelected] = useState<number | null>(null);
   const items = preview ? gallery.slice(0, 4) : gallery;
   const next = (direction: number) =>
@@ -257,7 +253,7 @@ export function StudioGallery({ preview = false }: { preview?: boolean }) {
             aria-label={`${item.alt} vergrößern`}
           >
             <Image
-              src={item.src}
+              src={imagePath(item.src)}
               alt={item.alt}
               fill
               sizes={preview ? "(max-width:650px) 70vw, 24vw" : "(max-width:650px) 90vw, 45vw"}
@@ -276,14 +272,19 @@ export function StudioGallery({ preview = false }: { preview?: boolean }) {
         }}
       >
         <DialogContent className="gallery-dialog">
-          <DialogTitle className="sr-only">Einblicke in unser Studio</DialogTitle>
+          <DialogTitle className="sr-only">{copy.galleryControls.heading}</DialogTitle>
           <DialogDescription className="sr-only">
-            Mit den Pfeiltasten oder den Schaltflächen können Sie zwischen den Fotografien wechseln.
+            {copy.galleryControls.description}
           </DialogDescription>
           {selected !== null && (
             <>
               <div className="lightbox-image">
-                <Image src={gallery[selected].src} alt={gallery[selected].alt} fill sizes="90vw" />
+                <Image
+                  src={imagePath(gallery[selected].src)}
+                  alt={gallery[selected].alt}
+                  fill
+                  sizes="90vw"
+                />
               </div>
               <div className="lightbox-caption">
                 <span>{gallery[selected].alt}</span>
@@ -294,11 +295,15 @@ export function StudioGallery({ preview = false }: { preview?: boolean }) {
               <button
                 className="lightbox-prev"
                 onClick={() => next(-1)}
-                aria-label="Vorheriges Foto"
+                aria-label={copy.galleryControls.ariaLabel}
               >
                 <ArrowLeft />
               </button>
-              <button className="lightbox-next" onClick={() => next(1)} aria-label="Nächstes Foto">
+              <button
+                className="lightbox-next"
+                onClick={() => next(1)}
+                aria-label={copy.galleryControls.ariaLabel2}
+              >
                 <ArrowRight />
               </button>
             </>
@@ -309,6 +314,7 @@ export function StudioGallery({ preview = false }: { preview?: boolean }) {
   );
 }
 export function TeamGrid() {
+  const { team, copy } = useSiteContent();
   const [selected, setSelected] = useState<number | null>(null);
   return (
     <>
@@ -317,7 +323,7 @@ export function TeamGrid() {
           <button className="team-card" onClick={() => setSelected(i)} key={person.name}>
             <div className="team-photo">
               <Image
-                src={`/images/${person.image}`}
+                src={imagePath(person.image)}
                 alt={person.name}
                 fill
                 sizes="(max-width:650px) 44vw, 20vw"
@@ -329,7 +335,8 @@ export function TeamGrid() {
             <h3>{person.name}</h3>
             <p>{person.role}</p>
             <span className="text-link">
-              Kennenlernen <ArrowUpRight size={13} />
+              {copy.teamControls.text}
+              <ArrowUpRight size={13} />
             </span>
           </button>
         ))}
@@ -344,7 +351,7 @@ export function TeamGrid() {
           {selected !== null && (
             <>
               <Image
-                src={`/images/${team[selected].image}`}
+                src={imagePath(team[selected].image)}
                 alt={team[selected].name}
                 width={120}
                 height={120}

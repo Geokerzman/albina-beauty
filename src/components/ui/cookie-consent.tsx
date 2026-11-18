@@ -1,4 +1,5 @@
 "use client";
+import { useSiteContent } from "@/cms/site-content-provider";
 
 import Link from "next/link";
 import { Cookie, MapPin } from "lucide-react";
@@ -30,6 +31,7 @@ const ConsentContext = createContext<{
 }>({ mapsAllowed: false, openSettings: () => {} });
 
 export function CookieConsentProvider({ children }: { children: ReactNode }) {
+  const { copy } = useSiteContent();
   const [consent, setConsent] = useState<boolean | null>();
   const [settingsOpen, setSettingsOpen] = useState(false);
   const [mapsSelected, setMapsSelected] = useState(false);
@@ -48,7 +50,10 @@ export function CookieConsentProvider({ children }: { children: ReactNode }) {
 
   function saveConsent(maps: boolean) {
     try {
-      localStorage.setItem(storageKey, JSON.stringify({ maps, expiresAt: Date.now() + retentionMs }));
+      localStorage.setItem(
+        storageKey,
+        JSON.stringify({ maps, expiresAt: Date.now() + retentionMs }),
+      );
     } catch {
       // Apply the choice in this tab even when the browser blocks storage.
     }
@@ -68,25 +73,23 @@ export function CookieConsentProvider({ children }: { children: ReactNode }) {
       {consent === null && (
         <aside className="cookie-consent" aria-labelledby="cookie-consent-title">
           <h2 id="cookie-consent-title">
-            <Cookie size={22} aria-hidden="true" /> Cookie-Einstellungen
+            <Cookie size={22} aria-hidden="true" />
+            {copy.cookieBanner.heading}
           </h2>
-          <p>
-            Wir speichern Ihre Auswahl auf diesem Gerät. Wenn Sie zustimmen, laden wir Google Maps
-            auf der Kontaktseite. Dabei werden Daten an Google übertragen.
-          </p>
+          <p>{copy.cookieBanner.text}</p>
           <div className="cookie-consent-actions">
             <Button type="button" variant="outline" size="sm" onClick={() => saveConsent(false)}>
-              Nur notwendige
+              {copy.cookieBanner.buttonText}
             </Button>
             <Button type="button" variant="outline" size="sm" onClick={() => saveConsent(true)}>
-              Alle akzeptieren
+              {copy.cookieBanner.buttonText2}
             </Button>
           </div>
           <div className="cookie-consent-links">
             <button type="button" onClick={(event) => openSettings(event.currentTarget)}>
-              Einstellungen
+              {copy.cookieBanner.buttonText3}
             </button>
-            <Link href="/cookie-richtlinie-eu/">Cookie-Richtlinie</Link>
+            <Link href={copy.cookieBanner.link}>{copy.cookieBanner.linkText}</Link>
           </div>
         </aside>
       )}
@@ -100,27 +103,23 @@ export function CookieConsentProvider({ children }: { children: ReactNode }) {
             target?.focus({ preventScroll: true });
           }}
         >
-          <DialogTitle>Cookie-Einstellungen</DialogTitle>
-          <DialogDescription>
-            Legen Sie fest, ob Google Maps auf der Kontaktseite geladen werden darf.
-          </DialogDescription>
+          <DialogTitle>{copy.cookieBanner.heading2}</DialogTitle>
+          <DialogDescription>{copy.cookieBanner.description}</DialogDescription>
           <div className="cookie-setting">
             <div>
-              <strong>Notwendige Speicherung</strong>
-              <p>Speichert Ihre Auswahl auf diesem Gerät.</p>
+              <strong>{copy.cookieBanner.text2}</strong>
+              <p>{copy.cookieBanner.text3}</p>
             </div>
-            <span>Immer aktiv</span>
+            <span>{copy.cookieBanner.text4}</span>
           </div>
           <label className="cookie-setting">
             <span>
-              <strong>Google Maps</strong>
-              <span id="cookie-maps-description">
-                Zeigt die Karte auf der Kontaktseite an und überträgt dabei Daten an Google.
-              </span>
+              <strong>{copy.cookieBanner.text5}</strong>
+              <span id="cookie-maps-description">{copy.cookieBanner.text6}</span>
             </span>
             <input
               type="checkbox"
-              aria-label="Google Maps"
+              aria-label={copy.cookieBanner.ariaLabel}
               aria-describedby="cookie-maps-description"
               checked={mapsSelected}
               onChange={(event) => setMapsSelected(event.target.checked)}
@@ -128,10 +127,10 @@ export function CookieConsentProvider({ children }: { children: ReactNode }) {
           </label>
           <div className="cookie-consent-actions">
             <Button type="button" variant="outline" size="sm" onClick={() => saveConsent(false)}>
-              Nur notwendige
+              {copy.cookieBanner.buttonText4}
             </Button>
             <Button type="button" size="sm" onClick={() => saveConsent(mapsSelected)}>
-              Auswahl speichern
+              {copy.cookieBanner.buttonText5}
             </Button>
           </div>
         </DialogContent>
@@ -141,6 +140,7 @@ export function CookieConsentProvider({ children }: { children: ReactNode }) {
 }
 
 export function CookieSettingsButton() {
+  const { copy } = useSiteContent();
   const { openSettings } = useContext(ConsentContext);
   return (
     <button
@@ -148,12 +148,13 @@ export function CookieSettingsButton() {
       className="cookie-settings-link"
       onClick={(event) => openSettings(event.currentTarget)}
     >
-      Cookie-Einstellungen
+      {copy.cookieSettings.buttonText}
     </button>
   );
 }
 
 export function ConsentMap({ src, title }: { src: string; title: string }) {
+  const { copy } = useSiteContent();
   const { mapsAllowed, openSettings } = useContext(ConsentContext);
   return (
     <div className="contact-mini-map">
@@ -170,14 +171,14 @@ export function ConsentMap({ src, title }: { src: string; title: string }) {
       ) : (
         <div className="contact-map-placeholder">
           <MapPin size={19} aria-hidden="true" />
-          <span>Google Maps</span>
+          <span>{copy.cookieMap.text}</span>
           <Button
             type="button"
             variant="outline"
             size="sm"
             onClick={(event) => openSettings(event.currentTarget)}
           >
-            Karte freigeben
+            {copy.cookieMap.buttonText}
           </Button>
         </div>
       )}

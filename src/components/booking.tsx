@@ -1,4 +1,5 @@
 "use client";
+import { useSiteContent } from "@/cms/site-content-provider";
 import {
   createContext,
   useContext,
@@ -10,9 +11,9 @@ import {
 import { ArrowUpRight, Check, MessageCircle } from "lucide-react";
 import { Dialog, DialogContent, DialogDescription, DialogTitle } from "@/components/ui/dialog";
 import { Button, type ButtonProps } from "@/components/ui/button";
-import { services, site } from "@/content/site";
 const BookingContext = createContext<(service?: string) => void>(() => {});
 export function BookingProvider({ children }: { children: ReactNode }) {
+  const { copy } = useSiteContent();
   const [open, setOpen] = useState(false);
   const [service, setService] = useState("");
   return (
@@ -25,15 +26,13 @@ export function BookingProvider({ children }: { children: ReactNode }) {
       {children}
       <Dialog open={open} onOpenChange={setOpen}>
         <DialogContent className="booking-dialog">
-          <p className="eyebrow">Zeit für Sie</p>
+          <p className="eyebrow">{copy.bookingDialog.eyebrow}</p>
           <DialogTitle className="dialog-heading">
-            Ihr nächster
+            {copy.bookingDialog.heading}
             <br />
-            <em>Wohlfühlmoment.</em>
+            <em>{copy.bookingDialog.emphasis}</em>
           </DialogTitle>
-          <DialogDescription className="muted">
-            Erzählen Sie uns von Ihrem Wunsch. Gemeinsam finden wir Ihren passenden Termin.
-          </DialogDescription>
+          <DialogDescription className="muted">{copy.bookingDialog.description}</DialogDescription>
           <BookingForm initialService={service} />
         </DialogContent>
       </Dialog>
@@ -41,18 +40,21 @@ export function BookingProvider({ children }: { children: ReactNode }) {
   );
 }
 export function BookButton({ service, children, ...props }: ButtonProps & { service?: string }) {
+  const { copy } = useSiteContent();
   const open = useContext(BookingContext);
   return (
     <Button onClick={() => open(service)} {...props}>
       {children || (
         <>
-          Termin vereinbaren <ArrowUpRight size={17} />
+          {copy.bookingButton.text}
+          <ArrowUpRight size={17} />
         </>
       )}
     </Button>
   );
 }
 export function BookingForm({ initialService = "" }: { initialService?: string }) {
+  const { services, site, copy } = useSiteContent();
   const [selected, setSelected] = useState(initialService);
   const [name, setName] = useState("");
   const [date, setDate] = useState("");
@@ -66,11 +68,19 @@ export function BookingForm({ initialService = "" }: { initialService?: string }
     event.preventDefault();
     setReady(true);
   }
-  const text = `Guten Tag, ich möchte gerne einen Termin vereinbaren.${name.trim() ? ` Mein Name ist ${name.trim()}.` : ""}${selected ? ` Ich interessiere mich für ${selected}.` : " Ich wünsche mir eine persönliche Beratung."}${date ? ` Mein Wunschtermin: ${date.split("-").reverse().join(".")}.` : ""}${message.trim() ? ` ${message.trim()}` : ""}`;
+  const text = [
+    copy.bookingForm.messageIntro,
+    name.trim() ? `${copy.bookingForm.messageName}${name.trim()}.` : "",
+    selected
+      ? `${copy.bookingForm.messageService}${selected}.`
+      : copy.bookingForm.messageConsultation,
+    date ? `${copy.bookingForm.messageDate}${date.split("-").reverse().join(".")}.` : "",
+    message.trim() ? ` ${message.trim()}` : "",
+  ].join("");
   return (
     <form className="booking-form" onSubmit={submit}>
       <label>
-        Ihr Treatment
+        {copy.bookingForm.label}
         <select
           value={selected}
           onChange={(e) => {
@@ -78,7 +88,7 @@ export function BookingForm({ initialService = "" }: { initialService?: string }
             setReady(false);
           }}
         >
-          <option value="">Ich wünsche mir eine Beratung</option>
+          <option value="">{copy.bookingForm.option}</option>
           {selected && !services.some((s) => s.title === selected) && (
             <option value={selected}>{selected}</option>
           )}
@@ -91,7 +101,8 @@ export function BookingForm({ initialService = "" }: { initialService?: string }
       </label>
       <div className="form-grid">
         <label>
-          Ihr Name <span>(optional)</span>
+          {copy.bookingForm.label2}
+          <span>{copy.bookingForm.text}</span>
           <input
             autoComplete="name"
             value={name}
@@ -99,12 +110,13 @@ export function BookingForm({ initialService = "" }: { initialService?: string }
               setName(e.target.value);
               setReady(false);
             }}
-            placeholder="Wie dürfen wir Sie ansprechen?"
+            placeholder={copy.bookingForm.placeholder}
             maxLength={80}
           />
         </label>
         <label>
-          Wunschtag <span>(optional)</span>
+          {copy.bookingForm.label3}
+          <span>{copy.bookingForm.text2}</span>
           <input
             type="date"
             min={today}
@@ -117,7 +129,8 @@ export function BookingForm({ initialService = "" }: { initialService?: string }
         </label>
       </div>
       <label>
-        Ihre Wünsche <span>(optional)</span>
+        {copy.bookingForm.label4}
+        <span>{copy.bookingForm.text3}</span>
         <textarea
           rows={3}
           value={message}
@@ -125,14 +138,15 @@ export function BookingForm({ initialService = "" }: { initialService?: string }
             setMessage(e.target.value);
             setReady(false);
           }}
-          placeholder="Was können wir für Sie tun?"
+          placeholder={copy.bookingForm.placeholder2}
           maxLength={1000}
         />
       </label>
       {ready ? (
         <div className="booking-ready" role="status">
           <div>
-            <Check size={17} /> Ihre Anfrage ist vorbereitet.
+            <Check size={17} />
+            {copy.bookingForm.text4}
           </div>
           <Button asChild>
             <a
@@ -140,22 +154,22 @@ export function BookingForm({ initialService = "" }: { initialService?: string }
               target="_blank"
               rel="noopener noreferrer"
             >
-              In WhatsApp öffnen <ArrowUpRight size={17} />
+              {copy.bookingForm.linkText}
+              <ArrowUpRight size={17} />
             </a>
           </Button>
-          <p>
-            Sie senden die Nachricht anschließend selbst in WhatsApp. Ihr Termin ist erst nach
-            unserer Bestätigung verbindlich.
-          </p>
+          <p>{copy.bookingForm.text5}</p>
         </div>
       ) : (
         <Button type="submit">
-          Anfrage vorbereiten <MessageCircle size={17} />
+          {copy.bookingForm.buttonText}
+          <MessageCircle size={17} />
         </Button>
       )}
       <p className="form-note">
-        Lieber persönlich sprechen? <a href={site.phoneHref}>{site.phone}</a>. Ihre Eingaben werden
-        hier nicht gespeichert. Mit dem Öffnen von WhatsApp gelten dessen Datenschutzbedingungen.
+        {copy.bookingForm.text6}
+        <a href={site.phoneHref}>{site.phone}</a>
+        {copy.bookingForm.text7}
       </p>
     </form>
   );

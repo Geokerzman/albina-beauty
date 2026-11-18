@@ -1,3 +1,4 @@
+import { getSiteContent, type BlockCopy } from "@/cms/site-content";
 import Image from "next/image";
 import Link from "next/link";
 import {
@@ -24,31 +25,22 @@ import {
 } from "./interactions";
 import { Button } from "./ui/button";
 import { ConsentMap, CookieSettingsButton } from "./ui/cookie-consent";
-import { homePage, type HomeBlock } from "@/content/pages";
-import {
-  services,
-  serviceHref,
-  priceGroups,
-  categoryDescriptions,
-  site,
-  jobs,
-  type Service,
-  type Category,
-  type PriceGroup,
-} from "@/content/site";
+import type { HomeBlock } from "@/content/pages";
+import { serviceHref, type Service, type Category, type PriceGroup } from "@/content/site";
 import { euro } from "@/lib/utils";
-import legal from "@/content/legal.json";
+import { imagePath } from "@/lib/image-path";
 
-export function Breadcrumbs({
+export async function Breadcrumbs({
   current,
   parent,
 }: {
   current: string;
   parent?: { label: string; href: string };
 }) {
+  const { copy } = await getSiteContent();
   return (
-    <nav className="breadcrumbs container" aria-label="Brotkrumennavigation">
-      <Link href="/">Startseite</Link>
+    <nav className="breadcrumbs container" aria-label={copy.breadcrumbs.ariaLabel}>
+      <Link href={copy.breadcrumbs.link}>{copy.breadcrumbs.linkText}</Link>
       <span>/</span>
       {parent && (
         <>
@@ -79,7 +71,13 @@ export function PageIntro({
     </div>
   );
 }
-function HomeHero({ block }: { block: Extract<HomeBlock, { blockType: "hero" }> }) {
+function HomeHero({
+  block,
+  copy,
+}: {
+  block: Extract<HomeBlock, { blockType: "hero" }>;
+  copy: BlockCopy;
+}) {
   return (
     <section className="home-hero">
       <div className="hero-copy">
@@ -97,37 +95,38 @@ function HomeHero({ block }: { block: Extract<HomeBlock, { blockType: "hero" }> 
         <p className="hero-description">{block.description}</p>
         <div className="hero-cta">
           <BookButton />
-          <Link href="/leistungen/" className="text-link">
-            Treatments entdecken <ArrowDown size={15} />
+          <Link href={copy.homeHero.link} className="text-link">
+            {copy.homeHero.linkText}
+            <ArrowDown size={15} />
           </Link>
         </div>
         <div className="hero-footnote">
           <Flower2 size={24} strokeWidth={1} />
-          <span>Individuell. Achtsam. Für Sie.</span>
+          <span>{copy.homeHero.text}</span>
         </div>
       </div>
       <div className="hero-image-wrap">
         <div className="hero-image">
           <Image
-            src={`/images/${block.image}`}
-            alt="Redaktionelles Beauty-Motiv: ein ruhiger Moment in warmem Sonnenlicht"
+            src={imagePath(block.image)}
+            alt={copy.homeHero.imageAlt}
             fill
             priority
             sizes="(max-width: 800px) 100vw, 50vw"
           />
         </div>
         <Link
-          href="/ueber-uns/"
+          href={copy.homeHero.link2}
           className="hero-image-caption"
-          aria-label="Unser Studio kennenlernen"
+          aria-label={copy.homeHero.ariaLabel}
         >
-          <span>Weniger Alltag.</span>
-          <em>Mehr Sie.</em>
+          <span>{copy.homeHero.text2}</span>
+          <em>{copy.homeHero.emphasis}</em>
           <ArrowUpRight size={24} strokeWidth={1} />
         </Link>
-        <span className="hero-image-side">THE ART OF PERSONAL BEAUTY</span>
+        <span className="hero-image-side">{copy.homeHero.text3}</span>
       </div>
-      <a href="#treatments" className="hero-scroll" aria-label="Treatments entdecken">
+      <a href={copy.homeHero.link3} className="hero-scroll" aria-label={copy.homeHero.ariaLabel2}>
         <ArrowDown size={18} />
       </a>
     </section>
@@ -135,29 +134,31 @@ function HomeHero({ block }: { block: Extract<HomeBlock, { blockType: "hero" }> 
 }
 export function StudioStory({
   block,
+  copy,
 }: {
   block: Extract<HomeBlock, { blockType: "studioStory" }>;
+  copy: BlockCopy;
 }) {
   return (
     <section className="studio-story section-pad container">
       <div className="studio-images">
         <div className="studio-main-image">
           <Image
-            src={`/images/${block.image}`}
-            alt="Der einladende Empfangsbereich unseres Studios in Köln Weiden"
+            src={imagePath(block.image)}
+            alt={copy.studioStory.imageAlt}
             fill
             sizes="(max-width:800px) 85vw, 40vw"
           />
         </div>
         <div className="studio-secondary-image">
           <Image
-            src={`/images/${block.secondaryImage}`}
-            alt="Detail unseres gemütlichen Pedikürebereichs"
+            src={imagePath(block.secondaryImage)}
+            alt={copy.studioStory.imageAlt2}
             fill
             sizes="(max-width:800px) 45vw, 22vw"
           />
         </div>
-        <span className="studio-image-label">KÖLN WEIDEN · SEIT 2019</span>
+        <span className="studio-image-label">{copy.studioStory.text}</span>
       </div>
       <div className="studio-story-copy">
         <p className="eyebrow">{block.eyebrow}</p>
@@ -170,39 +171,46 @@ export function StudioStory({
           ))}
         </h2>
         <p>{block.text}</p>
-        <Link href="/ueber-uns/" className="text-link">
-          Unsere Geschichte kennenlernen <ArrowUpRight size={16} />
+        <Link href={copy.studioStory.link} className="text-link">
+          {copy.studioStory.linkText}
+          <ArrowUpRight size={16} />
         </Link>
         <div className="founder-signature">
-          <span>Albina</span>
-          <small>INHABERIN & IHRE GASTGEBERIN</small>
+          <span>{copy.studioStory.text2}</span>
+          <small>{copy.studioStory.text3}</small>
         </div>
       </div>
     </section>
   );
 }
-export function HomeBlockRenderer({ blocks = homePage.layout }: { blocks?: HomeBlock[] }) {
+export async function HomeBlockRenderer({ blocks }: { blocks?: HomeBlock[] }) {
+  const { homeBlocks, copy, services, categoryDescriptions } = await getSiteContent();
   return (
     <>
-      {blocks.map((block) => (
+      {(blocks ?? homeBlocks).map((block) => (
         <div key={block.id} id={block.id} data-block-type={block.blockType}>
-          {renderHomeBlock(block)}
+          {renderHomeBlock(block, copy, services, categoryDescriptions)}
         </div>
       ))}
     </>
   );
 }
-function renderHomeBlock(block: HomeBlock) {
+function renderHomeBlock(
+  block: HomeBlock,
+  copy: BlockCopy,
+  services: Service[],
+  categoryDescriptions: Record<Category, string>,
+) {
   switch (block.blockType) {
     case "hero":
-      return <HomeHero block={block} />;
+      return <HomeHero block={block} copy={copy} />;
     case "brands":
       return (
-        <section className="brand-strip container" aria-label="Unsere Pflegemarken">
+        <section className="brand-strip container" aria-label={copy.homeBrands.ariaLabel}>
           <span className="brand-strip-label">
-            GUTE PFLEGE.
+            {copy.homeBrands.text}
             <br />
-            AUSGEWÄHLTE PARTNER.
+            {copy.homeBrands.text2}
           </span>
           {block.brands.map((brand) => (
             <span
@@ -231,8 +239,9 @@ function renderHomeBlock(block: HomeBlock) {
             </div>
             <div>
               <p>{block.description}</p>
-              <Link href="/leistungen/" className="text-link">
-                Alle Treatments entdecken <ArrowUpRight size={16} />
+              <Link href={copy.homeTreatments.link} className="text-link">
+                {copy.homeTreatments.linkText}
+                <ArrowUpRight size={16} />
               </Link>
             </div>
           </div>
@@ -245,7 +254,7 @@ function renderHomeBlock(block: HomeBlock) {
         </section>
       );
     case "studioStory":
-      return <StudioStory block={block} />;
+      return <StudioStory block={block} copy={copy} />;
     case "philosophy":
       return (
         <section className="philosophy-section section-pad">
@@ -276,12 +285,12 @@ function renderHomeBlock(block: HomeBlock) {
                   key={cat}
                   href={
                     cat === "Gesicht"
-                      ? "/leistungen/kosmetische-behandlungen/"
+                      ? copy.homePhilosophy.link
                       : cat === "Körper & Entspannung"
-                        ? "/leistungen/wellness/"
+                        ? copy.homePhilosophy.link2
                         : cat === "Physiotherapie"
-                          ? "/leistungen/private-physiotherapie/"
-                          : "/leistungen/"
+                          ? copy.homePhilosophy.link3
+                          : copy.homePhilosophy.link4
                   }
                 >
                   <span className="eyebrow">0{i + 1}</span>
@@ -308,8 +317,9 @@ function renderHomeBlock(block: HomeBlock) {
                 <em>{block.title.split("\n")[1]}</em>
               </h2>
             </div>
-            <Link className="text-link" href="/galerie/">
-              Mehr Einblicke <ArrowUpRight size={16} />
+            <Link className="text-link" href={copy.homeGallery.link}>
+              {copy.homeGallery.linkText}
+              <ArrowUpRight size={16} />
             </Link>
           </div>
           <StudioGallery preview />
@@ -322,12 +332,13 @@ function renderHomeBlock(block: HomeBlock) {
             <p className="eyebrow">{block.eyebrow}</p>
             <h2>{block.title}</h2>
             <p>
-              Noch eine Frage?
+              {copy.homeFaq.text}
               <br />
-              Wir sind gerne für Sie da.
+              {copy.homeFaq.text2}
             </p>
-            <Link href="/kontakt/" className="text-link">
-              Kontakt aufnehmen <ArrowUpRight size={16} />
+            <Link href={copy.homeFaq.link} className="text-link">
+              {copy.homeFaq.linkText}
+              <ArrowUpRight size={16} />
             </Link>
           </div>
           <FAQ items={block.items} />
@@ -337,61 +348,53 @@ function renderHomeBlock(block: HomeBlock) {
       return <ClosingInvitation />;
   }
 }
-export function CatalogPage({ category }: { category?: "Gesicht" | "Körper & Entspannung" }) {
+export async function CatalogPage({ category }: { category?: "Gesicht" | "Körper & Entspannung" }) {
+  const { categoryDescriptions, copy } = await getSiteContent();
   return (
     <>
-      <Breadcrumbs current={category || "Treatments"} />
+      <Breadcrumbs current={category || copy.catalogIntro.text} />
       <PageIntro
-        eyebrow="Ihre persönliche Auszeit"
+        eyebrow={copy.catalogIntro.eyebrow}
         title={
           category === "Gesicht"
-            ? "Die Kunst schöner Hautpflege."
+            ? copy.catalogIntro.title
             : category === "Körper & Entspannung"
-              ? "Wohlfühlen beginnt bei Ihnen."
-              : "Was tut Ihnen heute gut?"
+              ? copy.catalogIntro.title2
+              : copy.catalogIntro.title3
         }
-        description={
-          category
-            ? categoryDescriptions[category]
-            : "Entdecken Sie unsere Welt aus Hautpflege, Beauty und Wohlbefinden. Persönlich ausgewählt. Sorgfältig auf Sie abgestimmt."
-        }
+        description={category ? categoryDescriptions[category] : copy.catalogIntro.description}
       />
       <section className="container catalog-section">
-        <h2 className="sr-only">Unsere Treatments im Überblick</h2>
+        <h2 className="sr-only">{copy.catalogResults.heading}</h2>
         <TreatmentExplorer key={category || "Alle"} initialCategory={category || "Alle"} />
       </section>
       <section className="consultation-strip container">
         <Flower2 size={34} strokeWidth={1} />
         <div>
-          <h2>Noch auf der Suche nach Ihrem Treatment?</h2>
-          <p>Wir beraten Sie persönlich und finden gemeinsam Ihre passende Pflege.</p>
+          <h2>{copy.catalogConsultation.heading}</h2>
+          <p>{copy.catalogConsultation.text}</p>
         </div>
         <BookButton variant="outline">
-          Beratung anfragen <ArrowUpRight size={16} />
+          {copy.catalogConsultation.buttonText}
+          <ArrowUpRight size={16} />
         </BookButton>
       </section>
       <ClosingInvitation />
     </>
   );
 }
-export function groupsForService(service: Service): PriceGroup[] {
-  const groups = priceGroups.filter((g) => service.priceIds.includes(g.id));
-  if (service.slug === "klassische-gesichtsbehandlung")
-    return groups.map((g) => ({
-      ...g,
-      items: g.items.filter(
-        (i) => i.name.includes("Gesichtsreinigung") || i.name.includes("jugendliche Haut"),
-      ),
-    }));
-  if (service.slug === "is-clinical-behandlung")
-    return groups.map((g) => ({
-      ...g,
-      items: g.items.filter((i) => !i.name.includes("Gesichtsreinigung")),
-    }));
-  return groups;
+function groupsForService(service: Service, priceGroups: PriceGroup[]): PriceGroup[] {
+  return priceGroups
+    .filter((group) => service.priceIds.includes(group.id))
+    .map((group) => ({
+      ...group,
+      items: group.items.filter((item) => !item.treatment || item.treatment === service.slug),
+    }))
+    .filter((group) => group.items.length > 0);
 }
-export function ServicePage({ service }: { service: Service }) {
-  const groups = groupsForService(service);
+export async function ServicePage({ service }: { service: Service }) {
+  const { services, priceGroups, copy } = await getSiteContent();
+  const groups = groupsForService(service, priceGroups);
   const first =
     service.slug === "klassische-gesichtsbehandlung"
       ? groups.find((g) => g.id === "klassische-gesichtspflege")?.items[0]
@@ -403,7 +406,7 @@ export function ServicePage({ service }: { service: Service }) {
     <>
       <Breadcrumbs
         current={service.label || service.title}
-        parent={{ label: "Treatments", href: "/leistungen/" }}
+        parent={{ label: copy.serviceHero.text, href: "/leistungen/" }}
       />
       <section className="container service-hero">
         <div className="service-hero-copy">
@@ -417,18 +420,22 @@ export function ServicePage({ service }: { service: Service }) {
             {first && (
               <>
                 <span className="meta-divider" />
-                <span>ab {euro(first.price)}</span>
+                <span>
+                  {copy.serviceHero.text2}
+                  {euro(first.price)}
+                </span>
               </>
             )}
           </div>
           <BookButton service={service.title} />
-          <a className="text-link" href="#behandlungen-preise">
-            Behandlungen & Preise <ArrowDown size={15} />
+          <a className="text-link" href={copy.serviceHero.link}>
+            {copy.serviceHero.linkText}
+            <ArrowDown size={15} />
           </a>
         </div>
         <div className={`service-hero-image ${service.slug === "exosome" ? "product-image" : ""}`}>
           <Image
-            src={`/images/${service.image}`}
+            src={imagePath(service.image)}
             alt={service.imageAlt}
             fill
             priority
@@ -447,37 +454,37 @@ export function ServicePage({ service }: { service: Service }) {
       </div>
       <section className="container treatment-story section-pad">
         <div>
-          <p className="eyebrow">Ein Treatment, so persönlich wie Sie</p>
+          <p className="eyebrow">{copy.serviceStory.eyebrow}</p>
           <h2>
             {service.category === "Physiotherapie" ? (
               <>
-                Für mehr Bewegung.
+                {copy.serviceStory.text}
                 <br />
-                <em>Für Ihr Wohlbefinden.</em>
+                <em>{copy.serviceStory.emphasis}</em>
               </>
             ) : service.slug === "massage" ? (
               <>
-                Ein Moment Ruhe.
+                {copy.serviceStory.text2}
                 <br />
-                <em>Ganz für Sie.</em>
+                <em>{copy.serviceStory.emphasis2}</em>
               </>
             ) : service.category === "Beauty Essentials" ? (
               <>
-                Für die Details,
+                {copy.serviceStory.text3}
                 <br />
-                <em>die Sie ausmachen.</em>
+                <em>{copy.serviceStory.emphasis3}</em>
               </>
             ) : service.slug === "body-fx-by-inmode" ? (
               <>
-                Ihr Körper.
+                {copy.serviceStory.text4}
                 <br />
-                <em>Ihr gutes Gefühl.</em>
+                <em>{copy.serviceStory.emphasis4}</em>
               </>
             ) : (
               <>
-                Für Ihr ganz
+                {copy.serviceStory.text5}
                 <br />
-                <em>eigenes Hautgefühl.</em>
+                <em>{copy.serviceStory.emphasis5}</em>
               </>
             )}
           </h2>
@@ -494,15 +501,16 @@ export function ServicePage({ service }: { service: Service }) {
       </section>
       {service.slug === "kosmetische-behandlungen/hydrafacial" && (
         <section className="container hydra-steps">
-          <p className="eyebrow">Ihr Treatment, Schritt für Schritt</p>
+          <p className="eyebrow">{copy.serviceHydraSteps.eyebrow}</p>
           <h2>
-            Vier Schritte. <em>Ein Frischemoment.</em>
+            {copy.serviceHydraSteps.heading}
+            <em>{copy.serviceHydraSteps.emphasis}</em>
           </h2>
           <div>
-            {["Abtragen", "Peelen", "Ausreinigen", "Hydratisieren"].map((title, i) => (
+            {copy.serviceHydraSteps.steps.map(({ title, image }, i) => (
               <article key={title}>
                 <Image
-                  src={`/images/${["HydrafacialMD_Schritt_1-1024x576.jpg", "HydrafacialMD_Schritt_2-1024x576.jpg", "HydrafacialMD_Schritt_3.jpg", "HydrafacialMD_Schritt_4-1024x576.jpg"][i]}`}
+                  src={imagePath(image)}
                   alt={`HydraFacial Schritt ${i + 1}: ${title}`}
                   width={400}
                   height={225}
@@ -518,40 +526,29 @@ export function ServicePage({ service }: { service: Service }) {
         <div className="container">
           <div className="section-heading">
             <div>
-              <p className="eyebrow">Zeit für Ihre Pflege</p>
+              <p className="eyebrow">{copy.servicePrices.eyebrow}</p>
               <h2>
-                Ihr Treatment.
+                {copy.servicePrices.heading}
                 <br />
-                <em>Auf einen Blick.</em>
+                <em>{copy.servicePrices.emphasis}</em>
               </h2>
             </div>
-            <Link href="/preisliste/" className="text-link">
-              Die gesamte Preisliste <ArrowUpRight size={16} />
+            <Link href={copy.servicePrices.link} className="text-link">
+              {copy.servicePrices.linkText}
+              <ArrowUpRight size={16} />
             </Link>
           </div>
           <PriceList groups={groups} compact />
         </div>
       </section>
       <section className="container visit-steps section-pad">
-        <p className="eyebrow">Bei uns sind Sie in guten Händen</p>
+        <p className="eyebrow">{copy.serviceVisit.eyebrow}</p>
         <h2>
-          Ihr Besuch. <em>In aller Ruhe.</em>
+          {copy.serviceVisit.heading}
+          <em>{copy.serviceVisit.emphasis}</em>
         </h2>
         <div>
-          {[
-            {
-              title: "Wir lernen Sie kennen.",
-              text: "Ihre Wünsche, Ihr Hautgefühl und Ihre Fragen stehen zuerst. Gemeinsam besprechen wir die passende Behandlung.",
-            },
-            {
-              title: "Ihr persönlicher Moment.",
-              text: "Wir stimmen die Anwendung auf Sie ab und nehmen uns die Zeit für eine sorgfältige, achtsame Behandlung.",
-            },
-            {
-              title: "Ein gutes Gefühl für danach.",
-              text: "Sie erhalten auf Wunsch passende Pflegeempfehlungen. Weitere Termine planen wir gemeinsam mit Ihnen.",
-            },
-          ].map((step, i) => (
+          {copy.serviceVisit.steps.map((step, i) => (
             <article key={step.title}>
               <span>0{i + 1}</span>
               <h3>{step.title}</h3>
@@ -562,34 +559,17 @@ export function ServicePage({ service }: { service: Service }) {
       </section>
       <section className="container service-faq section-pad">
         <h2>
-          Ihre Fragen. <em>Unsere Antworten.</em>
+          {copy.serviceFaq.heading}
+          <em>{copy.serviceFaq.emphasis}</em>
         </h2>
-        <FAQ
-          items={[
-            {
-              question: "Ist dieses Treatment das richtige für mich?",
-              answer:
-                "Das klären wir in einem persönlichen Beratungsgespräch. Bitte informieren Sie uns vorab über Besonderheiten Ihrer Haut, aktuelle Behandlungen oder gesundheitliche Fragen.",
-            },
-            {
-              question: "Wie kann ich einen Termin vereinbaren?",
-              answer:
-                "Über „Termin vereinbaren“ bereiten Sie Ihre Anfrage vor und öffnen sie anschließend in WhatsApp. Alternativ können Sie uns anrufen oder eine E-Mail schreiben. Wir bestätigen Ihren Termin persönlich.",
-            },
-            {
-              question: "Was sollte ich vor meinem Besuch beachten?",
-              answer:
-                "Die Vorbereitung hängt von der gewählten Behandlung ab. Fragen Sie uns bei der Terminvereinbarung nach den passenden Hinweisen. Wir beraten Sie auch zur Nachpflege.",
-            },
-          ]}
-        />
+        <FAQ items={copy.serviceFaq.questions} />
       </section>
       {related.length > 0 && (
         <section className="container section-pad">
           <div className="section-heading">
             <div>
-              <p className="eyebrow">Vielleicht auch etwas für Sie</p>
-              <h2>Mehr Wohlfühlmomente.</h2>
+              <p className="eyebrow">{copy.serviceRelated.eyebrow}</p>
+              <h2>{copy.serviceRelated.heading}</h2>
             </div>
           </div>
           <div className="featured-grid">
@@ -603,50 +583,40 @@ export function ServicePage({ service }: { service: Service }) {
     </>
   );
 }
-export function PricesPage() {
+export async function PricesPage() {
+  const { copy } = await getSiteContent();
   return (
     <>
-      <Breadcrumbs current="Behandlungen & Preise" />
+      <Breadcrumbs current={copy.pricesIntro.current} />
       <PageIntro
-        eyebrow="Klar. Persönlich. Auf einen Blick."
-        title="Ein Moment für Sie.\nEin gutes Gefühl dabei."
-        description="Entdecken Sie unsere Behandlungen und Preise. Gerne beraten wir Sie bei der Auswahl Ihres persönlichen Pflegerituals."
+        eyebrow={copy.pricesIntro.eyebrow}
+        title={copy.pricesIntro.title}
+        description={copy.pricesIntro.description}
       />
       <section className="container section-pad-top">
-        <h2 className="sr-only">Die gesamte Preisliste</h2>
+        <h2 className="sr-only">{copy.pricesResults.heading}</h2>
         <PriceExplorer />
       </section>
       <ClosingInvitation />
     </>
   );
 }
-export function AboutPage({ teamOnly = false }: { teamOnly?: boolean }) {
+export async function AboutPage({ teamOnly = false }: { teamOnly?: boolean }) {
+  const { copy } = await getSiteContent();
   return (
     <>
-      <Breadcrumbs current={teamOnly ? "Unser Team" : "Unser Studio"} />
+      <Breadcrumbs current={teamOnly ? copy.aboutIntro.current : copy.aboutIntro.current2} />
       <PageIntro
-        eyebrow={
-          teamOnly
-            ? "Die Menschen hinter Ihrem Wohlfühlmoment"
-            : "Die Philosophie von Albina Beauty Concept"
-        }
-        title={
-          teamOnly
-            ? "Mit Herz. Mit Erfahrung.\nGanz für Sie."
-            : "Schönheit ist persönlich.\nUnsere Pflege auch."
-        }
-        description={
-          teamOnly
-            ? "Lernen Sie die Menschen kennen, die Ihren Besuch besonders machen."
-            : "Wir glauben an Pflege, die mehr kann als nur gut aussehen. An persönliche Begegnungen. Und an kleine Auszeiten mit großer Wirkung."
-        }
+        eyebrow={teamOnly ? copy.aboutIntro.eyebrow : copy.aboutIntro.eyebrow2}
+        title={teamOnly ? copy.aboutIntro.title : copy.aboutIntro.title2}
+        description={teamOnly ? copy.aboutIntro.description : copy.aboutIntro.description2}
       />
       {!teamOnly && (
         <>
           <div className="container about-wide-image">
             <Image
-              src="/images/photo_2021-10-02_23-07-13-1024x1024.jpg"
-              alt="Willkommen im Albina Beauty Concept Studio"
+              src={imagePath(copy.aboutImage.image)}
+              alt={copy.aboutImage.imageAlt}
               fill
               priority
               sizes="90vw"
@@ -655,53 +625,32 @@ export function AboutPage({ teamOnly = false }: { teamOnly?: boolean }) {
           <section className="container founder-story section-pad">
             <div className="founder-portrait">
               <Image
-                src="/images/albina_beautyconcept_fotograf_anuanet_studio-1616-604x1024.jpg"
-                alt="Albina Letova, Gründerin von Albina Beauty Concept"
+                src={imagePath(copy.aboutFounder.image)}
+                alt={copy.aboutFounder.imageAlt}
                 fill
                 sizes="(max-width:800px) 80vw, 35vw"
               />
             </div>
             <div>
-              <p className="eyebrow">Hallo, ich bin Albina.</p>
+              <p className="eyebrow">{copy.aboutFounder.eyebrow}</p>
               <h2>
-                Zwei Berufe.
+                {copy.aboutFounder.heading}
                 <br />
-                Eine Leidenschaft.
+                {copy.aboutFounder.heading2}
                 <br />
-                <em>Ihr Wohlbefinden.</em>
+                <em>{copy.aboutFounder.emphasis}</em>
               </h2>
-              <p>
-                Als Physiotherapeutin und Kosmetikerin betrachte ich Schönheit und Wohlbefinden
-                ganzheitlich. Beide Berufe verbindet für mich die Freude daran, Menschen etwas Gutes
-                zu tun.
-              </p>
-              <p>
-                Seit 2019 ist Albina Beauty Concept mein Ort dafür. Ein Studio, in dem moderne
-                Behandlungen auf persönliche Aufmerksamkeit treffen. Wo wir zuhören, bevor wir
-                beginnen – und gemeinsam mit Ihnen einen individuellen Beauty-Plan entwickeln.
-              </p>
-              <p>Ich freue mich darauf, Sie kennenzulernen.</p>
-              <span className="signature">Albina</span>
+              <p>{copy.aboutFounder.text}</p>
+              <p>{copy.aboutFounder.text2}</p>
+              <p>{copy.aboutFounder.text3}</p>
+              <span className="signature">{copy.aboutFounder.text4}</span>
             </div>
           </section>
           <section className="values-section">
             <div className="container">
-              <p className="eyebrow">Was uns wichtig ist</p>
+              <p className="eyebrow">{copy.aboutValues.eyebrow}</p>
               <div>
-                {[
-                  {
-                    title: "Persönlichkeit",
-                    text: "Jede Haut ist anders. Jeder Mensch auch. Deshalb beginnt jede Behandlung mit einem Gespräch.",
-                  },
-                  {
-                    title: "Sorgfalt",
-                    text: "Professionelle Produkte, sorgfältige Handarbeit und die passende Technik – für eine Pflege, die zu Ihnen passt.",
-                  },
-                  {
-                    title: "Ganzheitlichkeit",
-                    text: "Kosmetik, Wellness und Physiotherapie vereinen wir zu einem Konzept für Schönheit und Wohlbefinden.",
-                  },
-                ].map((v, i) => (
+                {copy.aboutValues.values.map((v, i) => (
                   <article key={v.title}>
                     <span className="eyebrow">0{i + 1}</span>
                     <h3>{v.title}</h3>
@@ -716,15 +665,16 @@ export function AboutPage({ teamOnly = false }: { teamOnly?: boolean }) {
       <section className="container section-pad">
         <div className="section-heading">
           <div>
-            <p className="eyebrow">Persönlichkeiten mit Leidenschaft</p>
+            <p className="eyebrow">{copy.aboutTeam.eyebrow}</p>
             <h2>
-              Schön, Sie <em>kennenzulernen.</em>
+              {copy.aboutTeam.heading}
+              <em>{copy.aboutTeam.emphasis}</em>
             </h2>
           </div>
           <p>
-            Ein erfahrenes Team.
+            {copy.aboutTeam.text}
             <br />
-            Eine gemeinsame Liebe zum Detail.
+            {copy.aboutTeam.text2}
           </p>
         </div>
         <TeamGrid />
@@ -733,15 +683,16 @@ export function AboutPage({ teamOnly = false }: { teamOnly?: boolean }) {
     </>
   );
 }
-export function GalleryPage() {
+export async function GalleryPage() {
+  const { copy } = await getSiteContent();
   return (
     <>
-      <Breadcrumbs current="Einblicke" />
+      <Breadcrumbs current={copy.galleryIntro.current} />
       <PageIntro
         centered
-        eyebrow="Willkommen bei uns"
-        title="Ein Ort.\nViele schöne Momente."
-        description="Echte Einblicke in unser Studio, unsere Arbeit und die kleinen Details, die Ihren Besuch besonders machen."
+        eyebrow={copy.galleryIntro.eyebrow}
+        title={copy.galleryIntro.title}
+        description={copy.galleryIntro.description}
       />
       <section className="container gallery-page">
         <StudioGallery />
@@ -750,38 +701,39 @@ export function GalleryPage() {
     </>
   );
 }
-export function ContactPage() {
+export async function ContactPage() {
+  const { site, copy } = await getSiteContent();
   return (
     <>
-      <Breadcrumbs current="Kontakt & Anfahrt" />
+      <Breadcrumbs current={copy.contactIntro.current} />
       <PageIntro
-        eyebrow="Wir freuen uns auf Sie"
-        title="Ihr Weg zu uns.\nUnd zu sich selbst."
-        description="Eine Frage, ein Pflegewunsch oder Ihr nächster Termin – wir sind gerne persönlich für Sie da."
+        eyebrow={copy.contactIntro.eyebrow}
+        title={copy.contactIntro.title}
+        description={copy.contactIntro.description}
       />
       <section className="container contact-layout">
         <div className="contact-image">
           <Image
-            src="/images/photo_2021-10-02_23-02-47-1024x739.jpg"
-            alt="Behandlungsraum und professionelle Pflege im Albina Beauty Studio"
+            src={imagePath(copy.contactDetails.image)}
+            alt={copy.contactDetails.imageAlt}
             fill
             priority
             sizes="(max-width:800px) 100vw, 45vw"
           />
         </div>
         <div className="contact-details">
-          <p className="eyebrow">Albina Beauty Concept</p>
+          <p className="eyebrow">{copy.contactDetails.eyebrow}</p>
           <h2>
-            Besuchen Sie uns
+            {copy.contactDetails.heading}
             <br />
-            <em>in Köln Weiden.</em>
+            <em>{copy.contactDetails.emphasis}</em>
           </h2>
           <div className="contact-item contact-location">
             <div className="contact-location-body">
               <div className="contact-location-address">
                 <MapPin size={19} aria-hidden="true" />
                 <div className="contact-location-copy">
-                  <span>Unser Studio</span>
+                  <span>{copy.contactDetails.text}</span>
                   <p>
                     {site.address}
                     <br />
@@ -793,7 +745,8 @@ export function ContactPage() {
                     rel="noopener noreferrer"
                     className="text-link"
                   >
-                    Route planen <ArrowUpRight size={15} />
+                    {copy.contactDetails.linkText}
+                    <ArrowUpRight size={15} />
                   </a>
                 </div>
               </div>
@@ -806,19 +759,19 @@ export function ContactPage() {
           <div className="contact-item">
             <Phone size={18} />
             <div>
-              <span>Rufen Sie uns an</span>
+              <span>{copy.contactDetails.text2}</span>
               <a href={site.phoneHref}>{site.phone}</a>
-              <a href="tel:+491723771177">{site.mobile}</a>
+              <a href={site.mobileHref}>{site.mobile}</a>
             </div>
           </div>
           <div className="contact-item">
             <Mail size={18} />
             <div>
-              <span>Schreiben Sie uns</span>
+              <span>{copy.contactDetails.text3}</span>
               <a href={`mailto:${site.email}`}>{site.email}</a>
             </div>
           </div>
-          <p className="contact-timing">Termine nach persönlicher Vereinbarung.</p>
+          <p className="contact-timing">{copy.contactDetails.text4}</p>
           <BookButton />
         </div>
       </section>
@@ -826,21 +779,19 @@ export function ContactPage() {
     </>
   );
 }
-export function CareersPage() {
+export async function CareersPage() {
+  const { site, jobs, copy } = await getSiteContent();
   return (
     <>
-      <Breadcrumbs current="Karriere" />
+      <Breadcrumbs current={copy.careersIntro.current} />
       <PageIntro
-        eyebrow="Gemeinsam Schönes schaffen"
-        title="Ihre Leidenschaft.\nUnser nächstes Kapitel."
-        description="Sie lieben Ihren Beruf und möchten Menschen mit Ihrer Arbeit etwas Gutes tun? Dann lernen wir Sie gerne kennen."
+        eyebrow={copy.careersIntro.eyebrow}
+        title={copy.careersIntro.title}
+        description={copy.careersIntro.description}
       />
       <div className="container career-intro">
-        <p>
-          Bei Albina Beauty Concept erwartet Sie ein persönliches Team, hochwertige Produkte, ein
-          stilvolles Studio und Raum für Ihre fachliche Weiterentwicklung.
-        </p>
-        <span className="eyebrow">Unsere offenen Positionen</span>
+        <p>{copy.careersOverview.text}</p>
+        <span className="eyebrow">{copy.careersOverview.eyebrow}</span>
       </div>
       <section className="container jobs-list">
         {jobs.map((job, i) => (
@@ -855,7 +806,7 @@ export function CareersPage() {
             </summary>
             <div className="job-content">
               <div>
-                <h3>Das erwartet Sie</h3>
+                <h3>{copy.careersJobs.subheading}</h3>
                 <ul>
                   {job.tasks.map((t) => (
                     <li key={t}>{t}</li>
@@ -863,19 +814,17 @@ export function CareersPage() {
                 </ul>
               </div>
               <div>
-                <h3>Das bringen Sie mit</h3>
+                <h3>{copy.careersJobs.subheading2}</h3>
                 <p>{job.profile}</p>
-                <h3>Was wir Ihnen bieten</h3>
-                <p>
-                  Ein modernes Arbeitsumfeld, hochwertige Ausstattung, Weiterbildungsmöglichkeiten,
-                  attraktive Vergütung und ein kollegiales Team.
-                </p>
+                <h3>{copy.careersJobs.subheading3}</h3>
+                <p>{copy.careersJobs.text}</p>
               </div>
               <Button asChild>
                 <a
                   href={`mailto:${site.email}?subject=${encodeURIComponent(`Bewerbung als ${job.title}`)}`}
                 >
-                  Jetzt per E-Mail bewerben <ArrowUpRight size={16} />
+                  {copy.careersJobs.linkText}
+                  <ArrowUpRight size={16} />
                 </a>
               </Button>
             </div>
@@ -884,45 +833,45 @@ export function CareersPage() {
       </section>
       <section className="container career-contact section-pad">
         <h2>
-          Wir freuen uns auf <em>Ihre Persönlichkeit.</em>
+          {copy.careersContact.heading}
+          <em>{copy.careersContact.emphasis}</em>
         </h2>
         <p>
-          Senden Sie uns Ihren Lebenslauf, Zeugnisse und Zertifikate an{" "}
-          <a href={`mailto:${site.email}`}>{site.email}</a>. Ihre Bewerbung behandeln wir
-          vertraulich.
+          {copy.careersContact.text} <a href={`mailto:${site.email}`}>{site.email}</a>
+          {copy.careersContact.text2}
         </p>
       </section>
       <ClosingInvitation />
     </>
   );
 }
-export function ShopPage() {
+export async function ShopPage() {
+  const { copy } = await getSiteContent();
   return (
     <>
-      <Breadcrumbs current="Pflege für zu Hause" />
+      <Breadcrumbs current={copy.shopIntro.current} />
       <section className="container shop-editorial section-pad">
         <div>
-          <p className="eyebrow">Ihr Ritual geht weiter</p>
+          <p className="eyebrow">{copy.shopIntro.eyebrow}</p>
           <h1>
-            Ein Stück Pflege.
+            {copy.shopIntro.title}
             <br />
-            <em>Für jeden Tag.</em>
+            <em>{copy.shopIntro.emphasis}</em>
           </h1>
-          <p>
-            Die passende Pflege hört nicht an der Studiotür auf. Wir beraten Sie persönlich zu
-            Produkten von iS Clinical und NOON – abgestimmt auf Ihre Haut und Ihre Behandlungen.
-          </p>
-          <BookButton service="Produktberatung">
-            Produktberatung anfragen <ArrowUpRight size={16} />
+          <p>{copy.shopIntro.text}</p>
+          <BookButton service={copy.shopIntro.service}>
+            {copy.shopIntro.buttonText}
+            <ArrowUpRight size={16} />
           </BookButton>
-          <Link className="text-link" href="/kontakt/">
-            Persönlich Kontakt aufnehmen <ArrowUpRight size={16} />
+          <Link className="text-link" href={copy.shopIntro.link}>
+            {copy.shopIntro.linkText}
+            <ArrowUpRight size={16} />
           </Link>
         </div>
         <div className="shop-image">
           <Image
-            src="/images/noon.jpg"
-            alt="NOON Hautpflegeprodukte für die tägliche Pflegeroutine"
+            src={imagePath(copy.shopIntro.image)}
+            alt={copy.shopIntro.imageAlt}
             fill
             priority
             sizes="(max-width:800px) 100vw, 45vw"
@@ -933,24 +882,22 @@ export function ShopPage() {
     </>
   );
 }
-export function BookingPage() {
+export async function BookingPage() {
+  const { site, copy } = await getSiteContent();
   return (
     <>
-      <Breadcrumbs current="Termin vereinbaren" />
+      <Breadcrumbs current={copy.bookingPage.current} />
       <section className="container booking-page section-pad">
         <div>
-          <p className="eyebrow">Zeit für Sie</p>
+          <p className="eyebrow">{copy.bookingPage.eyebrow}</p>
           <h1>
-            Ihr nächster
+            {copy.bookingPage.title}
             <br />
-            <em>Wohlfühlmoment.</em>
+            <em>{copy.bookingPage.emphasis}</em>
           </h1>
-          <p>
-            Bereiten Sie Ihre Anfrage vor. In WhatsApp senden Sie die Nachricht anschließend selbst
-            an unser Team. Wir stimmen Ihren Termin persönlich mit Ihnen ab.
-          </p>
+          <p>{copy.bookingPage.text}</p>
           <div className="booking-direct">
-            <span>Lieber direkt?</span>
+            <span>{copy.bookingPage.text2}</span>
             <a href={site.phoneHref}>{site.phone}</a>
             <a href={`mailto:${site.email}`}>{site.email}</a>
           </div>
@@ -962,20 +909,21 @@ export function BookingPage() {
     </>
   );
 }
-export function LegalPage({ slug }: { slug: string }) {
+export async function LegalPage({ slug }: { slug: string }) {
+  const { legal, copy } = await getSiteContent();
   const content = legal[slug as keyof typeof legal];
   if (!content) return null;
   return (
     <>
       <Breadcrumbs current={content.title} />
-      <PageIntro eyebrow="Informationen & Transparenz" title={content.title} />
+      <PageIntro eyebrow={copy.legalLayout.eyebrow} title={content.title} />
       <section className="container legal-layout">
         <aside>
-          <Link href="/impressum/">Impressum</Link>
-          <Link href="/datenschutzerklaerung/">Datenschutz</Link>
-          <Link href="/cookie-richtlinie-eu/">Cookie-Richtlinie</Link>
+          <Link href={copy.legalLayout.link}>{copy.legalLayout.linkText}</Link>
+          <Link href={copy.legalLayout.link2}>{copy.legalLayout.linkText2}</Link>
+          <Link href={copy.legalLayout.link3}>{copy.legalLayout.linkText3}</Link>
           {slug === "cookie-richtlinie-eu" && <CookieSettingsButton />}
-          <Link href="/kontakt/">Kontakt</Link>
+          <Link href={copy.legalLayout.link4}>{copy.legalLayout.linkText4}</Link>
         </aside>
         <div className="legal-copy">
           {content.body
@@ -988,21 +936,22 @@ export function LegalPage({ slug }: { slug: string }) {
     </>
   );
 }
-export function ArchivePage({ author = false }: { author?: boolean }) {
+export async function ArchivePage({ author = false }: { author?: boolean }) {
+  const { copy } = await getSiteContent();
   return (
     <>
-      <Breadcrumbs current={author ? "Autor: Albina" : "Archiv"} />
+      <Breadcrumbs current={author ? copy.archiveIntro.current : copy.archiveIntro.current2} />
       <PageIntro
-        eyebrow="Albina Beauty Concept"
-        title={author ? "Aus unserem Studio." : "Das Beauty-Archiv."}
-        description="Unsere aktuellen Behandlungen und Preise finden Sie in der zentralen Übersicht."
+        eyebrow={copy.archiveIntro.eyebrow}
+        title={author ? copy.archiveIntro.title : copy.archiveIntro.title2}
+        description={copy.archiveIntro.description}
       />
       <section className="container archive-content">
-        <Link href="/preisliste/" className="archive-link">
+        <Link href={copy.archiveLink.link} className="archive-link">
           <div>
-            <p className="eyebrow">Behandlungen & Preise</p>
-            <h2>Ihre Pflege. Auf einen Blick.</h2>
-            <p>Entdecken Sie das aktuelle Angebot unseres Studios.</p>
+            <p className="eyebrow">{copy.archiveLink.eyebrow}</p>
+            <h2>{copy.archiveLink.heading}</h2>
+            <p>{copy.archiveLink.text}</p>
           </div>
           <ArrowUpRight size={30} />
         </Link>
