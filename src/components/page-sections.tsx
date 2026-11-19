@@ -418,13 +418,10 @@ export async function ServicePage({ service }: { service: Service }) {
           <div className="service-meta">
             <span>{service.duration}</span>
             {first && (
-              <>
-                <span className="meta-divider" />
-                <span>
-                  {copy.serviceHero.text2}
-                  {euro(first.price)}
-                </span>
-              </>
+              <span>
+                {copy.serviceHero.text2}
+                {euro(first.price)}
+              </span>
             )}
           </div>
           <BookButton service={service.title} />

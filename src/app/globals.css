@@ -619,8 +619,9 @@ select:focus {
 }
 .service-card-heading {
   display: flex;
+  flex-wrap: wrap;
   justify-content: space-between;
-  gap: 12px;
+  gap: 6px 12px;
   align-items: baseline;
   margin-top: 20px;
 }
@@ -630,9 +631,9 @@ select:focus {
   letter-spacing: -0.03em;
 }
 .service-card-heading > span {
-  font-size: 9px;
-  color: var(--muted);
-  white-space: nowrap;
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--foreground);
 }
 .service-card > p {
   font-size: 11px;
@@ -1144,16 +1145,17 @@ summary::-webkit-details-marker {
 }
 .service-meta {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
-  gap: 15px;
+  gap: 8px 15px;
   margin: 24px 0;
-  font-size: 11px;
-  color: var(--muted);
+  font-size: 1.125rem;
+  font-weight: 600;
 }
-.meta-divider {
-  height: 13px;
-  width: 1px;
-  background: var(--line);
+.service-meta > span + span {
+  border-inline-start: 1px solid var(--line);
+  padding-inline-start: 15px;
+  font-weight: 700;
 }
 .service-hero-copy > .text-link {
   margin: 22px 0 0;
@@ -1309,6 +1311,15 @@ summary::-webkit-details-marker {
 }
 .price-groups-compact .price-item-action {
   gap: 14px;
+}
+.price-groups-compact .price-duration {
+  font-size: 0.9375rem;
+  font-weight: 600;
+  color: var(--foreground);
+}
+.price-groups-compact .price-item-action > span {
+  font-size: 1.25rem;
+  font-weight: 700;
 }
 .visit-steps > h2 {
   margin: 17px 0 42px;
@@ -2175,9 +2186,6 @@ summary::-webkit-details-marker {
   .service-card h3 {
     font-size: 26px;
   }
-  .service-card-heading > span {
-    font-size: 8px;
-  }
   .footer-grid {
     gap: 27px;
   }
@@ -2496,9 +2504,6 @@ summary::-webkit-details-marker {
     gap: 6px;
     margin-top: 17px;
   }
-  .service-card-heading > span {
-    font-size: 9px;
-  }
   .service-card > p {
     font-size: 10px;
   }
@@ -2639,10 +2644,6 @@ summary::-webkit-details-marker {
   }
   .service-hero-copy > p:not(.eyebrow) {
     font-size: 11px;
-  }
-  .service-meta {
-    font-size: 10px;
-    gap: 10px;
   }
   .service-hero-copy > .button {
     font-size: 10px;
@@ -2961,10 +2962,7 @@ summary::-webkit-details-marker {
   .service-card-heading {
     flex-direction: row;
     align-items: baseline;
-    gap: 12px;
-  }
-  .service-card-heading > span {
-    font-size: 9px;
+    gap: 6px 12px;
   }
   .service-card > p {
     font-size: 11px;
@@ -3268,8 +3266,6 @@ summary::-webkit-details-marker {
   }
   .service-meta {
     margin: 20px 0;
-    font-size: 11px;
-    gap: 13px;
   }
   .service-hero-copy > .button {
     font-size: 10px;
@@ -3945,9 +3941,6 @@ summary::-webkit-details-marker {
 .service-card > p {
   font-size: 13px;
 }
-.service-card-heading > span {
-  font-size: 10px;
-}
 .philosophy-links p {
   font-size: 12px;
 }
@@ -3992,9 +3985,6 @@ summary::-webkit-details-marker {
   font-size: 11px;
 }
 .benefit-strip > span {
-  font-size: 12px;
-}
-.service-meta {
   font-size: 12px;
 }
 .treatment-detail p,
@@ -4108,9 +4098,6 @@ summary::-webkit-details-marker {
   .philosophy-links p {
     font-size: 11px;
   }
-  .service-card-heading > span {
-    font-size: 9px;
-  }
   .prices-sidebar > button {
     font-size: 10px;
   }
@@ -4138,9 +4125,6 @@ summary::-webkit-details-marker {
   }
   .service-card > p {
     font-size: 13px;
-  }
-  .service-card-heading > span {
-    font-size: 10px;
   }
   .section-heading > div > p:not(.eyebrow),
   .studio-story-copy > p:not(.eyebrow) {
@@ -4183,9 +4167,6 @@ summary::-webkit-details-marker {
     font-size: 12px;
   }
   .benefit-strip > span {
-    font-size: 12px;
-  }
-  .service-meta {
     font-size: 12px;
   }
   .treatment-detail p,
