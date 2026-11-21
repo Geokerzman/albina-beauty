@@ -348,7 +348,7 @@ select:focus {
   margin-inline: auto;
   padding: 46px 64px 52px;
   display: grid;
-  grid-template-columns: minmax(0, 1.15fr) repeat(3, minmax(0, 1fr)) minmax(0, 0.95fr);
+  grid-template-columns: minmax(0, 1.15fr) repeat(4, minmax(0, 1fr)) minmax(0, 0.95fr);
   gap: 32px;
   overflow-wrap: anywhere;
 }
@@ -356,12 +356,23 @@ select:focus {
   font-size: 38px;
   margin: 12px 0 22px;
 }
-.mega-column .eyebrow {
+.mega-column .eyebrow,
+.mega-treatment-link {
   display: block;
   color: var(--accent);
   margin: 3px 0 20px;
   letter-spacing: 0.12em;
   font-size: 9px;
+}
+.mega-treatment-link {
+  display: flex;
+  align-items: flex-start;
+  align-self: start;
+  gap: 5px;
+}
+.mega-treatment-link:hover {
+  text-decoration: underline;
+  text-underline-offset: 3px;
 }
 .mega-column > a {
   display: block;
@@ -4144,7 +4155,8 @@ summary::-webkit-details-marker {
 .mega-column > a {
   font-size: 12px;
 }
-.mega-column .eyebrow {
+.mega-column .eyebrow,
+.mega-treatment-link {
   font-size: 10px;
 }
 .page-description,

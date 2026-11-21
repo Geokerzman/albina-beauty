@@ -21,12 +21,14 @@ import { Dialog, DialogContent, DialogTitle, DialogDescription } from "@/compone
 import { BookButton } from "@/components/booking";
 import { imagePath } from "@/lib/image-path";
 import { serviceHref, type Category } from "@/content/site";
-const categories: Category[] = [
+const laserTreatmentSlug = "laser-haarentfernung";
+const treatmentMenuEntries = [
   "Gesicht",
   "Körper & Entspannung",
   "Beauty Essentials",
+  laserTreatmentSlug,
   "Physiotherapie",
-];
+] as const satisfies readonly (Category | typeof laserTreatmentSlug)[];
 export function Wordmark() {
   const { copy } = useSiteContent();
   return (
@@ -81,6 +83,8 @@ function searchResults(
 
 export function Header() {
   const { site, services, copy } = useSiteContent();
+  const laserTreatment = services.find(({ slug }) => slug === laserTreatmentSlug);
+  const categorizedTreatments = services.filter(({ slug }) => slug !== laserTreatmentSlug);
   const [mega, setMega] = useState(false);
   const [mobile, setMobile] = useState(false);
   const [searchOpen, setSearchOpen] = useState(false);
@@ -255,22 +259,39 @@ export function Header() {
                       <ArrowUpRight size={15} />
                     </Link>
                   </div>
-                  {categories.map((cat) => (
-                    <div className="mega-column" key={cat}>
-                      <span className="eyebrow">{cat}</span>
-                      {services
-                        .filter((s) => s.category === cat)
-                        .map((s) => (
-                          <Link
-                            key={s.slug}
-                            href={serviceHref(s)}
-                            onNavigate={() => setMega(false)}
-                          >
-                            {s.label || s.title}
-                          </Link>
-                        ))}
-                    </div>
-                  ))}
+                  {treatmentMenuEntries.map((entry) =>
+                    entry === laserTreatmentSlug ? (
+                      laserTreatment && (
+                        <Link
+                          key={entry}
+                          className="eyebrow mega-treatment-link"
+                          href={serviceHref(laserTreatment)}
+                          aria-current={
+                            pathname === serviceHref(laserTreatment) ? "page" : undefined
+                          }
+                          onNavigate={() => setMega(false)}
+                        >
+                          <span>{laserTreatment.label || laserTreatment.title}</span>
+                          <ArrowUpRight size={12} aria-hidden="true" />
+                        </Link>
+                      )
+                    ) : (
+                      <div className="mega-column" key={entry}>
+                        <span className="eyebrow">{entry}</span>
+                        {categorizedTreatments
+                          .filter((s) => s.category === entry)
+                          .map((s) => (
+                            <Link
+                              key={s.slug}
+                              href={serviceHref(s)}
+                              onNavigate={() => setMega(false)}
+                            >
+                              {s.label || s.title}
+                            </Link>
+                          ))}
+                      </div>
+                    ),
+                  )}
                 </div>
               </div>
             )}
@@ -391,23 +412,37 @@ export function Header() {
               {copy.headerMobile.linkText}
               <ArrowUpRight />
             </Link>
-            {categories.map((cat) => (
-              <details key={cat}>
-                <summary>
-                  {cat}
-                  <ChevronDown size={18} />
-                </summary>
-                <div>
-                  {services
-                    .filter((s) => s.category === cat)
-                    .map((s) => (
-                      <Link key={s.slug} href={serviceHref(s)} onClick={() => setMobile(false)}>
-                        {s.label || s.title}
-                      </Link>
-                    ))}
-                </div>
-              </details>
-            ))}
+            {treatmentMenuEntries.map((entry) =>
+              entry === laserTreatmentSlug ? (
+                laserTreatment && (
+                  <Link
+                    key={entry}
+                    href={serviceHref(laserTreatment)}
+                    aria-current={pathname === serviceHref(laserTreatment) ? "page" : undefined}
+                    onClick={() => setMobile(false)}
+                  >
+                    {laserTreatment.label || laserTreatment.title}
+                    <ArrowUpRight size={18} aria-hidden="true" />
+                  </Link>
+                )
+              ) : (
+                <details key={entry}>
+                  <summary>
+                    {entry}
+                    <ChevronDown size={18} />
+                  </summary>
+                  <div>
+                    {categorizedTreatments
+                      .filter((s) => s.category === entry)
+                      .map((s) => (
+                        <Link key={s.slug} href={serviceHref(s)} onClick={() => setMobile(false)}>
+                          {s.label || s.title}
+                        </Link>
+                      ))}
+                  </div>
+                </details>
+              ),
+            )}
             {copy.headerMobile.links.map(({ title, link: url }) => (
               <Link key={url} href={url} onClick={() => setMobile(false)}>
                 {title}
