@@ -1,17 +1,9 @@
 "use client";
 import { useSiteContent } from "@/cms/site-content-provider";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
-import {
-  ArrowLeft,
-  ArrowRight,
-  ArrowUpRight,
-  ChevronDown,
-  Search,
-  SlidersHorizontal,
-  X,
-} from "lucide-react";
+import { ArrowRight, ArrowUpRight, ChevronDown, Search, SlidersHorizontal, X } from "lucide-react";
 import { Dialog, DialogContent, DialogTitle, DialogDescription } from "./ui/dialog";
 import { BookButton } from "./booking";
 import { euro } from "@/lib/utils";
@@ -223,94 +215,6 @@ export function PriceExplorer() {
         <p className="pricing-note">{copy.priceExplorer.text2}</p>
       </div>
     </div>
-  );
-}
-export function StudioGallery({ preview = false }: { preview?: boolean }) {
-  const { gallery, copy } = useSiteContent();
-  const [selected, setSelected] = useState<number | null>(null);
-  const items = preview ? gallery.slice(0, 4) : gallery;
-  const next = (direction: number) =>
-    setSelected((i) => (i === null ? null : (i + direction + gallery.length) % gallery.length));
-  useEffect(() => {
-    if (selected === null) return;
-    const handler = (e: KeyboardEvent) => {
-      if (e.key === "ArrowRight")
-        setSelected((i) => (i === null ? null : (i + 1) % gallery.length));
-      if (e.key === "ArrowLeft")
-        setSelected((i) => (i === null ? null : (i - 1 + gallery.length) % gallery.length));
-    };
-    window.addEventListener("keydown", handler);
-    return () => window.removeEventListener("keydown", handler);
-  }, [selected]);
-  return (
-    <>
-      <div className={preview ? "gallery-preview" : "studio-gallery"}>
-        {items.map((item, i) => (
-          <button
-            key={item.src}
-            onClick={() => setSelected(i)}
-            className="gallery-item"
-            aria-label={`${item.alt} vergrößern`}
-          >
-            <Image
-              src={imagePath(item.src)}
-              alt={item.alt}
-              fill
-              sizes={preview ? "(max-width:650px) 70vw, 24vw" : "(max-width:650px) 90vw, 45vw"}
-              loading={!preview && i < 3 ? "eager" : "lazy"}
-            />
-            <span>
-              <ArrowUpRight size={22} />
-            </span>
-          </button>
-        ))}
-      </div>
-      <Dialog
-        open={selected !== null}
-        onOpenChange={(o) => {
-          if (!o) setSelected(null);
-        }}
-      >
-        <DialogContent className="gallery-dialog">
-          <DialogTitle className="sr-only">{copy.galleryControls.heading}</DialogTitle>
-          <DialogDescription className="sr-only">
-            {copy.galleryControls.description}
-          </DialogDescription>
-          {selected !== null && (
-            <>
-              <div className="lightbox-image">
-                <Image
-                  src={imagePath(gallery[selected].src)}
-                  alt={gallery[selected].alt}
-                  fill
-                  sizes="90vw"
-                />
-              </div>
-              <div className="lightbox-caption">
-                <span>{gallery[selected].alt}</span>
-                <span>
-                  {selected + 1} / {gallery.length}
-                </span>
-              </div>
-              <button
-                className="lightbox-prev"
-                onClick={() => next(-1)}
-                aria-label={copy.galleryControls.ariaLabel}
-              >
-                <ArrowLeft />
-              </button>
-              <button
-                className="lightbox-next"
-                onClick={() => next(1)}
-                aria-label={copy.galleryControls.ariaLabel2}
-              >
-                <ArrowRight />
-              </button>
-            </>
-          )}
-        </DialogContent>
-      </Dialog>
-    </>
   );
 }
 export function TeamGrid() {

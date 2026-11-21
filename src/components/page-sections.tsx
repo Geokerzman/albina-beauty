@@ -19,10 +19,10 @@ import {
   TreatmentExplorer,
   PriceExplorer,
   PriceList,
-  StudioGallery,
   TeamGrid,
   FAQ,
 } from "./interactions";
+import { StudioGallery } from "./studio-gallery";
 import { Button } from "./ui/button";
 import { ConsentMap, CookieSettingsButton } from "./ui/cookie-consent";
 import type { HomeBlock } from "@/content/pages";
@@ -685,15 +685,17 @@ export async function GalleryPage() {
   return (
     <>
       <Breadcrumbs current={copy.galleryIntro.current} />
-      <PageIntro
-        centered
-        eyebrow={copy.galleryIntro.eyebrow}
-        title={copy.galleryIntro.title}
-        description={copy.galleryIntro.description}
-      />
-      <section className="container gallery-page">
-        <StudioGallery />
-      </section>
+      <div className="gallery-page">
+        <PageIntro
+          centered
+          eyebrow={copy.galleryIntro.eyebrow}
+          title={copy.galleryIntro.title}
+          description={copy.galleryIntro.description}
+        />
+        <div className="container">
+          <StudioGallery />
+        </div>
+      </div>
       <ClosingInvitation />
     </>
   );
