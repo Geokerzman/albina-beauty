@@ -145,7 +145,7 @@
       },
       {
         "question": "Wie kann ich einen Termin vereinbaren?",
-        "answer": "Über „Termin vereinbaren“ bereiten Sie Ihre Anfrage vor und öffnen sie anschließend in WhatsApp. Alternativ können Sie uns anrufen oder eine E-Mail schreiben. Wir bestätigen Ihren Termin persönlich."
+        "answer": "Über „Termine“ bereiten Sie Ihre Anfrage vor und öffnen sie anschließend in WhatsApp. Alternativ können Sie uns anrufen oder eine E-Mail schreiben. Wir bestätigen Ihren Termin persönlich."
       },
       {
         "question": "Was sollte ich vor meinem Besuch beachten?",
@@ -493,7 +493,7 @@
     "description": "Erzählen Sie uns von Ihrem Wunsch. Gemeinsam finden wir Ihren passenden Termin."
   },
   "bookingButton": {
-    "text": "Termin vereinbaren "
+    "text": "Termine"
   },
   "bookingForm": {
     "label": "Ihr Treatment",

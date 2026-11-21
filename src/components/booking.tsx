@@ -46,8 +46,8 @@ export function BookButton({ service, children, ...props }: ButtonProps & { serv
     <Button onClick={() => open(service)} {...props}>
       {children || (
         <>
-          {copy.bookingButton.text}
-          <ArrowUpRight size={17} />
+          <span className="booking-button-label">{copy.bookingButton.text}</span>
+          <ArrowUpRight size={17} aria-hidden="true" />
         </>
       )}
     </Button>
