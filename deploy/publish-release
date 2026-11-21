@@ -1,0 +1,86 @@
+#!/usr/bin/env bash
+set -euo pipefail
+umask 027
+
+if [[ ! ${SSH_ORIGINAL_COMMAND:-} =~ ^deploy\ ([0-9a-f]{40})$ ]]; then
+  echo "Expected: deploy <commit SHA>" >&2
+  exit 2
+fi
+revision=${BASH_REMATCH[1]}
+app=/srv/albina-new/app
+data=/var/lib/albina-new
+current=$app/current
+export PATH=/opt/albina-new/node/bin:/usr/bin:/bin
+export NPM_CONFIG_CACHE=$data/npm-cache
+export NODE_ENV=production NEXT_TELEMETRY_DISABLED=1
+
+exec 9>"$app/deploy.lock"
+flock -w 120 9
+previous=$(readlink "$current" || true)
+release=$(mktemp -d "$app/releases/$revision.XXXXXX")
+cleanup() {
+  if [[ $(readlink "$current" || true) != "$release" ]]; then
+    rm -rf -- "$release"
+  fi
+}
+trap cleanup EXIT
+
+tar --extract --gzip --file=- --directory="$release" --no-same-owner --no-same-permissions
+cd "$release"
+test -s .next/BUILD_ID
+test -f node_modules/next/dist/bin/next
+test -d src/cms/migrations
+install -d .next/cache
+printf '%s\n' "$revision" >.revision
+
+set -a
+source /srv/albina-new/app.env
+set +a
+
+if [[ -f $data/cms.sqlite ]]; then
+  python3 - "$data" "$release" <<'PY'
+import sqlite3
+import sys
+from pathlib import Path
+
+data = Path(sys.argv[1])
+backup = data / "backups" / f"{Path(sys.argv[2]).name}.sqlite"
+with sqlite3.connect(f"file:{data / 'cms.sqlite'}?mode=ro", uri=True) as source:
+    with sqlite3.connect(backup) as destination:
+        source.backup(destination)
+PY
+fi
+npm run cms:migrate
+
+switch_release() {
+  ln -sfn -- "$1" "$app/current.next"
+  mv -Tf -- "$app/current.next" "$current"
+}
+
+switch_release "$release"
+if ! sudo -n /usr/bin/systemctl restart albina-new.service ||
+  ! curl --fail --silent --show-error --output /dev/null --retry 12 --retry-delay 1 \
+    --retry-all-errors --max-time 3 http://127.0.0.1:43179/galerie/; then
+  echo "Release did not pass the local health check." >&2
+  if [[ -n $previous ]]; then
+    switch_release "$previous"
+    sudo -n /usr/bin/systemctl restart albina-new.service
+  else
+    sudo -n /usr/bin/systemctl stop albina-new.service
+    rm -- "$current"
+  fi
+  exit 1
+fi
+
+mapfile -t releases < <(
+  find "$app/releases" -regextype posix-extended -mindepth 1 -maxdepth 1 -type d \
+    -regex '.*/[0-9a-f]{40}\.[a-zA-Z0-9]{6}' -printf '%T@ %p\n' |
+    sort -rn | cut -d' ' -f2-
+)
+for old_release in "${releases[@]:3}"; do
+  if [[ $old_release != "$release" && $old_release != "$previous" ]]; then
+    rm -rf -- "$old_release"
+  fi
+done
+find "$data/backups" -maxdepth 1 -type f -name '*.sqlite' -mtime +30 -delete
+printf 'Albina Beauty Concept deployed: %s\n' "$revision"

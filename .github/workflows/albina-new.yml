@@ -1,0 +1,61 @@
+name: Albina production
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: albina-new-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    env:
+      NEXT_PUBLIC_SITE_URL: https://albina-new.rootforce.dev
+      NEXT_TELEMETRY_DISABLED: "1"
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@249970729cb0ef3589644e2896645e5dc5ba9c38 # v6
+        with:
+          node-version: 24.22.3
+          cache: npm
+      - run: npm ci --no-audit --no-fund
+      - run: npm run check:content
+      - run: npm run build
+      - name: Package production build
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        run: |
+          npm prune --omit=dev --ignore-scripts --no-audit --no-fund
+          tar --exclude=.next/cache -czf "$RUNNER_TEMP/albina-release.tar.gz" \
+            .next node_modules public src scripts/create-cms-editor.mts package.json tsconfig.json next.config.ts
+      - name: Deploy and verify
+        if: github.ref == 'refs/heads/main' && github.event_name != 'pull_request'
+        env:
+          ALBINA_DEPLOY_KEY: ${{ secrets.ALBINA_NEW_DEPLOY_KEY }}
+        run: |
+          umask 077
+          deploy_dir=$(mktemp -d)
+          trap 'rm -r -- "$deploy_dir"' EXIT
+          printf '%s\n' "$ALBINA_DEPLOY_KEY" > "$deploy_dir/key"
+          unset ALBINA_DEPLOY_KEY
+          printf '%s\n' '46.225.53.242 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHMJRKXeLXGQqxfpFIvnwhgdfcjXlOk0C2ddpLsYt1q1' > "$deploy_dir/known_hosts"
+          ssh -T -o BatchMode=yes -o IdentitiesOnly=yes -o StrictHostKeyChecking=yes \
+            -o ConnectTimeout=15 -o ServerAliveInterval=15 -o UserKnownHostsFile="$deploy_dir/known_hosts" \
+            -i "$deploy_dir/key" albina-new@46.225.53.242 "deploy $GITHUB_SHA" \
+            < "$RUNNER_TEMP/albina-release.tar.gz"
+          curl --fail --silent --show-error --retry 4 --retry-all-errors --max-time 15 \
+            "$NEXT_PUBLIC_SITE_URL/galerie/" -o "$deploy_dir/gallery"
+          grep -q 'studio-gallery-track' "$deploy_dir/gallery"
+          curl --fail --silent --show-error --retry 4 --retry-all-errors --max-time 15 \
+            "$NEXT_PUBLIC_SITE_URL/admin/" -o "$deploy_dir/admin"
+          grep -q 'type="password"' "$deploy_dir/admin"

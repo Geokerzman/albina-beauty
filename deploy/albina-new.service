@@ -1,0 +1,26 @@
+[Unit]
+Description=Albina Beauty Concept
+After=network.target
+
+[Service]
+Type=exec
+User=albina-new
+Group=albina-new
+WorkingDirectory=/srv/albina-new/app/current
+EnvironmentFile=/srv/albina-new/app.env
+Environment=NODE_ENV=production
+Environment=NEXT_TELEMETRY_DISABLED=1
+ExecStart=/opt/albina-new/node/bin/node node_modules/next/dist/bin/next start --hostname 127.0.0.1 --port 43179
+Restart=on-failure
+RestartSec=3
+UMask=0027
+NoNewPrivileges=yes
+PrivateTmp=yes
+ProtectHome=yes
+ProtectSystem=strict
+ReadWritePaths=/var/lib/albina-new /srv/albina-new/app/current/.next/cache
+MemoryMax=1G
+CPUWeight=50
+
+[Install]
+WantedBy=multi-user.target
